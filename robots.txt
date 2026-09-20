@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.abbaselectricals.com
+Sitemap: https://www.abbaselectricals.com/sitemap.xml
