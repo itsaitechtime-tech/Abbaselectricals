@@ -17,7 +17,7 @@ export type Product = {
   specs: string[];
   tone: ProductTone;
   featured?: boolean;
-  /** Local illustrative night-effect photo — not a completed Barq Lumi job shot */
+  /** Catalog studio plate (or legacy image) illustrating product type */
   image?: string;
 };
 
@@ -41,7 +41,7 @@ export const products: Product[] = [
     specs: ["AL6063-T5", "Trimless", "Opal / frosted", "End caps", "Heat-sink body"],
     tone: "silver",
     featured: true,
-    image: "/products/profile-recessed-01.jpg",
+    image: "/products/catalog/cat-al-recessed-trimless.jpg",
   },
   {
     id: "al-recessed-flanged",
@@ -50,7 +50,7 @@ export const products: Product[] = [
     use: "Covers the plaster gap on recessed runs; clean flange for renovation and new-build ceilings.",
     specs: ["AL6063-T5", "Flanged", "Clear / opal diffuser", "Mounting clips", "1–3 m cuts"],
     tone: "silver",
-    image: "/products/profile-recessed-02.jpg",
+    image: "/products/catalog/cat-al-recessed-flanged.jpg",
   },
   {
     id: "al-slim-surface-u",
@@ -60,7 +60,7 @@ export const products: Product[] = [
     specs: ["Silver anodised", "Slim U", "Opal / clear", "Clips + end caps", "Heat-sink"],
     tone: "silver",
     featured: true,
-    image: "/products/profile-recessed-03.jpg",
+    image: "/products/catalog/cat-al-slim-surface-u.jpg",
   },
   {
     id: "al-wide-surface",
@@ -69,7 +69,7 @@ export const products: Product[] = [
     use: "Wide extrusion for dual or triple strip layouts — higher output architectural lines.",
     specs: ["Wide body", "Dual / triple", "Lensed 30–60°", "AL6063-T5", "End caps"],
     tone: "warm",
-    image: "/products/cove-linear-01.jpg",
+    image: "/products/catalog/cat-al-wide-surface.jpg",
   },
   {
     id: "al-corner-cove",
@@ -78,7 +78,7 @@ export const products: Product[] = [
     use: "Internal-angle extrusion for wall–ceiling coves and soft indirect uplight.",
     specs: ["Internal angle", "Cove", "Frosted diffuser", "Clips", "Cut lengths"],
     tone: "soft",
-    image: "/products/cove-linear-03.jpg",
+    image: "/products/catalog/cat-al-corner-cove.jpg",
   },
   {
     id: "al-external-angle",
@@ -87,7 +87,7 @@ export const products: Product[] = [
     use: "External corner channel for shelf edges, steps and architectural reveals.",
     specs: ["External angle", "AL6063-T5", "Opal diffuser", "End caps", "Mount clips"],
     tone: "silver",
-    image: "/products/cove-linear-02.jpg",
+    image: "/products/catalog/cat-al-external-angle.jpg",
   },
   {
     id: "al-pendant",
@@ -97,7 +97,7 @@ export const products: Product[] = [
     specs: ["Suspended", "Continuous join", "Opal / lensed", "Suspension kit", "Heat-sink"],
     tone: "cool",
     featured: true,
-    image: "/products/pendant-linear-01.jpg",
+    image: "/products/catalog/cat-al-pendant.jpg",
   },
   {
     id: "al-inground",
@@ -106,7 +106,7 @@ export const products: Product[] = [
     use: "Walkable in-ground channel for plazas, driveways and pathway edge lighting.",
     specs: ["IP67", "Walkable", "Heavy extrude", "Frosted / clear", "Drain-ready"],
     tone: "green",
-    image: "/products/garden-path-02.jpg",
+    image: "/products/catalog/cat-al-inground.jpg",
   },
   {
     id: "al-hermetic",
@@ -115,7 +115,7 @@ export const products: Product[] = [
     use: "Heavy-duty façade extrusion for 24V outdoor linear — sealed for coastal UAE exposure.",
     specs: ["IP67", "Façade class", "24V ready", "SS hardware", "Opal / clear"],
     tone: "blue",
-    image: "/products/facade-wash-02.jpg",
+    image: "/products/catalog/cat-al-hermetic.jpg",
   },
   {
     id: "al-bendable",
@@ -124,7 +124,7 @@ export const products: Product[] = [
     use: "Curved architectural runs for arcs and soft radii — min radius ~120 mm class.",
     specs: ["Bendable", "~120 mm R", "AL6063 class", "Opal diffuser", "End caps"],
     tone: "amber",
-    image: "/products/cove-linear-04.jpg",
+    image: "/products/catalog/cat-al-bendable.jpg",
   },
   {
     id: "al-mini-furniture",
@@ -133,7 +133,7 @@ export const products: Product[] = [
     use: "Compact extrusion for joinery, wardrobe and display cabinets — discreet linear glow.",
     specs: ["Mini width", "Cabinet", "Frosted", "Clips", "Short cuts"],
     tone: "soft",
-    image: "/products/kitchen-linear-01.jpg",
+    image: "/products/catalog/cat-al-mini-furniture.jpg",
   },
   {
     id: "al-stair-handrail",
@@ -142,7 +142,7 @@ export const products: Product[] = [
     use: "Handrail and stair-nosing channel for safe, low-glare circulation lighting.",
     specs: ["Stair / rail", "Low glare", "Opal", "AL6063-T5", "Mount clips"],
     tone: "warm",
-    image: "/products/cove-linear-05.jpg",
+    image: "/products/catalog/cat-al-stair-handrail.jpg",
   },
   {
     id: "al-matte-black",
@@ -151,7 +151,7 @@ export const products: Product[] = [
     use: "Powder-coated matte black finish for dark ceilings and high-contrast interiors.",
     specs: ["Matte black PC", "Architectural", "Opal / clear", "End caps", "Heat-sink"],
     tone: "amber",
-    image: "/products/pendant-linear-02.jpg",
+    image: "/products/catalog/cat-al-matte-black.jpg",
   },
   {
     id: "al-custom-ral",
@@ -160,7 +160,7 @@ export const products: Product[] = [
     use: "Cut lengths typically 1–3 m in anodised silver, white or specified RAL — project finish match.",
     specs: ["Custom RAL", "Anodised options", "1–3 m cuts", "Diffuser suite", "Project finish"],
     tone: "silver",
-    image: "/products/profile-recessed-04.jpg",
+    image: "/products/catalog/cat-al-custom-ral.jpg",
   },
   {
     id: "al-surface-deep",
@@ -169,7 +169,7 @@ export const products: Product[] = [
     use: "Deeper channel for glare control with 30–60° lensed covers on surface runs.",
     specs: ["Deep body", "30–60° lens", "AL6063-T5", "Clips", "End caps"],
     tone: "cool",
-    image: "/products/cove-linear-06.jpg",
+    image: "/products/catalog/cat-al-surface-deep.jpg",
   },
 
   // ——— LED strip lights → led-strip-profile, cove-linear, rgb-ambient, kitchen-linear ———
@@ -181,7 +181,7 @@ export const products: Product[] = [
     specs: ["24V", "COB", "IP20", "CRI 90+", "Dotless"],
     tone: "warm",
     featured: true,
-    image: "/products/led-strip-profile-01.jpg",
+    image: "/products/catalog/cat-led-cob-ip20.jpg",
   },
   {
     id: "led-cob-ip67",
@@ -190,7 +190,7 @@ export const products: Product[] = [
     use: "Silicone-jacket COB for wet zones, outdoor soffits and sheltered façades.",
     specs: ["24V", "COB", "IP67", "Silicone", "CRI 90+"],
     tone: "green",
-    image: "/products/led-strip-profile-02.jpg",
+    image: "/products/catalog/cat-led-cob-ip67.jpg",
   },
   {
     id: "led-cob-ip68",
@@ -199,7 +199,7 @@ export const products: Product[] = [
     use: "Fully sealed COB for fountain rims, pool edges and water-adjacent features.",
     specs: ["24V", "COB", "IP68", "Water edge", "Sealed"],
     tone: "blue",
-    image: "/products/cove-linear-07.jpg",
+    image: "/products/catalog/cat-led-cob-ip67.jpg",
   },
   {
     id: "led-smd-2700",
@@ -208,7 +208,7 @@ export const products: Product[] = [
     use: "Warm residential and hospitality ambient — classic villa evening tone.",
     specs: ["24V", "SMD", "2700K", "Warm white", "Cut pitch"],
     tone: "warm",
-    image: "/products/kitchen-linear-02.jpg",
+    image: "/products/catalog/cat-led-smd-2700.jpg",
   },
   {
     id: "led-smd-3000",
@@ -218,7 +218,7 @@ export const products: Product[] = [
     specs: ["24V", "SMD", "3000K", "Hospitality", "CRI 90+"],
     tone: "amber",
     featured: true,
-    image: "/products/cove-linear-01.jpg",
+    image: "/products/catalog/cat-led-smd-2700.jpg",
   },
   {
     id: "led-smd-4000",
@@ -227,7 +227,7 @@ export const products: Product[] = [
     use: "Neutral white for offices, retail floors and task-adjacent architectural lines.",
     specs: ["24V", "SMD", "4000K", "Neutral", "Cut pitch"],
     tone: "cool",
-    image: "/products/cove-linear-03.jpg",
+    image: "/products/catalog/cat-led-smd-in-channel.jpg",
   },
   {
     id: "led-tunable-cct",
@@ -236,7 +236,7 @@ export const products: Product[] = [
     use: "Tunable white for circadian and scene-set interiors — villas and premium offices.",
     specs: ["24V", "CCT 2700–6000K", "Tunable", "Controller ready", "CRI 90+"],
     tone: "soft",
-    image: "/products/kitchen-linear-03.jpg",
+    image: "/products/catalog/cat-led-cct-in-channel.jpg",
   },
   {
     id: "led-rgb",
@@ -245,7 +245,7 @@ export const products: Product[] = [
     use: "RGB colour for feature walls, gaming rooms and event spaces.",
     specs: ["24V", "RGB", "Controller", "Cut pitch", "Interior / IP options"],
     tone: "violet",
-    image: "/products/rgb-ambient-01.jpg",
+    image: "/products/catalog/cat-led-rgb.jpg",
   },
   {
     id: "led-rgbw",
@@ -254,7 +254,7 @@ export const products: Product[] = [
     use: "RGB plus dedicated white channel for accurate white and saturated colour.",
     specs: ["24V", "RGBW", "White channel", "DMX / PWM", "Cut pitch"],
     tone: "violet",
-    image: "/products/rgb-ambient-02.jpg",
+    image: "/products/catalog/cat-led-rgb.jpg",
   },
   {
     id: "led-rgb-cct",
@@ -263,7 +263,7 @@ export const products: Product[] = [
     use: "Full colour plus tunable white in one tape — entertainment and multi-scene interiors.",
     specs: ["24V", "RGB+CCT", "Multi-scene", "Controller", "Cut pitch"],
     tone: "violet",
-    image: "/products/rgb-ambient-03.jpg",
+    image: "/products/catalog/cat-led-cct-in-channel.jpg",
   },
   {
     id: "led-12v-short",
@@ -272,7 +272,7 @@ export const products: Product[] = [
     use: "Short interior runs for joinery and niches where 12V gear is preferred.",
     specs: ["12V", "Short run", "Interior", "Cut pitch", "IP20 class"],
     tone: "soft",
-    image: "/products/kitchen-linear-04.jpg",
+    image: "/products/catalog/cat-led-smd-in-channel.jpg",
   },
   {
     id: "led-48v-facade",
@@ -281,7 +281,7 @@ export const products: Product[] = [
     use: "Long-run façade tape with voltage-drop control for extended elevations.",
     specs: ["48V", "Long run", "Façade", "Voltage-drop control", "Outdoor class"],
     tone: "blue",
-    image: "/products/facade-wash-05.jpg",
+    image: "/products/catalog/cat-led-high-output.jpg",
   },
   {
     id: "led-neon-flex",
@@ -290,7 +290,7 @@ export const products: Product[] = [
     use: "Side-bend neon-flex look for signage, curves and outdoor graphic lines.",
     specs: ["COB neon-flex", "IP67", "Silicone", "High density", "Bendable"],
     tone: "amber",
-    image: "/products/rgb-ambient-05.jpg",
+    image: "/products/catalog/cat-led-neon-flex.jpg",
   },
   {
     id: "led-narrow-cob",
@@ -299,7 +299,7 @@ export const products: Product[] = [
     use: "Ultra-narrow COB for mini furniture and slim architectural channels.",
     specs: ["5–8 mm", "COB", "24V", "Tight profile", "Dotless"],
     tone: "silver",
-    image: "/products/led-strip-profile-03.jpg",
+    image: "/products/catalog/cat-led-narrow-cob.jpg",
   },
   {
     id: "led-high-output",
@@ -308,7 +308,7 @@ export const products: Product[] = [
     use: "Higher wattage class for wall wash and bright cove where output matters.",
     specs: ["15–20 W/m", "Architectural", "24V preferred", "Heat-sink profile", "CRI 90+"],
     tone: "warm",
-    image: "/products/cove-linear-05.jpg",
+    image: "/products/catalog/cat-led-high-output.jpg",
   },
   {
     id: "led-rgbic",
@@ -317,7 +317,7 @@ export const products: Product[] = [
     use: "Pixel-addressable entertainment and gaming-room effects — chase and gradient scenes.",
     specs: ["RGBIC", "Addressable", "Entertainment", "Controller", "Cut pitch"],
     tone: "violet",
-    image: "/products/rgb-ambient-04.jpg",
+    image: "/products/catalog/cat-led-rgb.jpg",
   },
   {
     id: "led-cob-3000-cri",
@@ -326,7 +326,7 @@ export const products: Product[] = [
     use: "High-CRI COB for retail and villa display — colour-critical interiors.",
     specs: ["24V", "COB", "3000K", "CRI 95", "Retail / villa"],
     tone: "warm",
-    image: "/products/led-strip-profile-04.jpg",
+    image: "/products/catalog/cat-led-cob-in-channel.jpg",
   },
 
   // ——— Wall washers → facade-wash, wall-washer-stone, rgb-ambient ———
@@ -338,7 +338,7 @@ export const products: Product[] = [
     specs: ["500 mm", "IP65", "3000K", "Mono", "Die-cast Al"],
     tone: "warm",
     featured: true,
-    image: "/products/facade-wash-01.jpg",
+    image: "/products/catalog/cat-ww-500-mono-3000.jpg",
   },
   {
     id: "ww-1000-mono-4000",
@@ -347,7 +347,7 @@ export const products: Product[] = [
     use: "Metre-length mono wash for towers and commercial façades — neutral white.",
     specs: ["1000 mm", "IP65/67", "4000K", "Mono", "SS hardware"],
     tone: "cool",
-    image: "/products/facade-wash-06.jpg",
+    image: "/products/catalog/cat-ww-1000-mono-4000.jpg",
   },
   {
     id: "ww-1000-rgbw-dmx",
@@ -356,7 +356,7 @@ export const products: Product[] = [
     use: "DMX512 RGBW façade bar for programmable colour elevations.",
     specs: ["1000 mm", "RGBW", "DMX512", "IP67", "Die-cast Al"],
     tone: "violet",
-    image: "/products/rgb-ambient-01.jpg",
+    image: "/products/catalog/cat-ww-1000-rgbw-dmx.jpg",
   },
   {
     id: "ww-rgb-dmx-ip65",
@@ -365,7 +365,7 @@ export const products: Product[] = [
     use: "RGB DMX linear for plazas and feature walls with outdoor rating.",
     specs: ["RGB", "DMX", "IP65", "Linear", "Coastal SS"],
     tone: "violet",
-    image: "/products/rgb-ambient-02.jpg",
+    image: "/products/catalog/cat-ww-rgb-dmx-ip65.jpg",
   },
   {
     id: "ww-asymmetric-graze",
@@ -374,7 +374,7 @@ export const products: Product[] = [
     use: "Grazing optic for textured stone and cladding — tight vertical wash.",
     specs: ["15×30 / 10×32", "Asymmetric", "Graze", "IP65+", "Die-cast"],
     tone: "amber",
-    image: "/products/wall-washer-stone-01.jpg",
+    image: "/products/catalog/cat-ww-asymmetric-graze.jpg",
   },
   {
     id: "ww-narrow-15",
@@ -383,7 +383,7 @@ export const products: Product[] = [
     use: "Narrow accent for columns, niches and sculptural elements.",
     specs: ["15°", "Accent", "Narrow beam", "IP65", "0–10V / DMX"],
     tone: "cool",
-    image: "/products/wall-washer-stone-02.jpg",
+    image: "/products/catalog/cat-ww-narrow-15.jpg",
   },
   {
     id: "ww-30-wash",
@@ -392,7 +392,7 @@ export const products: Product[] = [
     use: "Classic 30° wash optic for even façade planes and lobby walls.",
     specs: ["30°", "Wall wash", "Even field", "IP65/67", "Die-cast Al"],
     tone: "warm",
-    image: "/products/wall-washer-stone-03.jpg",
+    image: "/products/catalog/cat-ww-30-wash.jpg",
   },
   {
     id: "ww-60-flood",
@@ -401,7 +401,7 @@ export const products: Product[] = [
     use: "Wide flood for broad elevations and open plaza walls.",
     specs: ["60°", "Flood", "Wide field", "IP65", "SS fixings"],
     tone: "soft",
-    image: "/products/facade-wash-03.jpg",
+    image: "/products/catalog/cat-ww-60-flood.jpg",
   },
   {
     id: "ww-pixel",
@@ -410,7 +410,7 @@ export const products: Product[] = [
     use: "Pixel bar for media façades and sequenced architectural effects.",
     specs: ["Pixel", "Addressable", "Linear bar", "DMX / SPI", "IP65+"],
     tone: "violet",
-    image: "/products/rgb-ambient-03.jpg",
+    image: "/products/catalog/cat-ww-pixel.jpg",
   },
   {
     id: "ww-flexible",
@@ -419,7 +419,7 @@ export const products: Product[] = [
     use: "Flexible wash module for curved façades and organic elevations.",
     specs: ["Flexible", "Curve façade", "IP65/67", "Mono / RGB options", "Coastal ready"],
     tone: "blue",
-    image: "/products/facade-wash-04.jpg",
+    image: "/products/catalog/cat-ww-flexible.jpg",
   },
   {
     id: "ww-ground-recessed",
@@ -428,7 +428,7 @@ export const products: Product[] = [
     use: "In-ground wash uplighting façades and landscape walls from grade.",
     specs: ["Recessed", "IP67", "Ground wash", "Die-cast", "Walk-adjacent"],
     tone: "green",
-    image: "/products/garden-path-03.jpg",
+    image: "/products/catalog/cat-ww-ground-recessed.jpg",
   },
   {
     id: "ww-high-power",
@@ -437,7 +437,7 @@ export const products: Product[] = [
     use: "High-output façade bar for tall elevations and long throw wash.",
     specs: ["36–48 W/m", "High power", "Façade", "IP67", "DMX / 0–10V"],
     tone: "amber",
-    image: "/products/facade-wash-07.jpg",
+    image: "/products/catalog/cat-ww-high-power.jpg",
   },
   {
     id: "ww-compact-column",
@@ -446,7 +446,7 @@ export const products: Product[] = [
     use: "Compact washer for columns, pilasters and narrow verticals.",
     specs: ["18–24 W", "Compact", "Column", "IP65", "Narrow optic"],
     tone: "cool",
-    image: "/products/wall-washer-stone-04.jpg",
+    image: "/products/catalog/cat-ww-compact-column.jpg",
   },
   {
     id: "ww-fountain-ip68",
@@ -455,7 +455,7 @@ export const products: Product[] = [
     use: "Submersible-class wash for fountains and water features — sealed hardware.",
     specs: ["IP68 class", "Fountain", "Water feature", "SS hardware", "RGB / mono"],
     tone: "blue",
-    image: "/products/facade-wash-08.jpg",
+    image: "/products/catalog/cat-ww-fountain-ip68.jpg",
   },
   {
     id: "ww-0-10v-mono",
@@ -464,7 +464,7 @@ export const products: Product[] = [
     use: "Analogue 0–10V dimming for hospitality façades and controlled night scenes.",
     specs: ["0–10V", "Mono", "IP65", "Dimmable", "Die-cast Al"],
     tone: "warm",
-    image: "/products/wall-washer-stone-05.jpg",
+    image: "/products/catalog/cat-ww-0-10v-mono.jpg",
   },
 
   // ——— Drivers & control / Accessories / Luminaires / Electrical — subtler effect shots ———

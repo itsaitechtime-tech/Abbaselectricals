@@ -22,7 +22,7 @@ export function ProductCard({ product }: { product: Product }) {
           <>
             <Image
               src={product.image}
-              alt={`${product.name} — illustrative lighting effect, not a completed job photo`}
+              alt={`${product.name} — catalog plate illustrating product type`}
               fill
               sizes="(max-width: 768px) 100vw, 33vw"
               className="object-cover transition duration-500 group-hover:scale-[1.03]"

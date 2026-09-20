@@ -37,7 +37,8 @@ export default function ProductsPage() {
           <p className="mt-6 max-w-2xl text-base leading-relaxed text-paper-muted md:text-lg">
             Barq Lumi specifies, supplies and installs architectural aluminum profiles (AL6063-T5),
             LED strip systems, wall washers and the supporting electrical package for UAE projects.
-            Not exclusive brands; not our manufactured SKUs. Enquire for specification and availability.
+            Catalog plates illustrate product type; enquire for specification and availability.
+            Not exclusive brands; not our manufactured SKUs.
           </p>
         </div>
       </section>
