@@ -2,135 +2,126 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { WhatsAppIcon } from "@/components/Icons";
 import { nav, site } from "@/lib/site";
 
-function pathMatches(pathname: string, href: string) {
-  if (href === "/") return pathname === "/" || pathname === "";
-  return pathname === href || pathname === href.replace(/\/$/, "") || pathname.startsWith(href);
+function isActive(pathname: string, href: string) {
+  if (href === "/") return pathname === "/";
+  return pathname.startsWith(href.replace(/\/$/, ""));
+}
+
+export function Wordmark({ small = false }: { small?: boolean }) {
+  return (
+    <span className="flex flex-col leading-none">
+      <span
+        className={`font-display font-extrabold uppercase tracking-[-0.02em] text-white ${
+          small ? "text-lg" : "text-[1.35rem] md:text-[1.5rem]"
+        }`}
+      >
+        Barq<span className="text-gold">·</span>Lumi
+      </span>
+      <span className="mt-1 text-[0.55rem] font-semibold uppercase tracking-[0.32em] text-white/55">
+        Lighting · Since {site.established}
+      </span>
+    </span>
+  );
 }
 
 export function Header() {
   const pathname = usePathname() || "/";
   const [open, setOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 24);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
+  useEffect(() => setOpen(false), [pathname]);
+
+  const solid = scrolled || open;
 
   return (
-    <header className="sticky top-0 z-50 bg-[rgba(10,10,10,0.94)] backdrop-blur-md">
-      <div className="gold-bar" aria-hidden />
-      <div className="border-b border-line">
-        <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-5 py-3.5 md:px-8 md:py-4">
-          <Link
-            href="/"
-            className="group flex flex-col"
-            onClick={() => setOpen(false)}
+    <header
+      className={`fixed inset-x-0 top-0 z-50 transition-colors duration-300 ${
+        solid
+          ? "border-b border-white/10 bg-[rgba(13,13,13,0.92)] backdrop-blur-md"
+          : "border-b border-white/10 bg-gradient-to-b from-black/75 via-black/40 to-transparent"
+      }`}
+    >
+      <div className="mx-auto flex h-16 max-w-[1320px] items-center justify-between gap-6 px-5 md:h-[4.5rem] md:px-8">
+        <Link href="/" aria-label={`${site.name} home`}>
+          <Wordmark />
+        </Link>
+
+        <nav className="hidden items-center gap-8 lg:flex" aria-label="Primary">
+          {nav.map((item) => {
+            const active = isActive(pathname, item.href);
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={`text-[0.72rem] font-semibold uppercase tracking-[0.16em] transition ${
+                  active ? "text-white" : "text-white/80 hover:text-white"
+                }`}
+              >
+                <span className={active ? "border-b border-gold pb-1" : ""}>{item.label}</span>
+              </Link>
+            );
+          })}
+        </nav>
+
+        <div className="flex items-center gap-2">
+          <a
+            href={site.whatsapp.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-sm btn-outline-light hidden sm:inline-flex"
           >
-            <span className="wordmark text-[1.15rem] text-cream md:text-[1.35rem]">
-              {site.name}
+            <WhatsAppIcon className="h-4 w-4" />
+            WhatsApp
+          </a>
+          <button
+            type="button"
+            className="inline-flex h-10 w-10 items-center justify-center rounded-md border border-white/25 text-white lg:hidden"
+            aria-expanded={open}
+            aria-controls="mobile-nav"
+            aria-label={open ? "Close menu" : "Open menu"}
+            onClick={() => setOpen((v) => !v)}
+          >
+            <span aria-hidden className="flex flex-col gap-[5px]">
+              <span className={`block h-px w-5 bg-current transition ${open ? "translate-y-[6px] rotate-45" : ""}`} />
+              <span className={`block h-px w-5 bg-current transition ${open ? "opacity-0" : ""}`} />
+              <span className={`block h-px w-5 bg-current transition ${open ? "-translate-y-[6px] -rotate-45" : ""}`} />
             </span>
-            <span className="mt-0.5 text-[0.58rem] tracking-[0.28em] uppercase text-accent/85">
-              Lighting
-            </span>
-          </Link>
-
-          <nav className="hidden items-center gap-5 xl:gap-6 lg:flex" aria-label="Primary">
-            {nav.map((item) => {
-              const active = pathMatches(pathname, item.href);
-              return (
-                <Link
-                  key={item.href}
-                  href={item.href}
-                  data-active={active}
-                  className={`nav-link ${
-                    active ? "text-accent-bright" : "text-paper-muted hover:text-cream"
-                  }`}
-                >
-                  {item.label}
-                </Link>
-              );
-            })}
-            <a
-              href={site.instagram.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-xs tracking-[0.12em] text-accent hover:text-accent-bright"
-            >
-              {site.instagram.display}
-            </a>
-            <a
-              href={site.whatsapp.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn btn-whatsapp !px-4 !py-2 text-xs tracking-wide"
-            >
-              WhatsApp
-            </a>
-          </nav>
-
-          <div className="flex items-center gap-3 lg:hidden">
-            <a
-              href={site.instagram.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hidden text-[0.7rem] tracking-[0.1em] text-accent sm:inline"
-            >
-              {site.instagram.display}
-            </a>
-            <a
-              href={site.whatsapp.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn btn-whatsapp !px-3 !py-2 text-xs"
-            >
-              WhatsApp
-            </a>
-            <button
-              type="button"
-              className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[rgba(212,175,106,0.35)] text-cream"
-              aria-expanded={open}
-              aria-controls="mobile-nav"
-              aria-label={open ? "Close menu" : "Open menu"}
-              onClick={() => setOpen((v) => !v)}
-            >
-              <span className="sr-only">Menu</span>
-              <span aria-hidden className="flex flex-col gap-1.5">
-                <span
-                  className={`block h-px w-4 bg-current transition ${open ? "translate-y-[3.5px] rotate-45" : ""}`}
-                />
-                <span className={`block h-px w-4 bg-current transition ${open ? "opacity-0" : ""}`} />
-                <span
-                  className={`block h-px w-4 bg-current transition ${open ? "-translate-y-[3.5px] -rotate-45" : ""}`}
-                />
-              </span>
-            </button>
-          </div>
+          </button>
         </div>
       </div>
 
       {open && (
-        <div id="mobile-nav" className="border-b border-line bg-charcoal-elevated lg:hidden">
-          <nav className="mx-auto flex max-w-6xl flex-col px-5 py-4" aria-label="Mobile">
-            {nav.map((item) => {
-              const active = pathMatches(pathname, item.href);
-              return (
-                <Link
-                  key={item.href}
-                  href={item.href}
-                  onClick={() => setOpen(false)}
-                  className={`border-b border-line py-3.5 text-sm tracking-[0.08em] uppercase ${
-                    active ? "text-accent-bright" : "text-paper-muted"
-                  }`}
-                >
-                  {item.label}
-                </Link>
-              );
-            })}
+        <div id="mobile-nav" className="border-t border-white/10 bg-ink lg:hidden">
+          <nav className="mx-auto flex max-w-[1320px] flex-col px-5 pb-6 pt-2" aria-label="Mobile">
+            {nav.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={`border-b border-white/10 py-4 font-display text-lg font-semibold tracking-tight ${
+                  isActive(pathname, item.href) ? "text-white" : "text-white/70"
+                }`}
+              >
+                {item.label}
+              </Link>
+            ))}
             <a
-              href={site.instagram.href}
+              href={site.whatsapp.href}
               target="_blank"
               rel="noopener noreferrer"
-              className="border-b border-line py-3.5 text-sm tracking-[0.08em] text-accent"
+              className="btn btn-light mt-6"
             >
-              Instagram {site.instagram.display}
+              <WhatsAppIcon /> WhatsApp {site.whatsapp.display}
             </a>
           </nav>
         </div>

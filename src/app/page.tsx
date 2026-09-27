@@ -1,258 +1,417 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+import { ArrowIcon, WhatsAppIcon } from "@/components/Icons";
 import { ProductCard } from "@/components/ProductCard";
-import { ProjectCard } from "@/components/ProjectCard";
-import { Section, SectionHeading } from "@/components/Section";
-import { ServiceCard } from "@/components/ServiceCard";
-import { featuredProducts } from "@/lib/products";
-import { lightingBrands, projects, services, site, whoWeAre } from "@/lib/site";
+import { Container, SectionTitle } from "@/components/Section";
+import { catalog, groupCount, groups, spaces, subCount, totalProducts } from "@/lib/catalog";
+import { site } from "@/lib/site";
+import { mapHref, projectPhotos } from "@/lib/site-extra";
 
 export const metadata: Metadata = {
-  title: {
-    absolute: `${site.name} · Lighting · Sharjah, UAE`,
-  },
+  title: `${site.name} · Architectural Lighting · Sharjah, UAE`,
   description:
-    "Barq Lumi specifies, supplies and installs lighting and electrical works for buildings that have to look finished at night. Façade, interior, emergency, and smart lighting from Muweilah, Sharjah. Licensed since 2006.",
+    "Barq Lumi specifies, supplies and installs architectural lighting and electrical works across the UAE — downlights, linear profiles, LED strip, wall washers and controls. Muweilah, Sharjah. Licensed since 2006.",
   alternates: { canonical: "/" },
-  openGraph: {
-    title: `${site.name} · Lighting · Sharjah, UAE`,
-    description:
-      "Barq Lumi — façade, interior, emergency, and smart lighting. Specified, supplied and installed. From main supply to the last fitting.",
-    url: site.url,
-  },
 };
 
-const homeServices = services.filter((s) =>
-  [
-    "facade-architectural",
-    "interior-villa",
-    "emergency",
-    "gaming-rgb-dmx",
-    "electrical",
-    "smart-home",
-  ].includes(s.slug)
-);
+const featuredIds = [
+  "al-recessed-trimless",
+  "led-cob-ip20",
+  "lum-downlight",
+  "lum-track-spot",
+  "al-pendant",
+  "ww-500-mono-3000",
+  "led-rgb",
+  "drv-24v-const",
+];
+const featured = featuredIds.map((id) => catalog.find((c) => c.id === id)!).filter(Boolean);
 
-const homeProjects = projects.filter((project) => project.image).slice(0, 4);
+const homeProjects = [
+  "/projects/web/rgb-room-feature.webp",
+  "/projects/web/living-cove-floor.webp",
+  "/projects/web/kitchen-recessed.webp",
+  "/projects/web/facade-linear-residential.webp",
+  "/projects/web/gaming-desk-rgb.webp",
+  "/projects/web/kitchen-linear.webp",
+  "/projects/web/gaming-venue-rgb.webp",
+  "/projects/web/rgb-room-zigzag.webp",
+  "/projects/web/mirror-rgb-cube.webp",
+].map((src) => projectPhotos.find((p) => p.src === src)!);
+
+const stats = [
+  { value: String(site.established), label: "Licensed in the UAE since" },
+  { value: "Sharjah", label: "Based in Muweilah, serving the UAE" },
+  { value: String(subCount), label: "Product categories" },
+  { value: String(totalProducts), label: "Products in the catalogue" },
+];
+
+const steps = [
+  {
+    k: "01",
+    title: "Specify",
+    text: "We read the drawings, walk the site and match fittings, optics and colour temperature to the brief.",
+  },
+  {
+    k: "02",
+    title: "Supply",
+    text: "Specified materials only — goods checked against the schedule before they leave for site.",
+  },
+  {
+    k: "03",
+    title: "Install",
+    text: "Our team installs and commissions, from the main supply to the last fitting, then hands over with records.",
+  },
+];
 
 export default function HomePage() {
   return (
     <>
-      <section className="relative overflow-hidden border-b border-line">
-        <div className="pointer-events-none absolute inset-0">
-          <div className="hero-glow -left-28 -top-20 h-[36rem] w-[36rem] bg-[radial-gradient(circle,rgba(212,175,106,0.22),transparent_68%)]" />
-          <div className="hero-glow top-1/3 right-0 h-[28rem] w-[28rem] bg-[radial-gradient(circle,rgba(126,184,212,0.14),transparent_65%)]" />
-          <div className="hero-glow bottom-0 left-1/3 h-[20rem] w-[20rem] bg-[radial-gradient(circle,rgba(212,175,106,0.08),transparent_70%)]" />
-          <div className="absolute inset-0 opacity-25 grid-fade" />
-        </div>
+      {/* HERO */}
+      <section className="relative isolate flex min-h-[640px] items-end overflow-hidden bg-ink text-white md:min-h-[100svh] md:max-h-[980px]">
+        <Image
+          src="/images/stock/hero-living-cove.webp"
+          alt="Living room at dusk with warm cove lighting and floor-to-ceiling windows"
+          fill
+          priority
+          sizes="100vw"
+          className="-z-10 object-cover"
+        />
+        <div className="hero-shade absolute inset-0 -z-10" />
+        <Container className="pb-16 pt-32 md:pb-24">
+          <p className="eyebrow mb-5">Architectural lighting · Sharjah, UAE</p>
+          <h1 className="h-display text-[2.15rem] font-extrabold min-[400px]:text-[2.35rem] sm:text-6xl md:text-[5.2rem] md:leading-[0.98]">
+            Light That Defines
+            <br />
+            <span className="text-white/80">Every Space.</span>
+          </h1>
+          <p className="mt-6 max-w-xl text-base leading-relaxed text-white/75 md:text-lg">
+            Lighting and electrical works — specified, supplied and installed by one team, across the
+            UAE since {site.established}.
+          </p>
+          <div className="mt-9 flex flex-wrap gap-3">
+            <Link href="/products/" className="btn btn-gold">
+              Explore Products <ArrowIcon />
+            </Link>
+            <Link href="/contact/" className="btn btn-outline-light">
+              Request a Site Visit
+            </Link>
+          </div>
+        </Container>
+      </section>
 
-        <div className="relative mx-auto grid max-w-6xl gap-14 px-5 py-24 md:grid-cols-[1.2fr_0.8fr] md:px-8 md:py-32 lg:gap-20">
-          <div>
-            <p className="eyebrow">Sharjah · serving the UAE · since {site.established}</p>
-            <h1 className="display mt-6 text-[2.65rem] text-cream sm:text-5xl lg:text-[3.75rem] lg:leading-[1.05]">
-              Lighting and electrical works for buildings that have to look finished at night.
-            </h1>
-            <span className="gold-rule" aria-hidden />
-            <p className="mt-7 max-w-xl text-base leading-relaxed text-paper-muted md:text-lg">
-              Façade, interior, emergency, and smart lighting — supply and install. From main
-              supply to the last fitting.
-            </p>
-            <div className="mt-10 flex flex-wrap items-center gap-3">
-              <a
-                href={site.whatsapp.href}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn btn-whatsapp"
+      {/* STATS */}
+      <section className="border-b border-zinc-200 bg-white">
+        <Container className="py-12 md:py-16">
+          <p className="mx-auto max-w-3xl text-center text-base leading-relaxed text-zinc-600 md:text-lg">
+            Barq Lumi is the lighting brand of {site.tradingName} — one accountable partner from the
+            first drawing to the final circuit.
+          </p>
+          <dl className="mt-10 grid grid-cols-2 gap-y-8 md:grid-cols-4 md:divide-x md:divide-zinc-200">
+            {stats.map((s) => (
+              <div key={s.label} className="px-2 text-center md:px-6">
+                <dt className="sr-only">{s.label}</dt>
+                <dd className="h-display text-3xl text-ink md:text-[2.6rem]">{s.value}</dd>
+                <dd className="mt-2 text-[0.68rem] font-semibold uppercase tracking-[0.18em] text-zinc-500">
+                  {s.label}
+                </dd>
+              </div>
+            ))}
+          </dl>
+        </Container>
+      </section>
+
+      {/* LIGHTING BY SPACE */}
+      <section className="bg-white py-20 md:py-28">
+        <Container>
+          <SectionTitle
+            align="center"
+            eyebrow="Applications"
+            title="Lighting by Space"
+            description="Every room asks for something different. Start with the space — we'll build the scheme around it."
+          />
+          <div className="grid grid-cols-2 gap-3 md:grid-cols-6 md:gap-4">
+            {spaces.map((s, i) => (
+              <Link
+                key={s.name}
+                href={s.href}
+                className={`group relative isolate overflow-hidden rounded-lg bg-ink ${
+                  i < 2
+                    ? "col-span-2 aspect-[16/10] md:col-span-3 md:aspect-[16/9]"
+                    : i === 4
+                      ? "col-span-2 aspect-[16/10] md:col-span-2 md:aspect-[4/5]"
+                      : "aspect-[4/5] md:col-span-2"
+                }`}
               >
-                WhatsApp
-              </a>
-              <a
-                href={site.instagram.href}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn btn-ghost"
+                <Image
+                  src={s.image}
+                  alt={`${s.name} lighting`}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 50vw"
+                  className="-z-10 object-cover transition duration-700 group-hover:scale-105"
+                />
+                <div className="tile-shade absolute inset-0 -z-10" />
+                <div className="absolute inset-x-0 bottom-0 p-4 md:p-6">
+                  <h3 className="h-display text-lg text-white md:text-2xl">{s.name}</h3>
+                  <p className="mt-1 text-xs text-white/70 md:text-sm">{s.note}</p>
+                </div>
+                <span className="absolute right-4 top-4 hidden h-9 w-9 items-center justify-center rounded-full border border-white/40 text-white transition group-hover:bg-white group-hover:text-ink md:inline-flex">
+                  <ArrowIcon />
+                </span>
+              </Link>
+            ))}
+          </div>
+        </Container>
+      </section>
+
+      {/* CATEGORIES */}
+      <section className="bg-zinc-50 py-20 md:py-28">
+        <Container>
+          <SectionTitle
+            eyebrow="The Collection"
+            title={
+              <>
+                Browse by
+                <br />
+                Category
+              </>
+            }
+            description={`${totalProducts} products across ${subCount} categories — from recessed profiles to façade wash.`}
+            action={
+              <Link href="/products/" className="btn btn-outline-dark self-start md:self-auto">
+                View All Products <ArrowIcon />
+              </Link>
+            }
+          />
+          <div className="grid gap-3 md:grid-cols-4 md:grid-rows-2 md:gap-4">
+            {groups.map((g, i) => (
+              <Link
+                key={g.slug}
+                href={`/products/${g.slug}/`}
+                className={`group relative isolate overflow-hidden rounded-lg bg-ink ${
+                  i === 0 ? "aspect-[4/3] md:col-span-2 md:row-span-2 md:aspect-auto" : "aspect-[16/10] md:aspect-[4/3.2]"
+                }`}
               >
-                Instagram {site.instagram.display}
-              </a>
-              <Link href="/contact/" className="btn btn-primary">
-                Request a site visit
+                <Image
+                  src={g.banner}
+                  alt={`${g.name} lighting`}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 50vw"
+                  className="-z-10 object-cover transition duration-700 group-hover:scale-105"
+                />
+                <div className="tile-shade absolute inset-0 -z-10" />
+                <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-4 p-5 md:p-6">
+                  <div>
+                    <p className="eyebrow mb-2">{g.eyebrow}</p>
+                    <h3 className={`h-display text-white ${i === 0 ? "text-3xl md:text-4xl" : "text-2xl"}`}>{g.name}</h3>
+                    <p className="mt-1.5 text-xs text-white/65">
+                      {groupCount(g)} {groupCount(g) === 1 ? "product" : "products"} · {g.subs.length} {g.subs.length === 1 ? "category" : "categories"}
+                    </p>
+                  </div>
+                  <span className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-white/40 text-white transition group-hover:bg-white group-hover:text-ink">
+                    <ArrowIcon />
+                  </span>
+                </div>
               </Link>
-              <Link href="/products/" className="btn btn-ghost">
-                View products
-              </Link>
-            </div>
+            ))}
           </div>
 
-          <div className="panel-gold relative min-h-[20rem] overflow-hidden rounded-3xl md:min-h-[26rem]">
-            <Image
-              src="/projects/facade-linear-residential.jpeg"
-              alt="Residential building façade with linear architectural lighting at dusk"
-              fill
-              priority
-              sizes="(max-width: 768px) 100vw, 40vw"
-              className="object-cover"
-            />
-            <div className="absolute inset-0 bg-gradient-to-t from-[rgba(10,10,10,0.88)] via-[rgba(10,10,10,0.35)] to-[rgba(10,10,10,0.12)]" />
-            <div className="relative flex h-full min-h-[20rem] flex-col justify-between p-7 md:min-h-[26rem]">
-              <p className="eyebrow">Night finish · completed install</p>
-              <div>
-                <p className="display text-3xl text-cream md:text-[2.6rem]">
-                  From the façade line to the final circuit.
+          <div className="mt-10 grid gap-x-8 border-t border-zinc-200 pt-8 sm:grid-cols-2 lg:grid-cols-4">
+            {groups.flatMap((g) =>
+              g.subs.map((s) => (
+                <Link
+                  key={`${g.slug}-${s.slug}`}
+                  href={`/products/${g.slug}/${s.slug}/`}
+                  className="group flex items-center justify-between border-b border-zinc-200 py-3 text-sm"
+                >
+                  <span className="font-medium text-ink group-hover:underline group-hover:underline-offset-2">
+                    {s.name}
+                  </span>
+                  <span className="text-xs tabular-nums text-zinc-400">{s.productIds.length}</span>
+                </Link>
+              ))
+            )}
+          </div>
+        </Container>
+      </section>
+
+      {/* FEATURED PRODUCTS */}
+      <section className="bg-white py-20 md:py-28">
+        <Container>
+          <SectionTitle
+            align="center"
+            eyebrow="Selected Range"
+            title="Signature Products"
+            description="A cross-section of what we specify most — ask for the full specification on any line."
+          />
+          <div className="grid grid-cols-2 gap-3 md:grid-cols-4 md:gap-5">
+            {featured.map((item) => (
+              <ProductCard key={item.id} item={item} />
+            ))}
+          </div>
+          <div className="mt-12 text-center">
+            <Link href="/products/" className="btn btn-dark">
+              See the Full Catalogue <ArrowIcon />
+            </Link>
+          </div>
+        </Container>
+      </section>
+
+      {/* PROJECTS */}
+      <section className="bg-ink py-20 text-white md:py-28">
+        <Container>
+          <SectionTitle
+            dark
+            eyebrow="Our Work"
+            title={
+              <>
+                Recent
+                <br />
+                Installations
+              </>
+            }
+            description="Photographed on site after handover — completed Barq Lumi installs across the UAE."
+            action={
+              <Link href="/projects/" className="btn btn-outline-light self-start md:self-auto">
+                All Projects <ArrowIcon />
+              </Link>
+            }
+          />
+          <div className="grid grid-cols-2 gap-2 md:grid-cols-3 md:gap-4">
+            {homeProjects.map((p, i) => (
+              <Link
+                key={p.src}
+                href="/projects/"
+                className={`group relative isolate aspect-square overflow-hidden rounded-lg bg-ink-3 ${
+                  i === 8 ? "hidden md:block" : ""
+                }`}
+              >
+                <Image
+                  src={p.src}
+                  alt={p.alt}
+                  fill
+                  sizes="(max-width: 768px) 50vw, 33vw"
+                  className="-z-10 object-cover transition duration-700 group-hover:scale-105"
+                />
+                <div className="tile-shade absolute inset-0 -z-10 opacity-90" />
+                <p className="absolute inset-x-0 bottom-0 p-3 text-xs font-semibold text-white md:p-5 md:text-base">
+                  {p.title}
                 </p>
-                <p className="mt-5 max-w-sm text-sm leading-relaxed text-paper-muted md:text-base">
-                  Supply-and-install lighting and electrical packages coordinated for buildings
-                  that must read correctly after dark.
-                </p>
+              </Link>
+            ))}
+          </div>
+        </Container>
+      </section>
+
+      {/* HOW WE WORK */}
+      <section className="bg-white py-20 md:py-28">
+        <Container>
+          <SectionTitle
+            eyebrow="How We Work"
+            title={
+              <>
+                One Team,
+                <br />
+                Start to Handover
+              </>
+            }
+            action={
+              <Link href="/services/" className="btn btn-outline-dark self-start md:self-auto">
+                Our Services <ArrowIcon />
+              </Link>
+            }
+          />
+          <div className="grid gap-px overflow-hidden rounded-lg border border-zinc-200 bg-zinc-200 md:grid-cols-3">
+            {steps.map((s) => (
+              <div key={s.k} className="bg-white p-7 md:p-10">
+                <p className="font-display text-sm font-semibold text-gold">{s.k}</p>
+                <h3 className="h-display mt-5 text-2xl text-ink">{s.title}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-zinc-500">{s.text}</p>
+              </div>
+            ))}
+          </div>
+        </Container>
+      </section>
+
+      {/* VISIT */}
+      <section className="bg-zinc-50 py-20 md:py-28">
+        <Container>
+          <div className="grid overflow-hidden rounded-xl bg-ink text-white lg:grid-cols-2">
+            <div className="relative min-h-[280px] lg:min-h-[480px]">
+              <Image
+                src="/projects/web/facade-linear-residential.webp"
+                alt="Residential façade with linear lighting at dusk — a completed Barq Lumi install"
+                fill
+                sizes="(max-width: 1024px) 100vw, 50vw"
+                className="object-cover"
+              />
+            </div>
+            <div className="flex flex-col justify-center p-8 md:p-12 lg:p-14">
+              <p className="eyebrow mb-4">Visit Us</p>
+              <h2 className="h-display text-[2rem] md:text-[2.6rem]">
+                Muweilah,
+                <br />
+                Sharjah
+              </h2>
+              <p className="mt-5 max-w-md text-sm leading-relaxed text-white/65 md:text-base">
+                Bring your drawings or a brief and talk it through with the team. Call or WhatsApp
+                ahead so the right person is there.
+              </p>
+              <dl className="mt-8 grid gap-5 text-sm sm:grid-cols-2">
+                <div>
+                  <dt className="text-[0.66rem] font-semibold uppercase tracking-[0.18em] text-white/45">Address</dt>
+                  <dd className="mt-1.5 text-white/90">
+                    Muweilah, Sharjah, UAE
+                    <br />
+                    P.O. Box {site.address.postalCode}
+                  </dd>
+                </div>
+                <div>
+                  <dt className="text-[0.66rem] font-semibold uppercase tracking-[0.18em] text-white/45">Contact</dt>
+                  <dd className="mt-1.5 space-y-1 text-white/90">
+                    <a href={site.tel.href} className="block hover:text-white">Tel {site.tel.display}</a>
+                    <a href={site.whatsapp.href} target="_blank" rel="noopener noreferrer" className="block hover:text-white">
+                      WhatsApp {site.whatsapp.display}
+                    </a>
+                    <a href={site.email.href} className="block hover:text-white">{site.email.display}</a>
+                  </dd>
+                </div>
+              </dl>
+              <div className="mt-9 flex flex-wrap gap-3">
+                <a href={mapHref} target="_blank" rel="noopener noreferrer" className="btn btn-light">
+                  Open in Google Maps <ArrowIcon />
+                </a>
+                <a href={site.whatsapp.href} target="_blank" rel="noopener noreferrer" className="btn btn-outline-light">
+                  <WhatsAppIcon /> WhatsApp
+                </a>
               </div>
             </div>
           </div>
-        </div>
+        </Container>
       </section>
 
-      <Section className="!py-14 border-b border-line bg-charcoal-elevated/50">
-        <div className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
-          <div className="max-w-2xl">
-            <p className="eyebrow mb-3">Who we are</p>
-            <h2 className="display text-3xl text-cream md:text-4xl">
-              Licensed in the UAE since {site.established}
-            </h2>
-            <span className="gold-rule" aria-hidden />
-            <p className="mt-5 text-sm leading-relaxed text-paper-muted md:text-base">
-              Barq Lumi specifies, supplies and installs lighting and electrical packages from
-              Muweilah, Sharjah — quality first, clear responsibility, disciplined execution,
-              accountable handover.
-            </p>
-          </div>
-          <Link href="/about/" className="btn btn-ghost shrink-0">
-            About Barq Lumi
-          </Link>
-        </div>
-        <div className="mt-10 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-          {whoWeAre.map((item) => (
-            <div key={item.title} className="panel-gold rounded-xl px-5 py-5">
-              <p className="eyebrow">{item.title}</p>
+      {/* CTA */}
+      <section className="bg-white py-16 md:py-20">
+        <Container>
+          <div className="flex flex-col items-start gap-6 border-y border-zinc-200 py-10 md:flex-row md:items-center md:justify-between">
+            <div>
+              <p className="eyebrow mb-3">Start a Project</p>
+              <h2 className="h-display text-2xl text-ink md:text-[2.2rem]">Planning a lighting scheme?</h2>
+              <p className="mt-2 text-zinc-500">
+                Send drawings or a short brief — we&apos;ll reply with a specification and a quote.
+              </p>
             </div>
-          ))}
-        </div>
-      </Section>
-
-      <Section>
-        <SectionHeading
-          eyebrow="Catalog"
-          title="Featured products"
-          description="Aluminum profiles, LED strips and wall washers — specified, supplied and installed. Atmospheric panels only; enquire for project specification."
-        />
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {featuredProducts.map((product) => (
-            <ProductCard key={product.id} product={product} />
-          ))}
-        </div>
-        <div className="mt-10">
-          <Link href="/products/" className="btn btn-ghost">
-            Browse full catalog
-          </Link>
-        </div>
-      </Section>
-
-      <Section className="border-y border-line bg-charcoal-elevated/40">
-        <SectionHeading
-          eyebrow="Expertise"
-          title="Lighting-led electrical packages"
-          description="Core capabilities for façades, interiors, emergency systems, and smart control — with sanitary available as a secondary line."
-        />
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {homeServices.map((service, i) => (
-            <ServiceCard
-              key={service.slug}
-              title={service.title}
-              summary={service.summary}
-              index={i + 1}
-            />
-          ))}
-        </div>
-        <div className="mt-10">
-          <Link href="/services/" className="btn btn-ghost">
-            View all expertise
-          </Link>
-        </div>
-      </Section>
-
-      <Section>
-        <SectionHeading
-          eyebrow="Selected work"
-          title="Recent projects"
-          description="Completed Barq Lumi installs first. Older cards without photographs stay anonymised by type and location."
-        />
-        <div className="grid gap-5 md:grid-cols-2">
-          {homeProjects.map((project) => (
-            <ProjectCard key={`${project.title}-${project.location}`} {...project} />
-          ))}
-        </div>
-        <div className="mt-10">
-          <Link href="/projects/" className="btn btn-ghost">
-            View all projects
-          </Link>
-        </div>
-      </Section>
-
-      <Section className="border-t border-line bg-charcoal-elevated/30">
-        <div className="grid gap-10 lg:grid-cols-[1fr_1fr] lg:items-end">
-          <div>
-            <p className="eyebrow mb-3">About</p>
-            <h2 className="display text-3xl text-cream md:text-4xl">
-              Supply-and-install from Muweilah
-            </h2>
-            <span className="gold-rule" aria-hidden />
-            <p className="mt-5 max-w-xl text-base leading-relaxed text-paper-muted">
-              Barq Lumi is the lighting brand of {site.legalName}. Specified, supplied and
-              installed from Muweilah, Sharjah — serving projects across the UAE since{" "}
-              {site.established}.
-            </p>
-            <p className="mt-2 text-xs text-paper-muted/70">
-              Trading / domain: {site.tradingName} · www.abbaselectricals.com
-            </p>
-            <Link href="/about/" className="btn btn-ghost mt-8">
-              Mission, vision & quality
-            </Link>
-          </div>
-          <div className="panel-gold rounded-2xl p-7">
-            <p className="eyebrow mb-4">Brands we specify, supply & install</p>
-            <p className="text-sm leading-relaxed text-paper-muted">
-              {lightingBrands.slice(0, 10).join(" · ")}
-              <span className="text-paper-muted/50"> · and others</span>
-            </p>
-            <p className="mt-4 text-xs text-paper-muted/80">
-              Brands listed as supplied fittings and gear — not claimed partnerships.
-            </p>
-          </div>
-        </div>
-      </Section>
-
-      <Section className="border-t border-line !pt-12 !pb-16">
-        <div className="panel-gold flex flex-col gap-6 rounded-2xl p-7 md:flex-row md:items-center md:justify-between md:p-9">
-          <div>
-            <p className="eyebrow mb-2">Contact</p>
-            <p className="display text-2xl text-cream md:text-3xl">
-              Speak with the team
-            </p>
-            <p className="mt-3 text-sm text-paper-muted">
-              {site.tel.display} · WhatsApp {site.whatsapp.display} · {site.email.display} ·{" "}
-              <a href={site.instagram.href} target="_blank" rel="noopener noreferrer" className="text-accent hover:text-accent-bright">
-                {site.instagram.display}
+            <div className="flex flex-wrap gap-3">
+              <a href={site.whatsapp.href} target="_blank" rel="noopener noreferrer" className="btn btn-dark">
+                <WhatsAppIcon /> WhatsApp Us
               </a>
-            </p>
+              <Link href="/contact/" className="btn btn-outline-dark">
+                Contact
+              </Link>
+            </div>
           </div>
-          <div className="flex flex-wrap gap-3">
-            <a href={site.whatsapp.href} target="_blank" rel="noopener noreferrer" className="btn btn-whatsapp">
-              WhatsApp
-            </a>
-            <Link href="/contact/" className="btn btn-primary">
-              Request a site visit
-            </Link>
-          </div>
-        </div>
-      </Section>
+        </Container>
+      </section>
     </>
   );
 }

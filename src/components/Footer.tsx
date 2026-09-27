@@ -1,93 +1,97 @@
 import Link from "next/link";
+import { Wordmark } from "@/components/Header";
+import { groups } from "@/lib/catalog";
 import { nav, site } from "@/lib/site";
 
 export function Footer() {
   return (
-    <footer className="mt-auto border-t border-line bg-[#0d0d0d]">
-      <div className="gold-bar" aria-hidden />
-      <div className="mx-auto grid max-w-6xl gap-10 px-5 py-14 md:grid-cols-[1.4fr_1fr_1fr] md:px-8">
-        <div>
-          <p className="wordmark text-xl text-cream md:text-2xl">{site.name}</p>
-          <p className="mt-1 text-[0.62rem] tracking-[0.28em] uppercase text-accent/85">
-            Lighting
-          </p>
-          <p className="mt-3 max-w-sm text-sm leading-relaxed text-paper-muted">
-            Barq Lumi specifies, supplies and installs lighting and electrical packages from
-            Muweilah, Sharjah — serving buildings across the UAE since {site.established}.
-          </p>
-          <p className="mt-3 text-xs text-paper-muted/70">
-            Trading / domain: {site.tradingName} · www.abbaselectricals.com
-          </p>
-          <div className="mt-6 flex flex-wrap gap-3">
-            <a href={site.whatsapp.href} target="_blank" rel="noopener noreferrer" className="btn btn-whatsapp !py-2 text-xs">
-              WhatsApp
-            </a>
-            <a
-              href={site.instagram.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn btn-ghost !py-2 text-xs"
-            >
-              {site.instagram.display}
-            </a>
-            <a href={site.tel.href} className="btn btn-ghost !py-2 text-xs">
-              {site.tel.display}
-            </a>
+    <footer className="bg-ink text-white">
+      <div className="mx-auto max-w-[1320px] px-5 pb-10 pt-16 md:px-8 md:pt-24">
+        <div className="grid gap-12 lg:grid-cols-[1.3fr_1fr_1fr_1.2fr]">
+          <div>
+            <Wordmark />
+            <p className="mt-6 max-w-sm text-sm leading-relaxed text-white/60">
+              Architectural lighting and electrical works — specified, supplied and installed
+              from Muweilah, Sharjah for projects across the UAE.
+            </p>
+            <p className="mt-6 text-xs font-semibold uppercase tracking-[0.2em] text-gold">
+              Licensed in the UAE since {site.established}
+            </p>
+          </div>
+
+          <div>
+            <p className="eyebrow eyebrow-muted mb-5 !text-white/45">Products</p>
+            <ul className="space-y-3 text-sm text-white/75">
+              {groups.map((g) => (
+                <li key={g.slug}>
+                  <Link href={`/products/${g.slug}/`} className="hover:text-white">
+                    {g.name}
+                  </Link>
+                </li>
+              ))}
+              <li>
+                <Link href="/products/" className="hover:text-white">
+                  All products
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <p className="eyebrow eyebrow-muted mb-5 !text-white/45">Company</p>
+            <ul className="space-y-3 text-sm text-white/75">
+              {nav
+                .filter((n) => n.href !== "/")
+                .map((n) => (
+                  <li key={n.href}>
+                    <Link href={n.href} className="hover:text-white">
+                      {n.label}
+                    </Link>
+                  </li>
+                ))}
+            </ul>
+          </div>
+
+          <div>
+            <p className="eyebrow eyebrow-muted mb-5 !text-white/45">Contact</p>
+            <ul className="space-y-3 text-sm text-white/75">
+              <li>
+                <a href={site.tel.href} className="hover:text-white">
+                  Tel {site.tel.display}
+                </a>
+              </li>
+              <li>
+                <a href={site.whatsapp.href} target="_blank" rel="noopener noreferrer" className="hover:text-white">
+                  WhatsApp {site.whatsapp.display}
+                </a>
+              </li>
+              <li>
+                <a href={site.email.href} className="hover:text-white">
+                  {site.email.display}
+                </a>
+              </li>
+              <li>
+                <a href={site.instagram.href} target="_blank" rel="noopener noreferrer" className="hover:text-white">
+                  Instagram {site.instagram.display}
+                </a>
+              </li>
+              <li className="pt-1 text-white/55">
+                Muweilah, Sharjah, UAE
+                <br />
+                P.O. Box {site.address.postalCode}
+              </li>
+            </ul>
           </div>
         </div>
 
-        <div>
-          <p className="eyebrow mb-4">Navigate</p>
-          <ul className="space-y-2 text-sm text-paper-muted">
-            {nav.map((item) => (
-              <li key={item.href}>
-                <Link href={item.href} className="hover:text-paper">
-                  {item.label}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </div>
-
-        <div>
-          <p className="eyebrow mb-4">Contact</p>
-          <ul className="space-y-2 text-sm text-paper-muted">
-            <li>
-              <a href={site.tel.href} className="hover:text-paper">
-                Tel {site.tel.display}
-              </a>
-            </li>
-            <li>
-              <a href={site.whatsapp.href} target="_blank" rel="noopener noreferrer" className="hover:text-paper">
-                WhatsApp {site.whatsapp.display}
-              </a>
-            </li>
-            <li>
-              <a href={site.email.href} className="hover:text-paper">
-                {site.email.display}
-              </a>
-            </li>
-            <li>
-              <a href={site.instagram.href} target="_blank" rel="noopener noreferrer" className="hover:text-paper">
-                Instagram {site.instagram.display}
-              </a>
-            </li>
-            <li className="pt-2 text-paper-muted/90">{site.address.display}</li>
-          </ul>
-        </div>
-      </div>
-
-      <div className="border-t border-line">
-        <div className="mx-auto flex max-w-6xl flex-col gap-2 px-5 py-6 text-xs leading-relaxed text-paper-muted md:flex-row md:items-center md:justify-between md:px-8">
+        <div className="mt-16 flex flex-col gap-3 border-t border-white/10 pt-8 text-xs leading-relaxed text-white/45 md:flex-row md:items-center md:justify-between">
           <p>
             {site.legalName}
-            <span className="mx-2 text-line-strong">·</span>
-            VAT TRN {site.vatTrn}
+            <span className="mx-2 text-white/20">|</span>VAT TRN {site.vatTrn}
           </p>
           <p>
-            {site.address.display}
-            <span className="mx-2 text-line-strong">·</span>
-            www.abbaselectricals.com
+            © {new Date().getFullYear()} {site.name} · {site.tradingName} · Licensed in the UAE since{" "}
+            {site.established}
           </p>
         </div>
       </div>

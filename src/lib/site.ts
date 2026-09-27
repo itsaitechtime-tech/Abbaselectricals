@@ -2,7 +2,7 @@ export const site = {
   name: "Barq Lumi",
   tradingName: "Abbas Electricals",
   legalName: "ABBAS AHMED SANITARY & ELECTRIC WARE TR LLC",
-  url: "https://www.abbaselectricals.com",
+  url: "https://abbaselectricals.com",
   description:
     "Barq Lumi specifies, supplies and installs lighting and electrical works for buildings that have to look finished at night. From Muweilah, Sharjah — serving the UAE. Licensed since 2006.",
   established: 2006,
@@ -126,7 +126,6 @@ export const selectedClients = [
   "Al Teneiji Real Estate",
   "Khansaheb Industries",
   "Grankraft Industries",
-  "HSH Real Estate",
 ] as const;
 
 export const services = [
@@ -203,8 +202,8 @@ export const projects: Project[] = [
     title: "RGB entertainment room",
     location: "UAE",
     tone: "blue",
-    image: "/projects/rgb-room-feature.jpeg",
-    gallery: ["/projects/rgb-room-zigzag.jpeg", "/projects/rgb-room-desk.jpeg"],
+    image: "/projects/web/rgb-room-feature.webp",
+    gallery: ["/projects/web/rgb-room-zigzag.webp", "/projects/web/rgb-room-desk.webp"],
     alt: "RGB geometric wall feature and floor lines in an entertainment room",
     description:
       "Completed Barq Lumi install — programmable RGB wall geometry, floor lines, zigzag shelves and a lit desk run in one entertainment room.",
@@ -213,7 +212,7 @@ export const projects: Project[] = [
     title: "Living cove and floor line",
     location: "UAE",
     tone: "blue",
-    image: "/projects/living-cove-floor.jpg",
+    image: "/projects/web/living-cove-floor.webp",
     alt: "Living room cove lighting in blue and green with a floor LED line around the seating",
     description:
       "Completed Barq Lumi install — colour-changing cove around a floating ceiling plane and a continuous floor LED line in a living room.",
@@ -222,7 +221,7 @@ export const projects: Project[] = [
     title: "Gaming desk RGB",
     location: "UAE",
     tone: "soft",
-    image: "/projects/gaming-desk-rgb.jpeg",
+    image: "/projects/web/gaming-desk-rgb.webp",
     alt: "Gaming desk with pink and purple RGB lighting along the ceiling and desk edge",
     description:
       "Completed Barq Lumi install — pink and purple RGB along the ceiling cove and desk edge of a gaming room.",
@@ -231,7 +230,7 @@ export const projects: Project[] = [
     title: "Feature mirror RGB",
     location: "UAE",
     tone: "cool",
-    image: "/projects/mirror-rgb-cube.jpg",
+    image: "/projects/web/mirror-rgb-cube.webp",
     alt: "Feature mirror cube with rainbow RGB lighting",
     description:
       "Completed Barq Lumi install — rainbow RGB on a feature mirror cube.",
@@ -240,7 +239,7 @@ export const projects: Project[] = [
     title: "Gaming venue RGB",
     location: "UAE",
     tone: "blue",
-    image: "/projects/gaming-venue-rgb.jpg",
+    image: "/projects/web/gaming-venue-rgb.webp",
     alt: "Gaming venue ceiling LED geometry and desk-edge RGB strip",
     description:
       "Completed Barq Lumi install — geometric ceiling LED runs and a desk-edge strip in a gaming venue.",
@@ -249,8 +248,8 @@ export const projects: Project[] = [
     title: "Kitchen recessed linear",
     location: "UAE",
     tone: "warm",
-    image: "/projects/kitchen-recessed.jpg",
-    gallery: ["/projects/kitchen-linear.jpeg"],
+    image: "/projects/web/kitchen-recessed.webp",
+    gallery: ["/projects/web/kitchen-linear.webp"],
     alt: "Kitchen recessed white rectangular linear lighting",
     description:
       "Completed Barq Lumi install — recessed white linear in a kitchen ceiling, with a second view of a linear run and chandelier.",
@@ -259,7 +258,7 @@ export const projects: Project[] = [
     title: "Residential façade linear",
     location: "UAE",
     tone: "warm",
-    image: "/projects/facade-linear-residential.jpeg",
+    image: "/projects/web/facade-linear-residential.webp",
     alt: "Residential building façade with linear architectural lighting at dusk",
     description:
       "Completed Barq Lumi install — linear façade and soffit lighting on a residential elevation at dusk.",

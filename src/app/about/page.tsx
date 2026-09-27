@@ -1,179 +1,153 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
-import { Section, SectionHeading } from "@/components/Section";
-import {
-  lightingBrands,
-  qualityAssurance,
-  sanitaryBrands,
-  selectedClients,
-  site,
-  whoWeAre,
-} from "@/lib/site";
+import { WhatsAppIcon } from "@/components/Icons";
+import { Container, PageBanner, SectionTitle } from "@/components/Section";
+import { lightingBrands, qualityAssurance, sanitaryBrands, selectedClients, site, whoWeAre } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Barq Lumi — lighting brand of ABBAS AHMED SANITARY & ELECTRIC WARE TR LLC. Licensed in the UAE since 2006. Quality first, clear responsibility, disciplined execution, and accountable handover. From Muweilah, Sharjah.",
+    "Barq Lumi — the lighting brand of ABBAS AHMED SANITARY & ELECTRIC WARE TR LLC. Licensed in the UAE since 2006. Muweilah, Sharjah.",
   alternates: { canonical: "/about/" },
-  openGraph: {
-    title: `About · ${site.name}`,
-    description:
-      "Who we are, mission and vision, quality assurance, brands we specify, supply and install, and selected clients across the UAE.",
-    url: `${site.url}/about/`,
-  },
 };
 
 export default function AboutPage() {
   return (
     <>
-      <Section className="!pb-8">
-        <p className="eyebrow mb-3">About</p>
-        <h1 className="display max-w-3xl text-4xl text-cream md:text-5xl">
-          Barq Lumi
-        </h1>
-        <span className="gold-rule" aria-hidden />
-        <p className="mt-5 max-w-2xl text-base leading-relaxed text-paper-muted md:text-lg">
-          Barq Lumi is the lighting brand of {site.legalName} (Muweilah). We specify,
-          supply and install lighting and electrical packages for buildings that must
-          look finished at night — continuous trade since {site.established}.
-        </p>
-        <p className="mt-3 text-xs tracking-wide text-paper-muted/75">
-          Trading / domain name: {site.tradingName} · www.abbaselectricals.com
-        </p>
-        <p className="mt-3 text-sm text-accent">
-          Licensed in the UAE since {site.established} · {site.address.display}
-        </p>
-        <p className="mt-4">
-          <a
-            href={site.instagram.href}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-sm tracking-[0.12em] text-accent hover:text-accent-bright"
-          >
-            Instagram {site.instagram.display}
-          </a>
-        </p>
-      </Section>
+      <PageBanner
+        image="/projects/web/kitchen-recessed.webp"
+        alt="Kitchen with recessed white linear lighting — a completed Barq Lumi install"
+        crumbs={[{ href: "/", label: "Home" }, { label: "About" }]}
+        eyebrow="About Barq Lumi"
+        title={
+          <>
+            Light, Done Once
+            <br />
+            and Done Right.
+          </>
+        }
+        description={`The lighting brand of ${site.legalName} — licensed in the UAE since ${site.established}.`}
+        size="md"
+      />
 
-      <Section className="!pt-4 border-t border-line">
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {whoWeAre.map((item) => (
-            <article key={item.title} className="panel-gold rounded-2xl p-6">
-              <p className="eyebrow mb-3">{item.title}</p>
-              <p className="text-sm leading-relaxed text-paper">{item.detail}</p>
-            </article>
-          ))}
-        </div>
-      </Section>
-
-      <Section className="border-y border-line bg-charcoal-elevated/60">
-        <div className="grid gap-8 lg:grid-cols-2">
-          <article className="panel rounded-2xl p-6 md:p-8">
-            <p className="eyebrow mb-3">Mission</p>
-            <h2 className="display text-2xl text-cream md:text-3xl">
-              {site.mission}
-            </h2>
-            <span className="gold-rule" aria-hidden />
-          </article>
-          <article className="panel rounded-2xl p-6 md:p-8">
-            <p className="eyebrow mb-3">Vision</p>
-            <h2 className="display text-2xl text-cream md:text-3xl">
-              {site.vision}
-            </h2>
-            <span className="gold-rule" aria-hidden />
-          </article>
-        </div>
-      </Section>
-
-      <Section>
-        <SectionHeading
-          eyebrow="Quality assurance & responsibility"
-          title="How we stand behind the work"
-          description="Named accountability, specified materials, inspection, site quality, and records that stay with the building."
-        />
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {qualityAssurance.map((item) => (
-            <article key={item.title} className="panel rounded-2xl p-6">
-              <p className="eyebrow mb-3">{item.title}</p>
-              <p className="text-sm leading-relaxed text-paper">{item.detail}</p>
-            </article>
-          ))}
-        </div>
-      </Section>
-
-      <Section className="border-t border-line">
-        <SectionHeading
-          eyebrow="Brands"
-          title="We specify, supply and install"
-          description="Product lines we work with on projects — not claimed partnerships or exclusive dealerships. University of Sharjah appears under clients, not brands."
-        />
-        <div className="grid gap-6 lg:grid-cols-2">
-          <div className="panel rounded-2xl p-6">
-            <p className="eyebrow mb-4">Lighting & electrical</p>
-            <ul className="flex flex-wrap gap-2">
-              {lightingBrands.map((brand) => (
-                <li
-                  key={brand}
-                  className="rounded-full border border-line px-3 py-1.5 text-xs tracking-wide text-paper-muted"
-                >
-                  {brand}
-                </li>
-              ))}
-            </ul>
+      <section className="bg-white py-16 md:py-24">
+        <Container>
+          <div className="grid gap-12 lg:grid-cols-2 lg:gap-20">
+            <div>
+              <p className="eyebrow mb-4">Who We Are</p>
+              <h2 className="h-display text-[2rem] text-ink md:text-[2.6rem]">
+                From Muweilah,
+                <br />
+                for the whole UAE.
+              </h2>
+            </div>
+            <div className="space-y-5 text-base leading-relaxed text-zinc-600 md:text-lg">
+              <p>
+                Barq Lumi specifies, supplies and installs lighting and electrical packages for villas,
+                commercial interiors and façades. One team carries the job from the first drawing to the
+                final circuit.
+              </p>
+              <p className="text-sm text-zinc-500">
+                Trading as {site.tradingName} · abbaselectricals.com · {site.address.display}
+              </p>
+            </div>
           </div>
-          <div className="panel rounded-2xl p-6">
-            <p className="eyebrow mb-4">Sanitary (secondary)</p>
-            <ul className="flex flex-wrap gap-2">
-              {sanitaryBrands.map((brand) => (
-                <li
-                  key={brand}
-                  className="rounded-full border border-line px-3 py-1.5 text-xs tracking-wide text-paper-muted"
-                >
-                  {brand}
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-      </Section>
 
-      <Section className="border-t border-line bg-charcoal-elevated/50">
-        <SectionHeading
-          eyebrow="Selected clients"
-          title="Organisations we have supplied"
-          description="Names drawn from the company profile. Presented as text — no fabricated endorsements."
-        />
-        <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {selectedClients.map((client) => (
-            <li key={client} className="panel rounded-xl px-5 py-4 text-sm text-paper">
-              {client}
-            </li>
-          ))}
-        </ul>
-      </Section>
+          <div className="mt-14 grid gap-px overflow-hidden rounded-lg border border-zinc-200 bg-zinc-200 sm:grid-cols-2 lg:grid-cols-4">
+            {whoWeAre.map((w) => (
+              <div key={w.title} className="bg-white p-7">
+                <h3 className="h-display text-lg text-ink">{w.title}</h3>
+                <p className="mt-2 text-sm leading-relaxed text-zinc-500">{w.detail}</p>
+              </div>
+            ))}
+          </div>
+        </Container>
+      </section>
 
-      <Section>
-        <div className="panel flex flex-col gap-6 rounded-2xl p-6 md:flex-row md:items-center md:justify-between md:p-8">
-          <div>
-            <p className="eyebrow mb-2">Contact</p>
-            <h2 className="display text-2xl text-cream">Start a conversation</h2>
-            <span className="gold-rule" aria-hidden />
+      <section className="bg-ink py-16 text-white md:py-24">
+        <Container>
+          <div className="grid gap-6 md:grid-cols-2">
+            <div className="rounded-xl border border-white/10 p-8 md:p-10">
+              <p className="eyebrow mb-4">Mission</p>
+              <p className="h-display text-2xl md:text-3xl">{site.mission}</p>
+            </div>
+            <div className="rounded-xl border border-white/10 p-8 md:p-10">
+              <p className="eyebrow mb-4">Vision</p>
+              <p className="h-display text-2xl md:text-3xl">{site.vision}</p>
+            </div>
           </div>
-          <div className="flex flex-wrap gap-3">
-            <a
-              href={site.whatsapp.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn btn-whatsapp"
-            >
-              WhatsApp
-            </a>
-            <Link href="/contact/" className="btn btn-primary">
-              Request a site visit
-            </Link>
+        </Container>
+      </section>
+
+      <section className="bg-white py-16 md:py-24">
+        <Container>
+          <SectionTitle
+            eyebrow="Quality & Responsibility"
+            title="How We Stand Behind the Work"
+          />
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {qualityAssurance.map((q) => (
+              <div key={q.title} className="rounded-lg border border-zinc-200 p-6">
+                <h3 className="font-semibold text-ink">{q.title}</h3>
+                <p className="mt-2 text-sm leading-relaxed text-zinc-500">{q.detail}</p>
+              </div>
+            ))}
           </div>
-        </div>
-      </Section>
+        </Container>
+      </section>
+
+      <section className="bg-zinc-50 py-16 md:py-24">
+        <Container>
+          <div className="grid gap-12 lg:grid-cols-2">
+            <div>
+              <p className="eyebrow mb-4">Brands We Supply</p>
+              <p className="mb-6 text-sm text-zinc-500">
+                Product lines we specify, supply and install — not claimed partnerships or dealerships.
+              </p>
+              <ul className="flex flex-wrap gap-2">
+                {[...lightingBrands, ...sanitaryBrands].map((b) => (
+                  <li key={b} className="rounded-md border border-zinc-200 bg-white px-3 py-1.5 text-xs font-medium text-zinc-600">
+                    {b}
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div>
+              <p className="eyebrow mb-4">Organisations We Have Supplied</p>
+              <p className="mb-6 text-sm text-zinc-500">From the company profile — listed as text, not endorsements.</p>
+              <ul className="grid gap-2 sm:grid-cols-2">
+                {selectedClients.map((c) => (
+                  <li key={c} className="rounded-md border border-zinc-200 bg-white px-4 py-3 text-sm text-ink">
+                    {c}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </Container>
+      </section>
+
+      <section className="bg-white py-16 md:py-20">
+        <Container>
+          <div className="grid overflow-hidden rounded-xl bg-ink text-white md:grid-cols-[1fr_1.2fr]">
+            <div className="relative min-h-[240px]">
+              <Image src="/projects/web/rgb-room-feature.webp" alt="RGB entertainment room — a completed Barq Lumi install" fill sizes="(max-width: 768px) 100vw, 45vw" className="object-cover" />
+            </div>
+            <div className="p-8 md:p-12">
+              <p className="eyebrow mb-4">Let&apos;s Talk</p>
+              <h2 className="h-display text-2xl md:text-3xl">Start with a conversation.</h2>
+              <p className="mt-3 text-white/60">Tel {site.tel.display} · WhatsApp {site.whatsapp.display} · {site.email.display}</p>
+              <div className="mt-8 flex flex-wrap gap-3">
+                <a href={site.whatsapp.href} target="_blank" rel="noopener noreferrer" className="btn btn-light">
+                  <WhatsAppIcon /> WhatsApp
+                </a>
+                <Link href="/contact/" className="btn btn-outline-light">Contact</Link>
+              </div>
+            </div>
+          </div>
+        </Container>
+      </section>
     </>
   );
 }
