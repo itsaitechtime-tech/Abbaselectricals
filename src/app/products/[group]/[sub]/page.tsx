@@ -5,7 +5,8 @@ import { BrandFilter } from "@/components/BrandFilter";
 import { HelpBand } from "@/components/Catalog";
 import { ProductCard } from "@/components/ProductCard";
 import { Container, PageBanner } from "@/components/Section";
-import { brandsIn, findGroup, findSub, groups, itemsIn } from "@/lib/catalog";
+import { brandsIn, findGroup, findSub, groups, itemsIn, VOLTAGE_SUBS, voltagesIn } from "@/lib/catalog";
+import { brandOf, voltageOf } from "@/lib/products";
 
 type Params = { group: string; sub: string };
 
@@ -61,7 +62,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<Para
                 <Link
                   key={x.slug}
                   href={`/products/${g.slug}/${x.slug}/`}
-                  className={`shrink-0 rounded-full border px-3.5 py-1.5 text-[0.7rem] font-semibold uppercase tracking-[0.1em] ${
+                  className={`shrink-0 rounded-full border px-3.5 py-2 text-[0.7rem] font-semibold uppercase tracking-[0.1em] ${
                     x.slug === s.slug
                       ? "border-ink bg-ink text-white"
                       : "border-zinc-200 text-zinc-600 hover:border-zinc-400"
@@ -73,7 +74,15 @@ export default async function SubCategoryPage({ params }: { params: Promise<Para
             </div>
           </div>
 
-          <BrandFilter counts={Object.fromEntries(brandsIn(items).map((b) => [b.brand, b.count]))}>
+          <BrandFilter
+            counts={Object.fromEntries(brandsIn(items).map((b) => [b.brand, b.count]))}
+            total={items.length}
+            {...(VOLTAGE_SUBS.includes(s.slug) && {
+              voltageCounts: Object.fromEntries(voltagesIn(items).map((v) => [v.voltage, v.count])),
+              keys: items.map((i) => ({ b: brandOf(i), v: voltageOf(i) })),
+            })}
+          >
+            <h2 className="sr-only">{s.name} products</h2>
             <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:gap-5 lg:grid-cols-4">
               {items.map((item) => (
                 <ProductCard key={item.id} item={item} />

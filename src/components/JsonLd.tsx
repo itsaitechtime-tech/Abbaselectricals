@@ -9,7 +9,7 @@ export function JsonLd() {
     legalName: site.legalName,
     url: site.url,
     email: site.email.display,
-    telephone: "+971553418850",
+    telephone: site.tel.href.replace("tel:", ""),
     address: {
       "@type": "PostalAddress",
       streetAddress: "Muweilah",

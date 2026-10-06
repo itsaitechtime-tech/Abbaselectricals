@@ -3,7 +3,7 @@ import Link from "next/link";
 import { BrandBadge } from "@/components/BrandBadge";
 import { CategoryIcon, WhatsAppIcon } from "@/components/Icons";
 import { quoteHref, quoteName, type CatalogItem } from "@/lib/catalog";
-import { brandOf } from "@/lib/products";
+import { brandOf, voltageOf } from "@/lib/products";
 
 export function photoAlt(item: CatalogItem) {
   const b = brandOf(item);
@@ -44,10 +44,14 @@ export function ProductMedia({
 
 /** Second line under the card title: model code / variant count for brand items, group otherwise. */
 function cardMeta(item: CatalogItem) {
-  if (brandOf(item) === "Barq Lumi") return item.group.name;
-  if (item.model) return item.model;
-  if (item.variants?.length) return `${item.variants.length} models`;
-  return item.group.name;
+  const v = voltageOf(item);
+  const volt = v ? (v === "220V" ? "220V AC" : `${v} DC`) : null;
+  let base: string;
+  if (brandOf(item) === "Barq Lumi") base = item.group.name;
+  else if (item.model) base = item.model;
+  else if (item.variants?.length) base = `${item.variants.length} models`;
+  else base = item.group.name;
+  return volt ? `${base} · ${volt}` : base;
 }
 
 export function ProductCard({ item }: { item: CatalogItem }) {
@@ -56,6 +60,7 @@ export function ProductCard({ item }: { item: CatalogItem }) {
   return (
     <article
       data-brand={brandOf(item)}
+      data-voltage={voltageOf(item)}
       className="group flex flex-col overflow-hidden rounded-lg border border-zinc-200 bg-white transition hover:border-zinc-300 hover:shadow-[0_12px_32px_rgba(0,0,0,0.08)]"
     >
       <Link

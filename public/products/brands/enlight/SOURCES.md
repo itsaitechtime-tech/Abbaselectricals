@@ -35,7 +35,8 @@ Official Enlight product photos as published by En-Light Electrical Lighting L.L
 | enl-tm-c04-cup.webp | https://enlight.ae/wp-content/uploads/2024/11/4_large-3.png | https://enlight.ae/product/tm-c0415c/ | TM-C0415C |
 | enl-en-c042-cup.webp | https://enlight.ae/wp-content/uploads/2024/11/136_large.png | https://enlight.ae/product/en-c0422c-mr16/ | EN-C0422C MR16 |
 | enl-tm-t8t-tube.webp | https://enlight.ae/wp-content/uploads/2024/11/320_large-1.png | https://enlight.ae/product/tm-t8t120-26w/ | TM-T8T120-26W |
-| enl-tm-hv-strip.webp | https://enlight.ae/wp-content/uploads/2024/11/350_large.png | https://enlight.ae/product/tm-2835-120/ | TM-2835-120 |
+| enl-tm-2835-strip.webp | https://enlight.ae/wp-content/uploads/2024/11/350_large.png | https://enlight.ae/product/tm-2835-120/ | TM-2835-120 |
+| enl-tm-5730-strip.webp | https://enlight.ae/wp-content/uploads/2024/11/353_large-1.png | https://enlight.ae/product/tm-5730-120/ | TM-5730-120 |
 | enl-tm-n015-neon.webp | https://enlight.ae/wp-content/uploads/2024/11/354_large-1.png | https://enlight.ae/product/tm-n015/ | TM-N015 |
 | enl-tm-5050-rgb.webp | https://enlight.ae/wp-content/uploads/2024/11/352_large-1.png | https://enlight.ae/product/tm-5050-96-12-rgb/ | TM-5050-96-12 RGB |
 | enl-lm-p01-flood.webp | https://enlight.ae/wp-content/uploads/2024/11/346_large-2.png | https://enlight.ae/product/lm-p0150/ | LM-P0150 |

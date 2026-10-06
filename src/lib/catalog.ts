@@ -1,6 +1,7 @@
 import { brandProducts } from "@/lib/brand-products";
 import { facadeProducts } from "@/lib/facade-products";
-import { brandOf, brands, products, type Brand, type Product } from "@/lib/products";
+import { brandOf, brands, products, voltageOf, voltages, type Brand, type Product } from "@/lib/products";
+import { site } from "@/lib/site";
 
 /**
  * Catalogue structure — top-level groups and sub-categories.
@@ -123,7 +124,7 @@ export const groups: Group[] = [
       {
         slug: "led-strips",
         name: "LED Strips",
-        blurb: "COB and SMD tape in warm, neutral and tunable white — high CRI, dotless options.",
+        blurb: "12V, 24V and 220V AC LED tape — COB and SMD in warm, neutral, tunable white and single colours.",
         icon: "strip",
         image: `${S}/p-strip-smd.webp`,
         productIds: [
@@ -445,6 +446,16 @@ export function brandsIn(items: CatalogItem[]) {
     .filter((x) => x.count > 0);
 }
 
+/** Voltages present in a list of items (strip listings), in display order, with counts. */
+export function voltagesIn(items: CatalogItem[]) {
+  return voltages
+    .map((v) => ({ voltage: v, count: items.filter((i) => voltageOf(i) === v).length }))
+    .filter((x) => x.count > 0);
+}
+
+/** Sub-categories that show Voltage chips. */
+export const VOLTAGE_SUBS = ["led-strips", "rgb-strips", "neon-flex"];
+
 export const groupCount = (g: Group) => g.subs.reduce((n, s) => n + s.productIds.length, 0);
 export const subCount = groups.reduce((n, g) => n + g.subs.length, 0);
 export const totalProducts = catalog.length;
@@ -470,7 +481,7 @@ export function quoteName(p: Product) {
 
 export function quoteHref(name: string) {
   const text = `Hello Barq Lumi, I'd like a quote for: ${name}`;
-  return `https://wa.me/971528500094?text=${encodeURIComponent(text)}`;
+  return `${site.whatsapp.href}?text=${encodeURIComponent(text)}`;
 }
 
 /** Lighting by space — tiles on the home page. */
@@ -528,7 +539,7 @@ export function specTable(p: Product): { rows: SpecRow[]; features: string[] } {
     if ((m = spec.match(/(IP\d{2}(?:\/\d{2})?\+?)/))) add("IP rating", m[1], spec);
     if ((m = spec.match(/(\d+(?:–\d+)?°)/))) add("Beam angle", m[1], spec);
     if ((m = spec.match(/(\d+×\d+(?:\s\/\s\d+×\d+)?)/))) add("Beam angle", `${m[1]}° asymmetric`, spec);
-    if ((m = spec.match(/(?<![–\d])(12|24|48)V(?!\w)/))) add("Voltage", `${m[1]}V DC`, spec);
+    if ((m = spec.match(/(?<![–\d])(12|24|48)V(?!\w)(\s+preferred)?/))) add("Voltage", `${m[1]}V DC${m[2] ? " (preferred)" : ""}`, spec);
     if ((m = spec.match(/^(\d+(?:–\d+)?\s?mm)$/))) add("Size", m[1], spec);
     if ((m = spec.match(/^(\d+\s?mm)\b(?!\sR)/)) && !used.has(spec)) add("Size", m[1], spec);
     if ((m = spec.match(/(\d+–\d+\s?m)\s?cuts/))) add("Size", `${m[1]} cut lengths`, spec);

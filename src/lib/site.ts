@@ -68,7 +68,7 @@ export const whoWeAre = [
 export const qualityAssurance = [
   {
     title: "Commercial responsibility",
-    detail: "Abbas Ahmed (Authorized Signatory)",
+    detail: "Abbas Ahmed",
   },
   {
     title: "Project responsibility",
