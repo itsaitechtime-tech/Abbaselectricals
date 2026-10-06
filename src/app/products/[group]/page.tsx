@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { BrandFilter } from "@/components/BrandFilter";
 import { HelpBand, SubTile } from "@/components/Catalog";
 import { ProductCard } from "@/components/ProductCard";
 import { Container, PageBanner } from "@/components/Section";
-import { catalog, findGroup, groupCount, groups } from "@/lib/catalog";
+import { brandsIn, catalog, findGroup, groupCount, groups } from "@/lib/catalog";
 
 type Params = { group: string };
 
@@ -84,11 +85,13 @@ export default async function GroupPage({ params }: { params: Promise<Params> })
               <h2 className="h-display text-2xl text-ink md:text-3xl">{items.length} Products</h2>
             </div>
           </div>
-          <div className="grid grid-cols-2 gap-3 md:grid-cols-3 md:gap-5 lg:grid-cols-4">
-            {items.map((item) => (
-              <ProductCard key={item.id} item={item} />
-            ))}
-          </div>
+          <BrandFilter counts={Object.fromEntries(brandsIn(items).map((b) => [b.brand, b.count]))}>
+            <div className="grid grid-cols-2 gap-3 md:grid-cols-3 md:gap-5 lg:grid-cols-4">
+              {items.map((item) => (
+                <ProductCard key={item.id} item={item} />
+              ))}
+            </div>
+          </BrandFilter>
         </Container>
       </section>
 

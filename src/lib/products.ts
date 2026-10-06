@@ -1,3 +1,6 @@
+import { brandProducts } from "@/lib/brand-products";
+import { facadeProducts } from "@/lib/facade-products";
+
 export type ProductCategory =
   | "Aluminum profiles"
   | "LED strip lights"
@@ -9,6 +12,23 @@ export type ProductCategory =
 
 export type ProductTone = "cool" | "warm" | "amber" | "blue" | "green" | "soft" | "silver" | "violet";
 
+export type Brand = "Barq Lumi" | "FSL" | "Enlight";
+
+export const brands: Brand[] = ["FSL", "Enlight", "Barq Lumi"];
+
+export type SpecRowData = { label: string; value: string };
+
+/** One orderable model inside a product family (wattage / size / finish step). */
+export type Variant = {
+  model: string;
+  power?: string;
+  lumens?: string;
+  intensity?: string;
+  size?: string;
+  beam?: string;
+  note?: string;
+};
+
 export type Product = {
   id: string;
   name: string;
@@ -19,6 +39,22 @@ export type Product = {
   featured?: boolean;
   /** Real product photo (optional). Representative stock photos are mapped in catalog.ts */
   image?: string;
+  /** Brand line. Omitted = Barq Lumi's own specified range. */
+  brand?: Brand;
+  /** Single model code (when the product has no variants). */
+  model?: string;
+  /** Spec table copied from the manufacturer / distributor source (brand products). */
+  specRows?: SpecRowData[];
+  variants?: Variant[];
+  /** Source page / document for brand or catalogue data. */
+  source?: string;
+  /** Extra real images (dimension drawing, lighting curve) for the product-page gallery. */
+  gallery?: string[];
+  applications?: string[];
+  /** Caption under the product-page gallery (overrides the default). */
+  photoNote?: string;
+  /** True when the main image is a generated stand-in rather than a real photo. */
+  representativeImage?: boolean;
 };
 
 export const productCategories: ProductCategory[] = [
@@ -31,7 +67,7 @@ export const productCategories: ProductCategory[] = [
   "Electrical package",
 ];
 
-export const products: Product[] = [
+const barqProducts: Product[] = [
   // ——— Aluminum profiles → profile-recessed, cove-linear, pendant-linear, kitchen-linear ———
   {
     id: "al-recessed-trimless",
@@ -518,6 +554,13 @@ export const products: Product[] = [
     tone: "green",
   },
 ];
+
+export const products: Product[] = [
+  ...barqProducts,
+  ...[...facadeProducts, ...brandProducts].map(({ sub: _sub, ...p }) => p), // eslint-disable-line @typescript-eslint/no-unused-vars
+];
+
+export const brandOf = (p: Pick<Product, "brand">): Brand => p.brand ?? "Barq Lumi";
 
 export const featuredProducts = products.filter((p) => p.featured).slice(0, 6);
 

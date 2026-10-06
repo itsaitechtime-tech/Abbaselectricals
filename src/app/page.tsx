@@ -183,13 +183,13 @@ export default function HomePage() {
               </Link>
             }
           />
-          <div className="grid gap-3 md:grid-cols-4 md:grid-rows-2 md:gap-4">
+          <div className="grid gap-3 md:grid-cols-3 md:gap-4">
             {groups.map((g, i) => (
               <Link
                 key={g.slug}
                 href={`/products/${g.slug}/`}
                 className={`group relative isolate overflow-hidden rounded-lg bg-ink ${
-                  i === 0 ? "aspect-[4/3] md:col-span-2 md:row-span-2 md:aspect-auto" : "aspect-[16/10] md:aspect-[4/3.2]"
+                  i === 0 ? "aspect-[4/3] md:col-span-2 md:row-span-2 md:aspect-auto" : "aspect-[16/10] md:aspect-[4/3]"
                 }`}
               >
                 <Image

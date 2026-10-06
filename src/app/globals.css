@@ -147,3 +147,10 @@ a {
   scrollbar-width: none;
 }
 }
+
+/* Brand filter (BrandFilter.tsx): hide cards that don't match the active chip */
+[data-brand-filter="FSL"] [data-brand]:not([data-brand="FSL"]),
+[data-brand-filter="Enlight"] [data-brand]:not([data-brand="Enlight"]),
+[data-brand-filter="Barq Lumi"] [data-brand]:not([data-brand="Barq Lumi"]) {
+  display: none;
+}

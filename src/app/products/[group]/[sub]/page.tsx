@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { BrandFilter } from "@/components/BrandFilter";
 import { HelpBand } from "@/components/Catalog";
 import { ProductCard } from "@/components/ProductCard";
 import { Container, PageBanner } from "@/components/Section";
-import { findGroup, findSub, groups, itemsIn } from "@/lib/catalog";
+import { brandsIn, findGroup, findSub, groups, itemsIn } from "@/lib/catalog";
 
 type Params = { group: string; sub: string };
 
@@ -33,7 +34,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<Para
   return (
     <>
       <PageBanner
-        image={s.image ?? g.banner}
+        image={s.banner ?? s.image ?? g.banner}
         alt={`${s.name} — ${g.name} lighting`}
         crumbs={[
           { href: "/", label: "Home" },
@@ -72,11 +73,13 @@ export default async function SubCategoryPage({ params }: { params: Promise<Para
             </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:gap-5 lg:grid-cols-4">
-            {items.map((item) => (
-              <ProductCard key={item.id} item={item} />
-            ))}
-          </div>
+          <BrandFilter counts={Object.fromEntries(brandsIn(items).map((b) => [b.brand, b.count]))}>
+            <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:gap-5 lg:grid-cols-4">
+              {items.map((item) => (
+                <ProductCard key={item.id} item={item} />
+              ))}
+            </div>
+          </BrandFilter>
 
           <div className="mt-16 border-t border-zinc-200 pt-10">
             <p className="eyebrow eyebrow-muted mb-5">Other Categories</p>

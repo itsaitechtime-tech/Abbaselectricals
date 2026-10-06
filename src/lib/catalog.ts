@@ -1,4 +1,6 @@
-import { products, type Product } from "@/lib/products";
+import { brandProducts } from "@/lib/brand-products";
+import { facadeProducts } from "@/lib/facade-products";
+import { brandOf, brands, products, type Brand, type Product } from "@/lib/products";
 
 /**
  * Catalogue structure — top-level groups and sub-categories.
@@ -29,6 +31,8 @@ export type SubCategory = {
   icon: IconKey;
   /** tile / banner image */
   image?: string;
+  /** optional banner override for the sub-category page (falls back to image, then group banner) */
+  banner?: string;
   productIds: string[];
 };
 
@@ -42,6 +46,7 @@ export type Group = {
 };
 
 const S = "/images/stock";
+const FA = "/products/catalog-facade";
 
 export const groups: Group[] = [
   {
@@ -60,12 +65,30 @@ export const groups: Group[] = [
         productIds: ["lum-downlight"],
       },
       {
+        slug: "panels-ceiling",
+        name: "Panels & Ceiling Lights",
+        blurb: "Grid panels, slim round and square panels and surface ceiling lights.",
+        icon: "downlight",
+        image: `${S}/p-downlight-round.webp`,
+        banner: `${S}/space-offices.webp`,
+        productIds: [],
+      },
+      {
         slug: "track-lights",
         name: "Track Lights & Spots",
         blurb: "Adjustable accent on track for retail, galleries and feature walls.",
         icon: "track",
         image: `${S}/p-track-brass.webp`,
         productIds: ["lum-track-spot"],
+      },
+      {
+        slug: "lamps-bulbs",
+        name: "LED Lamps & Bulbs",
+        blurb: "GLS bulbs, candles, filament, GU10 / MR16, PAR and reflector lamps.",
+        icon: "downlight",
+        image: `${S}/space-retail.webp`,
+        banner: `${S}/space-retail.webp`,
+        productIds: [],
       },
       {
         slug: "linear-profiles",
@@ -87,6 +110,15 @@ export const groups: Group[] = [
           "al-custom-ral",
           "al-surface-deep",
         ],
+      },
+      {
+        slug: "tubes-battens",
+        name: "Tubes & Battens",
+        blurb: "T8 and T5 LED tubes, integrated battens and tube fixtures.",
+        icon: "linear",
+        image: `${S}/p-linear-ceiling.webp`,
+        banner: `${S}/space-offices.webp`,
+        productIds: [],
       },
       {
         slug: "led-strips",
@@ -151,6 +183,15 @@ export const groups: Group[] = [
         ],
       },
       {
+        slug: "floodlights",
+        name: "Floodlights & High Bay",
+        blurb: "IP-rated floodlights for façades, yards and sports, plus industrial high bays.",
+        icon: "washer",
+        image: "/products/brands/enlight/enl-tm-p08-flood.webp",
+        banner: `${S}/p-washer-facade.webp`,
+        productIds: [],
+      },
+      {
         slug: "in-ground-underwater",
         name: "In-ground & Underwater",
         blurb: "Walkable, recessed and water-edge fittings sealed to IP67–IP68.",
@@ -173,6 +214,33 @@ export const groups: Group[] = [
         icon: "bollard",
         image: `${S}/p-bollard.webp`,
         productIds: ["lum-garden-pole"],
+      },
+    ],
+  },
+  {
+    slug: "facade-architectural",
+    name: "Façade & Architectural",
+    eyebrow: "Façade lighting",
+    blurb: "24V DC linear façade lights in single colour, RGB and RGBW with DMX — for building outlines, bridges and landmarks.",
+    banner: `${FA}/banner-cityscape.webp`,
+    subs: [
+      {
+        slug: "linear-facade",
+        name: "Linear Façade Lights",
+        blurb: "IP66 aluminium linear lights with PC or acrylic covers for continuous outline lighting.",
+        icon: "linear",
+        image: `${FA}/banner-towers.webp`,
+        banner: `${FA}/banner-cityscape.webp`,
+        productIds: [],
+      },
+      {
+        slug: "lensed-linear",
+        name: "Lensed Linear Lights",
+        blurb: "Lensed IP66 linear lights with an aluminium face cover — crisp dotted lines for façade detailing.",
+        icon: "linear",
+        image: `${FA}/banner-plaza.webp`,
+        banner: `${FA}/banner-cityscape.webp`,
+        productIds: [],
       },
     ],
   },
@@ -259,6 +327,16 @@ export const groups: Group[] = [
   },
 ];
 
+// Attach FSL / Enlight products to their sub-categories (after Barq Lumi's own lines).
+{
+  const subsBySlug = new Map(groups.flatMap((g) => g.subs.map((sub) => [sub.slug, sub] as const)));
+  for (const bp of [...facadeProducts, ...brandProducts]) {
+    const sub = subsBySlug.get(bp.sub);
+    if (!sub) throw new Error(`catalog: unknown sub-category ${bp.sub} for ${bp.id}`);
+    sub.productIds.push(bp.id);
+  }
+}
+
 /** Representative photo per product (real stock photography, see CREDITS.md). */
 const productImages: Record<string, string> = {
   "lum-downlight": `${S}/p-downlight-surface.webp`,
@@ -344,7 +422,7 @@ export const catalog: CatalogItem[] = groups.flatMap((group) =>
         group,
         sub,
         photo: p.image ?? productImages[id],
-        gallery: extraImages[id] ?? [],
+        gallery: extraImages[id] ?? p.gallery ?? [],
         href: `/products/${group.slug}/${sub.slug}/${id}/`,
       };
     })
@@ -356,6 +434,15 @@ if (catalog.length !== products.length) {
   const mapped = new Set(catalog.map((c) => c.id));
   const missing = products.filter((p) => !mapped.has(p.id)).map((p) => p.id);
   throw new Error(`catalog: unmapped products ${missing.join(", ")}`);
+}
+
+export const brandCount = (b: Brand) => catalog.filter((c) => brandOf(c) === b).length;
+
+/** Brands present in a list of items, in display order, with counts. */
+export function brandsIn(items: CatalogItem[]) {
+  return brands
+    .map((b) => ({ brand: b, count: items.filter((i) => brandOf(i) === b).length }))
+    .filter((x) => x.count > 0);
 }
 
 export const groupCount = (g: Group) => g.subs.reduce((n, s) => n + s.productIds.length, 0);
@@ -373,6 +460,12 @@ export function itemsIn(sub: SubCategory) {
 }
 export function findItem(id: string) {
   return catalog.find((c) => c.id === id);
+}
+
+/** Name used in the WhatsApp quote message — prefixed with the brand for FSL / Enlight items. */
+export function quoteName(p: Product) {
+  const b = brandOf(p);
+  return b === "Barq Lumi" ? p.name : `${b} ${p.name}`;
 }
 
 export function quoteHref(name: string) {
@@ -418,6 +511,7 @@ export const spaces = [
 export type SpecRow = { label: string; value: string };
 
 export function specTable(p: Product): { rows: SpecRow[]; features: string[] } {
+  if (p.specRows) return { rows: p.specRows, features: p.specs };
   const rows: Record<string, string[]> = {};
   const used = new Set<string>();
   const add = (label: string, value: string, spec: string) => {

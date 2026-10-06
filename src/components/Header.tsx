@@ -6,8 +6,11 @@ import { useEffect, useState } from "react";
 import { WhatsAppIcon } from "@/components/Icons";
 import { nav, site } from "@/lib/site";
 
+const FACADE = "/products/facade-architectural";
+
 function isActive(pathname: string, href: string) {
   if (href === "/") return pathname === "/";
+  if (href === "/products/" && pathname.startsWith(FACADE)) return false;
   return pathname.startsWith(href.replace(/\/$/, ""));
 }
 
