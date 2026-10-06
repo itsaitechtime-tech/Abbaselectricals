@@ -4,6 +4,7 @@ const styles: Record<string, string> = {
   FSL: "bg-[#d71920] text-white",
   Enlight: "bg-gold text-ink",
   "Barq Lumi": "bg-ink text-white",
+  Philips: "bg-[#0b5ed7] text-white",
 };
 
 /** Small brand pill for FSL / Enlight items. Barq Lumi's own range shows no badge unless `showOwn`. */

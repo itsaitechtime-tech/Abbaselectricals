@@ -1,1 +1,1661 @@
-[]
+[
+  {
+    "id": "signify-optispace-bcb500-led-bollard",
+    "sub": "bollards-garden",
+    "name": "OptiSpace BCB500 LED Bollard",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Die-cast aluminium LED bollard for parks, pedestrian paths, building forecourts and car parks, with symmetric or asymmetric optics and 4000K light. It is rated IP66 and IK10, has 6 kV surge protection and a replaceable LED engine, and works from -40 to +50°C.",
+    "specs": [
+      "IP66 / IK10",
+      "6 kV surge protection",
+      "Replaceable LED engine",
+      "Marine-salt coating option"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/signify-optispace-bcb500-led-bollard.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "OptiSpace BCB500"
+      },
+      {
+        "label": "Power",
+        "value": "11.3W / 20W / 37.2W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220-240V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1,432 lm / 2,400 lm / 4,900 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "127 / 167 / 173 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "4000K"
+      },
+      {
+        "label": "CRI",
+        "value": "70"
+      },
+      {
+        "label": "Beam angle",
+        "value": "177° (symmetrical) / 7°-9° x 177° (asymmetrical)"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK10 (20 J)"
+      },
+      {
+        "label": "Dimming",
+        "value": "Not dimmable"
+      },
+      {
+        "label": "Driver",
+        "value": "Power supply unit included (on/off)"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.89-0.98"
+      },
+      {
+        "label": "Size",
+        "value": "H848 mm, 270 x 270 mm base, Ø168 mm / H1004 mm, Ø232 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Die-cast aluminium housing; PMMA optic; polycarbonate cover"
+      },
+      {
+        "label": "Colour",
+        "value": "Black (Ultra Dark Grey)"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-40 to +50°C ambient"
+      },
+      {
+        "label": "Surge protection",
+        "value": "6 kV differential and common mode"
+      },
+      {
+        "label": "Warranty",
+        "value": "5 years"
+      }
+    ],
+    "photoNote": "Official Philips (Signify) product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips (Signify)",
+    "model": "BCB500 LED56-4S/740 S DGR",
+    "variants": [
+      {
+        "model": "BCB500 LED56-4S/740 S DGR",
+        "power": "37.2W",
+        "lumens": "4,900 lm",
+        "size": "H848 mm",
+        "beam": "177°",
+        "note": "12NC 912300024101; symmetrical; safety class I; fits Ø42-60 mm post"
+      },
+      {
+        "model": "BCB500 LED27-4S/740 ANB14 II A DGR",
+        "power": "20W",
+        "lumens": "2,400 lm",
+        "size": "H848 mm",
+        "beam": "7°-9° x 177°",
+        "note": "12NC 912300024103; asymmetrical; safety class II; fits Ø42-60 mm post"
+      },
+      {
+        "model": "BCB500 LED16-4S/740 PSU II S DGR MSP CLO",
+        "power": "11.3W",
+        "lumens": "1,432 lm",
+        "size": "H1004 mm",
+        "beam": "177°",
+        "note": "12NC 912300060280; symmetrical; baseplate; marine-salt-protected coating; constant light output; safety class II"
+      }
+    ],
+    "gallery": [
+      "/products/feed/outdoor/signify-optispace-bcb500-led-bollard-2.webp"
+    ],
+    "applications": [
+      "Parks",
+      "Pedestrian paths",
+      "Building forecourts",
+      "Car parks"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/outdoor-luminaires/bollards/signify-optispace/912300024101_EU/product",
+    "_meta": {
+      "feed": "bollards-signify",
+      "brand_group": "lighting",
+      "feed_brand": "Signify",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/bollards/signify-optispace/912300024101_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/bollards/signify-optispace/912300024103_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/bollards/signify-optispace/912300060280_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/bollards/signify-optispace/LP_CF_BCB500_EU/family",
+        "https://www.signify.com/api/assets/v1/file/Signify/content/LP_CF_BCB500_EU.en_AE.PROF.CF-1/OptiSpace.pdf"
+      ],
+      "source_note": "Signify Middle East (en-ae) product pages for 912300024101, 912300024103 and 912300060280.",
+      "original_images": [
+        "BCB500-LED56-4S-740-S-DGR-1.jpg",
+        "BCB500-LED16-4S-740-PSU-II-S-DGR-MSP-CLO-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:51+04:00"
+    }
+  },
+  {
+    "id": "dynalite-ddledc605gl-led-pwm-controller",
+    "sub": "dmx-control",
+    "name": "6-Channel LED PWM Controller",
+    "brand": "Philips",
+    "category": "Drivers & control",
+    "use": "DIN-rail controller that dims six channels of 10-24V DC LED tape or modules by PWM, up to 5A per channel. It joins a DyNet network or accepts DMX512, so it suits coves, joinery lighting and RGB features in hotels, retail and villas.",
+    "specs": [
+      "6 PWM channels",
+      "DyNet + DMX512 input",
+      "DIN-rail mounting"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/dynalite-ddledc605gl-led-pwm-controller.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "DyNet controllers"
+      },
+      {
+        "label": "Voltage",
+        "value": "10-24V DC external regulated supply"
+      },
+      {
+        "label": "Current",
+        "value": "20A max device load; 10 mA - 5A per output"
+      },
+      {
+        "label": "Size",
+        "value": "95 x 105 x 75 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "1 kg (packed)"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate DIN rail enclosure (6 unit)"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Installation",
+        "value": "Indoor only"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 40°C ambient"
+      },
+      {
+        "label": "Outputs",
+        "value": "6 x LED PWM, 10-24V DC"
+      },
+      {
+        "label": "Protocols",
+        "value": "DyNet, DMX512 Rx (6 channels)"
+      },
+      {
+        "label": "Dry contact inputs",
+        "value": "1 (AUX)"
+      },
+      {
+        "label": "Certification",
+        "value": "CE, RCM, UL/cUL, FCC, ISED, UKCA; RoHS"
+      }
+    ],
+    "photoNote": "Philips Dynalite product photo from the manufacturer's catalogue. Datasheets on request.",
+    "brandLabel": "Philips Dynalite",
+    "model": "DDLEDC605GL",
+    "applications": [
+      "Cove lighting",
+      "Hotels",
+      "Retail",
+      "Villas"
+    ],
+    "source": "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDLEDC605GL_SPEC_R10.pdf",
+    "_meta": {
+      "feed": "controls-dynalite",
+      "brand_group": "lighting",
+      "feed_brand": "Dynalite",
+      "group": "smart-controls",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDLEDC605GL_SPEC_R10.pdf",
+        "https://dynalite.com/product/ddledc605gl/"
+      ],
+      "source_note": "Dynalite DDLEDC605GL specification sheet R10; photo from page 1 of the sheet.",
+      "original_images": [
+        "DDLEDC605GL-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:51+04:00"
+    }
+  },
+  {
+    "id": "dynalite-ddbc320-dali-3-line-dali-2-controller",
+    "sub": "dmx-control",
+    "name": "3-Line DALI-2 Controller with Ethernet",
+    "brand": "Philips",
+    "category": "Drivers & control",
+    "use": "Twelve-unit DIN-rail controller with three DALI-2 lines, three feed-through relays and Ethernet for DyNet networks. It supports tunable-white (DT207/209) and RGBWAF drivers for offices, hotels and residential projects.",
+    "specs": [
+      "3 DALI-2 lines",
+      "Ethernet port",
+      "Tunable white / RGBWAF",
+      "Driver runtime tracking"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/dynalite-ddbc320-dali-3-line-dali-2-controller.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "DALI controllers"
+      },
+      {
+        "label": "Voltage",
+        "value": "100-277V AC"
+      },
+      {
+        "label": "Current",
+        "value": "0.5A supply"
+      },
+      {
+        "label": "Size",
+        "value": "95 x 216 x 64 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.6 kg (packed)"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate DIN rail enclosure (12 unit)"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Installation",
+        "value": "Indoor only"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 50°C ambient"
+      },
+      {
+        "label": "Outputs",
+        "value": "3 x DALI-2 (DT207 / DT209 tunable white, RGBWAF); 3 x feed-through relay"
+      },
+      {
+        "label": "Protocols",
+        "value": "DyNet over RS-485 and Ethernet (TCP/IP, IPv4/IPv6)"
+      },
+      {
+        "label": "Certification",
+        "value": "DALI-2, CE, RCM, UL/cUL, FCC, ISED, UKCA, RoHS"
+      }
+    ],
+    "photoNote": "Philips Dynalite product photo from the manufacturer's catalogue. Datasheets on request.",
+    "brandLabel": "Philips Dynalite",
+    "model": "DDBC320-DALI",
+    "applications": [
+      "Offices",
+      "Hotels",
+      "Residential"
+    ],
+    "source": "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDBC320-DALI_SPEC_R21.pdf",
+    "_meta": {
+      "feed": "controls-dynalite",
+      "brand_group": "lighting",
+      "feed_brand": "Dynalite",
+      "group": "smart-controls",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDBC320-DALI_SPEC_R21.pdf",
+        "https://dynalite.com/product/ddbc320-dali/"
+      ],
+      "source_note": "Dynalite DDBC320-DALI specification sheet R21; photo from page 1 of the sheet.",
+      "original_images": [
+        "DDBC320-DALI-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:51+04:00"
+    }
+  },
+  {
+    "id": "dynalite-ddbc120-dali-1-line-dali-2-controller",
+    "sub": "dmx-control",
+    "name": "1-Line DALI-2 Controller",
+    "brand": "Philips",
+    "category": "Drivers & control",
+    "use": "Compact six-unit DIN-rail controller with one DALI-2 line and a 20A feed-through relay. It takes DyNet or 64 channels of DMX and suits single rooms, corridors and small zones on a Dynalite system.",
+    "specs": [
+      "1 DALI-2 line",
+      "20A feed-through relay",
+      "DMX input (64 ch)"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/dynalite-ddbc120-dali-1-line-dali-2-controller.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "DALI controllers"
+      },
+      {
+        "label": "Voltage",
+        "value": "100-277V AC"
+      },
+      {
+        "label": "Current",
+        "value": "0.25A supply"
+      },
+      {
+        "label": "Size",
+        "value": "95 x 108 x 64 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.45 kg (packed)"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate DIN rail enclosure (6 unit)"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Installation",
+        "value": "Indoor only"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 55°C ambient"
+      },
+      {
+        "label": "Outputs",
+        "value": "1 x DALI-2 (DT207 / DT209); 1 x 20A feed-through relay"
+      },
+      {
+        "label": "Protocols",
+        "value": "DyNet (RS-485), DMX Rx (64 channels)"
+      },
+      {
+        "label": "Certification",
+        "value": "CE, RCM, UL/cUL, FCC, ISED, UKCA, DALI-2"
+      }
+    ],
+    "photoNote": "Philips Dynalite product photo from the manufacturer's catalogue. Datasheets on request.",
+    "brandLabel": "Philips Dynalite",
+    "model": "DDBC120-DALI",
+    "applications": [
+      "Meeting rooms",
+      "Corridors",
+      "Residential"
+    ],
+    "source": "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDBC120-DALI_SPEC_R21.pdf",
+    "_meta": {
+      "feed": "controls-dynalite",
+      "brand_group": "lighting",
+      "feed_brand": "Dynalite",
+      "group": "smart-controls",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDBC120-DALI_SPEC_R21.pdf",
+        "https://dynalite.com/product/ddbc120-dali/"
+      ],
+      "source_note": "Dynalite DDBC120-DALI specification sheet R21; photo from page 1 of the sheet (largest official image is 800 px).",
+      "original_images": [
+        "DDBC120-DALI-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:51+04:00"
+    }
+  },
+  {
+    "id": "dynalite-ddbc1200-12-channel-dali-0-10v-controller",
+    "sub": "dmx-control",
+    "name": "12-Channel DALI Broadcast / 0-10V Controller",
+    "brand": "Philips",
+    "category": "Drivers & control",
+    "use": "Twelve-channel DIN-rail signal dimmer controller; each output can be switched between DALI broadcast and 0-10V without commissioning software. It supports DALI 209 tunable-white and RGBWAF fittings and is aimed at larger floors, retail and hospitality.",
+    "specs": [
+      "12 outputs",
+      "DALI broadcast or 0-10V per channel",
+      "Up to 80 drivers per channel",
+      "Channel status LEDs"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/dynalite-ddbc1200-12-channel-dali-0-10v-controller.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "DALI controllers"
+      },
+      {
+        "label": "Voltage",
+        "value": "100-277V AC"
+      },
+      {
+        "label": "Current",
+        "value": "0.5A supply"
+      },
+      {
+        "label": "Size",
+        "value": "93 x 215 x 64 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.54 kg (packed)"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate DIN rail enclosure (12 unit)"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Installation",
+        "value": "Indoor only"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50°C ambient"
+      },
+      {
+        "label": "Outputs",
+        "value": "12 x DALI broadcast or 0-10V (DALI 209 TW / RGBWAF supported)"
+      },
+      {
+        "label": "Protocols",
+        "value": "DyNet (RS-485), DMX Rx (12 channels)"
+      },
+      {
+        "label": "Certification",
+        "value": "CE, RCM, UL/cUL, FCC, ISED, UKCA, RoHS"
+      }
+    ],
+    "photoNote": "Philips Dynalite product photo from the manufacturer's catalogue. Datasheets on request.",
+    "brandLabel": "Philips Dynalite",
+    "model": "DDBC1200",
+    "applications": [
+      "Open-plan offices",
+      "Retail",
+      "Hospitality"
+    ],
+    "source": "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDBC1200_SPEC_R14.pdf",
+    "_meta": {
+      "feed": "controls-dynalite",
+      "brand_group": "lighting",
+      "feed_brand": "Dynalite",
+      "group": "smart-controls",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDBC1200_SPEC_R14.pdf",
+        "https://dynalite.com/product/ddbc1200/"
+      ],
+      "source_note": "Dynalite DDBC1200 specification sheet R14; photo from page 1 of the sheet.",
+      "original_images": [
+        "DDBC1200-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:51+04:00"
+    }
+  },
+  {
+    "id": "dynalite-ddmc802-multipurpose-modular-controller",
+    "sub": "dmx-control",
+    "name": "Multipurpose Modular Controller",
+    "brand": "Philips",
+    "category": "Drivers & control",
+    "use": "Modular DIN-rail controller with four bays giving up to eight output channels; plug-in modules cover relay, leading or trailing-edge dimming, signal dimming, fan and curtain control. One unit can run mixed loads in villas, hotel suites and offices.",
+    "specs": [
+      "4 module bays",
+      "Relay / dimmer / fan / curtain modules",
+      "9 dry contact inputs"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/dynalite-ddmc802-multipurpose-modular-controller.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Multipurpose controllers"
+      },
+      {
+        "label": "Voltage",
+        "value": "100-240V AC"
+      },
+      {
+        "label": "Current",
+        "value": "16A supply"
+      },
+      {
+        "label": "Dimming",
+        "value": "16-bit fade"
+      },
+      {
+        "label": "Size",
+        "value": "105 x 216 x 74 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.52 kg (packed)"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate DIN rail enclosure (12 unit)"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Installation",
+        "value": "Indoor only"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 40°C ambient"
+      },
+      {
+        "label": "Outputs",
+        "value": "8 (4 x 2-channel module bays)"
+      },
+      {
+        "label": "Protocols",
+        "value": "DyNet (RS-485), DMX Rx"
+      },
+      {
+        "label": "Dry contact inputs",
+        "value": "9 (8 + AUX)"
+      },
+      {
+        "label": "Certification",
+        "value": "CE, RCM, UL/cUL, FCC, ISED, UKCA, RoHS"
+      }
+    ],
+    "photoNote": "Philips Dynalite product photo from the manufacturer's catalogue. Datasheets on request.",
+    "brandLabel": "Philips Dynalite",
+    "model": "DDMC802",
+    "applications": [
+      "Villas",
+      "Hotel suites",
+      "Offices"
+    ],
+    "source": "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDMC802_SPEC_R20.pdf",
+    "_meta": {
+      "feed": "controls-dynalite",
+      "brand_group": "lighting",
+      "feed_brand": "Dynalite",
+      "group": "smart-controls",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://dynalite.com/wp-content/uploads/2024/09/DYN_DDMC802_SPEC_R20.pdf",
+        "https://dynalite.com/product/ddmc802/"
+      ],
+      "source_note": "Dynalite DDMC802 specification sheet R20; photo from page 1 of the sheet.",
+      "original_images": [
+        "DDMC802-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:51+04:00"
+    }
+  },
+  {
+    "id": "dynalite-dmbc110-luminaire-signal-dimmer-controller",
+    "sub": "dmx-control",
+    "name": "Luminaire-Mount Signal Dimmer Controller",
+    "brand": "Philips",
+    "category": "Drivers & control",
+    "use": "Compact controller that mounts within the gear enclosure of many light fixtures, with one 10A relay and one DALI broadcast, 1-10V or DSI output. It brings individual fittings or small groups onto a DyNet or DMX network in retail, hospitality and offices.",
+    "specs": [
+      "DALI broadcast / 1-10V / DSI",
+      "10A relay",
+      "DyNet or DMX input"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/dynalite-dmbc110-luminaire-signal-dimmer-controller.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Signal dimmer controllers"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V AC ±14%"
+      },
+      {
+        "label": "Current",
+        "value": "10A supply"
+      },
+      {
+        "label": "Size",
+        "value": "38 x 240 x 45 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.19 kg (packed)"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Mounting",
+        "value": "Within the gear enclosure of many light fixtures"
+      },
+      {
+        "label": "Installation",
+        "value": "Indoor only"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50°C ambient"
+      },
+      {
+        "label": "Outputs",
+        "value": "1 x 10A relay (inductive); 1 x DALI broadcast / 1-10V / DSI"
+      },
+      {
+        "label": "Protocols",
+        "value": "DyNet (RS-485), DMX Rx (1 channel)"
+      },
+      {
+        "label": "Certification",
+        "value": "CE, RCM, UKCA, RoHS"
+      }
+    ],
+    "photoNote": "Philips Dynalite product photo from the manufacturer's catalogue. Datasheets on request.",
+    "brandLabel": "Philips Dynalite",
+    "model": "DMBC110",
+    "applications": [
+      "Retail",
+      "Hospitality",
+      "Offices"
+    ],
+    "source": "https://dynalite.com/wp-content/uploads/2024/09/DYN_DMBC110_SPEC_R9.pdf",
+    "_meta": {
+      "feed": "controls-dynalite",
+      "brand_group": "lighting",
+      "feed_brand": "Dynalite",
+      "group": "smart-controls",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://dynalite.com/wp-content/uploads/2024/09/DYN_DMBC110_SPEC_R9.pdf",
+        "https://dynalite.com/product/dmbc110/"
+      ],
+      "source_note": "Dynalite DMBC110 specification sheet R9; photo from page 1 of the sheet.",
+      "original_images": [
+        "DMBC110-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:51+04:00"
+    }
+  },
+  {
+    "id": "signify-xitanium-led-transformer-24vdc-g2",
+    "sub": "drivers-power",
+    "name": "Xitanium LED Transformer 24VDC G2",
+    "brand": "Philips",
+    "category": "Drivers & control",
+    "use": "Constant-voltage 24V DC LED driver in 30W, 60W and 150W sizes for LED strip, cove and display lighting. It is built for independent or built-in use, with SELV output, a power factor of at least 0.95 and a 50,000-hour rated life.",
+    "specs": [
+      "24V DC constant voltage",
+      "SELV output",
+      "PF ≥ 0.95",
+      "Built-in or independent use"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/signify-xitanium-led-transformer-24vdc-g2.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xitanium LED Transformer G2"
+      },
+      {
+        "label": "Power",
+        "value": "1.5-30W / 3-60W / 7.5-150W"
+      },
+      {
+        "label": "Voltage",
+        "value": "Input 220-240V AC (198-264V operational); output 24V DC constant voltage"
+      },
+      {
+        "label": "Current",
+        "value": "Output 63-1250 mA / 125-2500 mA / 310-6250 mA"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Dimming",
+        "value": "Not dimmable (fixed)"
+      },
+      {
+        "label": "Driver",
+        "value": "SELV; built-in or independent use"
+      },
+      {
+        "label": "Power factor",
+        "value": "≥ 0.95"
+      },
+      {
+        "label": "Lifetime",
+        "value": "50,000 hours"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to +50°C ambient"
+      },
+      {
+        "label": "Efficiency",
+        "value": "86% / 87% / 92% at rated output"
+      },
+      {
+        "label": "Ripple",
+        "value": "≤ 2% (≤ 480 mVpp)"
+      },
+      {
+        "label": "Max cable length",
+        "value": "2.5 m"
+      },
+      {
+        "label": "Certification",
+        "value": "CCC, CE, ENEC, MM, RCM, SELV, UKCA"
+      }
+    ],
+    "photoNote": "Philips (Signify) product photo from the manufacturer's catalogue. Datasheets on request.",
+    "brandLabel": "Philips (Signify)",
+    "model": "9290 034 63302",
+    "variants": [
+      {
+        "model": "9290 034 63302",
+        "power": "30W",
+        "size": "135 x 36 x 25 mm",
+        "note": "Xi LED Transformer 30W 24VDC G2; 88 g; efficiency 86%"
+      },
+      {
+        "model": "9290 034 63402",
+        "power": "60W",
+        "size": "151.5 x 40.2 x 31 mm",
+        "note": "Xi LED Transformer 60W 24VDC G2; 200 g; efficiency 87%"
+      },
+      {
+        "model": "9290 038 76402",
+        "power": "150W",
+        "size": "253.2 x 42.5 x 31 mm",
+        "note": "Xi LED Transformer 150W 24VDC G2; 438 g; efficiency 92%"
+      }
+    ],
+    "gallery": [
+      "/products/feed/smart-controls/signify-xitanium-led-transformer-24vdc-g2-2.webp",
+      "/products/feed/smart-controls/signify-xitanium-led-transformer-24vdc-g2-3.webp"
+    ],
+    "applications": [
+      "LED strip and cove lighting",
+      "Retail display",
+      "Signage"
+    ],
+    "source": "https://www.signify.com/api/assets/v1/file/Signify/content/Datasheet-Xitanium-LED-Transformer-G2-30W-24V/Datasheet-Xitanium-LED-Transformer-G2-30W-24V.pdf",
+    "_meta": {
+      "feed": "drivers-philips-signify",
+      "brand_group": "lighting",
+      "feed_brand": "Signify",
+      "group": "smart-controls",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://www.signify.com/api/assets/v1/file/Signify/content/Datasheet-Xitanium-LED-Transformer-G2-30W-24V/Datasheet-Xitanium-LED-Transformer-G2-30W-24V.pdf",
+        "https://www.signify.com/api/assets/v1/file/Signify/content/Datasheet-Xitanium-LED-Transformer-G2-60W-24V/Datasheet-Xitanium-LED-Transformer-G2-60W-24V.pdf",
+        "https://www.signify.com/api/assets/v1/file/Signify/content/Datasheet-Xitanium-LED-Transformer-G2-150W-24V/Datasheet-Xitanium-LED-Transformer-G2-150W-24V.pdf",
+        "https://www.signify.com/oem/en-ae/products/led-drivers/constant-voltage-drivers/signify-xitanium-led-transformer-24vdc-gen-2/929003463302_EU/product"
+      ],
+      "source_note": "Signify Xitanium LED Transformer G2 datasheets (30W, 60W, 150W); photos from page 1 of each datasheet.",
+      "original_images": [
+        "929003463302-1.jpg",
+        "929003463402-1.jpg",
+        "929003876402-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:51+04:00"
+    }
+  },
+  {
+    "id": "philips-xitanium-led-transformer-100w-td-24vdc-g2",
+    "sub": "drivers-power",
+    "name": "Xitanium LED Transformer 100W TD 24VDC G2 (DALI-2 / Touch & Dim)",
+    "brand": "Philips",
+    "category": "Drivers & control",
+    "use": "Slim 100W constant-voltage 24V DC LED driver with DALI-2 and Touch & Dim control, dimming from 1 to 100% at 2 kHz PWM. Its 350 x 30 x 18 mm body fits shelves, coves and joinery where dimmable LED strip is specified.",
+    "specs": [
+      "DALI-2",
+      "Touch & Dim",
+      "1-100% dimming",
+      "Slim 18 mm profile"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/philips-xitanium-led-transformer-100w-td-24vdc-g2.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xitanium LED Transformer G2"
+      },
+      {
+        "label": "Power",
+        "value": "30-100W (rated 100W)"
+      },
+      {
+        "label": "Voltage",
+        "value": "Input 220-240V AC (198-264V operational); output 24V DC constant voltage"
+      },
+      {
+        "label": "Current",
+        "value": "Rated output 4166 mA (1250-4166 mA range)"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Dimming",
+        "value": "DALI-2 and Touch & Dim; 1-100% (PWM 2 kHz)"
+      },
+      {
+        "label": "Driver",
+        "value": "Reinforced input-output isolation"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.95"
+      },
+      {
+        "label": "Lifetime",
+        "value": "50,000 hours"
+      },
+      {
+        "label": "Size",
+        "value": "350 x 30 x 18 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "260 g"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to +45°C ambient"
+      },
+      {
+        "label": "Efficiency",
+        "value": "92% at rated output"
+      },
+      {
+        "label": "Ripple",
+        "value": "≤ 1% (< 240 mVpp)"
+      },
+      {
+        "label": "Max cable length",
+        "value": "2.5 m"
+      },
+      {
+        "label": "Certification",
+        "value": "CB, CCC, CE, DALI 2, ENEC, KC, MM, RCM, SELV, UKCA"
+      }
+    ],
+    "photoNote": "Philips product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "9290 039 19880",
+    "applications": [
+      "Dimmable LED strip",
+      "Coves and shelves",
+      "Hospitality"
+    ],
+    "source": "https://www.signify.com/api/assets/v1/file/Signify/content/929003919880-Xi-LED-Transformer-100W-TD-24VDC-G2-PDS/45770.pdf",
+    "_meta": {
+      "feed": "drivers-philips-signify",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "smart-controls",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://www.signify.com/api/assets/v1/file/Signify/content/929003919880-Xi-LED-Transformer-100W-TD-24VDC-G2-PDS/45770.pdf"
+      ],
+      "source_note": "Philips Xi LED Transformer 100W TD 24VDC G2 datasheet (November 2024); photo from page 1 of the datasheet.",
+      "original_images": [
+        "929003919880-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:52+04:00"
+    }
+  },
+  {
+    "id": "philips-led-power-driver-24v-120-240v",
+    "sub": "drivers-power",
+    "name": "LED Power Driver 24V 120-240V",
+    "brand": "Philips",
+    "category": "Drivers & control",
+    "use": "Constant-voltage 24V DC LED power driver in 80W and 100W versions for retail display, shelf, cove and facade accent lighting. It accepts 120V or 230V mains, works from -30 to +60°C and carries UL Class 2 and SELV approvals.",
+    "specs": [
+      "24V DC constant voltage",
+      "120V and 230V input",
+      "UL Class 2 / SELV",
+      "-30 to +60°C operation"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/philips-led-power-driver-24v-120-240v.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "LED Power Driver"
+      },
+      {
+        "label": "Power",
+        "value": "2.4-80W / 2.4-100W"
+      },
+      {
+        "label": "Voltage",
+        "value": "Input 108-132V / 202-254V AC (performance range); output 24V DC constant voltage"
+      },
+      {
+        "label": "Current",
+        "value": "Output 0.1-3.3A (80W) / 0.1-4.16A (100W)"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Driver",
+        "value": "UL Class 2 / SELV"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.96 (80W) / 0.97 (100W) at 230V"
+      },
+      {
+        "label": "Lifetime",
+        "value": "50,000 hours"
+      },
+      {
+        "label": "Size",
+        "value": "241.3 x 43.1 x 30 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "640 g"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-30 to +60°C ambient"
+      },
+      {
+        "label": "Efficiency",
+        "value": "86% at 120V / 88% at 230V"
+      },
+      {
+        "label": "Max cable length",
+        "value": "2.5 m"
+      },
+      {
+        "label": "Certification",
+        "value": "CCC, CE, CSA, ENEC, RCM, SELV, UL Class 2, UL Recognized, VDE"
+      }
+    ],
+    "photoNote": "Philips product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "9290 016 69506",
+    "variants": [
+      {
+        "model": "9290 016 69406",
+        "power": "80W",
+        "size": "241.3 x 43.1 x 30 mm",
+        "note": "LED Power Driver 80W 24V 120-240V"
+      },
+      {
+        "model": "9290 016 69506",
+        "power": "100W",
+        "size": "241.3 x 43.1 x 30 mm",
+        "note": "LED Power Driver 100W 24V 120-240V"
+      }
+    ],
+    "applications": [
+      "Retail display",
+      "Cove lighting",
+      "Facade accent lighting",
+      "Refrigerated display"
+    ],
+    "source": "https://www.signify.com/api/assets/v1/file/Signify/content/LED_Power_Driver_100W_24V_120-240V/Datasheet_LED_Power_Driver_100W_24V_120_240V.pdf",
+    "_meta": {
+      "feed": "drivers-philips-signify",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "smart-controls",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://www.signify.com/api/assets/v1/file/Signify/content/LED_Power_Driver_100W_24V_120-240V/Datasheet_LED_Power_Driver_100W_24V_120_240V.pdf",
+        "https://www.signify.com/api/assets/v1/file/Signify/content/LEDPowerDriver80W-24V120-240V/LED_Power_Driver_80W_Datasheet.pdf"
+      ],
+      "source_note": "Philips LED Power Driver 100W and 80W datasheets (2021); both datasheets use the same product photo (page 1).",
+      "original_images": [
+        "929001669506-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:52+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-13a-dp-switched-socket",
+    "sub": "switches-sockets",
+    "name": "Logic Plus 13A DP Switched Socket",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "White Logic Plus 13A double-pole switched socket for BS 1363 installations in villas, apartments and offices. It has a child-resistant 3-pin shutter and an antibacterial urea-formaldehyde moulding. Available in 1-gang and 2-gang versions.",
+    "specs": [
+      "Child-resistant 3-pin shutter",
+      "Neutral make-first, break-last",
+      "Antibacterial moulding",
+      "Double-pole switching"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-13a-dp-switched-socket.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP2XD"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm (1-gang) / 86 x 146 mm (2-gang)"
+      },
+      {
+        "label": "Material",
+        "value": "Urea formaldehyde (antibacterial, ISO 22196 tested)"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush; fixing centres 60.3 mm (1-gang) / 120.6 mm (2-gang)"
+      },
+      {
+        "label": "Poles",
+        "value": "2 (double pole)"
+      },
+      {
+        "label": "Rated current",
+        "value": "13A"
+      },
+      {
+        "label": "Gang",
+        "value": "1-gang (K2757WHI) / 2-gang (K2747WHI)"
+      },
+      {
+        "label": "Terminal capacity",
+        "value": "3 x 2.5 mm² / 3 x 4 mm² / 2 x 6 mm²"
+      },
+      {
+        "label": "Standard",
+        "value": "BS 1363-2:2016+A1:2018"
+      }
+    ],
+    "photoNote": "Official MK product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K2757WHI",
+    "variants": [
+      {
+        "model": "K2757WHI",
+        "size": "86 x 86 mm",
+        "note": "1-gang DP with dual earth terminals"
+      },
+      {
+        "model": "K2747WHI",
+        "size": "86 x 146 mm",
+        "note": "2-gang DP"
+      }
+    ],
+    "gallery": [
+      "/products/feed/electrical/mk-logic-plus-13a-dp-switched-socket-2.webp"
+    ],
+    "applications": [
+      "Residential",
+      "Offices",
+      "Hotels",
+      "Schools"
+    ],
+    "source": "https://buildings.honeywell.com/ae/en/products/by-category/electrical-and-wiring/wiring-devices/sockets/switchsockets/mk-electric-switchsocket",
+    "_meta": {
+      "feed": "electrical-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://buildings.honeywell.com/ae/en/products/by-category/electrical-and-wiring/wiring-devices/sockets/switchsockets/mk-electric-switchsocket",
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf"
+      ],
+      "source_note": "Specs from the Honeywell (MK Electric) UAE switchsocket page and the MK Logic Plus Middle East brochure 2022.",
+      "original_images": [
+        "K2757WHI-1.jpg",
+        "K2747WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:52+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-2g-switched-socket-2-usb",
+    "sub": "switches-sockets",
+    "name": "Logic Plus 13A 2-Gang Switched Socket with 2 USB Ports",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 2-gang double-pole 13A switched socket with two built-in USB charging ports and dual earth terminals. It lets phones and tablets charge without an adaptor, which suits bedrooms, offices and hotel rooms.",
+    "specs": [
+      "2 USB charging ports",
+      "Dual earth terminals",
+      "Double-pole switching"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-2g-switched-socket-2-usb.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 146 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Rated current",
+        "value": "13A"
+      },
+      {
+        "label": "Gang",
+        "value": "2"
+      },
+      {
+        "label": "USB output",
+        "value": "2 USB charging ports, each capable of 2A (2A total)"
+      },
+      {
+        "label": "Standard",
+        "value": "BS 5733:2010"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K2744WHI",
+    "applications": [
+      "Bedrooms",
+      "Hotel rooms",
+      "Offices"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k2744whi-front"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, 13A switched sockets page.",
+      "original_images": [
+        "K2744WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:52+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-2g-switched-socket-usb-a-c",
+    "sub": "switches-sockets",
+    "name": "Logic Plus 13A 2-Gang Switched Socket with USB-A + USB-C",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 2-gang double-pole 13A switched socket with outboard rockers, a 2-port USB-A and USB-C charger and a dual earth terminal. It is a tidy fit for desks, bedside positions and hospitality projects.",
+    "specs": [
+      "USB-A + USB-C charger",
+      "Outboard rockers",
+      "Dual earth terminal"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-2g-switched-socket-usb-a-c.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 146 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush; fixing centres 120.6 mm"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Rated current",
+        "value": "13A"
+      },
+      {
+        "label": "Gang",
+        "value": "2"
+      },
+      {
+        "label": "USB output",
+        "value": "2-port USB A + C charger"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K2745WHI",
+    "applications": [
+      "Bedrooms",
+      "Hotel rooms",
+      "Offices"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k2745whi-front"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, outboard-rocker sockets page. USB output current not stated for this model.",
+      "original_images": [
+        "K2745WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:52+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-10a-2-way-plateswitch",
+    "sub": "switches-sockets",
+    "name": "Logic Plus 10A 2-Way Plateswitch",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 10A single-pole plateswitch that can be wired one-way or two-way, from 1 to 6 gangs. It needs no derating for fluorescent or inductive loads, so it suits general lighting circuits in residential and commercial fit-outs.",
+    "specs": [
+      "No derating for fluorescent / inductive loads",
+      "1-way or 2-way wiring",
+      "3 mm contact gap",
+      "Antibacterial moulding"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-10a-2-way-plateswitch.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm (1-3 gang) / 86 x 146 mm (4 & 6 gang)"
+      },
+      {
+        "label": "Material",
+        "value": "Urea formaldehyde (antibacterial, ISO 22196 tested)"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush; fixing centres 60.3 mm (1-3 gang) / 120.6 mm (4 & 6 gang)"
+      },
+      {
+        "label": "Poles",
+        "value": "Single pole"
+      },
+      {
+        "label": "Rated current",
+        "value": "10A"
+      },
+      {
+        "label": "Gang",
+        "value": "1, 2, 3, 4 or 6"
+      },
+      {
+        "label": "Ways",
+        "value": "2-way (can be wired 1-way or 2-way)"
+      },
+      {
+        "label": "Contact gap",
+        "value": "3 mm"
+      },
+      {
+        "label": "Standard",
+        "value": "BS EN 60669-1:1999"
+      },
+      {
+        "label": "Warranty",
+        "value": "30-year guarantee"
+      }
+    ],
+    "photoNote": "Official MK product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K4871WHI",
+    "variants": [
+      {
+        "model": "K4871WHI",
+        "size": "86 x 86 mm",
+        "note": "1-gang"
+      },
+      {
+        "model": "K4872WHI",
+        "size": "86 x 86 mm",
+        "note": "2-gang"
+      },
+      {
+        "model": "K4873SAWHI",
+        "size": "86 x 86 mm",
+        "note": "3-gang"
+      },
+      {
+        "model": "K4874WHI",
+        "size": "86 x 146 mm",
+        "note": "4-gang"
+      },
+      {
+        "model": "K4879WHI",
+        "size": "86 x 146 mm",
+        "note": "6-gang"
+      }
+    ],
+    "gallery": [
+      "/products/feed/electrical/mk-logic-plus-10a-2-way-plateswitch-2.webp"
+    ],
+    "applications": [
+      "Residential",
+      "Offices",
+      "Retail fit-outs"
+    ],
+    "source": "https://buildings.honeywell.com/ae/en/products/by-category/electrical-and-wiring/wiring-devices/switches/wall-switches/logic-plus-plateswitches",
+    "_meta": {
+      "feed": "electrical-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://buildings.honeywell.com/ae/en/products/by-category/electrical-and-wiring/wiring-devices/switches/wall-switches/logic-plus-plateswitches",
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf"
+      ],
+      "source_note": "Honeywell (MK Electric) UAE plateswitch page; gang options and sizes from the MK Logic Plus Middle East brochure 2022.",
+      "original_images": [
+        "K4871WHI-1.jpg",
+        "K4872WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:52+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-20a-dp-switch-flex-outlet-neon",
+    "sub": "switches-sockets",
+    "name": "Logic Plus 20A DP Switch with Flex Outlet and Neon",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 20A double-pole switch with a neon indicator and a flex outlet in the base. It is suited to the local isolation of fixed appliances such as water heaters.",
+    "specs": [
+      "Neon indicator",
+      "Flex outlet in base",
+      "Double-pole isolation"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-20a-dp-switch-flex-outlet-neon.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush; fixing centres 60.3 mm"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Rated current",
+        "value": "20A"
+      },
+      {
+        "label": "Gang",
+        "value": "1"
+      },
+      {
+        "label": "Standard",
+        "value": "BS EN 60669-1:1999"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K5423WHI",
+    "applications": [
+      "Water heaters",
+      "Kitchens",
+      "Fixed appliances"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k5423whi-front"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, 20A DP switches page.",
+      "original_images": [
+        "K5423WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:52+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-45a-cooker-control-unit-13a-socket",
+    "sub": "switches-sockets",
+    "name": "Logic Plus 45A DP Cooker Control Unit with 13A Switched Socket",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus flush cooker control unit with a 45A double-pole main switch and a 13A switched socket on one plate. It is used for cooker and hob circuits in residential and serviced-apartment kitchens.",
+    "specs": [
+      "45A DP cooker switch",
+      "13A switched socket",
+      "Moulded flush plate"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-45a-cooker-control-unit-13a-socket.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 146 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush (moulded); fixing centres 120.6 mm; boxes 886ZIC / 878ZIC"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Rated current",
+        "value": "45A (cooker switch) + 13A (socket)"
+      },
+      {
+        "label": "Standard",
+        "value": "BS 4177:1992"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K5060WHI",
+    "applications": [
+      "Kitchens",
+      "Residential",
+      "Serviced apartments"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k5060whi-front"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, cooker control units page.",
+      "original_images": [
+        "K5060WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:52+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-intelligent-led-dimmer-1g-double-2-way",
+    "sub": "switches-sockets",
+    "name": "Logic Plus Intelligent LED Dimmer, 1-Gang Double, 2-Way",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus double intelligent dimmer for dimmable LED and low-voltage halogen lamps, with soft start and an adjustable minimum brightness. Rated 40W/VA to 300W/240VA (LED 4-70W), it suits villas, hotel rooms and meeting rooms.",
+    "specs": [
+      "Soft start",
+      "Adjustable minimum brightness",
+      "Max 10 lamps",
+      "Do not mix load types"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-intelligent-led-dimmer-1g-double-2-way.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Power",
+        "value": "40W/VA - 300W/240VA; LED 4-70W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220-240V AC 50Hz"
+      },
+      {
+        "label": "Dimming",
+        "value": "Intelligent dimmer with soft start; adjustable minimum brightness"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Urea formaldehyde (antibacterial, ISO 22196 tested)"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush (861ZIC, 25 mm deep min) or surface (K2140WHI, 30 mm deep); fixing centres 60.3 mm"
+      },
+      {
+        "label": "Gang",
+        "value": "1-gang double"
+      },
+      {
+        "label": "Ways",
+        "value": "2-way"
+      },
+      {
+        "label": "Standard",
+        "value": "BS EN 60669-2-1"
+      },
+      {
+        "label": "Warranty",
+        "value": "10-year guarantee"
+      }
+    ],
+    "photoNote": "Official MK product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K1524WHILV",
+    "applications": [
+      "Villas",
+      "Hotel rooms",
+      "Meeting rooms"
+    ],
+    "source": "https://buildings.honeywell.com/ae/en/products/by-category/electrical-and-wiring/wiring-devices/dimmers/logic-plus-intelligent-dimmers",
+    "_meta": {
+      "feed": "electrical-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://buildings.honeywell.com/ae/en/products/by-category/electrical-and-wiring/wiring-devices/dimmers/logic-plus-intelligent-dimmers",
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf"
+      ],
+      "source_note": "Honeywell (MK Electric) UAE dimmer page; ratings from the MK Logic Plus Middle East brochure 2022 (dimmers page).",
+      "original_images": [
+        "K1524WHILV-1.jpg"
+      ],
+      "ingested_at": "2026-10-06T14:12:52+04:00"
+    }
+  }
+]

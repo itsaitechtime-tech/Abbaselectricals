@@ -77,7 +77,7 @@ export default async function ProductPage({ params }: { params: Promise<Params> 
               {item.photo ? (
                 <Gallery
                   images={[item.photo, ...item.gallery]}
-                  alt={isBrand ? `${brand} ${item.name}` : item.name}
+                  alt={isBrand ? `${item.brandLabel ?? brand} ${item.name}` : item.name}
                   tag={item.sub.name}
                   contain={cutout}
                 />
@@ -109,7 +109,7 @@ export default async function ProductPage({ params }: { params: Promise<Params> 
                 <div className="mb-3 flex flex-wrap items-center gap-2 text-xs text-zinc-500">
                   <BrandBadge item={item} className="!text-[0.66rem] !px-2 !py-1" />
                   <span>
-                    Brand: <span className="font-semibold text-ink">{brand}</span>
+                    Brand: <span className="font-semibold text-ink">{item.brandLabel ?? brand}</span>
                     {item.model && (
                       <>
                         {" "}· Model: <span className="font-semibold text-ink">{item.model}</span>

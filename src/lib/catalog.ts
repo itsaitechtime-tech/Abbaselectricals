@@ -30,7 +30,10 @@ export type IconKey =
   | "shower"
   | "basin"
   | "wc"
-  | "towel";
+  | "towel"
+  | "streetlight"
+  | "heater"
+  | "cistern";
 
 export type SubCategory = {
   slug: string;
@@ -231,6 +234,13 @@ export const allGroups: Group[] = [
         image: `${S}/p-bollard.webp`,
         productIds: ["lum-garden-pole"],
       },
+      {
+        slug: "street-lights",
+        name: "Street Lights",
+        blurb: "Road, car-park and compound street lighting on poles.",
+        icon: "streetlight",
+        productIds: [],
+      },
     ],
   },
   {
@@ -371,6 +381,8 @@ export const allGroups: Group[] = [
       { slug: "basins", name: "Basins", blurb: "Countertop, wall-hung and pedestal basins.", icon: "basin", productIds: [] },
       { slug: "wcs", name: "WCs", blurb: "Wall-hung and floor-standing WCs, cisterns and seats.", icon: "wc", productIds: [] },
       { slug: "bathroom-accessories", name: "Bathroom Accessories", blurb: "Towel rails, holders, shelves and fittings.", icon: "towel", productIds: [] },
+      { slug: "water-heaters", name: "Water Heaters", blurb: "Electric storage and instant water heaters.", icon: "heater", productIds: [] },
+      { slug: "concealed-cisterns", name: "Concealed Cisterns", blurb: "In-wall cisterns, frames and flush plates for wall-hung WCs.", icon: "cistern", productIds: [] },
     ],
   },
 ];
@@ -496,6 +508,13 @@ if (catalog.length !== products.length) {
   throw new Error(`catalog: unmapped products ${missing.join(", ")}`);
 }
 
+// Sub-categories without their own tile image (e.g. feed-filled ones) use their first product photo.
+for (const g of groups) {
+  for (const s of g.subs) {
+    if (!s.image) s.image = catalog.find((c) => c.sub.slug === s.slug && c.photo)?.photo;
+  }
+}
+
 /** Group banner, falling back to the first product photo when the group has no banner of its own. */
 export function groupBanner(g: Group): string {
   return g.banner ?? catalog.find((c) => c.group.slug === g.slug && c.photo)?.photo ?? `${S}/banner-products.webp`;
@@ -540,7 +559,7 @@ export function findItem(id: string) {
 /** Name used in the WhatsApp quote message — prefixed with the brand for FSL / Enlight items. */
 export function quoteName(p: Product) {
   const b = brandOf(p);
-  return b === "Barq Lumi" ? p.name : `${b} ${p.name}`;
+  return b === "Barq Lumi" ? p.name : `${p.brandLabel ?? b} ${p.name}`;
 }
 
 export function quoteHref(name: string) {

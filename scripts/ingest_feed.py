@@ -49,6 +49,11 @@ SPEC_KEYS = {
     # electrical
     "poles": "Poles", "rated_current": "Rated current", "breaking_capacity": "Breaking capacity",
     "gang": "Gang", "ways": "Ways", "curve": "Tripping curve", "sensitivity": "Sensitivity",
+    "usb_output": "USB output", "contact_gap": "Contact gap", "terminal_capacity": "Terminal capacity",
+    "surge_protection": "Surge protection",
+    # drivers & controls
+    "outputs": "Outputs", "protocols": "Protocols", "dry_contact_inputs": "Dry contact inputs",
+    "efficiency": "Efficiency", "ripple": "Ripple", "max_cable_length": "Max cable length",
     # sanitary
     "flow_rate": "Flow rate", "pressure": "Working pressure", "cartridge": "Cartridge",
     "connection": "Connection", "spout": "Spout", "projection": "Projection", "flush": "Flush",
@@ -63,6 +68,26 @@ SPEC_ALIASES = {"power": "wattage", "watts": "wattage", "lumen": "lumens", "flux
 VARIANT_FIELDS = {"model": "model", "wattage": "power", "power": "power", "lumens": "lumens",
                   "intensity": "intensity", "size": "size", "beam_angle": "beam", "beam": "beam",
                   "note": "note"}
+
+# Brand display mapping (applied at ingest; feed files keep the manufacturer's own badge).
+# feed brand (case-insensitive) -> (brand shown on the site / filter chip / badge, fuller label for the product page)
+BRAND_MAP = {
+    "signify": ("Philips", "Philips (Signify)"),
+    "philips (signify)": ("Philips", "Philips (Signify)"),
+    "signify dynalite": ("Philips", "Philips Dynalite"),
+    "dynalite": ("Philips", "Philips Dynalite"),
+    "philips dynalite": ("Philips", "Philips Dynalite"),
+}
+
+
+def map_brand(p):
+    """Returns (site brand, product-page label or None)."""
+    raw = str(p.get("brand", "")).strip()
+    brand, label = BRAND_MAP.get(raw.lower(), (raw, None))
+    if p.get("brand_label"):
+        label = str(p["brand_label"]).strip()
+    return brand, (label if label and label != brand else None)
+
 
 PRICE_RE = re.compile(r"(?i)(\b(aed|usd|eur|gbp|dhs?|dirhams?|prices?|priced|pricing|msrp|rrp|discount|vat\s+incl\w*)\b|[$€£])")
 QUOTE_RE = re.compile(r"(?i)\b(quotation|quote\s*(no|number|ref)|q[-/ ]?\d{3,}|lpo|invoice)\b")
@@ -140,7 +165,7 @@ def check_image(path):
     if min(w, h) < 400:
         errs.append(f"image {path.name}: {w}x{h}px is too small (min 400px, 800px+ preferred)")
     elif min(w, h) < 800:
-        warns.append(f"image {path.name}: {w}x{h}px is under the preferred 800px")
+        warns.append(f"image {path.name}: {w}x{h}px short side is under the preferred 800px (used without upscaling)")
     rgb = flatten(im)
     border = [rgb.getpixel((x, y)) for x in range(0, w, max(1, w // 50)) for y in (0, h - 1)] + \
              [rgb.getpixel((x, y)) for y in range(0, h, max(1, h // 50)) for x in (0, w - 1)]
@@ -173,22 +198,32 @@ def whiten(im, lo=246):
     return Image.composite(Image.new("RGB", im.size, (255, 255, 255)), im, m)
 
 
+def pure_white_border(im):
+    w, h = im.size
+    g = im.convert("L")
+    px = [g.getpixel((x, y)) for x in range(0, w, 3) for y in (0, h - 1)] + \
+         [g.getpixel((x, y)) for y in range(0, h, 3) for x in (0, w - 1)]
+    return sum(1 for p in px if p >= 250) / len(px) >= 0.98
+
+
 def process_image(src, dst):
-    """Trim to the product, whiten the border-connected background, fit uncropped at 84% of a
-    1000x1000 white canvas, save WebP q86."""
+    """Trim to the product, whiten an off-white border-connected background, fit uncropped within
+    84% of a 1000x1000 white canvas (downscale only, never upscale), save WebP q86."""
     im = flatten(Image.open(src))
     bg = Image.new("RGB", im.size, (255, 255, 255))
     diff = ImageChops.difference(im, bg).convert("L").point(lambda p: 255 if p > 5 else 0).filter(ImageFilter.MedianFilter(5))
     bbox = diff.getbbox() or (0, 0, im.width, im.height)
     pad = 4
     bbox = (max(0, bbox[0] - pad), max(0, bbox[1] - pad), min(im.width, bbox[2] + pad), min(im.height, bbox[3] + pad))
-    im = whiten(im.crop(bbox))
+    im = im.crop(bbox)
+    if not pure_white_border(im):  # already pure white: skip, so white products keep their edges
+        im = whiten(im)
     S, inner = 1000, 840
-    scale = inner / max(im.size)
+    # Downscale to fit; never upscale (small sources are padded onto the white canvas instead).
+    scale = min(1.0, inner / max(im.size))
     nw, nh = max(1, round(im.width * scale)), max(1, round(im.height * scale))
-    im = im.resize((nw, nh), Image.LANCZOS)
-    if scale > 1.2:
-        im = im.filter(ImageFilter.UnsharpMask(radius=1.6, percent=60, threshold=2))
+    if scale < 1.0:
+        im = im.resize((nw, nh), Image.LANCZOS)
     canvas = Image.new("RGB", (S, S), (255, 255, 255))
     canvas.paste(im, ((S - nw) // 2, (S - nh) // 2))
     dst.parent.mkdir(parents=True, exist_ok=True)
@@ -320,7 +355,8 @@ def validate(p, folder, subs, vsubs):
     return errs, warns, rows, volt
 
 
-def photo_note(brand, st):
+def photo_note(brand, st, label=None):
+    brand = label or brand
     if brand == "Barq Lumi":
         return "Catalogue photo of the product type. Exact product photos and datasheets on request."
     if st == "brand_site":
@@ -354,19 +390,22 @@ def build_entry(p, folder, rows, volt, subs):
         if extra:
             nv["note"] = "; ".join(([nv["note"]] if "note" in nv else []) + extra)
         variants.append(nv)
+    brand, label = map_brand(p)
     entry = {
         "id": p["slug"],
         "sub": sub,
         "name": p["name"].strip(),
-        "brand": p["brand"].strip(),
+        "brand": brand,
         "category": internal_category(bg, sub),
         "use": p["description"].strip(),
         "specs": [x.strip() for x in p.get("features") or []][:8],
         "tone": "soft" if bg == "lighting" else "silver",
         "image": out_imgs[0][2],
         "specRows": rows,
-        "photoNote": photo_note(p["brand"].strip(), p["source_type"]),
+        "photoNote": photo_note(brand, p["source_type"], label),
     }
+    if label:
+        entry["brandLabel"] = label
     if p.get("model"):
         entry["model"] = str(p["model"]).strip()
     if variants:
@@ -379,7 +418,7 @@ def build_entry(p, folder, rows, volt, subs):
         entry["source"] = p["source_urls"][0]
     if volt:
         entry["voltage"] = volt
-    meta = {"feed": folder.name, "brand_group": bg, "group": group, "source_type": p["source_type"],
+    meta = {"feed": folder.name, "brand_group": bg, "feed_brand": p["brand"].strip(), "group": group, "source_type": p["source_type"],
             "source_urls": p.get("source_urls") or [], "source_note": p.get("source_note"),
             "original_images": [str(f) for f in p["images"]],
             "ingested_at": datetime.datetime.now().astimezone().isoformat(timespec="seconds")}
@@ -471,17 +510,18 @@ def main():
                 invalid.append((folder.name, label, errs)); continue
             key_models = [m for m in [p.get("model")] + [v.get("model") for v in p.get("variants") or []] if m]
             dup = None
+            site_brand = map_brand(p)[0].lower()
             if p["slug"] in seen_slugs:
                 dup = f"slug '{p['slug']}' already on the site"
             else:
                 for m in key_models:
-                    if (p["brand"].strip().lower(), norm_model(m)) in seen_models:
-                        dup = f"{p['brand']} {m} already on the site"; break
+                    if (site_brand, norm_model(m)) in seen_models:
+                        dup = f"{map_brand(p)[0]} {m} already on the site"; break
             if dup:
                 skipped.append((folder.name, label, dup)); continue
             entry, imgs, meta = build_entry(p, folder, rows, volt, subs)
             seen_slugs.add(p["slug"])
-            seen_models.update((p["brand"].strip().lower(), norm_model(m)) for m in key_models)
+            seen_models.update((site_brand, norm_model(m)) for m in key_models)
             new_entries.append((entry, imgs, meta))
             added.append((folder.name, label, f"{meta['group']}/{entry['sub']} · {entry['brand']}"))
             warnings += [(folder.name, label, w) for w in warns]

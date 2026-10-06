@@ -196,6 +196,31 @@ export function CategoryIcon({ icon, className = "h-12 w-12" }: { icon: IconKey;
           <path d="M10 20h28a14 12 0 0 1-14 12h-6l2 8h-8z" />
         </svg>
       );
+    case "streetlight":
+      return (
+        <svg {...common}>
+          <path d="M14 42V12a4 4 0 0 1 4-4h12" />
+          <path d="M26 8h12l-2 5H28z" />
+          <path d="M10 42h8" />
+        </svg>
+      );
+    case "heater":
+      return (
+        <svg {...common}>
+          <rect x="14" y="6" width="20" height="32" rx="6" />
+          <path d="M20 42v-4M28 42v-4" />
+          <circle cx="24" cy="16" r="2.5" />
+        </svg>
+      );
+    case "cistern":
+      return (
+        <svg {...common}>
+          <rect x="10" y="10" width="28" height="18" rx="2" />
+          <rect x="18" y="15" width="5" height="8" rx="1" />
+          <rect x="25" y="15" width="5" height="8" rx="1" />
+          <path d="M24 28v12" />
+        </svg>
+      );
     case "towel":
       return (
         <svg {...common}>

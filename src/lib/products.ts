@@ -52,6 +52,8 @@ export type Product = {
   image?: string;
   /** Brand line. Omitted = Barq Lumi's own specified range. */
   brand?: Brand;
+  /** Fuller brand text for the product page, e.g. "Philips Dynalite" (badge/filter still use `brand`). */
+  brandLabel?: string;
   /** Single model code (when the product has no variants). */
   model?: string;
   /** Spec table copied from the manufacturer / distributor source (brand products). */
