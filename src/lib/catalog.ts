@@ -1,6 +1,7 @@
 import { brandProducts } from "@/lib/brand-products";
 import { facadeProducts } from "@/lib/facade-products";
-import { brandOf, brands, products, voltageOf, voltages, type Brand, type Product } from "@/lib/products";
+import { feedProducts } from "@/lib/feed-products";
+import { brandOf, brandOrder, products, voltageOf, voltages, type Brand, type Product } from "@/lib/products";
 import { site } from "@/lib/site";
 
 /**
@@ -23,7 +24,13 @@ export type IconKey =
   | "driver"
   | "control"
   | "accessory"
-  | "breaker";
+  | "breaker"
+  | "socket"
+  | "tap"
+  | "shower"
+  | "basin"
+  | "wc"
+  | "towel";
 
 export type SubCategory = {
   slug: string;
@@ -37,21 +44,28 @@ export type SubCategory = {
   productIds: string[];
 };
 
+export type BrandGroup = "lighting" | "electrical" | "sanitary";
+
 export type Group = {
   slug: string;
   name: string;
   eyebrow: string;
   blurb: string;
-  banner: string;
+  /** Lighting is the core business and always renders first; electrical and sanitary follow. */
+  brandGroup: BrandGroup;
+  /** Banner photo; falls back to the first product photo in the group. */
+  banner?: string;
   subs: SubCategory[];
 };
 
 const S = "/images/stock";
 const FA = "/products/catalog-facade";
 
-export const groups: Group[] = [
+/** Every group and sub-category, including empty ones (valid feed slugs). Use `groups` for rendering. */
+export const allGroups: Group[] = [
   {
     slug: "indoor",
+    brandGroup: "lighting",
     name: "Indoor",
     eyebrow: "Interior lighting",
     blurb: "Downlights, track, linear profiles and LED strip for villas, offices and retail interiors.",
@@ -159,6 +173,7 @@ export const groups: Group[] = [
   },
   {
     slug: "outdoor",
+    brandGroup: "lighting",
     name: "Outdoor",
     eyebrow: "Façade & landscape",
     blurb: "Wall washers, in-ground, outdoor linear and garden lighting rated for UAE conditions.",
@@ -220,6 +235,7 @@ export const groups: Group[] = [
   },
   {
     slug: "facade-architectural",
+    brandGroup: "lighting",
     name: "Façade & Architectural",
     eyebrow: "Façade lighting",
     blurb: "24V DC linear façade lights in single colour, RGB and RGBW with DMX — for building outlines, bridges and landmarks.",
@@ -247,6 +263,7 @@ export const groups: Group[] = [
   },
   {
     slug: "decorative",
+    brandGroup: "lighting",
     name: "Decorative",
     eyebrow: "Colour & effect",
     blurb: "RGB, pixel and neon-flex for entertainment rooms, signage and feature façades.",
@@ -280,6 +297,7 @@ export const groups: Group[] = [
   },
   {
     slug: "smart-controls",
+    brandGroup: "lighting",
     name: "Smart & Controls",
     eyebrow: "Power & control",
     blurb: "Drivers, DMX control and the accessories that make a lighting system work.",
@@ -311,12 +329,20 @@ export const groups: Group[] = [
     ],
   },
   {
-    slug: "electrical-sanitary",
-    name: "Electrical & Sanitary",
+    slug: "electrical",
+    brandGroup: "electrical",
+    name: "Electrical",
     eyebrow: "Electrical package",
-    blurb: "Distribution and switchgear coordinated with the lighting package. Sanitary ware on request.",
+    blurb: "Switches, sockets, distribution and electrical accessories, coordinated with the lighting package.",
     banner: `${S}/cat-electrical-package.webp`,
     subs: [
+      {
+        slug: "switches-sockets",
+        name: "Switches & Sockets",
+        blurb: "Wiring devices — switches, sockets and weatherproof outlets.",
+        icon: "socket",
+        productIds: [],
+      },
       {
         slug: "distribution",
         name: "Distribution & Switchgear",
@@ -324,14 +350,35 @@ export const groups: Group[] = [
         icon: "breaker",
         productIds: ["elec-smdb"],
       },
+      {
+        slug: "electrical-accessories",
+        name: "Electrical Accessories",
+        blurb: "Enclosures, isolators, cable management and fixing accessories.",
+        icon: "accessory",
+        productIds: [],
+      },
+    ],
+  },
+  {
+    slug: "sanitary",
+    brandGroup: "sanitary",
+    name: "Sanitary & Bathroom",
+    eyebrow: "Sanitary ware",
+    blurb: "Mixers, showers, basins, WCs and bathroom accessories from established sanitary brands.",
+    subs: [
+      { slug: "mixers-taps", name: "Mixers & Taps", blurb: "Basin, kitchen and bath mixers and taps.", icon: "tap", productIds: [] },
+      { slug: "showers", name: "Showers", blurb: "Shower mixers, heads, rails and systems.", icon: "shower", productIds: [] },
+      { slug: "basins", name: "Basins", blurb: "Countertop, wall-hung and pedestal basins.", icon: "basin", productIds: [] },
+      { slug: "wcs", name: "WCs", blurb: "Wall-hung and floor-standing WCs, cisterns and seats.", icon: "wc", productIds: [] },
+      { slug: "bathroom-accessories", name: "Bathroom Accessories", blurb: "Towel rails, holders, shelves and fittings.", icon: "towel", productIds: [] },
     ],
   },
 ];
 
-// Attach FSL / Enlight products to their sub-categories (after Barq Lumi's own lines).
+// Attach FSL / Enlight, façade and feed products to their sub-categories (after Barq Lumi's own lines).
 {
-  const subsBySlug = new Map(groups.flatMap((g) => g.subs.map((sub) => [sub.slug, sub] as const)));
-  for (const bp of [...facadeProducts, ...brandProducts]) {
+  const subsBySlug = new Map(allGroups.flatMap((g) => g.subs.map((sub) => [sub.slug, sub] as const)));
+  for (const bp of [...facadeProducts, ...brandProducts, ...feedProducts]) {
     const sub = subsBySlug.get(bp.sub);
     if (!sub) throw new Error(`catalog: unknown sub-category ${bp.sub} for ${bp.id}`);
     sub.productIds.push(bp.id);
@@ -403,6 +450,18 @@ const extraImages: Record<string, string[]> = {
   "led-smd-2700": [`${S}/p-strip-reel.webp`],
 };
 
+/**
+ * Groups and sub-categories that render publicly: empty sub-categories and groups are hidden
+ * automatically, and lighting groups come first.
+ */
+const ORDER: BrandGroup[] = ["lighting", "electrical", "sanitary"];
+export const groups: Group[] = allGroups
+  .map((g) => ({ ...g, subs: g.subs.filter((s) => s.productIds.length > 0) }))
+  .filter((g) => g.subs.length > 0)
+  .sort((a, b) => ORDER.indexOf(a.brandGroup) - ORDER.indexOf(b.brandGroup));
+export const lightingGroups = groups.filter((g) => g.brandGroup === "lighting");
+export const otherGroups = groups.filter((g) => g.brandGroup !== "lighting");
+
 export type CatalogItem = Product & {
   group: Group;
   sub: SubCategory;
@@ -437,11 +496,16 @@ if (catalog.length !== products.length) {
   throw new Error(`catalog: unmapped products ${missing.join(", ")}`);
 }
 
+/** Group banner, falling back to the first product photo when the group has no banner of its own. */
+export function groupBanner(g: Group): string {
+  return g.banner ?? catalog.find((c) => c.group.slug === g.slug && c.photo)?.photo ?? `${S}/banner-products.webp`;
+}
+
 export const brandCount = (b: Brand) => catalog.filter((c) => brandOf(c) === b).length;
 
 /** Brands present in a list of items, in display order, with counts. */
 export function brandsIn(items: CatalogItem[]) {
-  return brands
+  return brandOrder(items.map(brandOf))
     .map((b) => ({ brand: b, count: items.filter((i) => brandOf(i) === b).length }))
     .filter((x) => x.count > 0);
 }

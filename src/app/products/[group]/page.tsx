@@ -5,7 +5,7 @@ import { BrandFilter } from "@/components/BrandFilter";
 import { HelpBand, SubTile } from "@/components/Catalog";
 import { ProductCard } from "@/components/ProductCard";
 import { Container, PageBanner } from "@/components/Section";
-import { brandsIn, catalog, findGroup, groupCount, groups } from "@/lib/catalog";
+import { brandsIn, catalog, findGroup, groupBanner, groupCount, groups } from "@/lib/catalog";
 
 type Params = { group: string };
 
@@ -33,7 +33,7 @@ export default async function GroupPage({ params }: { params: Promise<Params> })
   return (
     <>
       <PageBanner
-        image={g.banner}
+        image={groupBanner(g)}
         alt={`${g.name} lighting`}
         crumbs={[{ href: "/", label: "Home" }, { href: "/products/", label: "Products" }, { label: g.name }]}
         eyebrow={g.eyebrow}

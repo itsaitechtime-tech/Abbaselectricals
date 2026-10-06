@@ -152,17 +152,4 @@ a {
 }
 }
 
-/* Brand filter (BrandFilter.tsx): hide cards that don't match the active chip */
-[data-brand-filter="FSL"] [data-brand]:not([data-brand="FSL"]),
-[data-brand-filter="Enlight"] [data-brand]:not([data-brand="Enlight"]),
-[data-brand-filter="Barq Lumi"] [data-brand]:not([data-brand="Barq Lumi"]) {
-  display: none;
-}
-
-/* Voltage filter (strip listings): hide cards whose data-voltage doesn't match */
-[data-volt-filter="220V"] [data-brand]:not([data-voltage="220V"]),
-[data-volt-filter="48V"] [data-brand]:not([data-voltage="48V"]),
-[data-volt-filter="24V"] [data-brand]:not([data-voltage="24V"]),
-[data-volt-filter="12V"] [data-brand]:not([data-voltage="12V"]) {
-  display: none;
-}
+/* Brand / voltage filters: BrandFilter.tsx injects a scoped rule for the active chips. */

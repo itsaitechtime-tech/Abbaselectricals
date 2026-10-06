@@ -115,7 +115,7 @@ export default async function ProductPage({ params }: { params: Promise<Params> 
                         {" "}· Model: <span className="font-semibold text-ink">{item.model}</span>
                       </>
                     )}
-                    {variants.length > 0 && <> · {variants.length} models</>}
+                    {variants.length > 0 && <> · {variants.length} {variants.length === 1 ? "model" : "models"}</>}
                   </span>
                 </div>
               )}

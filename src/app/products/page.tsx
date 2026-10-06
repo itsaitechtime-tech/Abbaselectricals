@@ -3,11 +3,11 @@ import Link from "next/link";
 import { ArrowIcon } from "@/components/Icons";
 import { HelpBand, SubTile } from "@/components/Catalog";
 import { Container, PageBanner, SectionTitle } from "@/components/Section";
-import { groupCount, groups, subCount, totalProducts } from "@/lib/catalog";
+import { groupCount, groups, otherGroups, subCount, totalProducts } from "@/lib/catalog";
 
 export const metadata: Metadata = {
   title: "Products",
-  description: `Barq Lumi product catalogue — ${totalProducts} products across indoor, outdoor, decorative, smart & controls and electrical. Specified, supplied and installed in the UAE. Quotes on request.`,
+  description: `Barq Lumi product catalogue — ${totalProducts} products across ${subCount} categories. Specified, supplied and installed in the UAE. Quotes on request.`,
   alternates: { canonical: "/products/" },
 };
 
@@ -32,7 +32,13 @@ export default function ProductsPage() {
       />
 
       {groups.map((g, gi) => (
-        <section key={g.slug} className={gi % 2 === 0 ? "bg-white py-16 md:py-24" : "bg-zinc-50 py-16 md:py-24"}>
+        <section
+          key={g.slug}
+          id={g.slug === otherGroups[0]?.slug ? "electrical-sanitary" : undefined}
+          className={`${gi % 2 === 0 ? "bg-white" : "bg-zinc-50"} py-16 md:py-24 ${
+            g.slug === otherGroups[0]?.slug ? "scroll-mt-20 border-t-4 border-zinc-200" : ""
+          }`}
+        >
           <Container>
             <SectionTitle
               eyebrow={g.eyebrow}

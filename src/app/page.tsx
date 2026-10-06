@@ -4,7 +4,7 @@ import Link from "next/link";
 import { ArrowIcon, WhatsAppIcon } from "@/components/Icons";
 import { ProductCard } from "@/components/ProductCard";
 import { Container, SectionTitle } from "@/components/Section";
-import { catalog, groupCount, groups, spaces, subCount, totalProducts } from "@/lib/catalog";
+import { catalog, groupBanner, groupCount, groups, lightingGroups, otherGroups, spaces, subCount, totalProducts } from "@/lib/catalog";
 import { site } from "@/lib/site";
 import { mapHref, projectPhotos } from "@/lib/site-extra";
 
@@ -184,16 +184,20 @@ export default function HomePage() {
             }
           />
           <div className="grid gap-3 md:grid-cols-3 md:gap-4">
-            {groups.map((g, i) => (
+            {lightingGroups.map((g, i) => (
               <Link
                 key={g.slug}
                 href={`/products/${g.slug}/`}
                 className={`group relative isolate overflow-hidden rounded-lg bg-ink ${
-                  i === 0 ? "aspect-[4/3] md:col-span-2 md:row-span-2 md:aspect-auto" : "aspect-[16/10] md:aspect-[4/3]"
+                  i === 0
+                    ? "aspect-[4/3] md:col-span-2 md:row-span-2 md:aspect-auto"
+                    : i === lightingGroups.length - 1 && lightingGroups.length % 3 === 2
+                      ? "aspect-[16/10] md:col-span-2 md:aspect-auto"
+                      : "aspect-[16/10] md:aspect-[4/3]"
                 }`}
               >
                 <Image
-                  src={g.banner}
+                  src={groupBanner(g)}
                   alt={`${g.name} lighting`}
                   fill
                   sizes="(max-width: 768px) 100vw, 50vw"
@@ -215,6 +219,36 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
+
+          {otherGroups.length > 0 && (
+            <div className="mt-8">
+              <p className="eyebrow eyebrow-muted mb-4">Also from our electrical &amp; sanitary divisions</p>
+              <div className="grid gap-3 sm:grid-cols-2 md:grid-cols-4">
+                {otherGroups.map((g) => (
+                  <Link
+                    key={g.slug}
+                    href={`/products/${g.slug}/`}
+                    className="group relative isolate flex aspect-[16/7] items-end overflow-hidden rounded-lg bg-ink p-4"
+                  >
+                    <Image
+                      src={groupBanner(g)}
+                      alt={g.name}
+                      fill
+                      sizes="(max-width: 768px) 100vw, 25vw"
+                      className="-z-10 object-cover opacity-80 transition duration-700 group-hover:scale-105"
+                    />
+                    <div className="tile-shade absolute inset-0 -z-10" />
+                    <div>
+                      <h3 className="font-display text-lg font-semibold text-white">{g.name}</h3>
+                      <p className="text-xs text-white/65">
+                        {groupCount(g)} {groupCount(g) === 1 ? "product" : "products"}
+                      </p>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
 
           <div className="mt-10 grid gap-x-8 border-t border-zinc-200 pt-8 sm:grid-cols-2 lg:grid-cols-4">
             {groups.flatMap((g) =>

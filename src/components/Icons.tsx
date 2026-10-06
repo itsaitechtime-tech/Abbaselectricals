@@ -158,5 +158,51 @@ export function CategoryIcon({ icon, className = "h-12 w-12" }: { icon: IconKey;
           <rect x="31" y="20" width="4" height="8" />
         </svg>
       );
+    case "socket":
+      return (
+        <svg {...common}>
+          <rect x="8" y="8" width="32" height="32" rx="4" />
+          <path d="M18 18v5M30 18v5M24 29v5" />
+        </svg>
+      );
+    case "tap":
+      return (
+        <svg {...common}>
+          <path d="M10 22h16a6 6 0 0 1 6 6v4" />
+          <path d="M10 18v8M18 14h-4M16 14v8" />
+          <path d="M32 36v2" />
+        </svg>
+      );
+    case "shower":
+      return (
+        <svg {...common}>
+          <path d="M10 40V14a6 6 0 0 1 6-6h4a6 6 0 0 1 6 6v2" />
+          <path d="M20 16h12" />
+          <path d="M22 22v2M26 22v2M30 22v2M24 28v2M28 28v2" />
+        </svg>
+      );
+    case "basin":
+      return (
+        <svg {...common}>
+          <path d="M8 22h32a16 12 0 0 1-32 0z" />
+          <path d="M24 22v-8h6" />
+          <path d="M20 34v6h8v-6" />
+        </svg>
+      );
+    case "wc":
+      return (
+        <svg {...common}>
+          <rect x="12" y="8" width="16" height="12" rx="2" />
+          <path d="M10 20h28a14 12 0 0 1-14 12h-6l2 8h-8z" />
+        </svg>
+      );
+    case "towel":
+      return (
+        <svg {...common}>
+          <path d="M8 12h32" />
+          <path d="M14 12v24h20V12" />
+          <path d="M14 30h20" />
+        </svg>
+      );
   }
 }

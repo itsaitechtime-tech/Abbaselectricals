@@ -5,7 +5,7 @@ import { BrandFilter } from "@/components/BrandFilter";
 import { HelpBand } from "@/components/Catalog";
 import { ProductCard } from "@/components/ProductCard";
 import { Container, PageBanner } from "@/components/Section";
-import { brandsIn, findGroup, findSub, groups, itemsIn, VOLTAGE_SUBS, voltagesIn } from "@/lib/catalog";
+import { brandsIn, findGroup, findSub, groupBanner, groups, itemsIn, VOLTAGE_SUBS, voltagesIn } from "@/lib/catalog";
 import { brandOf, voltageOf } from "@/lib/products";
 
 type Params = { group: string; sub: string };
@@ -35,7 +35,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<Para
   return (
     <>
       <PageBanner
-        image={s.banner ?? s.image ?? g.banner}
+        image={s.banner ?? s.image ?? groupBanner(g)}
         alt={`${s.name} — ${g.name} lighting`}
         crumbs={[
           { href: "/", label: "Home" },

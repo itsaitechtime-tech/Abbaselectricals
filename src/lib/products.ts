@@ -1,5 +1,6 @@
 import { brandProducts } from "@/lib/brand-products";
 import { facadeProducts } from "@/lib/facade-products";
+import { feedProducts } from "@/lib/feed-products";
 
 export type ProductCategory =
   | "Aluminum profiles"
@@ -8,13 +9,20 @@ export type ProductCategory =
   | "Drivers & control"
   | "Accessories"
   | "Luminaires"
-  | "Electrical package";
+  | "Electrical package"
+  | "Sanitary ware";
 
 export type ProductTone = "cool" | "warm" | "amber" | "blue" | "green" | "soft" | "silver" | "violet";
 
-export type Brand = "Barq Lumi" | "FSL" | "Enlight";
+/** "Barq Lumi" (own range), "FSL", "Enlight", or any other supplied brand arriving via the product feed. */
+export type Brand = string;
 
-export const brands: Brand[] = ["FSL", "Enlight", "Barq Lumi"];
+/** Display order for brand chips: FSL, Enlight, then other brands A–Z, Barq Lumi last. */
+export function brandOrder(list: Brand[]): Brand[] {
+  const fixed = ["FSL", "Enlight"];
+  const rest = [...new Set(list)].filter((b) => !fixed.includes(b) && b !== "Barq Lumi").sort((a, b) => a.localeCompare(b));
+  return [...fixed.filter((b) => list.includes(b)), ...rest, ...(list.includes("Barq Lumi") ? ["Barq Lumi"] : [])];
+}
 
 export type SpecRowData = { label: string; value: string };
 
@@ -70,6 +78,7 @@ export const productCategories: ProductCategory[] = [
   "Accessories",
   "Luminaires",
   "Electrical package",
+  "Sanitary ware",
 ];
 
 const barqProducts: Product[] = [
@@ -562,7 +571,7 @@ const barqProducts: Product[] = [
 
 export const products: Product[] = [
   ...barqProducts,
-  ...[...facadeProducts, ...brandProducts].map(({ sub: _sub, ...p }) => p), // eslint-disable-line @typescript-eslint/no-unused-vars
+  ...[...facadeProducts, ...brandProducts, ...feedProducts].map(({ sub: _sub, ...p }) => p), // eslint-disable-line @typescript-eslint/no-unused-vars
 ];
 
 export const brandOf = (p: Pick<Product, "brand">): Brand => p.brand ?? "Barq Lumi";

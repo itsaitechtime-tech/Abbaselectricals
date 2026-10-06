@@ -1,16 +1,16 @@
 "use client";
 
-import { useState, type ReactNode } from "react";
+import { useId, useState, type ReactNode } from "react";
 import type { Brand, Voltage } from "@/lib/products";
 
-const ORDER: Brand[] = ["FSL", "Enlight", "Barq Lumi"];
 const VORDER: Voltage[] = ["220V", "48V", "24V", "12V"];
 const VLABEL: Record<Voltage, string> = { "220V": "220V AC", "48V": "48V DC", "24V": "24V DC", "12V": "12V DC" };
 
 /**
- * Brand chips (All / FSL / Enlight / Barq Lumi) and, on strip listings, Voltage chips
- * (All / 220V / 24V / 12V) over a server-rendered grid. Cards carry data-brand and
- * data-voltage; CSS in globals.css hides the non-matching ones (both filters combine).
+ * Brand chips (All / FSL / Enlight / other brands / Barq Lumi) and, on strip listings, Voltage chips
+ * (All / 220V / 24V / 12V) over a server-rendered grid. Cards carry data-brand and data-voltage;
+ * a scoped style rule hides the non-matching ones (both filters combine).
+ * `counts` must be passed in display order (see brandsIn()).
  */
 export function BrandFilter({
   counts,
@@ -19,7 +19,7 @@ export function BrandFilter({
   keys,
   children,
 }: {
-  counts: Partial<Record<Brand, number>>;
+  counts: Record<Brand, number>;
   /** Pass only on strip listings; omit to hide the Voltage row. */
   voltageCounts?: Partial<Record<Voltage, number>>;
   total?: number;
@@ -27,10 +27,11 @@ export function BrandFilter({
   keys?: { b: Brand; v?: Voltage }[];
   children: ReactNode;
 }) {
+  const scope = useId().replace(/[^a-zA-Z0-9_-]/g, "");
   const [active, setActive] = useState<"All" | Brand>("All");
   const [volt, setVolt] = useState<"All" | Voltage>("All");
-  const total = totalItems ?? ORDER.reduce((n, b) => n + (counts[b] ?? 0), 0);
-  const present = ORDER.filter((b) => (counts[b] ?? 0) > 0);
+  const present = Object.keys(counts).filter((b) => counts[b] > 0);
+  const total = totalItems ?? present.reduce((n, b) => n + counts[b], 0);
   const vPresent = voltageCounts ? VORDER.filter((v) => (voltageCounts[v] ?? 0) > 0) : [];
   const chip = (on: boolean, label: string, n: number, onClick: () => void, title?: string) => (
     <button
@@ -50,15 +51,21 @@ export function BrandFilter({
   const rowLabel = "mr-1 w-16 shrink-0 text-[0.66rem] font-semibold uppercase tracking-[0.18em] text-zinc-500";
   const showBrand = present.length > 1;
   const showVolt = vPresent.length > 0;
+  const sel = `[data-filter-scope="${scope}"] [data-brand]`;
+  const rules = [
+    active !== "All" ? `${sel}:not([data-brand=${JSON.stringify(active)}]){display:none}` : "",
+    volt !== "All" ? `${sel}:not([data-voltage="${volt}"]){display:none}` : "",
+  ].join("");
   return (
-    <div data-brand-filter={active} data-volt-filter={volt}>
+    <div data-filter-scope={scope} data-brand-filter={active} data-volt-filter={volt}>
+      {rules && <style>{rules}</style>}
       {(showBrand || showVolt) && (
         <div className="mb-6 space-y-3">
           {showBrand && (
             <div className={row} role="group" aria-label="Filter by brand">
               <span className={rowLabel}>Brand</span>
               {chip(active === "All", "All", total, () => setActive("All"))}
-              {present.map((b) => chip(active === b, b, counts[b] ?? 0, () => setActive(b)))}
+              {present.map((b) => chip(active === b, b, counts[b], () => setActive(b)))}
             </div>
           )}
           {showVolt && (

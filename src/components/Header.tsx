@@ -8,9 +8,14 @@ import { nav, site } from "@/lib/site";
 
 const FACADE = "/products/facade-architectural";
 
-function isActive(pathname: string, href: string) {
+/** `match`: path prefixes that make the item active (used by the electrical / sanitary item). */
+type NavItem = { href: string; label: string; match?: string[] };
+
+function isActive(pathname: string, href: string, other: string[] = [], match?: string[]) {
+  if (match) return match.some((m) => pathname.startsWith(m));
   if (href === "/") return pathname === "/";
-  if (href === "/products/" && pathname.startsWith(FACADE)) return false;
+  if (href.includes("#")) return false;
+  if (href === "/products/" && (pathname.startsWith(FACADE) || other.some((o) => pathname.startsWith(o)))) return false;
   return pathname.startsWith(href.replace(/\/$/, ""));
 }
 
@@ -31,7 +36,10 @@ export function Wordmark({ small = false }: { small?: boolean }) {
   );
 }
 
-export function Header() {
+/** extraNav: non-lighting sections (electrical / sanitary), passed in by the server layout only when they have products. */
+export function Header({ extraNav = [] }: { extraNav?: NavItem[] }) {
+  const items: NavItem[] = [...nav.slice(0, 3), ...extraNav, ...nav.slice(3)];
+  const other = extraNav.flatMap((e) => e.match ?? []);
   const pathname = usePathname() || "/";
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -61,8 +69,8 @@ export function Header() {
         </Link>
 
         <nav className="hidden items-center gap-8 lg:flex" aria-label="Primary">
-          {nav.map((item) => {
-            const active = isActive(pathname, item.href);
+          {items.map((item) => {
+            const active = isActive(pathname, item.href, other, item.match);
             return (
               <Link
                 key={item.href}
@@ -107,12 +115,12 @@ export function Header() {
       {open && (
         <div id="mobile-nav" className="border-t border-white/10 bg-ink lg:hidden">
           <nav className="mx-auto flex max-w-[1320px] flex-col px-5 pb-6 pt-2" aria-label="Mobile">
-            {nav.map((item) => (
+            {items.map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
                 className={`border-b border-white/10 py-4 font-display text-lg font-semibold tracking-tight ${
-                  isActive(pathname, item.href) ? "text-white" : "text-white/70"
+                  isActive(pathname, item.href, other, item.match) ? "text-white" : "text-white/70"
                 }`}
               >
                 {item.label}

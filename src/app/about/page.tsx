@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { WhatsAppIcon } from "@/components/Icons";
 import { Container, PageBanner, SectionTitle } from "@/components/Section";
-import { lightingBrands, qualityAssurance, sanitaryBrands, selectedClients, site, whoWeAre } from "@/lib/site";
+import { clientLogos, lightingBrands, qualityAssurance, sanitaryBrands, selectedClients, site, whoWeAre } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About",
@@ -117,11 +117,17 @@ export default function AboutPage() {
               <p className="eyebrow mb-4">Organisations We Have Supplied</p>
               <p className="mb-6 text-sm text-zinc-500">From the company profile — listed as text, not endorsements.</p>
               <ul className="grid gap-2 sm:grid-cols-2">
-                {selectedClients.map((c) => (
-                  <li key={c} className="rounded-md border border-zinc-200 bg-white px-4 py-3 text-sm text-ink">
-                    {c}
-                  </li>
-                ))}
+                {selectedClients.map((c) => {
+                  const logo = clientLogos[c];
+                  return (
+                    <li key={c} className="flex min-h-[3.25rem] items-center gap-3 rounded-md border border-zinc-200 bg-white px-4 py-3 text-sm text-ink">
+                      {logo && (
+                        <Image src={logo.src} alt={`${c} logo`} width={logo.width} height={logo.height} className="h-6 w-auto shrink-0" />
+                      )}
+                      <span>{c}</span>
+                    </li>
+                  );
+                })}
               </ul>
             </div>
           </div>

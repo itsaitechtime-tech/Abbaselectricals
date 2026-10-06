@@ -127,7 +127,15 @@ export const selectedClients = [
   "Al Teneiji Real Estate",
   "Khansaheb Industries",
   "Grankraft Industries",
+  "Ayat Group",
+  "HSH Real Estate",
 ] as const;
+
+/** Official client logos (see public/images/clients/SOURCES.md). Clients without a logo render as text. */
+export const clientLogos: Partial<Record<(typeof selectedClients)[number], { src: string; width: number; height: number }>> = {
+  "Ayat Group": { src: "/images/clients/ayat-group.png", width: 448, height: 120 },
+  "HSH Real Estate": { src: "/images/clients/hsh-real-estate.png", width: 252, height: 120 },
+};
 
 export const services = [
   {
