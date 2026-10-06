@@ -44,6 +44,8 @@ export type SubCategory = {
   image?: string;
   /** optional banner override for the sub-category page (falls back to image, then group banner) */
   banner?: string;
+  /** tile-only fallback when there is no `image`: the first product photo (set automatically) */
+  thumb?: string;
   productIds: string[];
 };
 
@@ -508,10 +510,11 @@ if (catalog.length !== products.length) {
   throw new Error(`catalog: unmapped products ${missing.join(", ")}`);
 }
 
-// Sub-categories without their own tile image (e.g. feed-filled ones) use their first product photo.
+// Sub-category tiles without their own image (e.g. feed-filled ones) show their first product photo.
+// (Tile only: the sub-category page banner still falls back to the group banner.)
 for (const g of groups) {
   for (const s of g.subs) {
-    if (!s.image) s.image = catalog.find((c) => c.sub.slug === s.slug && c.photo)?.photo;
+    if (!s.image) s.thumb = catalog.find((c) => c.sub.slug === s.slug && c.photo)?.photo;
   }
 }
 

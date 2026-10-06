@@ -17,9 +17,9 @@ export function SubTile({
       href={`/products/${groupSlug}/${sub.slug}/`}
       className="group relative isolate block aspect-[4/3] overflow-hidden rounded-lg bg-ink-2"
     >
-      {sub.image ? (
+      {(sub.image ?? sub.thumb) ? (
         <Image
-          src={sub.image}
+          src={(sub.image ?? sub.thumb)!}
           alt={`${sub.name}`}
           fill
           sizes="(max-width: 768px) 50vw, 25vw"
