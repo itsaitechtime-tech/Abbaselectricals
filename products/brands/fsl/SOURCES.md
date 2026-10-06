@@ -32,3 +32,4 @@ Official FSL product photos as published by En-Light Electrical Lighting L.L.C. 
 | fsl-fsf808-flood.webp | https://enlight.ae/wp-content/uploads/2024/11/417_large.png | https://enlight.ae/product/fsf808a1-100p/ | FSF808A1-100P |
 | fsl-fsh807-highbay.webp | https://enlight.ae/wp-content/uploads/2024/11/420.png | https://enlight.ae/product/fsh807a1-100/ | FSH807A1-100 |
 | fsl-fsh806-highbay.webp | https://enlight.ae/wp-content/uploads/2024/11/423.png | https://enlight.ae/product/fsh806a2-100/ | FSH806A2-100 |
+| fsl-g45-bulb.webp | https://enlight.ae/wp-content/uploads/2024/11/361_large.png | https://enlight.ae/product/g45-5-5-rc/ | G45-5.5/RC |

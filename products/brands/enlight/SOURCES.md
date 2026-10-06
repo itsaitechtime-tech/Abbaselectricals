@@ -48,3 +48,9 @@ Official Enlight product photos as published by En-Light Electrical Lighting L.L
 | enl-tm-p03-recessed.webp | https://enlight.ae/wp-content/uploads/2024/11/50_large.png | https://enlight.ae/product/tm-p0340/ | TM-P0340 |
 | enl-en-12-driver.webp | https://enlight.ae/wp-content/uploads/2024/11/196_large.png | https://enlight.ae/product/en-12060/ | EN-12060 |
 | enl-en-17-psu.webp | https://enlight.ae/wp-content/uploads/2024/11/191_large-1.png | https://enlight.ae/product/en-17250n/ | EN-17250N |
+| enl-tm-0812-bulb.webp | https://enlight.ae/wp-content/uploads/2024/11/7_large.png | https://enlight.ae/product/tm-0812-e27/ | TM-0812 E27 |
+| enl-tm-0833-stick.webp | https://enlight.ae/wp-content/uploads/2024/11/285_large.png | https://enlight.ae/product/tm-0833/ | TM-0833 |
+| enl-tm-bl2905-deco.webp | https://enlight.ae/wp-content/uploads/2024/11/282_large.png | https://enlight.ae/product/tm-bl2905/ | TM-BL2905 |
+| enl-lm-0437-cup.webp | https://enlight.ae/wp-content/uploads/2024/11/139_large.png | https://enlight.ae/product/lm-0437/ | LM-0437 |
+| enl-en-0323-downlight.webp | https://enlight.ae/wp-content/uploads/2024/11/288_large-1.png | https://enlight.ae/product/en-0323/ | EN-0323 |
+| enl-en-2866-panel.webp | https://enlight.ae/wp-content/uploads/2024/11/165_large-1.png | https://enlight.ae/product/en-2866/ | EN-2866 |
