@@ -222,24 +222,33 @@ export default function HomePage() {
 
           {otherGroups.length > 0 && (
             <div className="mt-8">
-              <p className="eyebrow eyebrow-muted mb-4">Also from our electrical &amp; sanitary divisions</p>
-              <div className="grid gap-3 sm:grid-cols-2 md:grid-cols-4">
+              <p className="eyebrow eyebrow-muted mb-4">
+                Also from our{" "}
+                {[
+                  otherGroups.some((g) => g.brandGroup === "electrical") && "electrical",
+                  otherGroups.some((g) => g.brandGroup === "sanitary") && "sanitary",
+                ]
+                  .filter(Boolean)
+                  .join(" & ")}{" "}
+                {otherGroups.length > 1 ? "divisions" : "division"}
+              </p>
+              <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
                 {otherGroups.map((g) => (
                   <Link
                     key={g.slug}
                     href={`/products/${g.slug}/`}
-                    className="group relative isolate flex aspect-[16/7] items-end overflow-hidden rounded-lg bg-ink p-4"
+                    className="group relative isolate flex aspect-[4/3] items-end overflow-hidden rounded-lg bg-ink p-4 sm:aspect-[16/7]"
                   >
                     <Image
                       src={groupBanner(g)}
                       alt={g.name}
                       fill
-                      sizes="(max-width: 768px) 100vw, 25vw"
+                      sizes="(max-width: 768px) 50vw, 25vw"
                       className="-z-10 object-cover opacity-80 transition duration-700 group-hover:scale-105"
                     />
                     <div className="tile-shade absolute inset-0 -z-10" />
                     <div>
-                      <h3 className="font-display text-lg font-semibold text-white">{g.name}</h3>
+                      <h3 className="font-display text-base font-semibold text-white sm:text-lg">{g.name}</h3>
                       <p className="text-xs text-white/65">
                         {groupCount(g)} {groupCount(g) === 1 ? "product" : "products"}
                       </p>

@@ -115,7 +115,7 @@ export default function AboutPage() {
             </div>
             <div>
               <p className="eyebrow mb-4">Organisations We Have Supplied</p>
-              <p className="mb-6 text-sm text-zinc-500">From the company profile — listed as text, not endorsements.</p>
+              <p className="mb-6 text-sm text-zinc-500">From the company profile — listed for reference, not endorsements.</p>
               <ul className="grid gap-2 sm:grid-cols-2">
                 {selectedClients.map((c) => {
                   const logo = clientLogos[c];
