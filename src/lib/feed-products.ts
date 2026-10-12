@@ -12278,5 +12278,1893 @@ export const feedProducts: (Product & { sub: string })[] = [
       }
     ],
     "source": "https://milanoitalysrl.com/product/milano-shower-long-drain-msd-30tc-300x70x50-made-in-china/"
+  },
+  {
+    "id": "rak-bella-disabled-floor-standing-oa05awha",
+    "sub": "wcs",
+    "name": "RAK-BELLA Disabled Floor Standing WC, 610 x 355 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Floor Standing water closet from the RAK Ceramics RAK-BELLA DISABLED suite, measuring 610 x 355 mm. Features dual flush, S trap, oval bowl. Finish: Alpine White. Designed for accessible bathrooms.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-bella-disabled-floor-standing-oa05awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "610 x 355 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "32 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-BELLA DISABLED"
+      },
+      {
+        "label": "Type",
+        "value": "Floor Standing"
+      },
+      {
+        "label": "Trap type",
+        "value": "S Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "ABS & PP"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Oval"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "OA05AWHA",
+    "variants": [
+      {
+        "model": "OA05AWHA",
+        "note": "Alpine White; set incl. BL13AWHA, BL16AWHA"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-bella-disabled-water-closet-s-trap-52cm/"
+  },
+  {
+    "id": "rak-cloud-back-to-wall-clowc1346awha",
+    "sub": "wcs",
+    "name": "RAK-CLOUD Back to Wall WC, 560 x 400 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Back to Wall water closet from the RAK Ceramics RAK-CLOUD suite, measuring 560 x 400 mm. Features dual flush, P trap & S trap, oval bowl, soft-close seat. Available in Alpine White, Matt White, Matt Black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-cloud-back-to-wall-clowc1346awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "560 x 400 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "30 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-CLOUD"
+      },
+      {
+        "label": "Type",
+        "value": "Back to Wall"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap & S Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Oval"
+      },
+      {
+        "label": "Soft close",
+        "value": "yes"
+      },
+      {
+        "label": "Quick remove seat cover",
+        "value": "yes"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CLOWC1346AWHA",
+    "variants": [
+      {
+        "model": "CLOWC1346AWHA",
+        "note": "Alpine White; set incl. CLOSC3901WH"
+      },
+      {
+        "model": "CLOWC1346500A",
+        "note": "Matt White; set incl. CLOSC3901500"
+      },
+      {
+        "model": "CLOWC1346504A",
+        "note": "Matt Black; set incl. CLOSC3901504"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-cloud-whidden-fixations-water-closet-alpine-white-ps-trap-56cm-with-hidden-fixations/"
+  },
+  {
+    "id": "rak-cloud-wall-hung-clowc1446awha",
+    "sub": "wcs",
+    "name": "RAK-CLOUD Wall Hung WC, 560 x 400 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Wall Hung water closet from the RAK Ceramics RAK-CLOUD suite, measuring 560 x 400 mm. Features dual flush, P trap, oval bowl, soft-close seat. Available in Alpine White, Matt White, Matt Black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-cloud-wall-hung-clowc1446awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "560 x 400 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "26 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-CLOUD"
+      },
+      {
+        "label": "Type",
+        "value": "Wall Hung"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "ABS & Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Oval"
+      },
+      {
+        "label": "Soft close",
+        "value": "yes"
+      },
+      {
+        "label": "Quick remove seat cover",
+        "value": "yes"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CLOWC1446AWHA",
+    "variants": [
+      {
+        "model": "CLOWC1446AWHA",
+        "note": "Alpine White; set incl. CLOSC3901WH"
+      },
+      {
+        "model": "CLOWC1446500A",
+        "note": "Matt White; set incl. CLOSC3901500"
+      },
+      {
+        "model": "CLOWC1446504A",
+        "note": "Matt Black; set incl. CLOSC3901504"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-cloud-whidden-fixations-water-closet-wall-hung-alpine-white-ps-trap-56cm-with-hidden-fixations/"
+  },
+  {
+    "id": "rak-compact-close-coupled-co26awha",
+    "sub": "wcs",
+    "name": "RAK-COMPACT Close Coupled WC, 625 x 365 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Close Coupled water closet from the RAK Ceramics RAK-COMPACT suite, measuring 625 x 365 mm. Features dual flush, P trap, round bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-compact-close-coupled-co26awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "625 x 365 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "39 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-COMPACT"
+      },
+      {
+        "label": "Type",
+        "value": "Close Coupled"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Round"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "N/A"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CO26AWHA",
+    "variants": [
+      {
+        "model": "CO26AWHA",
+        "note": "Alpine White; set incl. CO10AWHA, JM05DSCQRAWHA, JM05DNCQRAWHA, YFG185W"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-compact-comfort-height-45cm-water-closet-rimless-close-coupled-ps-trap-62cm/"
+  },
+  {
+    "id": "rak-compact-back-to-wall-co17awha",
+    "sub": "wcs",
+    "name": "RAK-COMPACT Back to Wall WC, 510 x 370 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Back to Wall water closet from the RAK Ceramics RAK-COMPACT suite, measuring 510 x 370 mm. Features dual flush, P trap & S trap, round bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-compact-back-to-wall-co17awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "510 x 370 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "21 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-COMPACT"
+      },
+      {
+        "label": "Type",
+        "value": "Back to Wall"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap & S Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Round"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "N/A"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CO17AWHA",
+    "variants": [
+      {
+        "model": "CO17AWHA",
+        "note": "Alpine White; set incl. JM05DSCQRAWHA, JM05DNCQRAWHA, YFG173, YFG173A"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-compact-water-closet-back-to-wall-ps-trap-51cm/"
+  },
+  {
+    "id": "rak-compact-wall-hung-co13awha",
+    "sub": "wcs",
+    "name": "RAK-COMPACT Wall Hung WC, 520 x 370 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Wall Hung water closet from the RAK Ceramics RAK-COMPACT suite, measuring 520 x 370 mm. Features dual flush, P trap, round bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-compact-wall-hung-co13awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "520 x 370 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "19 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-COMPACT"
+      },
+      {
+        "label": "Type",
+        "value": "Wall Hung"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Round"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "N/A"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CO13AWHA",
+    "variants": [
+      {
+        "model": "CO13AWHA",
+        "note": "Alpine White; set incl. CO34AWHA, JM05DSCQRAWHA, JM05DNCQRAWHA, YFG173, YFG173A"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-compact-water-closet-wall-hung-52cm/"
+  },
+  {
+    "id": "rak-des-close-coupled-senwt1800awha",
+    "sub": "wcs",
+    "name": "RAK-DES Close Coupled WC, 640 x 380 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Close Coupled water closet from the RAK Ceramics RAK-DES suite, measuring 640 x 380 mm. Features dual flush, P trap & S trap, round bowl, soft-close seat. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-close-coupled-senwt1800awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "640 x 380 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "30 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Close Coupled"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap & S Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Round"
+      },
+      {
+        "label": "Soft close",
+        "value": "yes"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "SENWT1800AWHA",
+    "variants": [
+      {
+        "model": "SENWT1800AWHA",
+        "note": "Alpine White; set incl. DESWC1146AWHA, DESSC3901WH, SENWT1801AWHA"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-des-deswc1146awha-whidden-fixations-rimless-back-to-wall-close-coupled-wc-64-cm-p-s-trap/"
+  },
+  {
+    "id": "rak-des-back-to-wall-deswc1346awha",
+    "sub": "wcs",
+    "name": "RAK-DES Back to Wall WC, 520 x 380 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Back to Wall water closet from the RAK Ceramics RAK-DES suite, measuring 520 x 380 mm. Features dual flush, P trap & S trap, round bowl. Available in Alpine White, Matt White, Matt Greige, Matt Cappuccino, Matt Grey, Matt Black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-back-to-wall-deswc1346awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "520 x 380 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "27 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Back to Wall"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap & S Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Round"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DESWC1346AWHA",
+    "variants": [
+      {
+        "model": "DESWC1346AWHA",
+        "note": "Alpine White; set incl. DESSC3901WH"
+      },
+      {
+        "model": "DESWC1346500A",
+        "note": "Matt White; set incl. DESSC3901500"
+      },
+      {
+        "model": "DESWC1346505A",
+        "note": "Matt Greige; set incl. DESSC3901505"
+      },
+      {
+        "model": "DESWC1346514A",
+        "note": "Matt Cappuccino; set incl. DESSC3901514"
+      },
+      {
+        "model": "DESWC1346503A",
+        "note": "Matt Grey; set incl. DESSC3901503"
+      },
+      {
+        "model": "DESWC1346504A",
+        "note": "Matt Black; set incl. DESSC3901504"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-des-deswc1346awha-whidden-fixations-rimless-back-to-wall-wc-52-cm-ps-trap/"
+  },
+  {
+    "id": "rak-des-wall-hung-deswc1446awha",
+    "sub": "wcs",
+    "name": "RAK-DES Wall Hung WC, 520 x 380 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Wall Hung water closet from the RAK Ceramics RAK-DES suite, measuring 520 x 380 mm. Features dual flush, P trap, round bowl. Available in Alpine White, Matt White, Matt Greige, Matt Cappuccino, Matt Grey, Matt Black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-wall-hung-deswc1446awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "520 x 380 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "24 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Wall Hung"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Round"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DESWC1446AWHA",
+    "variants": [
+      {
+        "model": "DESWC1446AWHA",
+        "note": "Alpine White; set incl. DESSC3901WH"
+      },
+      {
+        "model": "DESWC1446500A",
+        "note": "Matt White; set incl. DESSC3901500"
+      },
+      {
+        "model": "DESWC1446505A",
+        "note": "Matt Greige; set incl. DESSC3901505"
+      },
+      {
+        "model": "DESWC1446514A",
+        "note": "Matt Cappuccino; set incl. DESSC3901514"
+      },
+      {
+        "model": "DESWC1446503A",
+        "note": "Matt Grey; set incl. DESSC3901503"
+      },
+      {
+        "model": "DESWC1446504A",
+        "note": "Matt Black; set incl. DESSC3901504"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-des-deswc1446awha-whidden-fixations-rimless-wall-hung-wc-p-trap-52-cm-p-trap/"
+  },
+  {
+    "id": "rak-des-close-coupled-senwt1805awha",
+    "sub": "wcs",
+    "name": "RAK-DES Close Coupled WC, 680 x 380 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Close Coupled water closet from the RAK Ceramics RAK-DES suite, measuring 680 x 380 mm. Features dual flush, P trap, round bowl, soft-close seat. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-close-coupled-senwt1805awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "680 x 380 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "31.3 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Close Coupled"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Round"
+      },
+      {
+        "label": "Soft close",
+        "value": "yes"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "SENWT1805AWHA",
+    "variants": [
+      {
+        "model": "SENWT1805AWHA",
+        "note": "Alpine White; set incl. DESSC3901WH, DESWC1145AWHA"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-des-with-touchless-flushing-back-open-close-coupled-wc-68-cm-p-trap-with-touchless-flushing/"
+  },
+  {
+    "id": "rak-illusion-close-coupled-illwc1146awha",
+    "sub": "wcs",
+    "name": "RAK-ILLUSION Close Coupled WC, 640 x 380 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Close Coupled water closet from the RAK Ceramics RAK-ILLUSION suite, measuring 640 x 380 mm. Features dual flush, P trap & S trap, rounded rectangle bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-illusion-close-coupled-illwc1146awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "640 x 380 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "42.5 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-ILLUSION"
+      },
+      {
+        "label": "Type",
+        "value": "Close Coupled"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap & S Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Rounded Rectangle"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "ILLWC1146AWHA",
+    "variants": [
+      {
+        "model": "ILLWC1146AWHA",
+        "note": "Alpine White; set incl. ILLWT1800AWHA, ILLWT1801AWHA, ILLWT1802AWHA, ILLSC3901WH, ILLSC3903WH, ILLSC3900WH"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-illusion-whidden-fixations-rimless-close-coupled-water-closet-p-s-trap-64-cm/"
+  },
+  {
+    "id": "rak-illusion-wall-hung-illwc1446awha",
+    "sub": "wcs",
+    "name": "RAK-ILLUSION Wall Hung WC, 520 x 380 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Wall Hung water closet from the RAK Ceramics RAK-ILLUSION suite, measuring 520 x 380 mm. Features dual flush, P trap, rounded rectangle bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-illusion-wall-hung-illwc1446awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "520 x 380 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "24.5 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-ILLUSION"
+      },
+      {
+        "label": "Type",
+        "value": "Wall Hung"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Rounded Rectangle"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "ILLWC1446AWHA",
+    "variants": [
+      {
+        "model": "ILLWC1446AWHA",
+        "note": "Alpine White; set incl. ILLSC3901WH, ILLSC3903WH, ILLSC3900WH"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-illusion-whidden-fixations-rimless-wall-hung-water-closet-p-trap-52-cm/"
+  },
+  {
+    "id": "rak-jumeirah-close-coupled-jm13awha",
+    "sub": "wcs",
+    "name": "RAK-JUMEIRAH Close Coupled WC, 715 x 370 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Close Coupled water closet from the RAK Ceramics RAK-JUMEIRAH suite, measuring 715 x 370 mm. Features dual flush, S trap, oval bowl, soft-close seat. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-jumeirah-close-coupled-jm13awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "715 x 370 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "44 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-JUMEIRAH"
+      },
+      {
+        "label": "Type",
+        "value": "Close Coupled"
+      },
+      {
+        "label": "Trap type",
+        "value": "S Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "ABS & Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Oval"
+      },
+      {
+        "label": "Soft close",
+        "value": "yes"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "JM13AWHA",
+    "variants": [
+      {
+        "model": "JM13AWHA",
+        "note": "Alpine White; set incl. JM04AWHA, JM05DSCQRAWHA, JM05DNCQRAWHA, YFG173, YFG173A"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-jumeirah-water-closet-close-coupled-s-trap-71cm/"
+  },
+  {
+    "id": "rak-junior-back-to-wall-bl18awha",
+    "sub": "wcs",
+    "name": "RAK-JUNIOR Back to Wall WC, 480 x 330 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Back to Wall water closet from the RAK Ceramics RAK-JUNIOR suite, measuring 480 x 330 mm. Features dual flush, P trap, oval bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-junior-back-to-wall-bl18awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "480 x 330 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "17 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-JUNIOR"
+      },
+      {
+        "label": "Type",
+        "value": "Back to Wall"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Oval"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "N/A"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BL18AWHA",
+    "variants": [
+      {
+        "model": "BL18AWHA",
+        "note": "Alpine White; set incl. YFG076"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-junior-water-closet-back-to-wall-p-trap-48cm/"
+  },
+  {
+    "id": "rak-karla-wall-hung-kr34awha",
+    "sub": "wcs",
+    "name": "RAK-KARLA Wall Hung WC, 550 x 370 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Wall Hung water closet from the RAK Ceramics RAK-KARLA suite, measuring 550 x 370 mm. Features dual flush, P trap, oval bowl, soft-close seat. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-karla-wall-hung-kr34awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "550 x 370 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "15.4 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-KARLA"
+      },
+      {
+        "label": "Type",
+        "value": "Wall Hung"
+      },
+      {
+        "label": "Trap type",
+        "value": "P Trap"
+      },
+      {
+        "label": "Trapway type",
+        "value": "Concealed"
+      },
+      {
+        "label": "Seat cover options",
+        "value": "Urea"
+      },
+      {
+        "label": "Bowl shape",
+        "value": "Oval"
+      },
+      {
+        "label": "Soft close",
+        "value": "yes"
+      },
+      {
+        "label": "Flush type",
+        "value": "Dual Flush"
+      },
+      {
+        "label": "Flush capacity",
+        "value": "Compatible with 6/3L dual flushing, 4,5/3L dual flushing, in accordance with en997- type 1"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KR34AWHA",
+    "variants": [
+      {
+        "model": "KR34AWHA",
+        "note": "Alpine White; set incl. KR05NCQRAWHA, KR05SCQRAWHA"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/water-closets/rak-karla-rak-karla-wall-hung-watercloset-with-integrated-bidet-spray/"
+  },
+  {
+    "id": "rak-batu-free-standing-batfs13600600a",
+    "sub": "basins",
+    "name": "RAK-BATU Free Standing Wash Basin, 360 x 360 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Free Standing wash basin from the RAK Ceramics RAK-BATU suite, measuring 360 x 360 mm, with a round bowl. Available in Mica White, Mica Warm Grey, Mica Cool Grey.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-batu-free-standing-batfs13600600a.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "360 x 360 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "32 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-BATU"
+      },
+      {
+        "label": "Type",
+        "value": "Free Standing"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Round"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BATFS13600600A",
+    "variants": [
+      {
+        "model": "BATFS13600600A",
+        "note": "Mica White; set incl. DUO002600A, DUO000600A"
+      },
+      {
+        "model": "BATFS13600621A",
+        "note": "Mica Warm Grey; set incl. DUO000621A, DUO002621A"
+      },
+      {
+        "model": "BATFS13600626A",
+        "note": "Mica Cool Grey; set incl. DUO000626A, DUO002626A"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-batu-batfs13600600a-round-free-standing-washbasin-36-cm-wo-tap-hole/"
+  },
+  {
+    "id": "rak-batu-counter-top-batct5000600a",
+    "sub": "basins",
+    "name": "RAK-BATU Counter Top Wash Basin, 360 x 500 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Counter Top wash basin from the RAK Ceramics RAK-BATU suite, measuring 360 x 500 mm, with a rectangle bowl. Available in Mica White, Mica Warm Grey, Mica Cool Grey.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-batu-counter-top-batct5000600a.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "360 x 500 mm"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-BATU"
+      },
+      {
+        "label": "Type",
+        "value": "Counter Top"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Rectangle"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BATCT5000600A",
+    "variants": [
+      {
+        "model": "BATCT5000600A",
+        "note": "Mica White; set incl. DUO002600A, DUO000600A"
+      },
+      {
+        "model": "BATCT5000621A",
+        "note": "Mica Warm Grey; set incl. DUO002621A, DUO000621A"
+      },
+      {
+        "model": "BATCT5000626A",
+        "note": "Mica Cool Grey; set incl. DUO002626A, DUO000626A"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-batu-batct5000600a-wash-basin-counter-top-rectangular-50cm-white/"
+  },
+  {
+    "id": "rak-bella-disabled-wall-hung-bl0101awha",
+    "sub": "basins",
+    "name": "RAK-BELLA Disabled Wall Hung Wash Basin, 550 x 510 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Wall Hung wash basin from the RAK Ceramics RAK-BELLA DISABLED suite, measuring 550 x 510 mm, with a round bowl. Finish: Alpine White. Designed for accessible bathrooms.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-bella-disabled-wall-hung-bl0101awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "550 x 510 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "15.1 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-BELLA DISABLED"
+      },
+      {
+        "label": "Type",
+        "value": "Wall Hung"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Round"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BL0101AWHA",
+    "variants": [
+      {
+        "model": "BL0101AWHA",
+        "note": "Alpine White"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-bella-disabled-wall-hung-wash-basin-61cm/"
+  },
+  {
+    "id": "rak-cloud-free-standing-clofs5001awha",
+    "sub": "basins",
+    "name": "RAK-CLOUD Free Standing Wash Basin, 495 x 470 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Free Standing wash basin from the RAK Ceramics RAK-CLOUD suite, measuring 495 x 470 mm, with a oval bowl. Available in Alpine White, Matt White, Matt Black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-cloud-free-standing-clofs5001awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "495 x 470 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "49 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-CLOUD"
+      },
+      {
+        "label": "Type",
+        "value": "Free Standing"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Oval"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CLOFS5001AWHA",
+    "variants": [
+      {
+        "model": "CLOFS5001AWHA",
+        "note": "Alpine White; set incl. CLOAC4400AWHA"
+      },
+      {
+        "model": "CLOFS5001500A",
+        "note": "Matt White; set incl. CLOAC4400500A"
+      },
+      {
+        "model": "CLOFS5001504A",
+        "note": "Matt Black; set incl. CLOAC4400504A"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-cloud-clofs5001awha-wash-basin-with-hidden-fixations-50-cm-alpine-white/"
+  },
+  {
+    "id": "rak-cloud-counter-top-cloct6000awha",
+    "sub": "basins",
+    "name": "RAK-CLOUD Counter Top Wash Basin, 580 x 400 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Counter Top wash basin from the RAK Ceramics RAK-CLOUD suite, measuring 580 x 400 mm, with a oval bowl. Available in Alpine White, Matt White, Matt Black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-cloud-counter-top-cloct6000awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "580 x 400 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "11 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-CLOUD"
+      },
+      {
+        "label": "Type",
+        "value": "Counter Top"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Oval"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CLOCT6000AWHA",
+    "variants": [
+      {
+        "model": "CLOCT6000AWHA",
+        "note": "Alpine White; set incl. CLOAC4400AWHA"
+      },
+      {
+        "model": "CLOCT6000500A",
+        "note": "Matt White; set incl. CLOAC4400500A"
+      },
+      {
+        "model": "CLOCT6000504A",
+        "note": "Matt Black; set incl. CLOAC4400504A"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-cloud-cloct6000awha-counter-top-washbasin-58-cm-alpine-white/"
+  },
+  {
+    "id": "rak-cloud-wall-hung-clowb6501awha",
+    "sub": "basins",
+    "name": "RAK-CLOUD Wall Hung Wash Basin, 650 x 440 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Wall Hung wash basin from the RAK Ceramics RAK-CLOUD suite, measuring 650 x 440 mm, with a oval bowl. Available in Alpine White, Matt White, Matt Black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-cloud-wall-hung-clowb6501awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "650 x 440 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "14.5 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-CLOUD"
+      },
+      {
+        "label": "Type",
+        "value": "Wall Hung"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Oval"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CLOWB6501AWHA",
+    "variants": [
+      {
+        "model": "CLOWB6501AWHA",
+        "note": "Alpine White; set incl. CLOAC4400AWHA"
+      },
+      {
+        "model": "CLOWB6501500A",
+        "note": "Matt White; set incl. CLOAC4400500A"
+      },
+      {
+        "model": "CLOWB6501504A",
+        "note": "Matt Black; set incl. CLOAC4400504A"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-cloud-clowb6501awha-washbasin-65-cm-alpine-white/"
+  },
+  {
+    "id": "rak-compact-pedestal-co0801awha",
+    "sub": "basins",
+    "name": "RAK-COMPACT Pedestal Wash Basin, 545 x 410 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Pedestal wash basin from the RAK Ceramics RAK-COMPACT suite, measuring 545 x 410 mm, with a oval bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-compact-pedestal-co0801awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "545 x 410 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "23 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-COMPACT"
+      },
+      {
+        "label": "Type",
+        "value": "Pedestal"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Oval"
+      },
+      {
+        "label": "Overflow hole",
+        "value": "yes"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CO0801AWHA",
+    "variants": [
+      {
+        "model": "CO0801AWHA",
+        "note": "Alpine White; set incl. ER02AWHA"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-compact-wash-basin-wpedestal-55cm/"
+  },
+  {
+    "id": "rak-compact-semi-recessed-co0901awha",
+    "sub": "basins",
+    "name": "RAK-COMPACT Semi Recessed Wash Basin, 550 x 415 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Semi Recessed wash basin from the RAK Ceramics RAK-COMPACT suite, measuring 550 x 415 mm, with a oval bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-compact-semi-recessed-co0901awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "550 x 415 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "14 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-COMPACT"
+      },
+      {
+        "label": "Type",
+        "value": "Semi Recessed"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Oval"
+      },
+      {
+        "label": "Overflow hole",
+        "value": "yes"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CO0901AWHA",
+    "variants": [
+      {
+        "model": "CO0901AWHA",
+        "note": "Alpine White"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-compact-wash-basin-semi-recessed-55cm/"
+  },
+  {
+    "id": "rak-compact-cloakroom-co2401awha",
+    "sub": "basins",
+    "name": "RAK-COMPACT Cloakroom Wash Basin, 450 x 215 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Cloakroom wash basin from the RAK Ceramics RAK-COMPACT suite, measuring 450 x 215 mm, with a rectangle bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-compact-cloakroom-co2401awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "450 x 215 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "7 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-COMPACT"
+      },
+      {
+        "label": "Type",
+        "value": "Cloakroom"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Rectangle"
+      },
+      {
+        "label": "Overflow hole",
+        "value": "yes"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "CO2401AWHA",
+    "variants": [
+      {
+        "model": "CO2401AWHA",
+        "note": "Alpine White"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-compact-wash-basin-cloakroom-45cm/"
+  },
+  {
+    "id": "rak-des-counter-top-desct7000awha",
+    "sub": "basins",
+    "name": "RAK-DES Counter Top Wash Basin, 700 x 350 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Counter Top wash basin from the RAK Ceramics RAK-DES suite, measuring 700 x 350 mm, with a round bowl. Available in Alpine White, Matt White, Matt Greige, Matt Cappuccino, Matt Grey, Matt Black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-counter-top-desct7000awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "700 x 350 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "10 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Counter Top"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Round"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DESCT7000AWHA",
+    "variants": [
+      {
+        "model": "DESCT7000AWHA",
+        "note": "Alpine White"
+      },
+      {
+        "model": "DESCT7000500A",
+        "note": "Matt White"
+      },
+      {
+        "model": "DESCT7000505A",
+        "note": "Matt Greige"
+      },
+      {
+        "model": "DESCT7000514A",
+        "note": "Matt Cappuccino"
+      },
+      {
+        "model": "DESCT7000503A",
+        "note": "Matt Grey"
+      },
+      {
+        "model": "DESCT7000504A",
+        "note": "Matt Black"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-des-desct7000awha-counter-top-wash-basin-alpine-white-70-cm/"
+  },
+  {
+    "id": "rak-des-wall-hung-deswb12101awha",
+    "sub": "basins",
+    "name": "RAK-DES Wall Hung Wash Basin, 1210 x 460 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Wall Hung wash basin from the RAK Ceramics RAK-DES suite, measuring 1210 x 460 mm, with a rectangle bowl. Available in Alpine White, Matt White, Matt Greige, Matt Cappuccino, Matt Grey, Matt Black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-wall-hung-deswb12101awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "1210 x 460 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "40 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Wall Hung"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Rectangle"
+      },
+      {
+        "label": "Overflow hole",
+        "value": "yes"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DESWB12101AWHA",
+    "variants": [
+      {
+        "model": "DESWB12101AWHA",
+        "note": "Alpine White; set incl. DESWB12100AWHA"
+      },
+      {
+        "model": "DESWB12101500A",
+        "note": "Matt White; set incl. DESWB12100500A"
+      },
+      {
+        "model": "DESWB12101505A",
+        "note": "Matt Greige; set incl. DESWB12100505A"
+      },
+      {
+        "model": "DESWB12101514A",
+        "note": "Matt Cappuccino; set incl. DESWB12100514A"
+      },
+      {
+        "model": "DESWB12101503A",
+        "note": "Matt Grey; set incl. DESWB12100503A"
+      },
+      {
+        "model": "DESWB12101504A",
+        "note": "Matt Black; set incl. DESWB12100504A"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-des-deswb12101awha-wall-hung-wash-basin-alpine-white-121-cm/"
+  },
+  {
+    "id": "rak-des-free-standing-desfs6000awha",
+    "sub": "basins",
+    "name": "RAK-DES Free Standing Wash Basin, 600 x 350 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Free Standing wash basin from the RAK Ceramics RAK-DES suite, measuring 600 x 350 mm, with a round bowl. Available in Alpine White, Matt White, Matt Greige, Matt Cappuccino, Matt Black, Matt Grey.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-free-standing-desfs6000awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "600 x 350 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "34 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Free Standing"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Round"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DESFS6000AWHA",
+    "variants": [
+      {
+        "model": "DESFS6000AWHA",
+        "note": "Alpine White"
+      },
+      {
+        "model": "DESFS6000500A",
+        "note": "Matt White"
+      },
+      {
+        "model": "DESFS6000505A",
+        "note": "Matt Greige"
+      },
+      {
+        "model": "DESFS6000514A",
+        "note": "Matt Cappuccino"
+      },
+      {
+        "model": "DESFS6000504A",
+        "note": "Matt Black"
+      },
+      {
+        "model": "DESFS6000503A",
+        "note": "Matt Grey"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-des-whidden-fixations-desfs6000awha-full-pedestal-washbasin-alpine-white-60-cm/"
+  },
+  {
+    "id": "rak-feeling-washbasins-counter-top-feect5000awha",
+    "sub": "basins",
+    "name": "RAK-FEELING Counter Top Wash Basin, 500 x 360 mm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Counter Top wash basin from the RAK Ceramics RAK-FEELING WASHBASINS suite, measuring 500 x 360 mm, with a rectangle bowl. Finish: Alpine White.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-feeling-washbasins-counter-top-feect5000awha.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "500 x 360 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "12.5 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-FEELING WASHBASINS"
+      },
+      {
+        "label": "Type",
+        "value": "Counter Top"
+      },
+      {
+        "label": "Shape of basin",
+        "value": "Rectangle"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FEECT5000AWHA",
+    "variants": [
+      {
+        "model": "FEECT5000AWHA",
+        "note": "Alpine White; set incl. DUO002AWHA"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/wash-basins/rak-feeling-wb-slim-feect5000awha-rectangular-wash-basin-alpine-white-50-cm/"
+  },
+  {
+    "id": "rak-des-towel-holder-mettr001504",
+    "sub": "bathroom-accessories",
+    "name": "RAK-DES Towel Holder for 121 cm Washbasin",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Matt black towel holder from the RAK-DES range, sized for the 121 cm washbasin and measuring 560 x 105 mm.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-towel-holder-mettr001504.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "560 x 105 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.4 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Towel Holder"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "METTR001504",
+    "variants": [
+      {
+        "model": "METTR001504",
+        "note": "Matt Black"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/accessories/rak-des-mettr001504-x-2-towel-holder-matt-black-for-121-cm-washbasin/"
+  },
+  {
+    "id": "rak-des-towel-holder-metth001524",
+    "sub": "bathroom-accessories",
+    "name": "RAK-DES Towel Holder 156 cm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Towel holder from the RAK-DES range in matt black and brass, measuring 449 x 1560 mm.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-towel-holder-metth001524.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "449 x 1560 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "2.4 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Towel Holder"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "METTH001524",
+    "variants": [
+      {
+        "model": "METTH001524",
+        "note": "Matt Black & Brass"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/accessories/rak-des-metth001524-towel-holder-matt-black-brass-156-cm/"
+  },
+  {
+    "id": "rak-des-metal-legs-metlg001504",
+    "sub": "bathroom-accessories",
+    "name": "RAK-DES Metal Legs for 121 cm Washbasin",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Matt black metal legs from the RAK-DES range for the 121 cm washbasin, measuring 1188 x 813 mm.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-metal-legs-metlg001504.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "1188 x 813 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.9 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Metal Legs"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "METLG001504",
+    "variants": [
+      {
+        "model": "METLG001504",
+        "note": "Matt Black"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/accessories/rak-des-metlg001504-metal-legs-matt-black-for-121-cm-washbasins/"
+  },
+  {
+    "id": "rak-des-side-table-metst001504",
+    "sub": "bathroom-accessories",
+    "name": "RAK-DES Side Table 63 cm",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Matt black side table from the RAK-DES bathroom range, measuring 280 x 632 mm.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-des-side-table-metst001504.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "280 x 632 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "4.5 Kg"
+      },
+      {
+        "label": "Suite",
+        "value": "RAK-DES"
+      },
+      {
+        "label": "Type",
+        "value": "Side Table"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "METST001504",
+    "variants": [
+      {
+        "model": "METST001504",
+        "note": "Matt Black"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/accessories/rak-des-metst001504-side-table-matt-black-63-cm/"
+  },
+  {
+    "id": "rak-duo-wastes-duo000444",
+    "sub": "bathroom-accessories",
+    "name": "RAK-DUO Click-Clack Basin Waste",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Click-clack basin waste from the RAK-DUO range in chrome, designed to complement RAK Ceramics wash basins.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-duo-wastes-duo000444.webp",
+    "specRows": [
+      {
+        "label": "Suite",
+        "value": "RAK-DUO"
+      },
+      {
+        "label": "Type",
+        "value": "Wastes"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DUO000444",
+    "variants": [
+      {
+        "model": "DUO000444",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/accessories/rak-duo-duo000444-chrome-click-clack-wastes-chrome/"
+  },
+  {
+    "id": "rak-duo-wastes-duo002444",
+    "sub": "bathroom-accessories",
+    "name": "RAK-DUO Free-Flow Basin Waste",
+    "brand": "RAK Ceramics",
+    "category": "Sanitary ware",
+    "use": "Free-flow basin waste from the RAK-DUO range in chrome, designed to complement RAK Ceramics wash basins.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/rak-duo-wastes-duo002444.webp",
+    "specRows": [
+      {
+        "label": "Suite",
+        "value": "RAK-DUO"
+      },
+      {
+        "label": "Type",
+        "value": "Wastes"
+      }
+    ],
+    "photoNote": "Official RAK Ceramics product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DUO002444",
+    "variants": [
+      {
+        "model": "DUO002444",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://www.rakceramics.com/uae/en/bathroom-kitchen/products/accessories/rak-duo-duo002444-chrome-free-flow-wastes-chrome/"
   }
 ];

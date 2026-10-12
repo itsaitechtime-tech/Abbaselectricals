@@ -157,7 +157,22 @@ def text_of(obj):
     return str(obj)
 
 
-def check_image(path):
+# NARROW OVERRIDE (user-approved 2026-10-12): RAK Ceramics publishes its official product shots only on a
+# plain dark-grey studio background. For this brand ONLY, a plain, neutral (unsaturated) grey background with
+# border brightness 40-160 is accepted and kept as-is (no whitening/trim); every other brand still needs white.
+DARK_BG_BRANDS = {"rak ceramics"}
+
+
+def plain_grey_border(rgb):
+    w, h = rgb.size
+    px = [rgb.getpixel((x, y)) for x in range(0, w, max(1, w // 50)) for y in (0, h - 1)] + \
+         [rgb.getpixel((x, y)) for y in range(0, h, max(1, h // 50)) for x in (0, w - 1)]
+    lum = sum(sum(q) / 3 for q in px) / len(px)
+    sat = max(max(q) - min(q) for q in px)
+    return 40 <= lum <= 160 and sat <= 20, lum
+
+
+def check_image(path, dark_ok=False):
     """Returns (errors, warnings, (w, h))."""
     errs, warns = [], []
     try:
@@ -174,6 +189,13 @@ def check_image(path):
     border = [rgb.getpixel((x, y)) for x in range(0, w, max(1, w // 50)) for y in (0, h - 1)] + \
              [rgb.getpixel((x, y)) for y in range(0, h, max(1, h // 50)) for x in (0, w - 1)]
     lum = sum(sum(p) / 3 for p in border) / len(border)
+    if dark_ok and lum < 200:
+        ok, glum = plain_grey_border(rgb)
+        if ok:
+            warns.append(f"image {path.name}: plain dark-grey background ({glum:.0f}/255) accepted under the RAK Ceramics override")
+        else:
+            errs.append(f"image {path.name}: background is not plain neutral grey or white; override does not apply")
+        return errs, warns, (w, h)
     if lum < 200:
         errs.append(f"image {path.name}: background is not white (border brightness {lum:.0f}/255); product photos on white only")
     elif lum < 238:
@@ -210,7 +232,25 @@ def pure_white_border(im):
     return sum(1 for p in px if p >= 250) / len(px) >= 0.98
 
 
-def process_image(src, dst):
+def process_image_dark(src, dst):
+    """RAK override: keep the official grey studio shot untouched apart from a downscale-only fit onto a
+    1000x1000 canvas filled with the image's own average border grey."""
+    im = flatten(Image.open(src))
+    _, lum = plain_grey_border(im)
+    S = 1000
+    scale = min(1.0, S / max(im.size))
+    if scale < 1.0:
+        im = im.resize((max(1, round(im.width * scale)), max(1, round(im.height * scale))), Image.LANCZOS)
+    g = round(lum)
+    canvas = Image.new("RGB", (S, S), (g, g, g))
+    canvas.paste(im, ((S - im.width) // 2, (S - im.height) // 2))
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    canvas.save(dst, "WEBP", quality=86, method=6)
+
+
+def process_image(src, dst, dark_ok=False):
+    if dark_ok:
+        return process_image_dark(src, dst)
     """Trim to the product, whiten an off-white border-connected background, fit uncropped within
     84% of a 1000x1000 white canvas (downscale only, never upscale), save WebP q86."""
     im = flatten(Image.open(src))
@@ -345,7 +385,7 @@ def validate(p, folder, subs, vsubs):
             errs.append(f"image '{f}' not found in {folder.name}/"); continue
         if path.suffix.lower() not in (".jpg", ".jpeg", ".png", ".webp"):
             errs.append(f"image '{f}': use jpg, png or webp"); continue
-        e, w, _ = check_image(path)
+        e, w, _ = check_image(path, str(p.get('brand', '')).strip().lower() in DARK_BG_BRANDS)
         errs += e; warns += w
 
     # content guards
@@ -535,8 +575,9 @@ def main():
 
     if not a.dry_run and new_entries:
         for entry, imgs, meta in new_entries:
+            dark_ok = str(entry.get("brand", "")).strip().lower() in DARK_BG_BRANDS or meta.get("brand", "").lower() in DARK_BG_BRANDS
             for src, dst, _ in imgs:
-                process_image(src, dst)
+                process_image(src, dst, dark_ok)
             store.append({**entry, "_meta": meta})
         STORE.write_text(json.dumps(store, indent=2, ensure_ascii=False) + "\n")
         write_ts(store)
