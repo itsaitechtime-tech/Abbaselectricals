@@ -18338,5 +18338,733 @@ export const feedProducts: (Product & { sub: string })[] = [
     ],
     "source": "https://www.opple.eu/en/product/lamps/strips/led-strip-ip67-tunable-white",
     "voltage": "24V"
+  },
+  {
+    "id": "schneider-kb31",
+    "sub": "switches-sockets",
+    "name": "Vivace 1 Gang Switch",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Single-gang flush wall switch from the Schneider Electric Vivace range for 250V 50/60Hz circuits. Its compact 86 x 86 mm plate suits standard BS back boxes.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb31.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "250V 50/60Hz"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 37 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "25 mm"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB31",
+    "source": "https://www.se.com/ae/en/product/KB31/"
+  },
+  {
+    "id": "schneider-kb32",
+    "sub": "switches-sockets",
+    "name": "Vivace 2 Gang 2-Way Switch, 16AX",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Two-gang, two-way 16AX 250V flush switch from the Vivace range, with screw terminals. Suitable for residential and commercial lighting circuits.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb32.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "86 x 86 x 37 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Gangs",
+        "value": "2"
+      },
+      {
+        "label": "Function",
+        "value": "2-way"
+      },
+      {
+        "label": "Rating",
+        "value": "16AX 250V 50/60Hz"
+      },
+      {
+        "label": "Terminals",
+        "value": "Screw"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "25 mm"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB32",
+    "source": "https://www.se.com/ae/en/product/KB32/"
+  },
+  {
+    "id": "schneider-kb33",
+    "sub": "switches-sockets",
+    "name": "Vivace 3 Gang 2-Way Switch, 16AX",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Three-gang, two-way 16AX 250V flush switch from the Vivace range. It controls three lighting circuits from a single 86 mm plate.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb33.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "86 x 86 x 37 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Gangs",
+        "value": "3"
+      },
+      {
+        "label": "Function",
+        "value": "2-way"
+      },
+      {
+        "label": "Rating",
+        "value": "16AX 250V"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "25 mm"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB33",
+    "source": "https://www.se.com/ae/en/product/KB33/"
+  },
+  {
+    "id": "schneider-kb15",
+    "sub": "switches-sockets",
+    "name": "Vivace 13A 1 Gang Switched Socket",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Single 13A 250VAC switched socket outlet (2P+E) in white glossy polycarbonate from the Vivace range. It complies with MS 589, SS 145 and BS 1362-2.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb15.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "87 x 87 x 35 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate, white glossy"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250VAC"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +40°C"
+      },
+      {
+        "label": "Standards",
+        "value": "MS 589, SS 145, BS 1362-2"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB15",
+    "source": "https://www.se.com/ae/en/product/KB15/"
+  },
+  {
+    "id": "schneider-kb25",
+    "sub": "switches-sockets",
+    "name": "Vivace 13A Twin Switched Socket",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Twin 13A switched socket outlet (2P+E) from the Vivace range in white glossy polycarbonate. Its double-gang plate gives two switched outlets.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb25.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "147 x 87 x 35 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate, white glossy"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Rating",
+        "value": "13A"
+      },
+      {
+        "label": "Gangs",
+        "value": "2"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB25",
+    "source": "https://www.se.com/ae/en/product/KB25/"
+  },
+  {
+    "id": "schneider-kb15dacusb-we",
+    "sub": "switches-sockets",
+    "name": "Vivace 13A Switched Socket with USB Type A + C, 21W",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "13A 250VAC switched socket combined with USB Type A and Type C fast-charging ports, delivering up to 21W in total. It supports QC2/3, PD2/3, FCP, AFC, Apple 2.4A, Samsung 2.0 and BC1.2, and fits a 35 mm BS box.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb15dacusb-we.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "86 x 86 x 37.2 mm"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250VAC"
+      },
+      {
+        "label": "Usb",
+        "value": "Type A + Type C, 21W max"
+      },
+      {
+        "label": "Fast charge protocols",
+        "value": "QC2.0/3.0, PD2.0/3.0, FCP, AFC, Apple 2.4A, Samsung 2.0, BC1.2"
+      },
+      {
+        "label": "Standby power",
+        "value": "0.3W"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "28.8 mm"
+      },
+      {
+        "label": "Back box",
+        "value": "35 mm BS box"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB15DACUSB_WE",
+    "source": "https://www.se.com/ae/en/product/KB15DACUSB_WE/"
+  },
+  {
+    "id": "schneider-kb31usb-we",
+    "sub": "switches-sockets",
+    "name": "Vivace USB Charger Outlet, White",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Flush-mounted USB charger outlet from the Vivace range in white. It runs from a 100–240VAC supply and fits a standard single-gang plate.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb31usb-we.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "100–240VAC"
+      },
+      {
+        "label": "Size",
+        "value": "87 x 87 x 37.1 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "71.2 g"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "27.3 mm"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB31USB_WE",
+    "source": "https://www.se.com/ae/en/product/KB31USB_WE/"
+  },
+  {
+    "id": "schneider-kbn15usb-we",
+    "sub": "switches-sockets",
+    "name": "Vivace E 13A 1 Gang Switched Socket with USB A + C",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Single 13A 250V switched socket from the Vivace E range with integrated USB Type A and Type C charging (2.1A). Finished in white glossy polycarbonate.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kbn15usb-we.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate, white glossy"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace E"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250V"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      },
+      {
+        "label": "Usb",
+        "value": "Type A + Type C, 2.1A"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +35°C"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KBN15USB_WE",
+    "source": "https://www.se.com/ae/en/product/KBN15USB_WE/"
+  },
+  {
+    "id": "schneider-kbnt25usb-we",
+    "sub": "switches-sockets",
+    "name": "Vivace E 13A 2 Gang Switched Socket with USB A + C",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Twin 13A switched socket from the Vivace E range with integrated USB Type A and Type C charging (2.1A). Finished in white glossy polycarbonate.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kbnt25usb-we.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate, white glossy"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace E"
+      },
+      {
+        "label": "Rating",
+        "value": "13A"
+      },
+      {
+        "label": "Gangs",
+        "value": "2"
+      },
+      {
+        "label": "Usb",
+        "value": "Type A + Type C, 2.1A"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KBNT25USB_WE",
+    "source": "https://www.se.com/ae/en/product/KBNT25USB_WE/"
+  },
+  {
+    "id": "schneider-kbn15-we",
+    "sub": "switches-sockets",
+    "name": "Vivace E 13A 1 Gang Switched Socket",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Slim single 13A switched socket (2P+E) from the Vivace E range, 30.8 mm deep, in white glossy polycarbonate.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kbn15-we.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 30.8 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate, white glossy"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace E"
+      },
+      {
+        "label": "Rating",
+        "value": "13A"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KBN15_WE",
+    "source": "https://www.se.com/ae/en/product/KBN15_WE/"
+  },
+  {
+    "id": "schneider-kbnt25-we",
+    "sub": "switches-sockets",
+    "name": "Vivace E 13A 2 Gang Switched Socket",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Twin 13A switched socket (2P+E) from the Vivace E range with a slim 30.8 mm profile, in white glossy polycarbonate.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kbnt25-we.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "146 x 86 x 30.8 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate, white glossy"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace E"
+      },
+      {
+        "label": "Rating",
+        "value": "13A"
+      },
+      {
+        "label": "Gangs",
+        "value": "2"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KBNT25_WE",
+    "source": "https://www.se.com/ae/en/product/KBNT25_WE/"
+  },
+  {
+    "id": "schneider-kb31rd250t-we-g11",
+    "sub": "switches-sockets",
+    "name": "Vivace 1 Gang Rotary Dimmer 250W, Trailing Edge",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Single-gang push-rotary trailing-edge dimmer rated 250W at 240V, from the Vivace range. It has built-in short-circuit and overload protection.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb31rd250t-we-g11.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "240V"
+      },
+      {
+        "label": "Current",
+        "value": "10A"
+      },
+      {
+        "label": "Dimming",
+        "value": "Trailing edge, push-rotary"
+      },
+      {
+        "label": "Size",
+        "value": "87 x 87 x 37 mm"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Load",
+        "value": "250W"
+      },
+      {
+        "label": "Protection",
+        "value": "Short-circuit and overload"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "20 mm"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB31RD250T_WE_G11",
+    "source": "https://www.se.com/ae/en/product/KB31RD250T_WE_G11/"
+  },
+  {
+    "id": "schneider-kbn31rd250u-we",
+    "sub": "switches-sockets",
+    "name": "Vivace E Dimmer with Switch",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Flush dimmer with an integrated switch from the Vivace E range for 220–240V circuits. Made of white glossy polycarbonate to IEC 60669-2-1.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kbn31rd250u-we.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220–240V"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 45.3 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate, white glossy"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Standard",
+        "value": "IEC 60669-2-1"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace E"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KBN31RD250U_WE",
+    "source": "https://www.se.com/ae/en/product/KBN31RD250U_WE/"
+  },
+  {
+    "id": "schneider-kb31rf250",
+    "sub": "switches-sockets",
+    "name": "Vivace 1 Gang Fan Speed Controller 250VA",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "Single-gang rotary fan speed controller rated 250VA from the Vivace range, in white. Suitable for ceiling fan control in homes and offices.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb31rf250.webp",
+    "specRows": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Load",
+        "value": "250VA"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      },
+      {
+        "label": "Control",
+        "value": "Rotary"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB31RF250",
+    "source": "https://www.se.com/ae/en/product/KB31RF250/"
+  },
+  {
+    "id": "schneider-kb31dr45n",
+    "sub": "switches-sockets",
+    "name": "Vivace 45A Double Pole Switch with Neon",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "45A 250V double-pole switch with neon indicator from the Vivace range, for water heaters, cookers and air-conditioners. Flush single-gang plate in white glossy polycarbonate.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb31dr45n.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 37 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate, white glossy"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Rating",
+        "value": "45A 250V"
+      },
+      {
+        "label": "Indicator",
+        "value": "Neon"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "25 mm"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB31DR45N",
+    "source": "https://www.se.com/ae/en/product/KB31DR45N/"
+  },
+  {
+    "id": "schneider-kb31d20ne-we",
+    "sub": "switches-sockets",
+    "name": "Vivace 20A Double Pole Switch with Neon",
+    "brand": "Schneider",
+    "category": "Electrical package",
+    "use": "20A 250V double-pole switch with neon indicator from the Vivace range, ideal for water heaters and appliances. Single-gang plate, 86 x 86 x 32 mm.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/schneider-kb31d20ne-we.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "86 x 86 x 32 mm"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Range",
+        "value": "Vivace"
+      },
+      {
+        "label": "Rating",
+        "value": "20A 250V"
+      },
+      {
+        "label": "Indicator",
+        "value": "Neon"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      }
+    ],
+    "photoNote": "Official Schneider product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KB31D20NE_WE",
+    "source": "https://www.se.com/ae/en/product/KB31D20NE_WE/"
   }
 ];
