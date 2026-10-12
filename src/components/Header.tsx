@@ -29,7 +29,7 @@ export function Wordmark({ small = false }: { small?: boolean }) {
       >
         Barq<span className="text-gold">·</span>Lumi
       </span>
-      <span className="mt-1 text-[0.55rem] font-semibold uppercase tracking-[0.32em] text-white/55">
+      <span className="mt-1 whitespace-nowrap text-[0.55rem] font-semibold uppercase tracking-[0.32em] text-white/55">
         Lighting · Since {site.established}
       </span>
     </span>
@@ -68,14 +68,14 @@ export function Header({ extraNav = [] }: { extraNav?: NavItem[] }) {
           <Wordmark />
         </Link>
 
-        <nav className="hidden items-center gap-8 lg:flex" aria-label="Primary">
+        <nav className="hidden items-center gap-4 lg:flex xl:gap-8" aria-label="Primary">
           {items.map((item) => {
             const active = isActive(pathname, item.href, other, item.match);
             return (
               <Link
                 key={item.href}
                 href={item.href}
-                className={`text-[0.72rem] font-semibold uppercase tracking-[0.16em] transition ${
+                className={`whitespace-nowrap text-[0.72rem] font-semibold uppercase tracking-[0.12em] transition xl:tracking-[0.16em] ${
                   active ? "text-white" : "text-white/80 hover:text-white"
                 }`}
               >
@@ -90,10 +90,11 @@ export function Header({ extraNav = [] }: { extraNav?: NavItem[] }) {
             href={site.whatsapp.href}
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="WhatsApp"
             className="btn btn-sm btn-outline-light hidden sm:inline-flex"
           >
             <WhatsAppIcon className="h-4 w-4" />
-            WhatsApp
+            <span className="lg:hidden xl:inline">WhatsApp</span>
           </a>
           <button
             type="button"

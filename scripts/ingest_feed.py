@@ -50,7 +50,11 @@ SPEC_KEYS = {
     "poles": "Poles", "rated_current": "Rated current", "breaking_capacity": "Breaking capacity",
     "gang": "Gang", "ways": "Ways", "curve": "Tripping curve", "sensitivity": "Sensitivity",
     "usb_output": "USB output", "contact_gap": "Contact gap", "terminal_capacity": "Terminal capacity",
-    "surge_protection": "Surge protection",
+    "surge_protection": "Surge protection", "fuse": "Fuse", "protection_class": "Protection class",
+    # emergency
+    "emergency_mode": "Emergency mode", "emergency_duration": "Emergency duration",
+    "emergency_test": "Emergency test", "battery": "Battery",
+    "optics": "Optics", "optic": "Optic", "controls": "Controls",
     # drivers & controls
     "outputs": "Outputs", "protocols": "Protocols", "dry_contact_inputs": "Dry contact inputs",
     "efficiency": "Efficiency", "ripple": "Ripple", "max_cable_length": "Max cable length",
@@ -108,7 +112,7 @@ def load_categories():
     for g in data["groups"]:
         for s in g["sub_categories"]:
             subs[s["sub_category"]] = {"group": g["category"], "brand_group": g["brand_group"], "name": s["name"]}
-    return subs, set(data.get("voltage_subs", []))
+    return subs, set(data.get("voltage_subs", [])), {b.lower() for b in data.get("allowed_brands", [])}
 
 
 def run_export():
@@ -481,7 +485,7 @@ def main():
 
     print("refreshing EXISTING.json ...")
     run_export()
-    subs, vsubs = load_categories()
+    subs, vsubs, allowed = load_categories()
     existing = json.loads((FEED / "EXISTING.json").read_text())["products"]
     seen_slugs = {p["slug"] for p in existing}
     seen_models = {(p["brand"].lower(), norm_model(m)) for p in existing for m in p.get("models", []) if norm_model(m)}
@@ -493,7 +497,7 @@ def main():
         if not feeds:
             sys.exit(f"ingest-feed: no feed folder '{a.feed}' with products.json in {FEED}")
 
-    added, skipped, invalid, warnings = [], [], [], []
+    added, skipped, invalid, warnings, flagged = [], [], [], [], []
     new_entries = []
     for folder in feeds:
         try:
@@ -519,6 +523,9 @@ def main():
                         dup = f"{map_brand(p)[0]} {m} already on the site"; break
             if dup:
                 skipped.append((folder.name, label, dup)); continue
+            if allowed and site_brand not in allowed:
+                flagged.append((folder.name, label, f"brand '{map_brand(p)[0]}' is not in lightingBrands / sanitaryBrands / FSL / Enlight (src/lib/site.ts)"))
+                continue
             entry, imgs, meta = build_entry(p, folder, rows, volt, subs)
             seen_slugs.add(p["slug"])
             seen_models.update((site_brand, norm_model(m)) for m in key_models)
@@ -539,9 +546,11 @@ def main():
     now = datetime.datetime.now().astimezone().strftime("%Y-%m-%d %H:%M %Z")
     out = [f"# Ingest report, {now}{' (DRY RUN, nothing changed)' if a.dry_run else ''}", "",
            f"Feeds read: {len(feeds)} ({', '.join(d.name for d in feeds) or 'none'})",
-           f"Added: {len(added)} · Skipped (duplicates): {len(skipped)} · Invalid: {len(invalid)} · Warnings: {len(warnings)}",
+           f"Added: {len(added)} · Skipped (duplicates): {len(skipped)} · Flagged (brand not on site list): {len(flagged)} · Invalid: {len(invalid)} · Warnings: {len(warnings)}",
            f"Feed products on the site: {len(store)}", ""]
-    for title, rows_ in (("Added", added), ("Skipped (duplicate)", skipped), ("Warnings", warnings)):
+    for title, rows_ in (("Added", added), ("Skipped (duplicate)", skipped),
+                         ("Flagged, not added (add the brand to site.ts first if it should be listed)", flagged),
+                         ("Warnings", warnings)):
         if rows_:
             out += [f"## {title}", ""] + [f"- {f} / {s}: {m}" for f, s, m in rows_] + [""]
     if invalid:

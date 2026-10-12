@@ -326,7 +326,7 @@ export const allGroups: Group[] = [
       {
         slug: "dmx-control",
         name: "DMX & Controls",
-        blurb: "DMX512 decoding for RGB, RGBW and linear wash control.",
+        blurb: "DMX, DALI and DyNet controllers for dimming, RGB and linear wash control.",
         icon: "control",
         productIds: ["drv-dmx-decoder"],
       },

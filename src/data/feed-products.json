@@ -1657,5 +1657,4526 @@
       ],
       "ingested_at": "2026-10-06T14:12:52+04:00"
     }
+  },
+  {
+    "id": "mk-logic-plus-13a-dp-switched-fused-connection-unit",
+    "sub": "electrical-accessories",
+    "name": "Logic Plus 13A DP Switched Fused Connection Unit",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 13A double-pole switched fused spur for fixed appliances, with the neutral making first and breaking last. The fuse carrier stays attached when opened and can be padlocked. Available plain, with neon, with red rocker, with front flex outlet or with a tamperproof fuse-carrier screw.",
+    "specs": [
+      "Neutral makes first, breaks last",
+      "Fuse carrier stays on plate; padlockable (K2000)",
+      "Screwless cord grip (flex outlets)",
+      "Neon / red rocker options",
+      "Tamperproof screw option"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-13a-dp-switched-fused-connection-unit.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush 866ZIC (35 mm) or surface K2031WHI box; fixing centres 60.3 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "K1030/K1070 front-flex units need mounting frame K2134WHI on MI cable box K2131WHI"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole (switched)"
+      },
+      {
+        "label": "Rated current",
+        "value": "13A (fused)"
+      },
+      {
+        "label": "Gang",
+        "value": "1"
+      },
+      {
+        "label": "Fuse",
+        "value": "13A fuse-link to BS 1362 fitted"
+      },
+      {
+        "label": "Standard",
+        "value": "BS 1363 Pt 4:1995"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K1040WHI",
+    "variants": [
+      {
+        "model": "K1040WHI",
+        "note": "DP switched"
+      },
+      {
+        "model": "K1040KOWHI",
+        "note": "DP switched, tamperproof fuse-carrier screw; key 3405ZIC supplied"
+      },
+      {
+        "model": "K1060WHI",
+        "note": "DP switched with neon"
+      },
+      {
+        "model": "K1060D1WHI",
+        "note": "DP switched with neon and red rocker"
+      },
+      {
+        "model": "K1030WHI",
+        "note": "DP switched with front flex outlet (pictured)"
+      },
+      {
+        "model": "K1070WHI",
+        "note": "DP switched with front flex outlet and neon"
+      },
+      {
+        "model": "K1070D1WHI",
+        "note": "DP switched with front flex outlet, neon and red rocker"
+      }
+    ],
+    "applications": [
+      "Water heaters",
+      "Kitchen appliances",
+      "Air-conditioning units",
+      "Hand dryers"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-accessories-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k1030whi-front",
+        "https://buildings.honeywell.com/ae/en/brands/our-brands/mk-electric/products/logic-plus"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, Connection Units page (switched 13A); photo is the K1030WHI front-flex version. Honeywell scene7 serves only 300px images for K1040/K1060/K1070, so those are not pictured.",
+      "original_images": [
+        "K1030WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-13a-dp-switched-fcu-flex-outlet-base",
+    "sub": "electrical-accessories",
+    "name": "Logic Plus 13A DP Switched Fused Connection Unit, Flex Outlet in Base",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 13A double-pole switched fused connection unit with a flex outlet in the base and a thick frontplate, so the appliance flex enters from below. Screwless cord grip; padlockable fuse carrier. Versions with neon and with neon plus red rocker.",
+    "specs": [
+      "Flex outlet in base",
+      "Screwless cord grip",
+      "Fuse carrier stays on plate; padlockable (K2000)",
+      "Neutral makes first, breaks last",
+      "Neon / red rocker options"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-13a-dp-switched-fcu-flex-outlet-base.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush 866ZIC (35 mm) or surface K2140WHI box; fixing centres 60.3 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "Base-entry frontplate 12.5 mm deep"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole (switched)"
+      },
+      {
+        "label": "Rated current",
+        "value": "13A (fused)"
+      },
+      {
+        "label": "Gang",
+        "value": "1"
+      },
+      {
+        "label": "Fuse",
+        "value": "13A fuse-link to BS 1362 fitted"
+      },
+      {
+        "label": "Standard",
+        "value": "BS 1363 Pt 4:1995"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K330WHI",
+    "variants": [
+      {
+        "model": "K330WHI",
+        "note": "DP, flex outlet in base, thick frontplate (pictured)"
+      },
+      {
+        "model": "K330GRA",
+        "note": "As K330WHI, grey"
+      },
+      {
+        "model": "K370WHI",
+        "note": "DP with neon, flex outlet in base"
+      },
+      {
+        "model": "K370GRA",
+        "note": "As K370WHI, grey"
+      },
+      {
+        "model": "K370D1WHI",
+        "note": "DP with neon, flex outlet in base, red rocker"
+      }
+    ],
+    "applications": [
+      "Water heaters",
+      "Under-counter appliances",
+      "Extract fans",
+      "Fixed equipment"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-accessories-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k330whi-front",
+        "https://buildings.honeywell.com/ae/en/brands/our-brands/mk-electric/products/logic-plus"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, Connection Units page (switched 13A, K330/K370).",
+      "original_images": [
+        "K330WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-13a-unswitched-fused-connection-unit",
+    "sub": "electrical-accessories",
+    "name": "Logic Plus 13A Unswitched Fused Connection Unit",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 13A unswitched fused connection unit with a flex outlet in the base and a thick frontplate, for permanently connected appliances. The fuse carrier can be padlocked open; versions with neon and with a tamperproof fuse-carrier screw for public areas.",
+    "specs": [
+      "Unswitched fused spur",
+      "Flex outlet in base",
+      "Fuse carrier stays on plate; padlockable (K2000)",
+      "Tamperproof screw option",
+      "Neon option"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-13a-unswitched-fused-connection-unit.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush 866ZIC (35 mm) or surface K2140WHI box; fixing centres 60.3 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "Base-entry frontplate 12.5 mm deep"
+      },
+      {
+        "label": "Poles",
+        "value": "Unswitched"
+      },
+      {
+        "label": "Rated current",
+        "value": "13A (fused)"
+      },
+      {
+        "label": "Gang",
+        "value": "1"
+      },
+      {
+        "label": "Fuse",
+        "value": "13A fuse-link to BS 1362 fitted"
+      },
+      {
+        "label": "Standard",
+        "value": "BS 1363 Pt 4:1995"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K337WHI",
+    "variants": [
+      {
+        "model": "K337WHI",
+        "note": "Flex outlet in base, thick frontplate (pictured)"
+      },
+      {
+        "model": "K337KOWHI",
+        "note": "As K337WHI with tamperproof fuse-carrier screw; key 3405ZIC supplied"
+      },
+      {
+        "model": "K377WHI",
+        "note": "Flex outlet in base, neon, thick frontplate"
+      }
+    ],
+    "gallery": [
+      "/products/feed/electrical/mk-logic-plus-13a-unswitched-fused-connection-unit-2.webp",
+      "/products/feed/electrical/mk-logic-plus-13a-unswitched-fused-connection-unit-3.webp"
+    ],
+    "applications": [
+      "Hand dryers",
+      "Fridges and freezers",
+      "Boilers and pumps",
+      "Public washrooms"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-accessories-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://buildings.honeywell.com/ae/en/products/by-category/electrical-and-wiring/wiring-devices/connection-units/mk-electric-unswitched-connection-unit",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k337whi-front",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k377whi-front",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k337kowhi-front"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, Connection Units page (unswitched 13A).",
+      "original_images": [
+        "K337WHI-1.jpg",
+        "K377WHI-1.jpg",
+        "K337KOWHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-13a-rcd-connection-unit-30ma",
+    "sub": "electrical-accessories",
+    "name": "Logic Plus 13A RCD Connection Unit, 30mA Passive",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 13A fused connection unit with built-in 30mA passive residual current protection and a thick frontplate, giving local earth-leakage protection to a single fixed appliance or outdoor circuit.",
+    "specs": [
+      "30mA RCD protection",
+      "Passive RCD type",
+      "Fused 13A",
+      "Thick frontplate"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-13a-rcd-connection-unit-30ma.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush 866ZIC (35 mm) or surface K2140WHI box; fixing centres 60.3 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "Base-entry frontplate 12.5 mm deep"
+      },
+      {
+        "label": "Rated current",
+        "value": "13A (fused)"
+      },
+      {
+        "label": "Sensitivity",
+        "value": "30mA"
+      },
+      {
+        "label": "Fuse",
+        "value": "13A fuse-link to BS 1362 fitted"
+      },
+      {
+        "label": "Standard",
+        "value": "BS 1363 Pt 4:1995 (connection unit range)"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K385WHI",
+    "applications": [
+      "Outdoor equipment",
+      "Pumps",
+      "Water features",
+      "Wet-area appliances"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-accessories-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k385whi-front"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, Connection Units page (K385WHI). Trip-time and RCD-type details are not given in the brochure, so they are omitted.",
+      "original_images": [
+        "K385WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-20a-dp-switch-1g-2g",
+    "sub": "electrical-accessories",
+    "name": "Logic Plus 20A DP Switch, 1-Gang / 2-Gang",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 20A double-pole plate switch for isolating fixed loads such as fans, air-conditioning units and water heaters. 1-gang (K4867WHI) or 2-gang (K4868WHI) on an 86 x 86 mm plate.",
+    "specs": [
+      "20A double pole",
+      "1-gang or 2-gang",
+      "86 x 86 mm plate"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-20a-dp-switch-1g-2g.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush 866ZIC box; fixing centres 60.3 mm"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Rated current",
+        "value": "20A"
+      },
+      {
+        "label": "Gang",
+        "value": "1 / 2"
+      },
+      {
+        "label": "Standard",
+        "value": "BS EN 60669-1:1999"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K4867WHI",
+    "variants": [
+      {
+        "model": "K4867WHI",
+        "note": "1-gang DP (pictured)"
+      },
+      {
+        "model": "K4868WHI",
+        "note": "2-gang DP"
+      }
+    ],
+    "applications": [
+      "Fan isolation",
+      "Air-conditioning units",
+      "Water heaters",
+      "Fixed appliances"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-accessories-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k4867whi-front"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, DP Switches page.",
+      "original_images": [
+        "K4867WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-20a-dp-switch-flex-outlet",
+    "sub": "electrical-accessories",
+    "name": "Logic Plus 20A DP Switch with Flex Outlet",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 20A double-pole switch with a flex outlet in the base, for local isolation of fixed appliances fed by a flexible cord, such as water heaters and kitchen equipment. Complete with earth terminal.",
+    "specs": [
+      "Flex outlet in base",
+      "Double-pole isolation",
+      "Earth terminal fitted"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-20a-dp-switch-flex-outlet.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush 866ZIC (35 mm) or surface K2140WHI / K2031WHI box; fixing centres 60.3 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "Base-entry frontplate 12.5 mm deep"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Rated current",
+        "value": "20A"
+      },
+      {
+        "label": "Gang",
+        "value": "1"
+      },
+      {
+        "label": "Standard",
+        "value": "BS EN 60669-1:1999"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K5403WHI",
+    "applications": [
+      "Water heaters",
+      "Kitchen appliances",
+      "Fixed equipment"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-accessories-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k5403whi-front"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, 20A DP switches page (K5403WHI; neon version K5423WHI is already on the site).",
+      "original_images": [
+        "K5403WHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "mk-logic-plus-50a-dp-switch-neon",
+    "sub": "electrical-accessories",
+    "name": "Logic Plus 50A DP Switch with Neon",
+    "brand": "MK",
+    "category": "Electrical package",
+    "use": "Logic Plus 50A double-pole moulded switch on a 86 x 146 mm plate for cookers, showers and other high-load circuits. Versions with neon, and with neon marked 'Cooker' or 'Shower'; the plain version is supplied with eight self-adhesive identification labels.",
+    "specs": [
+      "50A double pole",
+      "Neon indicator",
+      "'Cooker' / 'Shower' marked versions",
+      "Not for large banks of PCs"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/electrical/mk-logic-plus-50a-dp-switch-neon.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Logic Plus"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 146 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush 886ZIC (6 mm²) / 878ZIC (10 mm²) or surface K2172WHI box; fixing centres 120.6 mm"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Rated current",
+        "value": "50A"
+      },
+      {
+        "label": "Standard",
+        "value": "BS EN 60669-1:1999"
+      }
+    ],
+    "photoNote": "MK product photo from the manufacturer's catalogue. Datasheets on request.",
+    "model": "K5215SAWHI",
+    "variants": [
+      {
+        "model": "K5205WHI",
+        "note": "50A DP, with 8 identification labels"
+      },
+      {
+        "model": "K5215SAWHI",
+        "note": "50A DP with neon"
+      },
+      {
+        "model": "K5215CKWHI",
+        "note": "50A DP with neon, marked 'Cooker'"
+      },
+      {
+        "model": "K5215SHWHI",
+        "note": "50A DP with neon, marked 'Shower' (pictured)"
+      }
+    ],
+    "applications": [
+      "Cookers and hobs",
+      "Electric showers",
+      "Water heaters",
+      "Air-conditioning units"
+    ],
+    "source": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+    "_meta": {
+      "feed": "electrical-accessories-mk",
+      "brand_group": "electrical",
+      "feed_brand": "MK",
+      "group": "electrical",
+      "source_type": "catalogue",
+      "source_urls": [
+        "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/document-lists/mk-electric/brochures/LOGIC%20PLUS_ME_2022.pdf",
+        "https://honeywell.scene7.com/is/image/Honeywell65/hbt-ep-k5215shwhi-front"
+      ],
+      "source_note": "MK Logic Plus Middle East brochure 2022, DP switches page (50A moulded flush). Brochure note: not recommended for switching large banks of PCs.",
+      "original_images": [
+        "K5215SHWHI-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "philips-emergency-downlight-em151b-recessed",
+    "sub": "emergency",
+    "name": "Emergency Downlight EM151B, Recessed",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Self-contained recessed LED emergency downlight with a LiFePO4 battery giving 3 hours of non-maintained operation and automatic self-test. Two interchangeable lenses (open area and corridor) are supplied; 328 lm, 6500K, IP20, 5-year warranty.",
+    "specs": [
+      "3 h non-maintained",
+      "Automatic self-test",
+      "LiFePO4 battery",
+      "Open-area + corridor lenses",
+      "Class II, 5-year warranty"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-emergency-downlight-em151b-recessed.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Emergency Downlight EM151B"
+      },
+      {
+        "label": "Power",
+        "value": "3 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220-240 V 50 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "328 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "143 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500 K"
+      },
+      {
+        "label": "CRI",
+        "value": ">80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "165° - 160° x 50°"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK04"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.29"
+      },
+      {
+        "label": "Lifetime",
+        "value": "L95 at 50,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "Ø95 x H33 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.320 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Polycarbonate, cover: UV stabilized Polycarbonate cover"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "+5 to +45 °C"
+      },
+      {
+        "label": "Protection class",
+        "value": "Safety class II"
+      },
+      {
+        "label": "Emergency mode",
+        "value": "Non-maintained"
+      },
+      {
+        "label": "Emergency duration",
+        "value": "3 hour(s)"
+      },
+      {
+        "label": "Emergency test",
+        "value": "Automatic pre-programmed self testing"
+      },
+      {
+        "label": "Battery",
+        "value": "LiFePO4 (lithium iron phosphate)"
+      },
+      {
+        "label": "Optics",
+        "value": "Two interchangeable lenses: open area 165° and corridor 160° x 50°"
+      },
+      {
+        "label": "Connection",
+        "value": "Push-in connector 2-pole"
+      },
+      {
+        "label": "Certification",
+        "value": "CE, RoHS"
+      },
+      {
+        "label": "Warranty",
+        "value": "5 years"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "EM151B REC 3S OA/CO NM3 ELP WH IP20",
+    "applications": [
+      "Offices",
+      "Corridors",
+      "Retail",
+      "Hotels"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-downlight/912401483506_EU/product",
+    "_meta": {
+      "feed": "emergency-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-downlight/912401483506_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-downlight/LP_CF_10684600_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 912401483506 and the family page.",
+      "original_images": [
+        "EM151B-REC-3S-OA-CO-NM3-ELP-WH-IP20-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "philips-emergency-surface-downlight-em152c-ip65",
+    "sub": "emergency",
+    "name": "Emergency Surface Mounted Downlight EM152C, IP65",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Surface-mounted IP65 LED emergency downlight with a LiFePO4 battery for 3 hours of non-maintained emergency light and automatic self-test. Open-area and corridor optics; 273 lm, 6500K, Ø155 mm, 5-year warranty. Suits car parks, plant rooms and damp areas.",
+    "specs": [
+      "IP65 surface mount",
+      "3 h non-maintained",
+      "Automatic self-test",
+      "LiFePO4 battery",
+      "Open-area + corridor optics"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-emergency-surface-downlight-em152c-ip65.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Emergency Surface Mounted Downlight EM152C"
+      },
+      {
+        "label": "Power",
+        "value": "2 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220-240 V 50 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "273 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "135 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500 K"
+      },
+      {
+        "label": "CRI",
+        "value": ">80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "150° - 80° x 30°"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK03"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.39"
+      },
+      {
+        "label": "Lifetime",
+        "value": "L95 at 50,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "Ø155 x H46 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.300 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Polycarbonate, cover: UV stabilized Polycarbonate cover"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "+5 to +40 °C"
+      },
+      {
+        "label": "Protection class",
+        "value": "Safety class II"
+      },
+      {
+        "label": "Emergency mode",
+        "value": "Non-maintained"
+      },
+      {
+        "label": "Emergency duration",
+        "value": "3 hour(s)"
+      },
+      {
+        "label": "Emergency test",
+        "value": "Automatic pre-programmed self testing"
+      },
+      {
+        "label": "Battery",
+        "value": "LiFePO4 (lithium iron phosphate)"
+      },
+      {
+        "label": "Connection",
+        "value": "Push-in connector 2-pole"
+      },
+      {
+        "label": "Certification",
+        "value": "CE, RoHS"
+      },
+      {
+        "label": "Warranty",
+        "value": "5 years"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "EM152C SM 2S OA/CO NM3 ELP WH IP65",
+    "applications": [
+      "Car parks",
+      "Plant rooms",
+      "Corridors",
+      "Damp areas"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-surface-mounted-downlight/912401483507_EU/product",
+    "_meta": {
+      "feed": "emergency-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-surface-mounted-downlight/912401483507_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-surface-mounted-downlight/LP_CF_10684621_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 912401483507 and the family page.",
+      "original_images": [
+        "EM152C-SM-2S-OA-CO-NM3-ELP-WH-IP65-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "philips-emergency-led-bulkhead-em121c",
+    "sub": "emergency",
+    "name": "Emergency Light LED Bulkhead EM121C",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Self-contained LED emergency bulkhead with selectable maintained or non-maintained mode, a LiFePO4 battery for 3 hours of emergency light and a self-test function. 3.5W, 150 lm, 6500K, IP40, IK07, 355 x 111 x 63 mm.",
+    "specs": [
+      "Maintained / non-maintained selectable",
+      "3 h duration",
+      "Self-test",
+      "LiFePO4 battery",
+      "IK07"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-emergency-led-bulkhead-em121c.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Emergency Light LED Bulkhead EM121C"
+      },
+      {
+        "label": "Power",
+        "value": "3.5 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220 to 240 V 50 to 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "150 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "42 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500 K"
+      },
+      {
+        "label": "CRI",
+        "value": "80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP40"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK07"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.2"
+      },
+      {
+        "label": "Size",
+        "value": "355 x 111 x 63 mm (L x W x H)"
+      },
+      {
+        "label": "Weight",
+        "value": "0.620 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Plastic, cover: Polycarbonate"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to +45 °C"
+      },
+      {
+        "label": "Emergency mode",
+        "value": "Maintained or non-maintained (selectable)"
+      },
+      {
+        "label": "Emergency duration",
+        "value": "3 h (fully charged)"
+      },
+      {
+        "label": "Emergency test",
+        "value": "Self-test function"
+      },
+      {
+        "label": "Battery",
+        "value": "LiFePO4 (lithium iron phosphate)"
+      },
+      {
+        "label": "Connection",
+        "value": "Push-in connector 4-pole"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      },
+      {
+        "label": "Warranty",
+        "value": "1 year"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "EM121C Emergency Bulkhead WP",
+    "applications": [
+      "Stairwells",
+      "Corridors",
+      "Back-of-house",
+      "Warehouses"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-bulkhead/911401525943_EU/product",
+    "_meta": {
+      "feed": "emergency-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-bulkhead/911401525943_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-bulkhead/LP_CF_10406996_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401525943 and the family page.",
+      "original_images": [
+        "EM121C-Emergency-Bulkhead-WP-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:09+04:00"
+    }
+  },
+  {
+    "id": "philips-emergency-led-exit-sign-razor",
+    "sub": "emergency",
+    "name": "Emergency Light LED Exit Sign (Razor) EM132C / EM133C / EM134C",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Slim edge-lit LED exit sign for maintained operation, with a LiFePO4 battery for 3 hours of emergency operation and a self-test function. Supplied with up, down or left/right arrow legends; 2.2W, IP20, 313 x 212 x 42 mm.",
+    "specs": [
+      "Maintained mode",
+      "3 h duration",
+      "Self-test",
+      "LiFePO4 battery",
+      "Up / down / left-right legends"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-emergency-led-exit-sign-razor.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Emergency Light LED Exit Sign"
+      },
+      {
+        "label": "Power",
+        "value": "2.2 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220 to 240 V 50 to 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "19 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "23.7 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "7000 K"
+      },
+      {
+        "label": "CRI",
+        "value": "70"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK03"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.35"
+      },
+      {
+        "label": "Size",
+        "value": "313 x 42 x 212 mm (L x W x H)"
+      },
+      {
+        "label": "Weight",
+        "value": "0.520 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Plastic, cover: Acrylate"
+      },
+      {
+        "label": "Colour",
+        "value": "Gray"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to +45 °C"
+      },
+      {
+        "label": "Emergency mode",
+        "value": "Maintained"
+      },
+      {
+        "label": "Emergency duration",
+        "value": "3 h (fully charged)"
+      },
+      {
+        "label": "Emergency test",
+        "value": "Self-test function"
+      },
+      {
+        "label": "Battery",
+        "value": "LiFePO4 (lithium iron phosphate)"
+      },
+      {
+        "label": "Connection",
+        "value": "Push-in connector 3-pole"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      },
+      {
+        "label": "Warranty",
+        "value": "1 year"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "EM132C Emergency Razor with up legend",
+    "variants": [
+      {
+        "model": "EM132C Emergency Razor with up legend",
+        "note": "12NC 911401587043; up arrow legend"
+      },
+      {
+        "model": "EM133C Emergency Razor with down legend",
+        "note": "12NC 911401587143; down arrow legend"
+      },
+      {
+        "model": "EM134C Emergency Razor with L&R legend",
+        "note": "12NC 911401587243; left & right arrow legend"
+      }
+    ],
+    "gallery": [
+      "/products/feed/indoor/philips-emergency-led-exit-sign-razor-2.webp",
+      "/products/feed/indoor/philips-emergency-led-exit-sign-razor-3.webp"
+    ],
+    "applications": [
+      "Escape routes",
+      "Offices",
+      "Malls",
+      "Hotels"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-exit-sign/911401587043_EU/product",
+    "_meta": {
+      "feed": "emergency-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-exit-sign/911401587043_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-exit-sign/911401587143_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-exit-sign/911401587243_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-exit-sign/LP_CF_Exit_Sign_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401587043, 911401587143, 911401587243 and the family page.",
+      "original_images": [
+        "EM132C-Emergency-Razor-with-up-legend-1.jpg",
+        "EM133C-Emergency-Razor-with-down-legend-1.jpg",
+        "EM134C-Emergency-Razor-with-L-R-legend-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "philips-emergency-led-pathfinder-em152b",
+    "sub": "emergency",
+    "name": "Emergency Light LED Pathfinder EM152B (Spitfire)",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Compact LED emergency pathfinder spot (Spitfire) for escape-route and open-area lighting, non-maintained, with a LiFePO4 battery for 3 hours and a self-test function. 300 lm, 6500K, Ø95 x 38.3 mm, IP20.",
+    "specs": [
+      "Non-maintained",
+      "3 h duration",
+      "Self-test",
+      "LiFePO4 battery",
+      "Ø95 mm compact body"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-emergency-led-pathfinder-em152b.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Emergency Light LED Pathfinder"
+      },
+      {
+        "label": "Power",
+        "value": "1.6 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220 to 240 V 50 to 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "300 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "165 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500 K"
+      },
+      {
+        "label": "CRI",
+        "value": "70"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK03"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.2"
+      },
+      {
+        "label": "Size",
+        "value": "Ø95 x H38.3 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.320 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Plastic, cover: Polycarbonate"
+      },
+      {
+        "label": "Colour",
+        "value": "Gray"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to +45 °C"
+      },
+      {
+        "label": "Emergency mode",
+        "value": "Non-maintained"
+      },
+      {
+        "label": "Emergency duration",
+        "value": "3 h (fully charged)"
+      },
+      {
+        "label": "Emergency test",
+        "value": "Self-test function"
+      },
+      {
+        "label": "Battery",
+        "value": "LiFePO4 (lithium iron phosphate)"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      },
+      {
+        "label": "Warranty",
+        "value": "1 year"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "EM152B Emergency Spitfire",
+    "applications": [
+      "Escape routes",
+      "Open areas",
+      "Offices",
+      "Retail"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-pathfinder/911401588043_EU/product",
+    "_meta": {
+      "feed": "emergency-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-pathfinder/911401588043_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-pathfinder/LP_CF_Pathfinder_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401588043 and the family page.",
+      "original_images": [
+        "EM152B-Emergency-Spitfire-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "philips-emergency-led-twin-head-pro-em120c-ip65",
+    "sub": "emergency",
+    "name": "Emergency Light LED Twin-head Pro EM120C, IP65",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Robust IP65 / IK07 twin-head LED emergency luminaire for industrial and open areas, non-maintained, with up to 1,300 lm, a LiFePO4 battery for 3 hours, and manual plus automatic self-test. Works from 0 to 45°C.",
+    "specs": [
+      "Up to 1,300 lm",
+      "IP65 / IK07",
+      "3 h non-maintained",
+      "Manual + automatic self-test",
+      "LiFePO4 battery"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-emergency-led-twin-head-pro-em120c-ip65.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Emergency Light LED Twin-head Pro"
+      },
+      {
+        "label": "Power",
+        "value": "3 W / 4.5 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220-240 V 50 to 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "500 lm / 650 lm / 1,000 lm / 1,300 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "110 lm/W / 135 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500 K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK07"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.000 kg / 1.200 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Polycarbonate, cover: Polycarbonate"
+      },
+      {
+        "label": "Colour",
+        "value": "Gray"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to +45 °C"
+      },
+      {
+        "label": "Protection class",
+        "value": "Safety class II"
+      },
+      {
+        "label": "Emergency mode",
+        "value": "Non-maintained"
+      },
+      {
+        "label": "Emergency duration",
+        "value": "3 h"
+      },
+      {
+        "label": "Emergency test",
+        "value": "Manual test and automatic self-test"
+      },
+      {
+        "label": "Battery",
+        "value": "LiFePO4 (lithium iron phosphate)"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "EM120C Twin-head LED5/865 IP65",
+    "variants": [
+      {
+        "model": "EM120C Twin-head LED5/865 IP65",
+        "power": "3 W",
+        "lumens": "500 lm",
+        "note": "12NC 911401519647; weight 1.000 kg"
+      },
+      {
+        "model": "EM120C Twin-head LED6/865 IP65",
+        "power": "3 W",
+        "lumens": "650 lm",
+        "note": "12NC 911401519747; weight 1.000 kg"
+      },
+      {
+        "model": "EM120C Twin-head LED10/865 IP65",
+        "power": "4.5 W",
+        "lumens": "1,000 lm",
+        "note": "12NC 911401519847; weight 1.200 kg"
+      },
+      {
+        "model": "EM120C Twin-head LED13/865 IP65",
+        "power": "4.5 W",
+        "lumens": "1,300 lm",
+        "note": "12NC 911401519947; weight 1.200 kg"
+      }
+    ],
+    "applications": [
+      "Warehouses",
+      "Car parks",
+      "Factories",
+      "Plant rooms"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-twin-head-pro/911401519647_EU/product",
+    "_meta": {
+      "feed": "emergency-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-twin-head-pro/911401519647_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-twin-head-pro/911401519747_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-twin-head-pro/911401519847_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-twin-head-pro/911401519947_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-twin-head-pro/LP_CF_EM120C_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401519647, 911401519747, 911401519847, 911401519947 and the family page.",
+      "original_images": [
+        "EM120C-Twin-head-LED5-865-IP65-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "philips-emergency-led-twin-head-em120c",
+    "sub": "emergency",
+    "name": "Emergency Light LED Twin-head EM120C",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Wall-mounted twin-head LED emergency light, non-maintained, with a LiFePO4 battery for 3 hours of emergency operation and a self-test function. 0.8W, 150 lm, 6500K, IP20, 275 x 269 x 61 mm.",
+    "specs": [
+      "Twin adjustable heads",
+      "Non-maintained",
+      "3 h duration",
+      "Self-test",
+      "LiFePO4 battery"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-emergency-led-twin-head-em120c.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Emergency Light LED Twin-head"
+      },
+      {
+        "label": "Power",
+        "value": "0.8 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220 to 240 V 50 to 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "150 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "135 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500 K"
+      },
+      {
+        "label": "CRI",
+        "value": "80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK03"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.35"
+      },
+      {
+        "label": "Size",
+        "value": "275 x 269 x 61 mm (L x W x H)"
+      },
+      {
+        "label": "Weight",
+        "value": "0.840 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Plastic, cover: Polycarbonate"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to +45 °C"
+      },
+      {
+        "label": "Emergency mode",
+        "value": "Non-maintained"
+      },
+      {
+        "label": "Emergency duration",
+        "value": "3 h (fully charged)"
+      },
+      {
+        "label": "Emergency test",
+        "value": "Self-test function"
+      },
+      {
+        "label": "Battery",
+        "value": "LiFePO4 (lithium iron phosphate)"
+      },
+      {
+        "label": "Connection",
+        "value": "Push-in connector 2-pole"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      },
+      {
+        "label": "Warranty",
+        "value": "1 year"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "EM120C Emergency Twin-head",
+    "applications": [
+      "Corridors",
+      "Stairwells",
+      "Back-of-house",
+      "Warehouses"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-twin-head/911401525843_EU/product",
+    "_meta": {
+      "feed": "emergency-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-twin-head/911401525843_EU/product",
+        "https://www.signify.com/en-ae/prof/indoor-luminaires/emergency-lighting/philips-emergency-light-led-twin-head/LP_CF_10410022_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401525843 and the family page.",
+      "original_images": [
+        "EM120C-Emergency-Twin-head-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "philips-uni-wall-mount-recessed-bwp400",
+    "sub": "bollards-garden",
+    "name": "Uni Wall Mount Recessed BWP400",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Sleek 12W recessed outdoor wall light for entrances, terraces, garden walls and parking areas. Die-cast aluminium housing with a flat tempered-glass diffuser; 580-620 lm, 3000K or 4000K, IP65 / IK08, for new-build or renovation.",
+    "specs": [
+      "Recessed wall mounting",
+      "IP65 / IK08",
+      "Die-cast aluminium",
+      "Tempered glass diffuser"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/philips-uni-wall-mount-recessed-bwp400.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Uni Wall Mount Recessed BWP400"
+      },
+      {
+        "label": "Power",
+        "value": "12 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220 to 240 V 50 or 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "580 lm / 620 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "48 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000 K / 4000 K"
+      },
+      {
+        "label": "CRI",
+        "value": "70"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK08"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.9"
+      },
+      {
+        "label": "Size",
+        "value": "205 x 107 x 71 mm (L x W x H)"
+      },
+      {
+        "label": "Weight",
+        "value": "0.890 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Aluminum die-cast, cover: Tempered glass"
+      },
+      {
+        "label": "Colour",
+        "value": "Gray"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-40 to +50 °C"
+      },
+      {
+        "label": "Protection class",
+        "value": "Safety class I"
+      },
+      {
+        "label": "Connection",
+        "value": "Connection unit 3-pole"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 years"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BWP400 LED WW 220V 12W WB PSU 7012",
+    "variants": [
+      {
+        "model": "BWP400 LED WW 220V 12W WB PSU 7012",
+        "lumens": "580 lm",
+        "note": "12NC 911401698508; cct 3000 K"
+      },
+      {
+        "model": "BWP400 LED NW 220V 12W WB PSU 7012",
+        "lumens": "620 lm",
+        "note": "12NC 911401698608; cct 4000 K"
+      }
+    ],
+    "applications": [
+      "Garden walls",
+      "Entrances",
+      "Terraces",
+      "Parking areas"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount-recessed/911401698508_EU/product",
+    "_meta": {
+      "feed": "garden-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount-recessed/911401698508_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount-recessed/911401698608_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount-recessed/LP_CF_10575324_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401698508, 911401698608 and the family page.",
+      "original_images": [
+        "BWP400-LED-WW-220V-12W-WB-PSU-7012-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "philips-uni-wall-sconce-bwp410-bwp411",
+    "sub": "bollards-garden",
+    "name": "Uni Wall Sconce BWP410 / BWP411",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "40W outdoor LED wall sconce for entrances, terraces, garden walls and parking areas, mounted directly or on a bracket. Die-cast aluminium with tempered glass; 5,000 lm (3000K) or 5,400 lm (4000K) at 125 lm/W, narrow, medium or wide beam, IP65 / IK08.",
+    "specs": [
+      "125 lm/W",
+      "Narrow / medium / wide beam",
+      "IP65 / IK08",
+      "Direct or bracket mounting"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/philips-uni-wall-sconce-bwp410-bwp411.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Uni Wall Sconce BWP410 / BWP411"
+      },
+      {
+        "label": "Power",
+        "value": "40 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220 to 240 V 50 or 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "5,000 lm / 5,400 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "125 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000 K / 4000 K"
+      },
+      {
+        "label": "CRI",
+        "value": "70"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK08"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.95"
+      },
+      {
+        "label": "Size",
+        "value": "222 x 150 x 359 mm (L x W x H) / 204 x 140 x 359 mm (L x W x H)"
+      },
+      {
+        "label": "Weight",
+        "value": "4.190 kg / 2.690 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Aluminum die-cast, cover: Tempered glass"
+      },
+      {
+        "label": "Colour",
+        "value": "Gray"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-40 to +50 °C"
+      },
+      {
+        "label": "Protection class",
+        "value": "Safety class I"
+      },
+      {
+        "label": "Connection",
+        "value": "Connection unit 3-pole"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 years"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BWP410 LED WW 220V 40W NB PSU 7012",
+    "variants": [
+      {
+        "model": "BWP410 LED WW 220V 40W NB PSU 7012",
+        "lumens": "5,000 lm",
+        "size": "222 x 150 x 359 mm (L x W x H)",
+        "note": "12NC 911401696708; cct 3000 K; weight 4.190 kg; narrow beam (NB)"
+      },
+      {
+        "model": "BWP410 LED WW 220V 40W MB PSU 7012",
+        "lumens": "5,000 lm",
+        "size": "222 x 150 x 359 mm (L x W x H)",
+        "note": "12NC 911401696808; cct 3000 K; weight 4.190 kg; medium beam (MB)"
+      },
+      {
+        "model": "BWP410 LED WW 220V 40W WB PSU 7012",
+        "lumens": "5,000 lm",
+        "size": "222 x 150 x 359 mm (L x W x H)",
+        "note": "12NC 911401696908; cct 3000 K; weight 4.190 kg; wide beam (WB)"
+      },
+      {
+        "model": "BWP410 LED NW 220V 40W NB PSU 7012",
+        "lumens": "5,400 lm",
+        "size": "222 x 150 x 359 mm (L x W x H)",
+        "note": "12NC 911401697008; cct 4000 K; weight 4.190 kg; narrow beam (NB)"
+      },
+      {
+        "model": "BWP410 LED NW 220V 40W MB PSU 7012",
+        "lumens": "5,400 lm",
+        "size": "222 x 150 x 359 mm (L x W x H)",
+        "note": "12NC 911401697108; cct 4000 K; weight 4.190 kg; medium beam (MB)"
+      },
+      {
+        "model": "BWP410 LED NW 220V 40W WB PSU 7012",
+        "lumens": "5,400 lm",
+        "size": "222 x 150 x 359 mm (L x W x H)",
+        "note": "12NC 911401697208; cct 4000 K; weight 4.190 kg; wide beam (WB)"
+      },
+      {
+        "model": "BWP411 LED WW 220V 40W NB PSU 7012",
+        "lumens": "5,000 lm",
+        "size": "204 x 140 x 359 mm (L x W x H)",
+        "note": "12NC 911401697308; cct 3000 K; weight 2.690 kg; narrow beam (NB)"
+      },
+      {
+        "model": "BWP411 LED WW 220V 40W MB PSU 7012",
+        "lumens": "5,000 lm",
+        "size": "204 x 140 x 359 mm (L x W x H)",
+        "note": "12NC 911401697408; cct 3000 K; weight 2.690 kg; medium beam (MB)"
+      }
+    ],
+    "gallery": [
+      "/products/feed/outdoor/philips-uni-wall-sconce-bwp410-bwp411-2.webp"
+    ],
+    "applications": [
+      "Entrances",
+      "Terraces",
+      "Garden walls",
+      "Parking areas"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/911401696708_EU/product",
+    "_meta": {
+      "feed": "garden-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/911401696708_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/911401696808_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/911401696908_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/911401697008_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/911401697108_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/911401697208_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/911401697308_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/911401697408_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-sconce/LP_CF_10575312_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401696708, 911401696808, 911401696908, 911401697008, 911401697108, 911401697208, 911401697308, 911401697408 and the family page.",
+      "original_images": [
+        "BWP410-LED-WW-220V-40W-NB-PSU-7012-1.jpg",
+        "BWP411-LED-WW-220V-40W-MB-PSU-7012-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "philips-uni-wall-mount-bwp420-bwp421",
+    "sub": "floodlights",
+    "name": "Uni Wall Mount BWP420 / BWP421",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Outdoor LED wall-mount luminaire with a 0-90° adjustable mounting angle for parking areas, entrances, terraces and building perimeters. 20W, 40W or 60W, 2,500-8,200 lm at 125 lm/W, 3000K or 4000K; die-cast aluminium, tempered glass, IP65 / IK08.",
+    "specs": [
+      "0-90° adjustable mounting",
+      "125 lm/W",
+      "20 / 40 / 60W",
+      "IP65 / IK08"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/philips-uni-wall-mount-bwp420-bwp421.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Uni Wall Mount BWP420 / BWP421"
+      },
+      {
+        "label": "Power",
+        "value": "20 W / 40 W / 60 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220 to 240 V 50 or 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2,500 lm / 2,700 lm / 5,000 lm / 5,400 lm / 7,500 lm / 8,200 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "125 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000 K / 4000 K"
+      },
+      {
+        "label": "CRI",
+        "value": "70"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK08"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.95"
+      },
+      {
+        "label": "Size",
+        "value": "168 x 113 x 197 mm (L x W x H) / 144 x 242 x 287 mm (L x W x H)"
+      },
+      {
+        "label": "Weight",
+        "value": "1.390 kg / 3.090 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Aluminum die-cast, cover: Tempered glass"
+      },
+      {
+        "label": "Colour",
+        "value": "Gray"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-40 to +50 °C"
+      },
+      {
+        "label": "Protection class",
+        "value": "Safety class I"
+      },
+      {
+        "label": "Connection",
+        "value": "Connection unit 3-pole"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 years"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BWP420 LED WW 220V 20W WB PSU 7012",
+    "variants": [
+      {
+        "model": "BWP420 LED WW 220V 20W WB PSU 7012",
+        "power": "20 W",
+        "lumens": "2,500 lm",
+        "size": "168 x 113 x 197 mm (L x W x H)",
+        "note": "12NC 911401697908; cct 3000 K; weight 1.390 kg"
+      },
+      {
+        "model": "BWP420 LED NW 220V 20W WB PSU 7012",
+        "power": "20 W",
+        "lumens": "2,700 lm",
+        "size": "168 x 113 x 197 mm (L x W x H)",
+        "note": "12NC 911401698008; cct 4000 K; weight 1.390 kg"
+      },
+      {
+        "model": "BWP421 LED WW 220V 40W WB PSU 7012",
+        "power": "40 W",
+        "lumens": "5,000 lm",
+        "size": "144 x 242 x 287 mm (L x W x H)",
+        "note": "12NC 911401698108; cct 3000 K; weight 3.090 kg"
+      },
+      {
+        "model": "BWP421 LED NW 220V 40W WB PSU 7012",
+        "power": "40 W",
+        "lumens": "5,400 lm",
+        "size": "144 x 242 x 287 mm (L x W x H)",
+        "note": "12NC 911401698208; cct 4000 K; weight 3.090 kg"
+      },
+      {
+        "model": "BWP421 LED WW 220V 60W WB PSU 7012",
+        "power": "60 W",
+        "lumens": "7,500 lm",
+        "size": "144 x 242 x 287 mm (L x W x H)",
+        "note": "12NC 911401698308; cct 3000 K; weight 3.090 kg"
+      },
+      {
+        "model": "BWP421 LED NW 220V 60W WB PSU 7012",
+        "power": "60 W",
+        "lumens": "8,200 lm",
+        "size": "144 x 242 x 287 mm (L x W x H)",
+        "note": "12NC 911401698408; cct 4000 K; weight 3.090 kg"
+      }
+    ],
+    "gallery": [
+      "/products/feed/outdoor/philips-uni-wall-mount-bwp420-bwp421-2.webp"
+    ],
+    "applications": [
+      "Parking areas",
+      "Entrances",
+      "Building perimeters",
+      "Terraces"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount/911401697908_EU/product",
+    "_meta": {
+      "feed": "garden-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount/911401697908_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount/911401698008_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount/911401698108_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount/911401698208_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount/911401698308_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount/911401698408_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-uni-wall-mount/LP_CF_10575320_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401697908, 911401698008, 911401698108, 911401698208, 911401698308, 911401698408 and the family page.",
+      "original_images": [
+        "BWP420-LED-WW-220V-20W-WB-PSU-7012-1.jpg",
+        "BWP421-LED-WW-220V-40W-WB-PSU-7012-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "philips-unipoint-bgp312-5led-garden-spot",
+    "sub": "bollards-garden",
+    "name": "UniPoint BGP312 5LED Garden Spot",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Compact 24V DC LED spot for accent and general lighting of facades, trees and landscape features, designed to conceal the body and show only the light. 10W, 595 lm, 3000K, 25° beam, die-cast aluminium with dark grey anti-corrosion coating, IP66 / IK06.",
+    "specs": [
+      "24V DC",
+      "25° beam",
+      "IP66 / IK06",
+      "Anti-corrosion dark grey coating",
+      "Concealed-body design"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/philips-unipoint-bgp312-5led-garden-spot.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips UniPoint BGP312"
+      },
+      {
+        "label": "Power",
+        "value": "10 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "24V DC"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "595 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "59 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000 K"
+      },
+      {
+        "label": "CRI",
+        "value": ">75"
+      },
+      {
+        "label": "Beam angle",
+        "value": "25°"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK06"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Driver",
+        "value": "Not included (external 24V DC electronic transformer)"
+      },
+      {
+        "label": "Size",
+        "value": "Ø90 x H95 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.777 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Aluminum die cast, cover: Glass"
+      },
+      {
+        "label": "Colour",
+        "value": "Dark gray"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to +45 °C"
+      },
+      {
+        "label": "Protection class",
+        "value": "Safety class III"
+      },
+      {
+        "label": "Connection",
+        "value": "Flying leads/wires"
+      },
+      {
+        "label": "Certification",
+        "value": "RoHS"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 years"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BGP312 5LED 3000K MB",
+    "applications": [
+      "Landscape",
+      "Trees and planting",
+      "Facade accents",
+      "Hotels and resorts"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-unipoint/911401710862_EU/product",
+    "_meta": {
+      "feed": "garden-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-unipoint/911401710862_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/architectural-lighting/floodlighting/philips-unipoint/LP_CF_BGP312_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401710862 and the family page.",
+      "original_images": [
+        "BGP312-5LED-3000K-MB-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-eurosmart-single-lever-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "Eurosmart Single-Lever Basin Mixer 1/2\"",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Single-hole basin mixer with a metal lever, GROHE SilkMove 28 mm ceramic cartridge, temperature limiter and AquaCalibrator flow limiting to 5 l/min at 3 bar. LongLife chrome finish, FastFixation installation and flexible hoses. S-Size (with pop-up, push-open or no waste) or M-Size.",
+    "specs": [
+      "SilkMove 28 mm ceramic cartridge",
+      "Temperature limiter",
+      "5 l/min at 3 bar (AquaCalibrator)",
+      "FastFixation installation",
+      "LongLife chrome finish"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-eurosmart-single-lever-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Eurosmart"
+      },
+      {
+        "label": "Size",
+        "value": "S-Size / M-Size"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, single hole"
+      },
+      {
+        "label": "Flow rate",
+        "value": "5 l/min at 3 bar (adjustable flow rate limiter)"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE SilkMove 28 mm ceramic, with temperature limiter"
+      },
+      {
+        "label": "Connection",
+        "value": "1/2\"; flexible connection hoses"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Pop-up 1 1/4\", push-open 1 1/4\" or smooth body (by model)"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "33265003",
+    "variants": [
+      {
+        "model": "33265003",
+        "size": "S-Size",
+        "note": "pop-up waste set 1 1/4\" (lift rod)"
+      },
+      {
+        "model": "23922003",
+        "size": "S-Size",
+        "note": "push-open waste set 1 1/4\""
+      },
+      {
+        "model": "32467003",
+        "size": "S-Size",
+        "note": "smooth body, no waste set"
+      },
+      {
+        "model": "23324003",
+        "size": "M-Size",
+        "note": "smooth body, no waste set"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/grohe-eurosmart-single-lever-basin-mixer-2.webp"
+    ],
+    "applications": [
+      "Residential bathrooms",
+      "Hotels",
+      "Offices",
+      "Guest washrooms"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/eurosmart-single-lever-basin-mixer-1-2-s-size-s-chrome-33265003",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/eurosmart-single-lever-basin-mixer-1-2-s-size-s-chrome-33265003",
+        "https://www.grohe.com/en-AE/product/eurosmart-single-lever-basin-mixer-1-2-s-size-s-chrome-23922003",
+        "https://www.grohe.com/en-AE/product/eurosmart-single-lever-basin-mixer-1-2-s-size-s-chrome-32467003",
+        "https://www.grohe.com/en-AE/product/eurosmart-single-lever-basin-mixer-1-2-m-size-m-chrome-23324003"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-33265003-1.jpg",
+        "GROHE-23324003-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-essence-single-lever-basin-mixer-s-size",
+    "sub": "mixers-taps",
+    "name": "Essence Single-Lever Basin Mixer 1/2\" S-Size",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Minimalist cylindrical single-hole basin mixer with a metal lever, GROHE SilkMove 28 mm ceramic cartridge, temperature limiter and 5 l/min AquaCalibrator flow. FastFixation Plus installation; push-open waste with OpenCold mid-lever (24179001) or pop-up waste with AquaGuide mousseur (24171001).",
+    "specs": [
+      "SilkMove 28 mm ceramic cartridge",
+      "5 l/min at 3 bar",
+      "FastFixation Plus installation",
+      "LongLife chrome finish"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-essence-single-lever-basin-mixer-s-size.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Essence"
+      },
+      {
+        "label": "Size",
+        "value": "S-Size"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, single hole"
+      },
+      {
+        "label": "Flow rate",
+        "value": "5 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE SilkMove 28 mm ceramic, with temperature limiter"
+      },
+      {
+        "label": "Connection",
+        "value": "Flexible connection hoses"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Waste set 1 1/4\" (push-open or pop-up)"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "24179001",
+    "variants": [
+      {
+        "model": "24179001",
+        "note": "push-open waste set; OpenCold (mid-lever gives cold water)"
+      },
+      {
+        "model": "24171001",
+        "note": "pop-up waste set (lift rod); AquaGuide adjustable mousseur; recommended pressure 1-5 bar"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/grohe-essence-single-lever-basin-mixer-s-size-2.webp"
+    ],
+    "applications": [
+      "Residential bathrooms",
+      "Hotels",
+      "Villas"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/essence-single-lever-basin-mixer-1-2-s-size-s-chrome-24179001",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/essence-single-lever-basin-mixer-1-2-s-size-s-chrome-24179001",
+        "https://www.grohe.com/en-AE/product/essence-single-lever-basin-mixer-1-2-s-size-s-chrome-24171001"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-24179001-1.jpg",
+        "GROHE-24171001-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-bauedge-single-lever-basin-mixer-s-size",
+    "sub": "mixers-taps",
+    "name": "BauEdge Single-Lever Basin Mixer 1/2\" S-Size",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Entry-level single-hole basin mixer with a metal lever, GROHE SmoothControl 28 mm ceramic cartridge and AquaCalibrator flow limiting to 5 l/min at 3 bar. LongLife chrome finish, rapid installation system, flexible hoses and a 1 1/4\" plastic pop-up waste.",
+    "specs": [
+      "SmoothControl 28 mm cartridge",
+      "5 l/min at 3 bar",
+      "Rapid installation system",
+      "Pop-up waste included"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-bauedge-single-lever-basin-mixer-s-size.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "BauEdge"
+      },
+      {
+        "label": "Size",
+        "value": "S-Size"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, single hole"
+      },
+      {
+        "label": "Flow rate",
+        "value": "5 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE SmoothControl 28 mm ceramic"
+      },
+      {
+        "label": "Connection",
+        "value": "Flexible connection hoses"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Plastic pop-up waste set 1 1/4\" (lift rod)"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "23328000",
+    "applications": [
+      "Apartments",
+      "Staff washrooms",
+      "Residential bathrooms"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/bauedge-single-lever-basin-mixer-1-2-s-size-s-chrome-23328000",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/bauedge-single-lever-basin-mixer-1-2-s-size-s-chrome-23328000"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-23328000-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-eurosmart-single-lever-sink-mixer-low-spout",
+    "sub": "mixers-taps",
+    "name": "Eurosmart Single-Lever Sink Mixer 1/2\", Low Spout",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Kitchen sink mixer with a swivelling cast C-spout (140°), GROHE SilkMove 35 mm ceramic cartridge, temperature limiter and adjustable flow limiter; 11 l/min at 3 bar. Easy Release aerator, 3/8\" flexible hoses and metal fixing set.",
+    "specs": [
+      "140° swivel C-spout",
+      "SilkMove 35 mm cartridge",
+      "Easy Release aerator (tool-free)",
+      "11 l/min at 3 bar"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-eurosmart-single-lever-sink-mixer-low-spout.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Eurosmart"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, single hole"
+      },
+      {
+        "label": "Flow rate",
+        "value": "11 l/min at 3 bar; min. recommended pressure 1.0 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE SilkMove 35 mm ceramic, integrated temperature limiter"
+      },
+      {
+        "label": "Connection",
+        "value": "Flexible connection hoses 3/8\""
+      },
+      {
+        "label": "Spout",
+        "value": "Low swivel cast C-spout, 140° swivel area"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "33281003",
+    "applications": [
+      "Kitchens",
+      "Pantries",
+      "Apartments"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/eurosmart-single-lever-sink-mixer-1-2-low-chrome-33281003",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/eurosmart-single-lever-sink-mixer-1-2-low-chrome-33281003"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-33281003-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-minta-single-lever-sink-mixer-pull-out",
+    "sub": "mixers-taps",
+    "name": "Minta Single-Lever Sink Mixer 1/2\" with Pull-Out Spout",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "High L-spout kitchen mixer with a pull-out aerator spout and Easy Docking, 360° swivel, GROHE SilkMove 46 mm ceramic cartridge, adjustable flow limiter and integrated non-return valves; 10 l/min at 3 bar. Side lever, LongLife chrome.",
+    "specs": [
+      "Pull-out spout with Easy Docking",
+      "360° swivel L-spout",
+      "SilkMove 46 mm cartridge",
+      "Backflow protected"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-minta-single-lever-sink-mixer-pull-out.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Minta"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, single hole; side lever"
+      },
+      {
+        "label": "Flow rate",
+        "value": "10 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE SilkMove 46 mm ceramic"
+      },
+      {
+        "label": "Connection",
+        "value": "Flexible connection hoses; integrated non-return valves"
+      },
+      {
+        "label": "Spout",
+        "value": "High L-spout, 360° swivel, pull-out aerator (1 spray) with Easy Docking"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "32168000",
+    "applications": [
+      "Kitchens",
+      "Villas",
+      "Apartments"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/minta-single-lever-sink-mixer-1-2-high-chrome-32168000",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/minta-single-lever-sink-mixer-1-2-high-chrome-32168000"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-32168000-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-eurosmart-single-lever-bath-mixer",
+    "sub": "mixers-taps",
+    "name": "Eurosmart Single-Lever Bath Mixer 1/2\"",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Exposed wall-mounted bath/shower mixer with a metal lever, GROHE SilkMove 35 mm ceramic cartridge, temperature limiter and automatic bath/shower diverter; 22 l/min at 3 bar. Non-return valve in the 1/2\" shower outlet, S-unions and metal escutcheons.",
+    "specs": [
+      "Automatic bath/shower diverter",
+      "SilkMove 35 mm cartridge",
+      "Temperature limiter",
+      "Backflow protected"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-eurosmart-single-lever-bath-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Eurosmart"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed"
+      },
+      {
+        "label": "Flow rate",
+        "value": "22 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE SilkMove 35 mm ceramic, with temperature limiter"
+      },
+      {
+        "label": "Connection",
+        "value": "S-unions; metal wall escutcheons; shower outlet 1/2\" with non-return valve"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "33300003",
+    "applications": [
+      "Bathrooms with tub",
+      "Hotels",
+      "Apartments"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/eurosmart-single-lever-bath-mixer-1-2-chrome-33300003",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/eurosmart-single-lever-bath-mixer-1-2-chrome-33300003"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-33300003-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-grohtherm-800-thermostatic-bath-mixer",
+    "sub": "mixers-taps",
+    "name": "Grohtherm 800 Thermostatic Bath Mixer 1/2\"",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Exposed thermostatic bath/shower mixer with GROHE TurboStat wax cartridge, SafeStop at 38°C (optional 43°C limiter included), automatic bath/shower diverter and FlowControl full-flow button; 26 l/min at 3 bar. Non-return valves, dirt strainers, S-unions.",
+    "specs": [
+      "SafeStop 38°C (43°C limiter included)",
+      "TurboStat thermostatic cartridge",
+      "Automatic bath/shower diverter",
+      "Non-return valves + dirt strainers"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-grohtherm-800-thermostatic-bath-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Grohtherm 800"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed"
+      },
+      {
+        "label": "Flow rate",
+        "value": "26 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE TurboStat thermostatic (wax thermoelement); ceramic headpart 1/2\" 180°"
+      },
+      {
+        "label": "Connection",
+        "value": "S-unions; metal escutcheon; shower bottom outlet 1/2\""
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "34567000",
+    "applications": [
+      "Bathrooms with tub",
+      "Hotels",
+      "Family homes"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/grohtherm-800-thermostatic-bath-mixer-1-2-chrome-34567000",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/grohtherm-800-thermostatic-bath-mixer-1-2-chrome-34567000"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-34567000-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-eurosmart-single-lever-shower-mixer",
+    "sub": "showers",
+    "name": "Eurosmart Single-Lever Shower Mixer 1/2\"",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Exposed wall-mounted shower mixer with a metal lever, GROHE SilkMove 35 mm ceramic cartridge, temperature limiter and adjustable flow limiter; 27 l/min at 3 bar. 1/2\" bottom shower outlet with non-return valve, S-unions and metal escutcheons.",
+    "specs": [
+      "SilkMove 35 mm cartridge",
+      "Temperature limiter",
+      "Backflow protected",
+      "LongLife chrome"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-eurosmart-single-lever-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Eurosmart"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed"
+      },
+      {
+        "label": "Flow rate",
+        "value": "27 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE SilkMove 35 mm ceramic, with temperature limiter"
+      },
+      {
+        "label": "Connection",
+        "value": "S-unions; metal wall escutcheons"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Shower bottom outlet 1/2\" with integrated non-return valve"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "33555003",
+    "applications": [
+      "Shower rooms",
+      "Hotels",
+      "Apartments"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/eurosmart-single-lever-shower-mixer-1-2-chrome-33555003",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/eurosmart-single-lever-shower-mixer-1-2-chrome-33555003"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-33555003-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-grohtherm-800-thermostatic-shower-mixer",
+    "sub": "showers",
+    "name": "Grohtherm 800 Thermostatic Shower Mixer 1/2\"",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Exposed thermostatic shower mixer with GROHE TurboStat wax cartridge, SafeStop at 38°C (optional 43°C limiter included), integrated shut-off and FlowControl full-flow button; 25 l/min at 3 bar. Bottom outlet 1/2\", non-return valves, dirt strainers, S-unions.",
+    "specs": [
+      "SafeStop 38°C (43°C limiter included)",
+      "TurboStat thermostatic cartridge",
+      "FlowControl full-flow button",
+      "Non-return valves + dirt strainers"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-grohtherm-800-thermostatic-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Grohtherm 800"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed"
+      },
+      {
+        "label": "Flow rate",
+        "value": "25 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE TurboStat thermostatic (wax thermoelement); ceramic headpart 1/2\" 180°"
+      },
+      {
+        "label": "Connection",
+        "value": "S-unions; metal escutcheon"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Shower bottom outlet 1/2\""
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "34558000",
+    "applications": [
+      "Shower rooms",
+      "Hotels",
+      "Healthcare and family homes"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/grohtherm-800-shower-safety-mixer-chrome-34558000",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/grohtherm-800-shower-safety-mixer-chrome-34558000"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-34558000-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-euphoria-system-260-thermostatic-shower-system",
+    "sub": "showers",
+    "name": "Euphoria System 260 Shower System with Thermostatic Mixer",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Wall-mounted shower system: exposed thermostat (TurboStat, SafeStop 38°C, CoolTouch), Euphoria 260 head shower (Rain, SmartRain, Jet) on a 450 mm swivel arm, Euphoria 110 Massage hand shower on a gliding holder and 1750 mm Silverflex hose; 16 l/min system flow.",
+    "specs": [
+      "SafeStop 38°C + CoolTouch",
+      "3 sprays: Rain, SmartRain, Jet",
+      "Euphoria 110 Massage hand shower",
+      "SpeedClean anti-limescale nozzles",
+      "Suits instantaneous heaters from 18 kW"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-euphoria-system-260-thermostatic-shower-system.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Euphoria System 260"
+      },
+      {
+        "label": "Size",
+        "value": "Head shower Ø260 mm; 450 mm swivel shower arm"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed; 1 adjustable bracket for existing drill holes"
+      },
+      {
+        "label": "Flow rate",
+        "value": "16 l/min at 3 bar (system / head shower); minimum flow 5 l/min"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE TurboStat thermostatic (wax thermoelement)"
+      },
+      {
+        "label": "Connection",
+        "value": "S-unions, 150 mm centre distance; Silverflex hose 1750 mm 1/2\""
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "27296003",
+    "applications": [
+      "Bathroom renovations",
+      "Hotels",
+      "Villas"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/euphoria-system-260-shower-system-with-thermostatic-mixer-for-wall-mounting-chrome-27296003",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/euphoria-system-260-shower-system-with-thermostatic-mixer-for-wall-mounting-chrome-27296003"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-27296003-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-euphoria-system-260-shower-system-diverter",
+    "sub": "showers",
+    "name": "Euphoria System 260 Shower System with Diverter",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Retrofit wall-mounted shower system with a diverter between the Euphoria 260 head shower (Rain, SmartRain, Jet, 7.5 l/min) and Euphoria 110 Massage hand shower (8.5 l/min). 450 mm swivel arm, SprayDimmer, 1750 mm Silverflex hose; connects to an existing mixer.",
+    "specs": [
+      "Diverter head/hand shower",
+      "SprayDimmer flow slider",
+      "3 sprays: Rain, SmartRain, Jet",
+      "SpeedClean anti-limescale nozzles"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-euphoria-system-260-shower-system-diverter.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Euphoria System 260"
+      },
+      {
+        "label": "Size",
+        "value": "Head shower Ø260 mm; 450 mm swivel shower arm"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed"
+      },
+      {
+        "label": "Flow rate",
+        "value": "Head shower 7.5 l/min, hand shower 8.5 l/min at 3 bar; min. recommended pressure 1.0 bar"
+      },
+      {
+        "label": "Connection",
+        "value": "1/2\" via 800 mm hose to faucet/wall union; Silverflex hose 1750 mm"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "27421002",
+    "applications": [
+      "Bathroom renovations",
+      "Apartments",
+      "Hotels"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/euphoria-system-260-shower-system-with-diverter-for-wall-mounting-chrome-27421002",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/euphoria-system-260-shower-system-with-diverter-for-wall-mounting-chrome-27421002"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-27421002-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-euphoria-system-210-thermostatic-shower-system",
+    "sub": "showers",
+    "name": "Euphoria System 210 Shower System with Thermostat",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Wall-mounted shower system with an exposed thermostat (TurboStat, SafeStop 38°C, Aquadimmer), Rainshower Cosmopolitan 210 metal head shower on a 450 mm swivel arm, Euphoria 110 Massage hand shower and 1750 mm Silverflex hose; 16 l/min system flow.",
+    "specs": [
+      "SafeStop 38°C (43°C limiter included)",
+      "Rainshower Cosmopolitan 210 metal head",
+      "Euphoria 110 Massage hand shower",
+      "Metal Grip handles"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-euphoria-system-210-thermostatic-shower-system.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Euphoria System 210"
+      },
+      {
+        "label": "Size",
+        "value": "Head shower Ø210 mm; 450 mm swivel shower arm"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed"
+      },
+      {
+        "label": "Flow rate",
+        "value": "16 l/min at 3 bar (system / head shower); hand shower 15.5 l/min; minimum flow 5 l/min"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE TurboStat thermostatic (wax thermoelement)"
+      },
+      {
+        "label": "Connection",
+        "value": "S-unions, 150 mm centre distance; Silverflex hose 1750 mm 1/2\""
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "27964000",
+    "applications": [
+      "Shower rooms",
+      "Hotels",
+      "Villas"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/euphoria-system-210-shower-system-with-thermostat-for-wall-mounting-chrome-27964000",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/euphoria-system-210-shower-system-with-thermostat-for-wall-mounting-chrome-27964000"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-27964000-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-rainshower-mono-310-head-shower-set",
+    "sub": "showers",
+    "name": "Rainshower Mono 310 Head Shower Set 422 mm, 1 Spray",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Ø310 mm Rainshower head shower with GROHE PureRain spray on a 422 mm wall shower arm, limited to 7.5 l/min at 3 bar by AquaCalibrator. DreamSpray, SpeedClean anti-limescale nozzles and LongLife chrome; suitable for instantaneous heaters.",
+    "specs": [
+      "PureRain spray",
+      "Ø310 mm head",
+      "SpeedClean nozzles",
+      "7.5 l/min at 3 bar"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-rainshower-mono-310-head-shower-set.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Rainshower Mono 310"
+      },
+      {
+        "label": "Size",
+        "value": "Head shower Ø310 mm; shower arm 422 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed (shower arm)"
+      },
+      {
+        "label": "Flow rate",
+        "value": "7.5 l/min at 3 bar"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "26558000",
+    "applications": [
+      "Shower rooms",
+      "Hotels",
+      "Villas"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/rainshower-mono-310-head-shower-set-422-mm-1-spray-chrome-26558000",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/rainshower-mono-310-head-shower-set-422-mm-1-spray-chrome-26558000"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-26558000-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-rainshower-smartactive-130-wall-holder-set",
+    "sub": "showers",
+    "name": "Rainshower SmartActive 130 Wall Holder Set, 3 Sprays",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Hand shower set with the 3-spray Rainshower SmartActive 130 hand shower (8.5 l/min at 3 bar via AquaCalibrator), wall shower holder and 1500 mm Silverflex hose. DreamSpray, SpeedClean nozzles and TwistStop hose; suitable for instantaneous heaters.",
+    "specs": [
+      "3 spray patterns",
+      "TwistStop hose",
+      "SpeedClean nozzles",
+      "8.5 l/min at 3 bar"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-rainshower-smartactive-130-wall-holder-set.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Rainshower SmartActive 130"
+      },
+      {
+        "label": "Size",
+        "value": "Hand shower Ø130 mm; hose 1500 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall holder"
+      },
+      {
+        "label": "Flow rate",
+        "value": "8.5 l/min at 3 bar"
+      },
+      {
+        "label": "Connection",
+        "value": "Silverflex hose 1500 mm 1/2\" x 1/2\""
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "26581000",
+    "applications": [
+      "Bathrooms",
+      "Hotels",
+      "Bath-tub areas"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/rainshower-smartactive-130-wall-holder-set-3-sprays-chrome-26581000",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/rainshower-smartactive-130-wall-holder-set-3-sprays-chrome-26581000"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-26581000-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-rapid-sl-element-wc-1-13-m",
+    "sub": "concealed-cisterns",
+    "name": "Rapid SL Element for WC, 1.13 m Installation Height",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Self-supporting, pre-assembled powder-coated steel frame with GD 2 concealed cistern (6-9 l) for wall-hung WCs in dry-wall or on-the-wall installations. Factory set to 6/3 l dual flush, Start/Stop or single flush; low noise, condensation-insulated, TÜV approved.",
+    "specs": [
+      "Pre-assembled self-supporting frame",
+      "6/3 l dual flush (adjustable 6-9 l)",
+      "Low noise, condensation-insulated",
+      "Tool-free inspection shaft"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-rapid-sl-element-wc-1-13-m.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Rapid SL"
+      },
+      {
+        "label": "Size",
+        "value": "Width 500 mm; installation height 1.13 m; depth adjustable"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel frame"
+      },
+      {
+        "label": "Installation",
+        "value": "Dry-wall or on-the-wall (wall brackets 38 558 00M sold separately); WC fixing bolt distance 180/230 mm"
+      },
+      {
+        "label": "Connection",
+        "value": "1/2\" supply with integrated angle valve; water inlet back/top/side; outlet bend Ø90 mm with reducer Ø90/110 mm"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual flush; factory setting 6 l / 3 l (cistern GD 2, 6-9 l); Dual Flush, Start/Stop or single flush"
+      },
+      {
+        "label": "Certification",
+        "value": "TÜV approved"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38528001",
+    "applications": [
+      "Wall-hung WCs",
+      "Hotels",
+      "Residential towers",
+      "Offices"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/rapid-sl-element-for-wc-1-13-m-installation-height-no-colour-38528001",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/rapid-sl-element-for-wc-1-13-m-installation-height-no-colour-38528001"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-38528001-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-rapid-sl-3-in-1-set-wc-1-13-m",
+    "sub": "concealed-cisterns",
+    "name": "Rapid SL 3-in-1 Set for WC, 1.13 m, with Skate Cosmopolitan Plate",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Complete concealed-cistern set for wall-hung WCs: Rapid SL element with GD 2 cistern (6-9 l, factory 6/3 l), Skate Cosmopolitan chrome dual-flush plate and wall brackets. 1.13 m installation height, 500 mm frame width.",
+    "specs": [
+      "3-in-1: frame, plate, brackets",
+      "6/3 l dual flush",
+      "Skate Cosmopolitan chrome plate"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-rapid-sl-3-in-1-set-wc-1-13-m.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Rapid SL"
+      },
+      {
+        "label": "Size",
+        "value": "Width 500 mm; installation height 1.13 m"
+      },
+      {
+        "label": "Finish",
+        "value": "Flush plate chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Set: Rapid SL element 38 528 001 + Skate Cosmopolitan plate 38 732 000 (chrome) + wall brackets 38 558 00M"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual flush; factory setting 6 l / 3 l (cistern GD 2, 6-9 l)"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38772001",
+    "applications": [
+      "Wall-hung WCs",
+      "Hotels",
+      "Residential towers"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/rapid-sl-3-in-1-set-for-wc-1-13-m-installation-height-chrome-38772001",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/rapid-sl-3-in-1-set-for-wc-1-13-m-installation-height-chrome-38772001"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-38772001-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-skate-cosmopolitan-flush-plate",
+    "sub": "concealed-cisterns",
+    "name": "Skate Cosmopolitan Dual-Flush Plate",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Square chrome dual-flush plate (156 x 197 mm, ABS with LongLife finish) for Rapid SL and Uniset frames with GD 2 cistern. Dual Flush or Start & Stop actuation via the AV1 pneumatic valve; vertical or horizontal installation.",
+    "specs": [
+      "Dual Flush / Start & Stop",
+      "Vertical or horizontal mounting",
+      "For Rapid SL / Uniset GD 2"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-skate-cosmopolitan-flush-plate.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Skate Cosmopolitan"
+      },
+      {
+        "label": "Size",
+        "value": "156 x 197 mm"
+      },
+      {
+        "label": "Material",
+        "value": "ABS"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Vertical or horizontal; for Rapid SL / Uniset with GD 2 cistern (Rapid SLX needs shaft 66 791 000)"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual Flush or Start & Stop; pneumatic discharge valve AV1"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38732000",
+    "applications": [
+      "Wall-hung WCs",
+      "Hotels",
+      "Residential"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/skate-cosmopolitan-flush-plate-chrome-38732000",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/skate-cosmopolitan-flush-plate-chrome-38732000"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-38732000-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "grohe-skate-air-flush-plate",
+    "sub": "concealed-cisterns",
+    "name": "Skate Air Dual-Flush Plate",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Organic-shaped chrome dual-flush plate (156 x 197 mm, ABS with LongLife finish) for Rapid SL and Uniset frames with GD 2 cistern. Dual Flush or Start & Stop actuation via the AV1 pneumatic valve; vertical installation.",
+    "specs": [
+      "Dual Flush / Start & Stop",
+      "Organic plate shape",
+      "For Rapid SL / Uniset GD 2"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-skate-air-flush-plate.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Skate Air"
+      },
+      {
+        "label": "Size",
+        "value": "156 x 197 mm"
+      },
+      {
+        "label": "Material",
+        "value": "ABS"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (GROHE LongLife, polished)"
+      },
+      {
+        "label": "Installation",
+        "value": "Vertical; for Rapid SL / Uniset with GD 2 cistern (Rapid SLX needs shaft 66 791 000)"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual Flush or Start & Stop; pneumatic discharge valve AV1"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38505000",
+    "applications": [
+      "Wall-hung WCs",
+      "Residential",
+      "Offices"
+    ],
+    "source": "https://www.grohe.com/en-AE/product/skate-air-flush-plate-chrome-38505000",
+    "_meta": {
+      "feed": "sanitary-grohe",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/skate-air-flush-plate-chrome-38505000"
+      ],
+      "source_note": "GROHE UAE (grohe.com/en-AE) product pages: product information list and Specification table.",
+      "original_images": [
+        "GROHE-38505000-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "kludi-x1-single-lever-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "KLUDI-X1 Single-Lever Basin Mixer",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Single-hole basin mixer with soft curves and a closed metal lever, PCA ceramic cartridge and M24 aerator giving approx. 4.5 l/min at 3 bar. Chrome finish (05), flexible G3/8 hoses and quick-mount system; 100 mm spout with or without metal pull-rod waste, or 75 mm.",
+    "specs": [
+      "Closed metal lever",
+      "PCA ceramic cartridge",
+      "M24 aerator, ~4.5 l/min",
+      "Quick-mount installation"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-x1-single-lever-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "KLUDI-X1"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (05)"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, single hole; quick-mount system"
+      },
+      {
+        "label": "Flow rate",
+        "value": "Approx. 4.5 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "PCA ceramic cartridge"
+      },
+      {
+        "label": "Connection",
+        "value": "Flexible supply hoses G3/8"
+      },
+      {
+        "label": "Spout",
+        "value": "Spout height 100 mm or 75 mm"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Metal pull-rod waste G1 1/4 (322880575)"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "322880575",
+    "variants": [
+      {
+        "model": "322880575",
+        "note": "100 mm spout height, with metal pull-rod waste G1 1/4"
+      },
+      {
+        "model": "322820575",
+        "note": "100 mm spout height, without waste"
+      },
+      {
+        "model": "322900575",
+        "note": "75 mm spout height, without waste"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/kludi-x1-single-lever-basin-mixer-2.webp"
+    ],
+    "applications": [
+      "Residential bathrooms",
+      "Guest washrooms",
+      "Hotels"
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-x1-basin-mixer-100mm-with-pop-up-waste-322880575",
+    "_meta": {
+      "feed": "sanitary-kludi",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-x1-basin-mixer-100mm-with-pop-up-waste-322880575",
+        "https://onlineshop.kludi.com/products/kludi-x1-basin-mixer-100mm-without-pop-up-waste-322820575",
+        "https://onlineshop.kludi.com/products/kludi-x1-basin-mixer-75mm-without-pop-up-waste-322900575"
+      ],
+      "source_note": "KLUDI official UAE online shop (onlineshop.kludi.com, KLUDI RAK): product descriptions and feature lists. Detailed technical datasheets were not available there.",
+      "original_images": [
+        "KLUDI-322880575-1.jpg",
+        "KLUDI-322900575-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "kludi-decus-single-lever-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "KLUDI-DECUS Single-Lever Basin Mixer DN 15",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Straight, restrained single-hole basin mixer with a closed metal lever, PCA ceramic cartridge with hot-water limiter and S-Pointer M18.5 aerator (approx. 4.5 l/min at 3 bar). Chrome (05), G3/8 flexible hoses, quick-mount; 65, 85 or 110 mm spout height.",
+    "specs": [
+      "Closed metal lever",
+      "Hot-water limiter",
+      "S-Pointer M18.5 aerator",
+      "Quick-mount installation"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-decus-single-lever-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "KLUDI-DECUS"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (05)"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, single hole; quick-mount system"
+      },
+      {
+        "label": "Flow rate",
+        "value": "Approx. 4.5 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "PCA ceramic cartridge with hot-water limiter"
+      },
+      {
+        "label": "Connection",
+        "value": "Flexible supply hoses G3/8"
+      },
+      {
+        "label": "Spout",
+        "value": "Spout height 65 / 85 / 110 mm"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Click-clack waste G1 1/4 on 542660575"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "542900575",
+    "variants": [
+      {
+        "model": "542660575",
+        "note": "65 mm spout height; click-clack waste G1 1/4 for basins with overflow"
+      },
+      {
+        "model": "542900575",
+        "note": "85 mm spout height"
+      },
+      {
+        "model": "542820575",
+        "note": "110 mm spout height"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/kludi-decus-single-lever-basin-mixer-2.webp"
+    ],
+    "applications": [
+      "Residential bathrooms",
+      "Guest washrooms",
+      "Hotels"
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-decus-single-lever-basin-mixer-85-dn-15-542900575",
+    "_meta": {
+      "feed": "sanitary-kludi",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-decus-single-lever-basin-mixer-85-dn-15-542900575",
+        "https://onlineshop.kludi.com/products/kludi-decus-single-lever-basin-mixer-65-dn-15-542660575",
+        "https://onlineshop.kludi.com/products/kludi-decus-single-lever-basin-mixer-110-dn-15-542820575"
+      ],
+      "source_note": "KLUDI official UAE online shop (onlineshop.kludi.com, KLUDI RAK): product descriptions and feature lists. Detailed technical datasheets were not available there.",
+      "original_images": [
+        "KLUDI-542900575-1.jpg",
+        "KLUDI-542820575-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "kludi-pure-solid-single-lever-basin-mixer-75",
+    "sub": "mixers-taps",
+    "name": "PURE&SOLID Single-Lever Basin Mixer 75 DN 15",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Compact single-hole basin mixer with a 75 mm spout height for small vanities and guest washrooms. Ceramic cartridge with hot-water limiter, approx. 5 l/min at 3 bar, G3/8 flexible hoses and quick-mount; with metal pull-rod waste or closed-lever version.",
+    "specs": [
+      "75 mm spout for compact basins",
+      "Hot-water limiter",
+      "~5 l/min at 3 bar",
+      "Quick-mount installation"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-pure-solid-single-lever-basin-mixer-75.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "KLUDI PURE&SOLID"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, single hole; quick-mount system"
+      },
+      {
+        "label": "Flow rate",
+        "value": "Approx. 5 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "Ceramic cartridge with hot-water limiter (PCA)"
+      },
+      {
+        "label": "Connection",
+        "value": "Flexible connection hoses G3/8"
+      },
+      {
+        "label": "Spout",
+        "value": "Spout height 75 mm"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "343820575",
+    "variants": [
+      {
+        "model": "343820575",
+        "note": "solid metal lever; metal pull-rod waste G1 1/4"
+      },
+      {
+        "model": "340280575",
+        "note": "closed metal lever; M24 flow regulator"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/kludi-pure-solid-single-lever-basin-mixer-75-2.webp"
+    ],
+    "applications": [
+      "Guest washrooms",
+      "Small vanities",
+      "Apartments"
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-pure-and-solid-single-lever-basin-mixer-75-dn-15-343820575",
+    "_meta": {
+      "feed": "sanitary-kludi",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-pure-and-solid-single-lever-basin-mixer-75-dn-15-343820575",
+        "https://onlineshop.kludi.com/products/kludi-pure-and-solid-single-lever-basin-mixer-75-dn-15-340280575"
+      ],
+      "source_note": "KLUDI official UAE online shop (onlineshop.kludi.com, KLUDI RAK): product descriptions and feature lists. Detailed technical datasheets were not available there.",
+      "original_images": [
+        "KLUDI-343820575-1.jpg",
+        "KLUDI-340280575-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "kludi-renon-single-lever-basin-mixer-110-push-open",
+    "sub": "mixers-taps",
+    "name": "KLUDI-RENON Single-Lever Basin Mixer 110 with Push-Open Waste",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Single-hole basin mixer with a seamless metal lever and 110 mm spout height, ceramic cartridge with hot-water limiter and M18.5 flow regulator (approx. 4.5 l/min at 3 bar). Click-clack waste G1 1/4 for basins with overflow, G3/8 hoses, quick-mount, chrome (05).",
+    "specs": [
+      "Push-open waste included",
+      "Hot-water limiter",
+      "M18.5 flow regulator",
+      "Quick-mount installation"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-renon-single-lever-basin-mixer-110-push-open.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "KLUDI-RENON"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (05)"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, single hole; quick-mount system"
+      },
+      {
+        "label": "Flow rate",
+        "value": "Approx. 4.5 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "Ceramic cartridge with hot-water limiter"
+      },
+      {
+        "label": "Connection",
+        "value": "Flexible supply hoses G3/8"
+      },
+      {
+        "label": "Spout",
+        "value": "Spout height 110 mm"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Push-open (click-clack) waste G1 1/4"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "422880575",
+    "applications": [
+      "Residential bathrooms",
+      "Hotels",
+      "Offices"
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-renon-single-lever-basin-mixer-110-push-open-waste-g-1-1-4-422880575",
+    "_meta": {
+      "feed": "sanitary-kludi",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-renon-single-lever-basin-mixer-110-push-open-waste-g-1-1-4-422880575"
+      ],
+      "source_note": "KLUDI official UAE online shop (onlineshop.kludi.com, KLUDI RAK): product descriptions and feature lists. Detailed technical datasheets were not available there.",
+      "original_images": [
+        "KLUDI-422880575-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:10+04:00"
+    }
+  },
+  {
+    "id": "kludi-dive-thermostat-dual-shower-system",
+    "sub": "showers",
+    "name": "KLUDI-DIVE Thermostat Dual Shower System DN 15",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Wall-mounted thermostatic shower system with ceramic shut-off, 40°C hot-water safety stop, Ø200 mm ball-joint overhead shower and 3-spray hand shower (Body/Hair/Skin, approx. 15 l/min at 3 bar, limitable to 9 l/min) on an adjustable rail. DIVE X (square) or DIVE S (round).",
+    "specs": [
+      "40°C safety stop",
+      "3-spray hand shower",
+      "Ø200 mm overhead, ball joint",
+      "Quick-lime-clean nozzles",
+      "Adjustable riser rail"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-dive-thermostat-dual-shower-system.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "KLUDI-DIVE"
+      },
+      {
+        "label": "Size",
+        "value": "Overhead shower Ø200 mm; hose 1.6 m"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed; rail adjustable horizontally and vertically"
+      },
+      {
+        "label": "Flow rate",
+        "value": "Hand shower approx. 15 l/min at 3 bar (limitable to 9 l/min); overhead approx. 15 l/min (DIVE X)"
+      },
+      {
+        "label": "Cartridge",
+        "value": "Thermostat with ceramic shut-off valve; hot-water safety stop at 40°C"
+      },
+      {
+        "label": "Connection",
+        "value": "S-connections G1/2 x G3/4 with dirt strainers and non-return valves; hose nuts G1/2"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "6907905-00",
+    "variants": [
+      {
+        "model": "6907905-00",
+        "note": "DIVE X"
+      },
+      {
+        "model": "6807905-00",
+        "note": "DIVE S"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/kludi-dive-thermostat-dual-shower-system-2.webp"
+    ],
+    "applications": [
+      "Shower rooms",
+      "Hotels",
+      "Bathroom renovations"
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-dive-x-thermostat-dual-shower-system-dn-15-6907905-00",
+    "_meta": {
+      "feed": "sanitary-kludi",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-dive-x-thermostat-dual-shower-system-dn-15-6907905-00",
+        "https://onlineshop.kludi.com/products/kludi-dive-s-thermostat-dual-shower-system-dn-15-6807905-00"
+      ],
+      "source_note": "KLUDI official UAE online shop (onlineshop.kludi.com, KLUDI RAK): product descriptions and feature lists. Detailed technical datasheets were not available there.",
+      "original_images": [
+        "KLUDI-6907905-00-1.jpg",
+        "KLUDI-6807905-00-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:11+04:00"
+    }
+  },
+  {
+    "id": "kludi-dive-x-dual-shower-system-diverter",
+    "sub": "showers",
+    "name": "KLUDI-DIVE X Dual Shower System DN 15 (Retrofit, with Diverter)",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Retrofit wall-mounted shower system that connects to an existing concealed mixer: 2-way ceramic diverter, Ø200 mm ball-joint overhead shower and 3-spray hand shower (Body/Hair/Skin), each approx. 15 l/min at 3 bar, on a rail adjustable horizontally and vertically.",
+    "specs": [
+      "Retrofit to existing mixer",
+      "2-way ceramic diverter",
+      "3-spray hand shower",
+      "Quick-lime-clean nozzles"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-dive-x-dual-shower-system-diverter.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "KLUDI-DIVE X"
+      },
+      {
+        "label": "Size",
+        "value": "Overhead shower Ø200 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted retrofit; rail adjustable horizontally and vertically"
+      },
+      {
+        "label": "Flow rate",
+        "value": "Hand shower approx. 15 l/min at 3 bar (limitable to 9 l/min); overhead approx. 15 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "2-way ceramic diverter cartridge"
+      },
+      {
+        "label": "Connection",
+        "value": "G1/2; twist-free conical nuts"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "6908005-00",
+    "applications": [
+      "Bathroom renovations",
+      "Apartments",
+      "Hotels"
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-dive-x-dual-shower-system-dn-15-6908005-00",
+    "_meta": {
+      "feed": "sanitary-kludi",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-dive-x-dual-shower-system-dn-15-6908005-00"
+      ],
+      "source_note": "KLUDI official UAE online shop (onlineshop.kludi.com, KLUDI RAK): product descriptions and feature lists. Detailed technical datasheets were not available there.",
+      "original_images": [
+        "KLUDI-6908005-00-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:11+04:00"
+    }
+  },
+  {
+    "id": "kludi-decus-concealed-single-lever-shower-mixer",
+    "sub": "showers",
+    "name": "KLUDI-DECUS Concealed Single-Lever Shower Mixer (Trim Set)",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Concealed single-lever shower mixer trim with a sealed metal lever and functional unit for the KLUDI SLIM.BOXX concealed body. Ceramic cartridge with hot-water limiter; approx. 28 l/min at 3 bar. Chrome (05).",
+    "specs": [
+      "Sealed metal lever",
+      "Hot-water limiter",
+      "~28 l/min at 3 bar",
+      "For SLIM.BOXX concealed body"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-decus-concealed-single-lever-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "KLUDI-DECUS"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (05)"
+      },
+      {
+        "label": "Installation",
+        "value": "Concealed; for KLUDI SLIM.BOXX concealed body (rough-in kit with functional unit)"
+      },
+      {
+        "label": "Flow rate",
+        "value": "Approx. 28 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "Ceramic cartridge with hot-water limiter"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "547550575",
+    "applications": [
+      "Shower rooms",
+      "Hotels",
+      "Villas"
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-decus-concealed-single-lever-shower-mixer-547550575",
+    "_meta": {
+      "feed": "sanitary-kludi",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-decus-concealed-single-lever-shower-mixer-547550575"
+      ],
+      "source_note": "KLUDI official UAE online shop (onlineshop.kludi.com, KLUDI RAK): product descriptions and feature lists. Detailed technical datasheets were not available there.",
+      "original_images": [
+        "KLUDI-547550575-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:11+04:00"
+    }
+  },
+  {
+    "id": "kludi-x1-concealed-single-lever-shower-mixer",
+    "sub": "showers",
+    "name": "KLUDI-X1 Concealed Single-Lever Shower Mixer (Trim Set)",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Concealed single-lever shower mixer trim with soft KLUDI-X1 curves, solid metal lever and functional unit for the KLUDI SLIM.BOXX concealed body. Ceramic cartridge with hot-water limit; approx. 28 l/min at 3 bar. Polished chrome.",
+    "specs": [
+      "Solid metal lever",
+      "Hot-water limiter",
+      "~28 l/min at 3 bar",
+      "For SLIM.BOXX concealed body"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-x1-concealed-single-lever-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "KLUDI-X1"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Concealed; for KLUDI SLIM.BOXX concealed body (rough-in kit with functional unit)"
+      },
+      {
+        "label": "Flow rate",
+        "value": "Approx. 28 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "Ceramic cartridge with hot-water limiter"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "327550575",
+    "applications": [
+      "Shower rooms",
+      "Hotels",
+      "Villas"
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-x1-shower-mixer-concealed-327550575",
+    "_meta": {
+      "feed": "sanitary-kludi",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-x1-shower-mixer-concealed-327550575"
+      ],
+      "source_note": "KLUDI official UAE online shop (onlineshop.kludi.com, KLUDI RAK): product descriptions and feature lists. Detailed technical datasheets were not available there.",
+      "original_images": [
+        "KLUDI-327550575-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:11+04:00"
+    }
+  },
+  {
+    "id": "philips-uni-posttop-classic-bdp400",
+    "sub": "street-lights",
+    "name": "Uni Posttop Classic BDP400 LED Lantern",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Classic lantern-style LED post-top luminaire that retrofits traditional post-tops with street-lighting performance: 30W or 80W, up to 9,600 lm, 3000K or 4000K, symmetric or asymmetric optics. Optional 7-pin NEMA socket with DALI readies it for Interact and smart controls. IP66 / IK09.",
+    "specs": [
+      "Up to 9,600 lm, 120 lm/W",
+      "Symmetric or asymmetric optic",
+      "NEMA 7-pin + DALI option",
+      "IP66 / IK09",
+      "Die-cast aluminium, black"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/philips-uni-posttop-classic-bdp400.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Uni Posttop Classic BDP400"
+      },
+      {
+        "label": "Power",
+        "value": "30 W / 80 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220 to 240 V 50 or 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "3,600 lm / 9,600 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "120 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000 K / 4000 K"
+      },
+      {
+        "label": "CRI",
+        "value": "70"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK09"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable / Dimmable (DALI)"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.9"
+      },
+      {
+        "label": "Size",
+        "value": "425 x 425 x 827 mm (L x W x H)"
+      },
+      {
+        "label": "Weight",
+        "value": "9.300 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Aluminum die-cast, cover: Polycarbonate"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-35 °C to 50 °C"
+      },
+      {
+        "label": "Protection class",
+        "value": "Safety class I"
+      },
+      {
+        "label": "Optic",
+        "value": "Symmetric (TS) or asymmetric (TA)"
+      },
+      {
+        "label": "Controls",
+        "value": "Optional 7-pin NEMA socket; 1-10V or DALI 2.0 ready (family page)"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 years"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BDP400 LED WW 220V 30W TA PSU 9005",
+    "variants": [
+      {
+        "model": "BDP400 LED WW 220V 30W TA PSU 9005",
+        "power": "30 W",
+        "lumens": "3,600 lm",
+        "note": "12NC 911401799833; cct 3000 K; dimming Non-dimmable; asymmetric optic (TA); fixed-output driver (PSU)"
+      },
+      {
+        "model": "BDP400 LED NW 220V 80W TA PSD P7 9005",
+        "power": "80 W",
+        "lumens": "9,600 lm",
+        "note": "12NC 911401700044; cct 4000 K; dimming Dimmable (DALI); connection Connection unit 7-pole; asymmetric optic (TA); DALI driver (PSD) with 7-pin NEMA socket"
+      },
+      {
+        "model": "BDP400 LED NW 220V 80W TA PSU 9005",
+        "power": "80 W",
+        "lumens": "9,600 lm",
+        "note": "12NC 911401700034; cct 4000 K; dimming Non-dimmable; asymmetric optic (TA); fixed-output driver (PSU)"
+      },
+      {
+        "model": "BDP400 LED NW 220V 80W TS PSD P7 9005",
+        "power": "80 W",
+        "lumens": "9,600 lm",
+        "note": "12NC 911401700064; cct 4000 K; dimming Dimmable (DALI); connection Connection unit 7-pole; symmetric optic (TS); DALI driver (PSD) with 7-pin NEMA socket"
+      },
+      {
+        "model": "BDP400 LED NW 220V 80W TS PSU 9005",
+        "power": "80 W",
+        "lumens": "9,600 lm",
+        "note": "12NC 911401700054; cct 4000 K; dimming Non-dimmable; symmetric optic (TS); fixed-output driver (PSU)"
+      },
+      {
+        "model": "BDP400 LED WW 220V 80W TA PSD P7 9005",
+        "power": "80 W",
+        "lumens": "9,600 lm",
+        "note": "12NC 911401700004; cct 3000 K; dimming Dimmable (DALI); connection Connection unit 7-pole; asymmetric optic (TA); DALI driver (PSD) with 7-pin NEMA socket"
+      },
+      {
+        "model": "BDP400 LED WW 220V 80W TS PSD P7 9005",
+        "power": "80 W",
+        "lumens": "9,600 lm",
+        "note": "12NC 911401700024; cct 3000 K; dimming Dimmable (DALI); connection Connection unit 7-pole; symmetric optic (TS); DALI driver (PSD) with 7-pin NEMA socket"
+      },
+      {
+        "model": "BDP400 LED WW 220V 80W TS PSU 9005",
+        "power": "80 W",
+        "lumens": "9,600 lm",
+        "note": "12NC 911401700014; cct 3000 K; dimming Non-dimmable; symmetric optic (TS); fixed-output driver (PSU)"
+      }
+    ],
+    "applications": [
+      "Streets",
+      "Heritage districts",
+      "Residential roads",
+      "Plazas"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/911401799833_EU/product",
+    "_meta": {
+      "feed": "street-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/911401799833_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/911401700044_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/911401700034_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/911401700064_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/911401700054_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/911401700004_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/911401700024_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/911401700014_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop-classic/LP_CF_10486625_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401799833, 911401700044, 911401700034, 911401700064, 911401700054, 911401700004, 911401700024, 911401700014 and the family page.",
+      "original_images": [
+        "BDP400-LED-WW-220V-30W-TA-PSU-9005-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:11+04:00"
+    }
+  },
+  {
+    "id": "philips-uni-posttop-bds400",
+    "sub": "street-lights",
+    "name": "Uni Posttop BDS400 LED Post-top",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Modern streamlined LED post-top for pathways, residential areas and plazas, using an aluminium reflector for soft, even light. 30W or 60W, 3,900-8,400 lm at 130 lm/W, 3000K or 4000K, die-cast aluminium body with PC diffuser, IP65 / IK08.",
+    "specs": [
+      "130 lm/W",
+      "Soft light via aluminium reflector",
+      "IP65 / IK08",
+      "Die-cast aluminium body",
+      "PC diffuser"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/philips-uni-posttop-bds400.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Philips Uni Posttop BDS400"
+      },
+      {
+        "label": "Power",
+        "value": "30 W / 60 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220 to 240 V 50 or 60 Hz"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "3,900 lm / 7,800 lm / 4,200 lm / 8,400 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "130 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000 K / 4000 K"
+      },
+      {
+        "label": "CRI",
+        "value": "70"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "IK rating",
+        "value": "IK08"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.95"
+      },
+      {
+        "label": "Size",
+        "value": "722 x 722 x 522 mm (L x W x H)"
+      },
+      {
+        "label": "Weight",
+        "value": "7.790 kg"
+      },
+      {
+        "label": "Material",
+        "value": "Housing: Aluminum die-cast, cover: Polycarbonate"
+      },
+      {
+        "label": "Colour",
+        "value": "Gray"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-40 to +50 °C"
+      },
+      {
+        "label": "Protection class",
+        "value": "Safety class I"
+      },
+      {
+        "label": "Connection",
+        "value": "Connection unit 3-pole"
+      },
+      {
+        "label": "Certification",
+        "value": "CE"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 years"
+      }
+    ],
+    "photoNote": "Official Philips product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BDS400 LED WW 220V 30W WB PSU 7012",
+    "variants": [
+      {
+        "model": "BDS400 LED WW 220V 30W WB PSU 7012",
+        "power": "30 W",
+        "lumens": "3,900 lm",
+        "note": "12NC 911401696308; cct 3000 K"
+      },
+      {
+        "model": "BDS400 LED WW 220V 60W WB PSU 7012",
+        "power": "60 W",
+        "lumens": "7,800 lm",
+        "note": "12NC 911401696408; cct 3000 K"
+      },
+      {
+        "model": "BDS400 LED NW 220V 30W WB PSU 7012",
+        "power": "30 W",
+        "lumens": "4,200 lm",
+        "note": "12NC 911401696508; cct 4000 K"
+      },
+      {
+        "model": "BDS400 LED NW 220V 60W WB PSU 7012",
+        "power": "60 W",
+        "lumens": "8,400 lm",
+        "note": "12NC 911401696608; cct 4000 K"
+      }
+    ],
+    "applications": [
+      "Pathways",
+      "Residential areas",
+      "Plazas",
+      "Parks"
+    ],
+    "source": "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop/911401696308_EU/product",
+    "_meta": {
+      "feed": "street-philips",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop/911401696308_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop/911401696408_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop/911401696508_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop/911401696608_EU/product",
+        "https://www.signify.com/en-ae/prof/outdoor-luminaires/urban/philips-uni-posttop/LP_CF_10575258_EU/family"
+      ],
+      "source_note": "Signify Middle East (en-ae) Philips professional catalogue: product pages for 12NC 911401696308, 911401696408, 911401696508, 911401696608 and the family page.",
+      "original_images": [
+        "BDS400-LED-WW-220V-30W-WB-PSU-7012-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:16:11+04:00"
+    }
   }
 ]
