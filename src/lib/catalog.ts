@@ -370,6 +370,13 @@ export const allGroups: Group[] = [
         productIds: ["elec-smdb"],
       },
       {
+        slug: "circuit-protection",
+        name: "Circuit Protection",
+        blurb: "MCBs, RCCBs and RCBOs for final-circuit and earth-leakage protection.",
+        icon: "breaker",
+        productIds: [],
+      },
+      {
         slug: "electrical-accessories",
         name: "Electrical Accessories",
         blurb: "Enclosures, isolators, cable management and fixing accessories.",

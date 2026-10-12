@@ -24394,5 +24394,494 @@
       ],
       "ingested_at": "2026-10-12T22:19:27+04:00"
     }
+  },
+  {
+    "id": "abb-s201-c-curve-mcb",
+    "sub": "circuit-protection",
+    "name": "S201 1-Pole MCB, C Curve, 6kA",
+    "brand": "ABB",
+    "category": "Electrical package",
+    "use": "Single-pole miniature circuit breaker from the ABB S200 series with C-curve tripping for circuits with resistive and inductive loads. Rated 6kA to IEC/EN 60898-1 and 230VAC, one module wide.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/abb-s201-c-curve-mcb.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "S200"
+      },
+      {
+        "label": "Poles",
+        "value": "1P"
+      },
+      {
+        "label": "Breaking capacity",
+        "value": "Icn 6 kA (IEC/EN 60898-1)"
+      },
+      {
+        "label": "Tripping curve",
+        "value": "C"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230VAC"
+      },
+      {
+        "label": "Width",
+        "value": "1 module"
+      },
+      {
+        "label": "Standards",
+        "value": "IEC/EN 60898-1, IEC/EN 60947-2"
+      }
+    ],
+    "photoNote": "Official ABB product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "S201-C16",
+    "variants": [
+      {
+        "model": "S201-C10",
+        "note": "Order code: 2CDS251001R0104; Rated current: 10A; Weight: 0.112 kg"
+      },
+      {
+        "model": "S201-C16",
+        "note": "Order code: 2CDS251001R0164; Rated current: 16A; Weight: 0.115 kg"
+      },
+      {
+        "model": "S201-C20",
+        "note": "Order code: 2CDS251001R0204; Rated current: 20A; Weight: 0.115 kg"
+      },
+      {
+        "model": "S201-C32",
+        "note": "Order code: 2CDS251001R0324; Rated current: 32A; Weight: 0.115 kg"
+      }
+    ],
+    "gallery": [
+      "/products/feed/electrical/abb-s201-c-curve-mcb-2.webp",
+      "/products/feed/electrical/abb-s201-c-curve-mcb-3.webp",
+      "/products/feed/electrical/abb-s201-c-curve-mcb-4.webp"
+    ],
+    "source": "https://new.abb.com/products/2CDS251001R0104/s201-c10",
+    "_meta": {
+      "feed": "electrical-abb",
+      "brand_group": "electrical",
+      "feed_brand": "ABB",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://new.abb.com/products/2CDS251001R0104/s201-c10",
+        "https://new.abb.com/products/2CDS251001R0164/s201-c16",
+        "https://new.abb.com/products/2CDS251001R0204/s201-c20",
+        "https://new.abb.com/products/2CDS251001R0324/s201-c32",
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8329&LanguageCode=en&DocumentPartId=&Action=Launch"
+      ],
+      "source_note": "new.abb.com product pages (browser capture); refs, weights and standards confirmed in ABB catalogue 9AKK107991A8329 (Electrical installation solutions for buildings part A, 2026).",
+      "original_images": [
+        "abb-s201-c10.jpg",
+        "abb-s201-c16.jpg",
+        "abb-s201-c20.jpg",
+        "abb-s201-c32.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:21:10+04:00"
+    }
+  },
+  {
+    "id": "abb-s201-b16-mcb",
+    "sub": "circuit-protection",
+    "name": "S201 1-Pole MCB, B Curve, 16A, 6kA",
+    "brand": "ABB",
+    "category": "Electrical package",
+    "use": "Single-pole 16A miniature circuit breaker from the ABB S200 series with B-curve tripping, suited to resistive loads such as lighting and heating. 6kA breaking capacity, 230V, one module.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/abb-s201-b16-mcb.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "S200"
+      },
+      {
+        "label": "Poles",
+        "value": "1P"
+      },
+      {
+        "label": "Rated current",
+        "value": "16A"
+      },
+      {
+        "label": "Breaking capacity",
+        "value": "6 kA"
+      },
+      {
+        "label": "Tripping curve",
+        "value": "B"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Width",
+        "value": "1 module"
+      },
+      {
+        "label": "Order code",
+        "value": "2CDS251001R0165"
+      }
+    ],
+    "photoNote": "Official ABB product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "S201-B16",
+    "variants": [
+      {
+        "model": "S201-B16",
+        "note": "Order code: 2CDS251001R0165; Rated current: 16A"
+      }
+    ],
+    "source": "https://new.abb.com/products/2CDS251001R0165/s201-b16-w-o-acc",
+    "_meta": {
+      "feed": "electrical-abb",
+      "brand_group": "electrical",
+      "feed_brand": "ABB",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://new.abb.com/products/2CDS251001R0165/s201-b16-w-o-acc",
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8329&LanguageCode=en&DocumentPartId=&Action=Launch"
+      ],
+      "source_note": "new.abb.com product pages (browser capture); refs, weights and standards confirmed in ABB catalogue 9AKK107991A8329 (Electrical installation solutions for buildings part A, 2026).",
+      "original_images": [
+        "abb-s201-b16.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:21:10+04:00"
+    }
+  },
+  {
+    "id": "abb-s203-c-curve-mcb",
+    "sub": "circuit-protection",
+    "name": "S203 3-Pole MCB, C Curve, 6kA",
+    "brand": "ABB",
+    "category": "Electrical package",
+    "use": "Three-pole miniature circuit breaker from the ABB S200 series with C-curve tripping for three-phase distribution. Rated 6kA to IEC/EN 60898-1 at 400VAC, three modules wide.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/abb-s203-c-curve-mcb.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "S200"
+      },
+      {
+        "label": "Poles",
+        "value": "3P"
+      },
+      {
+        "label": "Breaking capacity",
+        "value": "Icn 6 kA (IEC/EN 60898-1)"
+      },
+      {
+        "label": "Tripping curve",
+        "value": "C"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "400VAC"
+      },
+      {
+        "label": "Width",
+        "value": "3 modules"
+      },
+      {
+        "label": "Standards",
+        "value": "IEC/EN 60898-1, IEC/EN 60947-2"
+      }
+    ],
+    "photoNote": "Official ABB product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "S203-C32",
+    "variants": [
+      {
+        "model": "S203-C16",
+        "note": "Order code: 2CDS253001R0164; Rated current: 16A; Weight: 0.345 kg"
+      },
+      {
+        "model": "S203-C32",
+        "note": "Order code: 2CDS253001R0324; Rated current: 32A"
+      },
+      {
+        "model": "S203-C63",
+        "note": "Order code: 2CDS253001R0634; Rated current: 63A"
+      }
+    ],
+    "gallery": [
+      "/products/feed/electrical/abb-s203-c-curve-mcb-2.webp",
+      "/products/feed/electrical/abb-s203-c-curve-mcb-3.webp"
+    ],
+    "source": "https://new.abb.com/products/2CDS253001R0164/s203-c16",
+    "_meta": {
+      "feed": "electrical-abb",
+      "brand_group": "electrical",
+      "feed_brand": "ABB",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://new.abb.com/products/2CDS253001R0164/s203-c16",
+        "https://new.abb.com/products/2CDS253001R0324/s203-c32",
+        "https://new.abb.com/products/2CDS253001R0634/s203-c63",
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8329&LanguageCode=en&DocumentPartId=&Action=Launch"
+      ],
+      "source_note": "new.abb.com product pages (browser capture); refs, weights and standards confirmed in ABB catalogue 9AKK107991A8329 (Electrical installation solutions for buildings part A, 2026).",
+      "original_images": [
+        "abb-s203-c16.jpg",
+        "abb-s203-c32.jpg",
+        "abb-s203-c63.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:21:10+04:00"
+    }
+  },
+  {
+    "id": "abb-f202-ac-40-0-03-rccb",
+    "sub": "circuit-protection",
+    "name": "F202 2-Pole RCCB 40A 30mA, Type AC",
+    "brand": "ABB",
+    "category": "Electrical package",
+    "use": "Two-pole residual current circuit breaker from the ABB F200 series for protection against earth-fault currents, with 30mA sensitivity for additional protection against direct contact. Type AC, 40A, conforming to IEC/EN 61008-1.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/abb-f202-ac-40-0-03-rccb.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "F200"
+      },
+      {
+        "label": "Weight",
+        "value": "0.200 kg"
+      },
+      {
+        "label": "Poles",
+        "value": "2P"
+      },
+      {
+        "label": "Rated current",
+        "value": "40A"
+      },
+      {
+        "label": "Residual current",
+        "value": "30 mA"
+      },
+      {
+        "label": "Type",
+        "value": "AC, instantaneous"
+      },
+      {
+        "label": "Conditional short circuit",
+        "value": "Inc 10 kA"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Width",
+        "value": "2 modules"
+      },
+      {
+        "label": "Standards",
+        "value": "IEC/EN 61008-1, IEC/EN 61008-2-1"
+      },
+      {
+        "label": "Order code",
+        "value": "2CSF202001R1400"
+      }
+    ],
+    "photoNote": "Official ABB product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "F202 AC-40/0.03",
+    "variants": [
+      {
+        "model": "F202 AC-40/0.03",
+        "note": "Order code: 2CSF202001R1400; Rated current: 40A; Weight: 0.200 kg"
+      }
+    ],
+    "source": "https://new.abb.com/products/2CSF202001R1400/f202-ac-40-0-03",
+    "_meta": {
+      "feed": "electrical-abb",
+      "brand_group": "electrical",
+      "feed_brand": "ABB",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://new.abb.com/products/2CSF202001R1400/f202-ac-40-0-03",
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8329&LanguageCode=en&DocumentPartId=&Action=Launch"
+      ],
+      "source_note": "new.abb.com product pages (browser capture); refs, weights and standards confirmed in ABB catalogue 9AKK107991A8329 (Electrical installation solutions for buildings part A, 2026).",
+      "original_images": [
+        "abb-f202-ac-40-0.03.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:21:10+04:00"
+    }
+  },
+  {
+    "id": "abb-f204-ac-0-03-rccb",
+    "sub": "circuit-protection",
+    "name": "F204 4-Pole RCCB 30mA, Type AC",
+    "brand": "ABB",
+    "category": "Electrical package",
+    "use": "Four-pole residual current circuit breaker from the ABB F200 series for three-phase installations, with 30mA earth-fault sensitivity. Type AC instantaneous, conforming to IEC/EN 61008-1.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/abb-f204-ac-0-03-rccb.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "F200"
+      },
+      {
+        "label": "Poles",
+        "value": "4P"
+      },
+      {
+        "label": "Residual current",
+        "value": "30 mA"
+      },
+      {
+        "label": "Type",
+        "value": "AC, instantaneous"
+      },
+      {
+        "label": "Conditional short circuit",
+        "value": "Inc 10 kA"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230/400V"
+      },
+      {
+        "label": "Width",
+        "value": "4 modules"
+      },
+      {
+        "label": "Standards",
+        "value": "IEC/EN 61008-1, IEC/EN 61008-2-1"
+      }
+    ],
+    "photoNote": "Official ABB product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "F204 AC-40/0.03",
+    "variants": [
+      {
+        "model": "F204 AC-40/0.03",
+        "note": "Order code: 2CSF204001R1400; Rated current: 40A; Weight: 0.360 kg"
+      },
+      {
+        "model": "F204 AC-63/0.03",
+        "note": "Order code: 2CSF204001R1630; Rated current: 63A; Weight: 0.360 kg"
+      }
+    ],
+    "gallery": [
+      "/products/feed/electrical/abb-f204-ac-0-03-rccb-2.webp"
+    ],
+    "source": "https://new.abb.com/products/2CSF204001R1400/f204-ac-40-0-03",
+    "_meta": {
+      "feed": "electrical-abb",
+      "brand_group": "electrical",
+      "feed_brand": "ABB",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://new.abb.com/products/2CSF204001R1400/f204-ac-40-0-03",
+        "https://new.abb.com/products/2CSF204001R1630/f204-ac-63-0-03",
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8329&LanguageCode=en&DocumentPartId=&Action=Launch"
+      ],
+      "source_note": "new.abb.com product pages (browser capture); refs, weights and standards confirmed in ABB catalogue 9AKK107991A8329 (Electrical installation solutions for buildings part A, 2026).",
+      "original_images": [
+        "abb-f204-ac-40-0.03.jpg",
+        "abb-f204-ac-63-0.03.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:21:10+04:00"
+    }
+  },
+  {
+    "id": "abb-ds201-c16-ac30-rcbo",
+    "sub": "circuit-protection",
+    "name": "DS201 RCBO 1P+N 16A C Curve 30mA, Type AC",
+    "brand": "ABB",
+    "category": "Electrical package",
+    "use": "Compact 1P+N residual current circuit breaker with overcurrent protection (RCBO) from the ABB DS200 series, two modules wide. It combines a 16A C-curve MCB with 30mA Type AC earth-fault protection, to IEC/EN 61009-1.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/abb-ds201-c16-ac30-rcbo.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "DS200"
+      },
+      {
+        "label": "Weight",
+        "value": "0.2 kg"
+      },
+      {
+        "label": "Poles",
+        "value": "1P+N"
+      },
+      {
+        "label": "Rated current",
+        "value": "16A"
+      },
+      {
+        "label": "Breaking capacity",
+        "value": "Icn 4.5 kA (IEC/EN 61009-1); Icu 6 kA / Ics 4.5 kA (IEC/EN 60947-2)"
+      },
+      {
+        "label": "Tripping curve",
+        "value": "C"
+      },
+      {
+        "label": "Residual current",
+        "value": "30 mA"
+      },
+      {
+        "label": "Type",
+        "value": "AC"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230–240V"
+      },
+      {
+        "label": "Width",
+        "value": "2 modules"
+      },
+      {
+        "label": "Standards",
+        "value": "IEC/EN 61009-1, IEC/EN 61009-2-1"
+      },
+      {
+        "label": "Order code",
+        "value": "2CSR255080R1164"
+      }
+    ],
+    "photoNote": "Official ABB product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DS201 C16 AC30",
+    "variants": [
+      {
+        "model": "DS201 C16 AC30",
+        "note": "Order code: 2CSR255080R1164; Rated current: 16A; Weight: 0.2 kg"
+      }
+    ],
+    "source": "https://new.abb.com/products/2CSR255080R1164/ds201-c16-ac30",
+    "_meta": {
+      "feed": "electrical-abb",
+      "brand_group": "electrical",
+      "feed_brand": "ABB",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://new.abb.com/products/2CSR255080R1164/ds201-c16-ac30",
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107492A6187&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8329&LanguageCode=en&DocumentPartId=&Action=Launch"
+      ],
+      "source_note": "new.abb.com product pages (browser capture); refs, weights and standards confirmed in ABB catalogue 9AKK107991A8329 (Electrical installation solutions for buildings part A, 2026).",
+      "original_images": [
+        "abb-ds201-c16-ac30.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:21:10+04:00"
+    }
   }
 ]
