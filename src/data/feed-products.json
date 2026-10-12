@@ -21280,7 +21280,7 @@
   },
   {
     "id": "philips-hue-white-ambiance-enrave-pendant-4116231p6",
-    "sub": "pendants",
+    "sub": "chandeliers",
     "name": "Hue White Ambiance Enrave pendant",
     "brand": "Philips",
     "category": "Luminaires",
@@ -21334,7 +21334,7 @@
       "feed": "pendants-philips-hue",
       "brand_group": "lighting",
       "feed_brand": "Philips",
-      "group": "indoor",
+      "group": "decorative",
       "source_type": "brand_site",
       "source_urls": [
         "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-enrave-pendant/4116231P6"
@@ -21348,7 +21348,7 @@
   },
   {
     "id": "philips-hue-white-and-colour-ambiance-ensis-pendant-light-8719514343368",
-    "sub": "pendants",
+    "sub": "chandeliers",
     "name": "Hue White and Colour Ambiance Ensis pendant light",
     "brand": "Philips",
     "category": "Luminaires",
@@ -21398,7 +21398,7 @@
       "feed": "pendants-philips-hue",
       "brand_group": "lighting",
       "feed_brand": "Philips",
-      "group": "indoor",
+      "group": "decorative",
       "source_type": "brand_site",
       "source_urls": [
         "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-ensis-pendant-light/8719514343368"
@@ -21412,7 +21412,7 @@
   },
   {
     "id": "philips-hue-white-and-colour-ambiance-flourish-pendant-light-8719514343528",
-    "sub": "pendants",
+    "sub": "chandeliers",
     "name": "Hue White and Colour Ambiance Flourish pendant light",
     "brand": "Philips",
     "category": "Luminaires",
@@ -21462,7 +21462,7 @@
       "feed": "pendants-philips-hue",
       "brand_group": "lighting",
       "feed_brand": "Philips",
-      "group": "indoor",
+      "group": "decorative",
       "source_type": "brand_site",
       "source_urls": [
         "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-flourish-pendant-light/8719514343528"
@@ -21476,7 +21476,7 @@
   },
   {
     "id": "philips-hue-white-ambiance-explore-pendant-8718696176191",
-    "sub": "pendants",
+    "sub": "chandeliers",
     "name": "Hue White Ambiance Explore pendant",
     "brand": "Philips",
     "category": "Luminaires",
@@ -21534,7 +21534,7 @@
       "feed": "pendants-philips-hue",
       "brand_group": "lighting",
       "feed_brand": "Philips",
-      "group": "indoor",
+      "group": "decorative",
       "source_type": "brand_site",
       "source_urls": [
         "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-explore-pendant/8718696176191"
@@ -24882,6 +24882,3701 @@
         "abb-ds201-c16-ac30.jpg"
       ],
       "ingested_at": "2026-10-12T22:21:10+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617600",
+    "sub": "switches-sockets",
+    "name": "Belanko S 1 Gang 1-Way Switch 16AX",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Single-gang one-way 16AX 250V switch from the Legrand Belanko S range, for general lighting control. Polycarbonate front with a grey PP base, flush or surface mounting on BS boxes.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617600.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 33.6 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate rocker and frame, PP base"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush or surface, BS box ≥35 mm, M3.5 screws"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +50°C"
+      },
+      {
+        "label": "Rating",
+        "value": "16AX 250V~"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      },
+      {
+        "label": "Function",
+        "value": "1-way"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "20.5 mm"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617600",
+    "variants": [
+      {
+        "model": "617600",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617700",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617600",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617600",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02968EN-02.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617600.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617603",
+    "sub": "switches-sockets",
+    "name": "Belanko S 2 Gang 2-Way Switch 16AX",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Two-gang two-way 16AX 250V switch from the Legrand Belanko S range for controlling lighting from two locations. Rated IP20 and IK04.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617603.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 33.6 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate rocker and frame, PP base"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush or surface, BS box ≥35 mm, M3.5 screws"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +50°C"
+      },
+      {
+        "label": "Rating",
+        "value": "16AX 250V~"
+      },
+      {
+        "label": "Gangs",
+        "value": "2"
+      },
+      {
+        "label": "Function",
+        "value": "2-way"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "20.5 mm"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617603",
+    "variants": [
+      {
+        "model": "617603",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617703",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617603",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617603",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02968EN-02.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617603.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617604",
+    "sub": "switches-sockets",
+    "name": "Belanko S 3 Gang 1-Way Switch 16AX",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Three-gang one-way 16AX 250V switch from the Legrand Belanko S range. Controls three lighting circuits from a single 86 mm plate.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617604.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 33.6 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate rocker and frame, PP base"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush or surface, BS box ≥35 mm, M3.5 screws"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +50°C"
+      },
+      {
+        "label": "Rating",
+        "value": "16AX 250V~"
+      },
+      {
+        "label": "Gangs",
+        "value": "3"
+      },
+      {
+        "label": "Function",
+        "value": "1-way"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "20.5 mm"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617604",
+    "variants": [
+      {
+        "model": "617604",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617704",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617604",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617604",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02968EN-02.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617604.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617641",
+    "sub": "switches-sockets",
+    "name": "Belanko S 1 Gang 13A SP Switched Socket",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Single-gang single-pole switched 13A BS socket outlet from the Legrand Belanko S range, accepting BS 1363 fused plugs. Conforms to BS 1363-2, SS 145-2 and MS 589-2.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617641.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 33.8 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush or surface, 35 mm BS box"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250V~"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +35°C"
+      },
+      {
+        "label": "Standards",
+        "value": "BS 1363-2, SS 145-2, MS 589-2"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      },
+      {
+        "label": "Switching",
+        "value": "Single pole"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "22.1 mm"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617641",
+    "variants": [
+      {
+        "model": "617641",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617741",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617641",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617641",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02973EN-01.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617641.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617643",
+    "sub": "switches-sockets",
+    "name": "Belanko S 1 Gang 13A DP Switched Socket",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Single-gang double-pole switched 13A BS socket with a small rocker, from the Legrand Belanko S range. Conforms to BS 1363-2, SS 145-2 and MS 589-2.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617643.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 33.8 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush or surface, 35 mm BS box"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250V~"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +35°C"
+      },
+      {
+        "label": "Standards",
+        "value": "BS 1363-2, SS 145-2, MS 589-2"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      },
+      {
+        "label": "Switching",
+        "value": "Double pole"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "22.1 mm"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617643",
+    "variants": [
+      {
+        "model": "617643",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617743",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617643",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617643",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02973EN-01.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617643.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617646",
+    "sub": "switches-sockets",
+    "name": "Belanko S 2 Gang 13A SP Switched Socket",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Twin single-pole switched 13A BS socket outlet with inboard rockers, from the Legrand Belanko S range. Conforms to BS 1363-2, SS 145-2 and MS 589-2.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617646.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "146 x 86 x 34.5 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush or surface, 35 mm BS box"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250V~"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +35°C"
+      },
+      {
+        "label": "Standards",
+        "value": "BS 1363-2, SS 145-2, MS 589-2"
+      },
+      {
+        "label": "Gangs",
+        "value": "2"
+      },
+      {
+        "label": "Switching",
+        "value": "Single pole"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "23.3 mm"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617646",
+    "variants": [
+      {
+        "model": "617646",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617746",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617646",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617646",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02973EN-01.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617646.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617648",
+    "sub": "switches-sockets",
+    "name": "Belanko S 2 Gang 13A DP Switched Socket",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Twin double-pole switched 13A BS socket outlet from the Legrand Belanko S range. Conforms to BS 1363-2, SS 145-2 and MS 589-2.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617648.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "146 x 86 x 30.4 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush or surface, 35 mm BS box"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250V~"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +35°C"
+      },
+      {
+        "label": "Standards",
+        "value": "BS 1363-2, SS 145-2, MS 589-2"
+      },
+      {
+        "label": "Gangs",
+        "value": "2"
+      },
+      {
+        "label": "Switching",
+        "value": "Double pole"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "11.1 mm"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617648",
+    "variants": [
+      {
+        "model": "617648",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617748",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617648",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617648",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02973EN-01.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617648.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617644",
+    "sub": "switches-sockets",
+    "name": "Belanko S 2 Gang 13A Switched Socket with USB A + C",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Twin single-pole switched 13A BS socket from the Legrand Belanko S range with built-in USB Type A and Type C chargers. The 5V output is up to 3.0A, shared between ports.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617644.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "146 x 86 x 30.6 mm"
+      },
+      {
+        "label": "Poles",
+        "value": "2P+E"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250V~ 50/60Hz"
+      },
+      {
+        "label": "Gangs",
+        "value": "2"
+      },
+      {
+        "label": "Switching",
+        "value": "Single pole"
+      },
+      {
+        "label": "Usb",
+        "value": "Type A + Type C, 5V, 3.0A max shared"
+      },
+      {
+        "label": "Usb input",
+        "value": "220–240V~, 15W"
+      },
+      {
+        "label": "Standby power",
+        "value": "0.075 W"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +35°C"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "11 mm"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617644",
+    "variants": [
+      {
+        "model": "617644",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617744",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617644",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617644",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02982EN-01.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617644.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617635",
+    "sub": "switches-sockets",
+    "name": "Belanko S Universal Rotary Dimmer 300W",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Universal 300W rotary dimmer for LED and halogen loads from the Legrand Belanko S range, flush mounted on BS boxes. Conforms to IEC/EN 60669-2-1.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617635.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "86 x 86 x 32.95 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "106.6 g"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush, BS box ≥35 mm"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Load",
+        "value": "300W"
+      },
+      {
+        "label": "Type",
+        "value": "Universal rotary dimmer"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +50°C"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "24.3 mm"
+      },
+      {
+        "label": "Standards",
+        "value": "IEC 60669-2-1, EN 60669-2-1"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617635",
+    "variants": [
+      {
+        "model": "617635",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617735",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617635",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617635",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02988EN-01.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617635.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617670",
+    "sub": "switches-sockets",
+    "name": "Belanko S 20A DP Switch with Neon",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "Single-gang 20A 250V double-pole switch with neon indicator from the Legrand Belanko S range. Conforms to BS EN 60669-1, MS/IEC 60669-1 and SS 227.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617670.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 33.6 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate rocker and frame, PP base"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush or surface, BS box ≥35 mm, M3.5 screws"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +50°C"
+      },
+      {
+        "label": "Rating",
+        "value": "20A 250V~"
+      },
+      {
+        "label": "Indicator",
+        "value": "Neon"
+      },
+      {
+        "label": "Embedding depth",
+        "value": "20.5 mm"
+      },
+      {
+        "label": "Standards",
+        "value": "BS EN 60669-1, MS/IEC 60669-1, SS 227"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617670",
+    "variants": [
+      {
+        "model": "617670",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617770",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617670",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617670",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02971EN-02.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617670.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617676",
+    "sub": "switches-sockets",
+    "name": "Belanko S 45A DP Switch with Neon",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "High-capacity 45A double-pole switch with neon indicator from the Legrand Belanko S range for cookers, showers and air-conditioners. Conforms to BS EN 60669-1, MS/IEC 60669-1 and BS 4177.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617676.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Size",
+        "value": "86 x 86 x 33.6 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "116.3 g"
+      },
+      {
+        "label": "Poles",
+        "value": "Double pole"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Rating",
+        "value": "45A 250V"
+      },
+      {
+        "label": "Indicator",
+        "value": "Neon"
+      },
+      {
+        "label": "Gangs",
+        "value": "1"
+      },
+      {
+        "label": "Standards",
+        "value": "BS EN 60669-1, MS/IEC 60669-1, BS 4177"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617676",
+    "variants": [
+      {
+        "model": "617676",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617776",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617676",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617676",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02972EN-01.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617676.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617682",
+    "sub": "switches-sockets",
+    "name": "Belanko S Switched Fused Connection Unit with Neon and Cord Outlet",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "13A switched fused connection unit with neon indicator and flex outlet from the Legrand Belanko S range, for overload protection of fixed appliances. Conforms to BS 1363-4.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617682.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Weight",
+        "value": "99.6 g"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250V~"
+      },
+      {
+        "label": "Function",
+        "value": "Switched FCU, neon, cord outlet"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +50°C"
+      },
+      {
+        "label": "Standards",
+        "value": "BS 1363-4"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617682",
+    "variants": [
+      {
+        "model": "617682",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617782",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617682",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617682",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02992EN-01.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617682.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "legrand-belanko-s-617680",
+    "sub": "switches-sockets",
+    "name": "Belanko S Unswitched Fused Connection Unit with Cord Outlet",
+    "brand": "Legrand",
+    "category": "Electrical package",
+    "use": "13A unswitched fused connection unit with flex outlet from the Legrand Belanko S range, for fixed appliances. Conforms to BS 1363-4.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/legrand-belanko-s-617680.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Weight",
+        "value": "92.2 g"
+      },
+      {
+        "label": "Range",
+        "value": "Belanko S"
+      },
+      {
+        "label": "Rating",
+        "value": "13A 250V~"
+      },
+      {
+        "label": "Function",
+        "value": "Unswitched FCU, cord outlet"
+      },
+      {
+        "label": "Impact",
+        "value": "IK04"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-5 to +50°C"
+      },
+      {
+        "label": "Standards",
+        "value": "BS 1363-4"
+      }
+    ],
+    "photoNote": "Official Legrand product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "617680",
+    "variants": [
+      {
+        "model": "617680",
+        "note": "Finish: White"
+      },
+      {
+        "model": "617780",
+        "note": "Finish: Anthracite"
+      }
+    ],
+    "source": "https://www.legrand.ae/en/catalog/products/617680",
+    "_meta": {
+      "feed": "electrical-legrand",
+      "brand_group": "electrical",
+      "feed_brand": "Legrand",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.legrand.ae/en/catalog/products/617680",
+        "https://assets.legrand.com/pim/NP-FT-GT/F02992EN-01.pdf"
+      ],
+      "source_note": "legrand.ae e-catalogue (browser capture) and Legrand technical data sheet; datasheet values used where they differ. Anthracite ref per datasheet colour code 6 177 XX.",
+      "original_images": [
+        "legrand-617680.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "panasonic-f-409uaanug",
+    "sub": "fans",
+    "name": "Wall Fan F-409U",
+    "brand": "Panasonic",
+    "category": "Electrical package",
+    "use": "Wall-mounted fan from Panasonic with a metal blade. Speed (3 settings plus off) and oscillation are both controlled by pull switches.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/panasonic-f-409uaanug.webp",
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Wall fan"
+      },
+      {
+        "label": "Speed settings",
+        "value": "3 + off (pull switch)"
+      },
+      {
+        "label": "Oscillation",
+        "value": "Pull switch"
+      },
+      {
+        "label": "Blade",
+        "value": "Metal"
+      }
+    ],
+    "photoNote": "Official Panasonic product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "F-409UAANUG",
+    "source": "https://www.panasonic.com/ae/consumer/air-solutions/fans/wall-fan/f-409u.html",
+    "_meta": {
+      "feed": "electrical-panasonic",
+      "brand_group": "electrical",
+      "feed_brand": "Panasonic",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.panasonic.com/ae/consumer/air-solutions/fans/wall-fan/f-409u.html"
+      ],
+      "source_note": "Panasonic MEA/AE product page highlight bullets (browser capture); full spec tables not available.",
+      "original_images": [
+        "panasonic-f-409uaanug.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "panasonic-f-407yaanug",
+    "sub": "fans",
+    "name": "Stand Fan F-407Y",
+    "brand": "Panasonic",
+    "category": "Electrical package",
+    "use": "Panasonic pedestal stand fan with a metal blade and push-button control for 3 speeds plus off. Offered in blue and gold colourways.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/panasonic-f-407yaanug.webp",
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Stand fan"
+      },
+      {
+        "label": "Speed settings",
+        "value": "3 + off (push button)"
+      },
+      {
+        "label": "Blade",
+        "value": "Metal"
+      },
+      {
+        "label": "Colours",
+        "value": "Blue, gold"
+      }
+    ],
+    "photoNote": "Official Panasonic product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "F-407YAANUG",
+    "source": "https://www.panasonic.com/ae/consumer/air-solutions/fans/stand-fan/f-407y.html",
+    "_meta": {
+      "feed": "electrical-panasonic",
+      "brand_group": "electrical",
+      "feed_brand": "Panasonic",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.panasonic.com/ae/consumer/air-solutions/fans/stand-fan/f-407y.html"
+      ],
+      "source_note": "Panasonic MEA/AE product page highlight bullets (browser capture); full spec tables not available.",
+      "original_images": [
+        "panasonic-f-407yaanug.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "panasonic-f-48xz2aagjxg",
+    "sub": "fans",
+    "name": "Ceiling Fan Standard Series",
+    "brand": "Panasonic",
+    "category": "Electrical package",
+    "use": "Panasonic Standard Series ceiling fan with a permanently lubricated ball bearing. Safety features include a cut-off safety screw and blade fall prevention.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/panasonic-f-48xz2aagjxg.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Standard"
+      },
+      {
+        "label": "Type",
+        "value": "Ceiling fan"
+      },
+      {
+        "label": "Bearing",
+        "value": "Permanently lubricated ball bearing"
+      },
+      {
+        "label": "Safety",
+        "value": "Cut-off safety screw, blade fall prevention"
+      }
+    ],
+    "photoNote": "Official Panasonic product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "F-48XZ2AAGJXG",
+    "source": "https://www.panasonic.com/mea/en/consumer/air-solutions/fans/ceiling-fan/standard-series.html",
+    "_meta": {
+      "feed": "electrical-panasonic",
+      "brand_group": "electrical",
+      "feed_brand": "Panasonic",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.panasonic.com/mea/en/consumer/air-solutions/fans/ceiling-fan/standard-series.html"
+      ],
+      "source_note": "Panasonic MEA/AE product page highlight bullets (browser capture); full spec tables not available.",
+      "original_images": [
+        "panasonic-f-48xz2aagjxg.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "panasonic-f-56upgaadsxg",
+    "sub": "fans",
+    "name": "Ceiling Fan Remote Control Series",
+    "brand": "Panasonic",
+    "category": "Electrical package",
+    "use": "Panasonic remote-controlled ceiling fan with pre-set speed memory and sleep mode. A built-in timer switches off after 1, 3 or 6 hours.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/panasonic-f-56upgaadsxg.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Remote Control"
+      },
+      {
+        "label": "Type",
+        "value": "Ceiling fan"
+      },
+      {
+        "label": "Control",
+        "value": "Remote control"
+      },
+      {
+        "label": "Features",
+        "value": "Pre-set speed memory, sleep mode"
+      },
+      {
+        "label": "Timer",
+        "value": "1 / 3 / 6 h"
+      }
+    ],
+    "photoNote": "Official Panasonic product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "F-56UPGAADSXG",
+    "source": "https://www.panasonic.com/mea/en/consumer/air-solutions/fans/ceiling-fan/remote-control-series.html",
+    "_meta": {
+      "feed": "electrical-panasonic",
+      "brand_group": "electrical",
+      "feed_brand": "Panasonic",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.panasonic.com/mea/en/consumer/air-solutions/fans/ceiling-fan/remote-control-series.html"
+      ],
+      "source_note": "Panasonic MEA/AE product page highlight bullets (browser capture); full spec tables not available.",
+      "original_images": [
+        "panasonic-f-56upgaadsxg.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "panasonic-f-48tz2tbsjag",
+    "sub": "fans",
+    "name": "Ceiling Fan Decorative Ring Series",
+    "brand": "Panasonic",
+    "category": "Electrical package",
+    "use": "Panasonic Decorative Ring Series ceiling fan with a contrasting ring trim on the motor housing. Available in 1200 mm and 1400 mm sweeps, in white with a silver or pearl ring.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/panasonic-f-48tz2tbsjag.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Decorative Ring"
+      },
+      {
+        "label": "Type",
+        "value": "Ceiling fan"
+      },
+      {
+        "label": "Sweep options",
+        "value": "1200 mm, 1400 mm"
+      },
+      {
+        "label": "Finishes",
+        "value": "White with silver ring, white with pearl ring"
+      }
+    ],
+    "photoNote": "Official Panasonic product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "F-48TZ2TBSJAG",
+    "source": "https://www.panasonic.com/mea/en/consumer/air-solutions/fans/ceiling-fan/decorative-ring-series.html",
+    "_meta": {
+      "feed": "electrical-panasonic",
+      "brand_group": "electrical",
+      "feed_brand": "Panasonic",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.panasonic.com/mea/en/consumer/air-solutions/fans/ceiling-fan/decorative-ring-series.html"
+      ],
+      "source_note": "Panasonic MEA/AE product page highlight bullets (browser capture); full spec tables not available.",
+      "original_images": [
+        "panasonic-f-48tz2tbsjag.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "panasonic-fv-24jr2",
+    "sub": "fans",
+    "name": "Ceiling Mount Ventilation Fan, DC Motor Series",
+    "brand": "Panasonic",
+    "category": "Electrical package",
+    "use": "Panasonic ceiling-mounted ventilation fan with a DC motor delivering constant airflow and variable air volume. Designed for super-low-noise operation in bathrooms and living spaces.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/panasonic-fv-24jr2.webp",
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Ceiling-mount ventilation fan"
+      },
+      {
+        "label": "Motor",
+        "value": "DC"
+      },
+      {
+        "label": "Features",
+        "value": "Constant airflow, variable air volume, super low noise"
+      }
+    ],
+    "photoNote": "Official Panasonic product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FV-24JR2",
+    "source": "https://www.panasonic.com/mea/en/business/life-solutions/indoor-air-quality/ceiling-mount-ventilation-fans/dc-motor-series.html",
+    "_meta": {
+      "feed": "electrical-panasonic",
+      "brand_group": "electrical",
+      "feed_brand": "Panasonic",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.panasonic.com/mea/en/business/life-solutions/indoor-air-quality/ceiling-mount-ventilation-fans/dc-motor-series.html"
+      ],
+      "source_note": "Panasonic MEA/AE product page highlight bullets (browser capture); full spec tables not available.",
+      "original_images": [
+        "panasonic-fv-24jr2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "panasonic-fv-38cd8",
+    "sub": "fans",
+    "name": "Ceiling Mount Ventilation Fan, Standard Series",
+    "brand": "Panasonic",
+    "category": "Electrical package",
+    "use": "Panasonic ceiling-mounted ventilation fan with a sirocco impeller, high/low speed operation and a ball bearing. The condenser motor has thermal cut-off protection.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/panasonic-fv-38cd8.webp",
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Ceiling-mount ventilation fan"
+      },
+      {
+        "label": "Speeds",
+        "value": "High / low"
+      },
+      {
+        "label": "Motor",
+        "value": "Condenser motor with thermal cut-off"
+      },
+      {
+        "label": "Bearing",
+        "value": "Ball bearing"
+      },
+      {
+        "label": "Impeller",
+        "value": "Sirocco"
+      }
+    ],
+    "photoNote": "Official Panasonic product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FV-38CD8",
+    "source": "https://www.panasonic.com/mea/en/business/life-solutions/indoor-air-quality/ceiling-mount-ventilation-fans/standard-series.html",
+    "_meta": {
+      "feed": "electrical-panasonic",
+      "brand_group": "electrical",
+      "feed_brand": "Panasonic",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.panasonic.com/mea/en/business/life-solutions/indoor-air-quality/ceiling-mount-ventilation-fans/standard-series.html"
+      ],
+      "source_note": "Panasonic MEA/AE product page highlight bullets (browser capture); full spec tables not available.",
+      "original_images": [
+        "panasonic-fv-38cd8.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:26:42+04:00"
+    }
+  },
+  {
+    "id": "havells-enticer-hs-decorative-ceiling-fan",
+    "sub": "fans",
+    "name": "Enticer HS Decorative Ceiling Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Decorative three-blade ceiling fan with an induction motor and painted aluminium blades in a bronze/chrome finish. A high-speed model for living rooms, majlis and offices, supplied with a 260 mm downrod.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-enticer-hs-decorative-ceiling-fan.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "48W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "5.444 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Painted aluminium blades"
+      },
+      {
+        "label": "Colour",
+        "value": "Bronze Cola Chrome"
+      },
+      {
+        "label": "Motor type",
+        "value": "Induction"
+      },
+      {
+        "label": "Blades",
+        "value": "3"
+      },
+      {
+        "label": "Rated speed",
+        "value": "390 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "220 m³/min"
+      },
+      {
+        "label": "Downrod",
+        "value": "260 mm"
+      },
+      {
+        "label": "Star rating",
+        "value": "1 Star (BEE)"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHCNRE1BCC48",
+    "source": "https://havells.com/fans/enticer-hs-decorative-ceiling-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/enticer-hs-decorative-ceiling-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-enticer-hs-decorative-ceiling-fan-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-festiva-hs-decorative-ceiling-fan",
+    "sub": "fans",
+    "name": "Festiva HS Decorative Ceiling Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "High-speed decorative ceiling fan with three painted aluminium blades and an induction motor, shown in espresso brown. Suited to homes, villas and small offices; supplied with a 260 mm downrod.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-festiva-hs-decorative-ceiling-fan.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "48W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "4.979 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Painted aluminium blades"
+      },
+      {
+        "label": "Colour",
+        "value": "Espresso Brown"
+      },
+      {
+        "label": "Motor type",
+        "value": "Induction"
+      },
+      {
+        "label": "Blades",
+        "value": "3"
+      },
+      {
+        "label": "Rated speed",
+        "value": "390 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "220 m³/min"
+      },
+      {
+        "label": "Downrod",
+        "value": "260 mm"
+      },
+      {
+        "label": "Star rating",
+        "value": "1 Star (BEE)"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHCFZE1EBR48",
+    "source": "https://havells.com/fans/festiva-hs-decorative-ceiling-fans.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/festiva-hs-decorative-ceiling-fans.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-festiva-hs-decorative-ceiling-fan-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-ss-390-hs-decorative-ceiling-fan",
+    "sub": "fans",
+    "name": "SS-390 HS Decorative Ceiling Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Decorative high-speed ceiling fan in pearl white with three painted aluminium blades and an induction motor. A clean-looking option for apartments, bedrooms and offices.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-ss-390-hs-decorative-ceiling-fan.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "48W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "4.8 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Painted aluminium blades"
+      },
+      {
+        "label": "Colour",
+        "value": "Pearl White"
+      },
+      {
+        "label": "Motor type",
+        "value": "Induction"
+      },
+      {
+        "label": "Blades",
+        "value": "3"
+      },
+      {
+        "label": "Rated speed",
+        "value": "390 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "220 m³/min"
+      },
+      {
+        "label": "Downrod",
+        "value": "260 mm"
+      },
+      {
+        "label": "Star rating",
+        "value": "1 Star (BEE)"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHC3SE1PWS48",
+    "source": "https://havells.com/fans/ss-390-hs-decorative-ceiling-fans.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/ss-390-hs-decorative-ceiling-fans.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-ss-390-hs-decorative-ceiling-fan-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-epic-storm-hs-bldc-ceiling-fan",
+    "sub": "fans",
+    "name": "Epic Storm HS BLDC Ceiling Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Energy-efficient BLDC ceiling fan drawing 32W, with remote control and powder-coated aluminium blades. Rated 5 Star by BEE and designed to perform at low voltage, it suits homes and offices looking to cut running costs.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-epic-storm-hs-bldc-ceiling-fan.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "32W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "4.05 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Powder-coated aluminium blades"
+      },
+      {
+        "label": "Motor type",
+        "value": "BLDC"
+      },
+      {
+        "label": "Blades",
+        "value": "3"
+      },
+      {
+        "label": "Rated speed",
+        "value": "370 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "225 m³/min"
+      },
+      {
+        "label": "Noise level",
+        "value": "58 dB"
+      },
+      {
+        "label": "Remote control",
+        "value": "Yes"
+      },
+      {
+        "label": "Downrod",
+        "value": "260 mm"
+      },
+      {
+        "label": "Star rating",
+        "value": "5 Star (BEE)"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHCPOE5CBR48",
+    "gallery": [
+      "/products/feed/electrical/havells-epic-storm-hs-bldc-ceiling-fan-2.webp"
+    ],
+    "source": "https://havells.com/fans/epic-storm-hs-bldc-ceiling-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/epic-storm-hs-bldc-ceiling-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-epic-storm-hs-bldc-ceiling-fan-1.jpg",
+        "havells-epic-storm-hs-bldc-ceiling-fan-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-enticer-hs-bldc-ceiling-fan",
+    "sub": "fans",
+    "name": "Enticer HS BLDC Ceiling Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "BLDC version of the Enticer decorative fan, using 32W with remote control and metallic-paint aluminium blades. A 5 Star BEE-rated choice for living spaces where both looks and low power use matter.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-enticer-hs-bldc-ceiling-fan.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "32W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "4.5 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Metallic-paint aluminium blades"
+      },
+      {
+        "label": "Motor type",
+        "value": "BLDC"
+      },
+      {
+        "label": "Blades",
+        "value": "3"
+      },
+      {
+        "label": "Rated speed",
+        "value": "370 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "225 m³/min"
+      },
+      {
+        "label": "Noise level",
+        "value": "58 dB"
+      },
+      {
+        "label": "Remote control",
+        "value": "Yes"
+      },
+      {
+        "label": "Downrod",
+        "value": "260 mm"
+      },
+      {
+        "label": "Star rating",
+        "value": "5 Star (BEE)"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHCHEE5BEC48",
+    "source": "https://havells.com/fans/enticer-hs-bldc-ceiling-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/enticer-hs-bldc-ceiling-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-enticer-hs-bldc-ceiling-fan-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-novaire-hs-bldc-ceiling-fan",
+    "sub": "fans",
+    "name": "Novaire HS BLDC Ceiling Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Slim three-blade BLDC ceiling fan at 32W with remote control and 225 m³/min air delivery. Rated 5 Star by BEE for low running costs in apartments, offices and hotel rooms.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-novaire-hs-bldc-ceiling-fan.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "32W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "3.95 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Metallic-paint aluminium blades"
+      },
+      {
+        "label": "Motor type",
+        "value": "BLDC"
+      },
+      {
+        "label": "Blades",
+        "value": "3"
+      },
+      {
+        "label": "Rated speed",
+        "value": "370 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "225 m³/min"
+      },
+      {
+        "label": "Noise level",
+        "value": "58 dB"
+      },
+      {
+        "label": "Remote control",
+        "value": "Yes"
+      },
+      {
+        "label": "Downrod",
+        "value": "260 mm"
+      },
+      {
+        "label": "Star rating",
+        "value": "5 Star (BEE)"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHCNHE5PLW48",
+    "source": "https://havells.com/fans/novaire-hs-bldc-ceiling-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/novaire-hs-bldc-ceiling-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-novaire-hs-bldc-ceiling-fan-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-epic-led-bldc-ceiling-fan",
+    "sub": "fans",
+    "name": "Epic LED BLDC Ceiling Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Remote-controlled BLDC ceiling fan using just 30W, with powder-coated aluminium blades and 225 m³/min air delivery. A 5 Star BEE-rated fan for residential and light commercial rooms.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-epic-led-bldc-ceiling-fan.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "30W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "4 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Powder-coated aluminium blades"
+      },
+      {
+        "label": "Motor type",
+        "value": "BLDC"
+      },
+      {
+        "label": "Blades",
+        "value": "3"
+      },
+      {
+        "label": "Rated speed",
+        "value": "350 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "225 m³/min"
+      },
+      {
+        "label": "Noise level",
+        "value": "60 dB"
+      },
+      {
+        "label": "Remote control",
+        "value": "Yes"
+      },
+      {
+        "label": "Downrod",
+        "value": "260 mm"
+      },
+      {
+        "label": "Star rating",
+        "value": "5 Star (BEE)"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHCE6E5CBR48",
+    "gallery": [
+      "/products/feed/electrical/havells-epic-led-bldc-ceiling-fan-2.webp"
+    ],
+    "source": "https://havells.com/fans/epic-led-bldc-ceiling-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/epic-led-bldc-ceiling-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-epic-led-bldc-ceiling-fan-1.jpg",
+        "havells-epic-led-bldc-ceiling-fan-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-swing-hs-wall-fan",
+    "sub": "fans",
+    "name": "Swing HS Wall Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Compact 400 mm wall-mounted fan with three plastic blades and an induction motor, in white. Useful for kitchens, shops, prayer rooms and staff areas where floor space is limited.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-swing-hs-wall-fan.webp",
+    "specRows": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Sweep",
+        "value": "400 mm"
+      },
+      {
+        "label": "Blades",
+        "value": "3"
+      },
+      {
+        "label": "Motor type",
+        "value": "Induction"
+      },
+      {
+        "label": "Rated speed",
+        "value": "2000 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "90 m³/min"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHWSWHSWHT16",
+    "gallery": [
+      "/products/feed/electrical/havells-swing-hs-wall-fan-2.webp"
+    ],
+    "source": "https://havells.com/fans/swing-hs-wall-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/swing-hs-wall-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-swing-hs-wall-fan-1.jpg",
+        "havells-swing-hs-wall-fan-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-swing-pro-hs-wall-fan",
+    "sub": "fans",
+    "name": "Swing Pro HS Wall Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "High-speed 400 mm wall fan with 60° oscillation, adjustable tilt, three speeds and pull-cord control. Draws 115W at 230V and suits workshops, kitchens and retail spaces.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-swing-pro-hs-wall-fan.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "115W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "3.7 kg"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Controls",
+        "value": "Pull cord"
+      },
+      {
+        "label": "Sweep",
+        "value": "400 mm"
+      },
+      {
+        "label": "Blades",
+        "value": "3"
+      },
+      {
+        "label": "Motor type",
+        "value": "Induction"
+      },
+      {
+        "label": "Speeds",
+        "value": "3"
+      },
+      {
+        "label": "Oscillation",
+        "value": "60°"
+      },
+      {
+        "label": "Tilt",
+        "value": "Adjustable up/down"
+      },
+      {
+        "label": "Rated speed",
+        "value": "2150 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "105 m³/min"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHWSWPRWHT16",
+    "gallery": [
+      "/products/feed/electrical/havells-swing-pro-hs-wall-fan-2.webp"
+    ],
+    "source": "https://havells.com/fans/swing-pro-hs-wall-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/swing-pro-hs-wall-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-swing-pro-hs-wall-fan-1.jpg",
+        "havells-swing-pro-hs-wall-fan-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-turbo-force-ac-wall-fan",
+    "sub": "fans",
+    "name": "Turbo Force AC Wall Fan",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Heavy-duty 450 mm wall fan with metal blades, guard, 60° oscillation and three speeds. Rated 100W at 230V for warehouses, workshops, kitchens and other demanding spaces.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-turbo-force-ac-wall-fan.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "100W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "14.1 kg"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Sweep",
+        "value": "450 mm"
+      },
+      {
+        "label": "Blades",
+        "value": "3 (metal)"
+      },
+      {
+        "label": "Motor type",
+        "value": "Induction"
+      },
+      {
+        "label": "Speeds",
+        "value": "3"
+      },
+      {
+        "label": "Oscillation",
+        "value": "60°"
+      },
+      {
+        "label": "Rated speed",
+        "value": "1440 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "150 m³/min"
+      },
+      {
+        "label": "Noise level",
+        "value": "62 dB"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHACWSTGRY18",
+    "source": "https://havells.com/fans/turbo-force-ac-wall-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/turbo-force-ac-wall-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-turbo-force-ac-wall-fan-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-turboforce-exhaust-fan-450mm",
+    "sub": "fans",
+    "name": "Turboforce Heavy-Duty Exhaust Fan 450 mm",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Heavy-duty 450 mm metal exhaust fan with four balanced blades and motor protection, moving 6800 m³/h. Built for commercial kitchens, factories, car parks and plant rooms.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-turboforce-exhaust-fan-450mm.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "370W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "3.2 kg"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Sweep",
+        "value": "450 mm"
+      },
+      {
+        "label": "Blades",
+        "value": "4 (metal)"
+      },
+      {
+        "label": "Motor type",
+        "value": "Induction"
+      },
+      {
+        "label": "Rated speed",
+        "value": "1400 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "6800 m³/h"
+      },
+      {
+        "label": "Noise level",
+        "value": "75–80 dB"
+      },
+      {
+        "label": "Motor protection",
+        "value": "Yes"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHEHDTPDB180",
+    "source": "https://havells.com/fans/turboforce-exhaust-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/turboforce-exhaust-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-turboforce-exhaust-fan-450mm-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-turboforce-dx-hd-exhaust-fan-300mm",
+    "sub": "fans",
+    "name": "Turboforce DX HD Exhaust Fan 300 mm",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Heavy-duty 300 mm exhaust fan with a metal four-blade impeller delivering 1950 m³/h at 95W. Suited to restaurant kitchens, workshops and storage areas.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-turboforce-dx-hd-exhaust-fan-300mm.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "95W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "5.575 kg"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Sweep",
+        "value": "300 mm"
+      },
+      {
+        "label": "Blades",
+        "value": "4 (metal)"
+      },
+      {
+        "label": "Motor type",
+        "value": "Induction"
+      },
+      {
+        "label": "Rated speed",
+        "value": "1400 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "1950 m³/h"
+      },
+      {
+        "label": "Noise level",
+        "value": "60–65 dB"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHEHDDXGRY12",
+    "source": "https://havells.com/fans/turboforce-dx-hd-exhaust-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/turboforce-dx-hd-exhaust-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-turboforce-dx-hd-exhaust-fan-300mm-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-thrill-air-dlx-exhaust-fan-150mm",
+    "sub": "fans",
+    "name": "Thrill Air DLX Domestic Exhaust Fan 150 mm",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Quiet 150 mm domestic ventilation fan in white, rated 40 dB at 22W. Ideal for bathrooms, toilets and small kitchens in apartments and villas.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-thrill-air-dlx-exhaust-fan-150mm.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "22W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Sweep",
+        "value": "150 mm"
+      },
+      {
+        "label": "Blades",
+        "value": "6"
+      },
+      {
+        "label": "Motor type",
+        "value": "Induction"
+      },
+      {
+        "label": "Rated speed",
+        "value": "1350 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "300 m³/h"
+      },
+      {
+        "label": "Noise level",
+        "value": "40 dB"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHVTADLWHT06",
+    "gallery": [
+      "/products/feed/electrical/havells-thrill-air-dlx-exhaust-fan-150mm-2.webp"
+    ],
+    "source": "https://havells.com/fans/thrill-air-dlx-domestic-exhaust-fan.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/thrill-air-dlx-domestic-exhaust-fan.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-thrill-air-dlx-exhaust-fan-150mm-1.jpg",
+        "havells-thrill-air-dlx-exhaust-fan-150mm-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-ventilair-dx-exhaust-fan-150mm",
+    "sub": "fans",
+    "name": "Ventilair DX Domestic Exhaust Fan 150 mm",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Low-noise 150 mm plastic exhaust fan in glossy white, rated 34 dB at 22W. A tidy, compact choice for bathrooms and toilets.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-ventilair-dx-exhaust-fan-150mm.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "22W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220–240V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "1.3 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Glossy"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Sweep",
+        "value": "150 mm"
+      },
+      {
+        "label": "Blades",
+        "value": "6"
+      },
+      {
+        "label": "Rated speed",
+        "value": "1350 rpm"
+      },
+      {
+        "label": "Noise level",
+        "value": "34 dB"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHVVEDXOWH06",
+    "source": "https://havells.com/fans/ventilair-dx-plastic-domestic-exhaust-fan-fhvvedxowh06-c.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/ventilair-dx-plastic-domestic-exhaust-fan-fhvvedxowh06-c.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-ventilair-dx-exhaust-fan-150mm-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-ventilair-db-metal-exhaust-fan-300mm",
+    "sub": "fans",
+    "name": "Ventilair DB Metal Exhaust Fan 300 mm",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Metal-bodied 300 mm exhaust fan with a 36-spoke guard and four balanced blades, moving 1850 m³/h at 70W. For kitchens, laundry rooms and small commercial spaces.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-ventilair-db-metal-exhaust-fan-300mm.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "70W"
+      },
+      {
+        "label": "Voltage",
+        "value": "230V"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Weight",
+        "value": "2.5 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Metallic"
+      },
+      {
+        "label": "Sweep",
+        "value": "300 mm"
+      },
+      {
+        "label": "Blades",
+        "value": "4"
+      },
+      {
+        "label": "Guard",
+        "value": "36 spokes"
+      },
+      {
+        "label": "Rated speed",
+        "value": "1400 rpm"
+      },
+      {
+        "label": "Air delivery",
+        "value": "1850 m³/h"
+      },
+      {
+        "label": "Noise level",
+        "value": "40–45 dB"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FHVVEMTDBB12",
+    "source": "https://havells.com/fans/ventilair-db-metal-domestic-exhaust-fan-fhvvemtdbb12-c.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/fans/ventilair-db-metal-domestic-exhaust-fan-fhvvemtdbb12-c.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-ventilair-db-metal-exhaust-fan-300mm-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-mcb-sp-c-curve-32a",
+    "sub": "circuit-protection",
+    "name": "MCB Single Pole C Curve 32A",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Single-pole miniature circuit breaker with C-curve tripping, rated 32A. For protecting final circuits in distribution boards in homes, shops and offices.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-mcb-sp-c-curve-32a.webp",
+    "specRows": [
+      {
+        "label": "Poles",
+        "value": "Single Pole (SP)"
+      },
+      {
+        "label": "Rated current",
+        "value": "32A"
+      },
+      {
+        "label": "Tripping curve",
+        "value": "C"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DHMGCSPF032",
+    "source": "https://havells.com/home-electricals/switchgears/mcb-sp-c-curve-dhmgcspf032-1.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/home-electricals/switchgears/mcb-sp-c-curve-dhmgcspf032-1.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-mcb-sp-c-curve-32a-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-mcb-dp-c-curve-63a",
+    "sub": "circuit-protection",
+    "name": "MCB Double Pole C Curve 63A",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Double-pole C-curve miniature circuit breaker rated 63A, typically used as an incomer or for single-phase loads that need both poles switched.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-mcb-dp-c-curve-63a.webp",
+    "specRows": [
+      {
+        "label": "Poles",
+        "value": "Double Pole (DP)"
+      },
+      {
+        "label": "Rated current",
+        "value": "63A"
+      },
+      {
+        "label": "Tripping curve",
+        "value": "C"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DHMGCDPF063",
+    "source": "https://havells.com/home-electricals/switchgears/mcb-dp-c-curve-dhmgcdpf063-c.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/home-electricals/switchgears/mcb-dp-c-curve-dhmgcdpf063-c.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-mcb-dp-c-curve-63a-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-mcb-tpn-c-curve-63a",
+    "sub": "circuit-protection",
+    "name": "MCB TPN C Curve 63A",
+    "brand": "HAVELLS",
+    "category": "Electrical package",
+    "use": "Three-pole-and-neutral C-curve miniature circuit breaker rated 63A. For three-phase incomers and feeders in distribution boards.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/havells-mcb-tpn-c-curve-63a.webp",
+    "specRows": [
+      {
+        "label": "Poles",
+        "value": "Three Pole & Neutral (TPN)"
+      },
+      {
+        "label": "Rated current",
+        "value": "63A"
+      },
+      {
+        "label": "Tripping curve",
+        "value": "C"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "DHMGCTNF063",
+    "source": "https://havells.com/home-electricals/switchgears/mcb-tpn-c-curve-dhmgctnf063-1.html",
+    "_meta": {
+      "feed": "electrical-havells",
+      "brand_group": "electrical",
+      "feed_brand": "HAVELLS",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/home-electricals/switchgears/mcb-tpn-c-curve-dhmgctnf063-1.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-mcb-tpn-c-curve-63a-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:26+04:00"
+    }
+  },
+  {
+    "id": "havells-led-pride-plus-nxt-batten-30w",
+    "sub": "tubes-battens",
+    "name": "LED Pride Plus NXT Batten 30W",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "A 30W, 1150 mm LED batten in cool daylight with 100 lm/W efficacy and a wide 140–270V input. A straightforward tube replacement for homes, shops, schools and corridors.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-led-pride-plus-nxt-batten-30w.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "30W"
+      },
+      {
+        "label": "Voltage",
+        "value": "140–270V AC"
+      },
+      {
+        "label": "Efficacy",
+        "value": "100 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500K (Cool Daylight)"
+      },
+      {
+        "label": "CRI",
+        "value": ">80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25,000 h"
+      },
+      {
+        "label": "Surge protection",
+        "value": "4 kV"
+      },
+      {
+        "label": "Driver efficiency",
+        "value": "88%"
+      },
+      {
+        "label": "Isolation",
+        "value": "3.75 kV"
+      },
+      {
+        "label": "Length",
+        "value": "1150 mm"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHEXAZP7PN1W030",
+    "gallery": [
+      "/products/feed/indoor/havells-led-pride-plus-nxt-batten-30w-2.webp"
+    ],
+    "source": "https://havells.com/lighting/led-pride-plus-nxt-batten.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/led-pride-plus-nxt-batten.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-led-pride-plus-nxt-batten-30w-1.jpg",
+        "havells-led-pride-plus-nxt-batten-30w-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
+    }
+  },
+  {
+    "id": "havells-pride-ultra-nxt-led-batten-20w",
+    "sub": "tubes-battens",
+    "name": "Pride Ultra NXT LED Batten 20W",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "A 20W, 1100 mm LED batten in cool daylight with 100 lm/W efficacy and 4 kV surge protection. For residential rooms, small shops and classrooms.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-pride-ultra-nxt-led-batten-20w.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "20W"
+      },
+      {
+        "label": "Voltage",
+        "value": "140–270V AC"
+      },
+      {
+        "label": "Efficacy",
+        "value": "100 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500K (Cool Daylight)"
+      },
+      {
+        "label": "CRI",
+        "value": ">80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25,000 h"
+      },
+      {
+        "label": "Surge protection",
+        "value": "4 kV"
+      },
+      {
+        "label": "Driver efficiency",
+        "value": "88%"
+      },
+      {
+        "label": "Isolation",
+        "value": "3.75 kV"
+      },
+      {
+        "label": "Length",
+        "value": "1100 mm"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHEXAZP7PN1W020",
+    "gallery": [
+      "/products/feed/indoor/havells-pride-ultra-nxt-led-batten-20w-2.webp"
+    ],
+    "source": "https://havells.com/lighting/led-battens/pride-ultra-nxt-led-batten.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/led-battens/pride-ultra-nxt-led-batten.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-pride-ultra-nxt-led-batten-20w-1.jpg",
+        "havells-pride-ultra-nxt-led-batten-20w-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
+    }
+  },
+  {
+    "id": "havells-elenor-broad-led-batten-36w",
+    "sub": "tubes-battens",
+    "name": "Elenor Broad LED Batten 36W",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "A broad-profile 36W LED batten giving 3600 lm in cool daylight, with a polycarbonate body and opal PC diffuser. Surface mounted, for homes, shops, schools and offices.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-elenor-broad-led-batten-36w.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "36W"
+      },
+      {
+        "label": "Voltage",
+        "value": "140–270V AC"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "3600 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "100 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500K (Cool Daylight)"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Power factor",
+        "value": "≥0.90"
+      },
+      {
+        "label": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "1177 × 60 × 30 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Surge protection",
+        "value": "4 kV"
+      },
+      {
+        "label": "Certification",
+        "value": "BIS"
+      },
+      {
+        "label": "Driver efficiency",
+        "value": "88%"
+      },
+      {
+        "label": "Isolation",
+        "value": "1.5 kV"
+      },
+      {
+        "label": "Length",
+        "value": "1170 mm"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHFABENFNU9W036",
+    "gallery": [
+      "/products/feed/indoor/havells-elenor-broad-led-batten-36w-2.webp"
+    ],
+    "source": "https://havells.com/lighting/elenor-broad-led-batten.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/elenor-broad-led-batten.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-elenor-broad-led-batten-36w-1.jpg",
+        "havells-elenor-broad-led-batten-36w-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
+    }
+  },
+  {
+    "id": "havells-adore-led-plus-20w-e27-cdl",
+    "sub": "lamps-bulbs",
+    "name": "Adore LED Plus 20W E27 Cool Daylight",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "High-output 20W LED bulb with an E27 cap, giving 2100 lm in 6500K cool daylight. For large rooms, shops and stores using standard screw-in lampholders.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-adore-led-plus-20w-e27-cdl.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "20W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220–240V AC (withstands 140–270V)"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2100 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "105 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500K (Cool Daylight)"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Lamp base",
+        "value": "E27"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "≥0.90"
+      },
+      {
+        "label": "Lifetime",
+        "value": "15,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "Ø78 × 122 mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0–35°C"
+      },
+      {
+        "label": "Surge protection",
+        "value": "4 kV"
+      },
+      {
+        "label": "Certification",
+        "value": "BIS, BEE"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHLDERHNIL2R020",
+    "gallery": [
+      "/products/feed/indoor/havells-adore-led-plus-20w-e27-cdl-2.webp"
+    ],
+    "source": "https://havells.com/lighting/adore-led-plus-20-w-e27-v5.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/adore-led-plus-20-w-e27-v5.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-adore-led-plus-20w-e27-cdl-1.jpg",
+        "havells-adore-led-plus-20w-e27-cdl-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
+    }
+  },
+  {
+    "id": "havells-adore-led-plus-20w-b22-ww",
+    "sub": "lamps-bulbs",
+    "name": "Adore LED Plus 20W B22 Warm White",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "High-output 20W LED bulb with a B22 bayonet cap, giving 1800 lm in 3000K warm white. A warm, bright option for living rooms, majlis and hospitality spaces.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-adore-led-plus-20w-b22-ww.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "20W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220–240V AC (withstands 140–270V)"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1800 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "90 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K (Warm White)"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Lamp base",
+        "value": "B22"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "≥0.90"
+      },
+      {
+        "label": "Lifetime",
+        "value": "15,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "Ø78 × 122 mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0–35°C"
+      },
+      {
+        "label": "Surge protection",
+        "value": "4 kV"
+      },
+      {
+        "label": "Certification",
+        "value": "BIS, BEE"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHLDERENIH2R020",
+    "gallery": [
+      "/products/feed/indoor/havells-adore-led-plus-20w-b22-ww-2.webp"
+    ],
+    "source": "https://havells.com/lighting/adore-led-plus-20-w-b22-ww-v5.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/adore-led-plus-20-w-b22-ww-v5.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-adore-led-plus-20w-b22-ww-1.jpg",
+        "havells-adore-led-plus-20w-b22-ww-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
+    }
+  },
+  {
+    "id": "havells-adore-led-2-8w-e14-candle-ww",
+    "sub": "lamps-bulbs",
+    "name": "Adore LED 2.8W E14 Candle Lamp Warm White",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "A 2.8W warm-white LED candle lamp with E14 cap and opal diffuser, giving 210 lm. For chandeliers, wall lights and decorative fittings.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-adore-led-2-8w-e14-candle-ww.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "2.8W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220–240V AC (withstands 140–270V)"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "210 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "75 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "Warm White"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Lamp base",
+        "value": "E14"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "≥0.80"
+      },
+      {
+        "label": "Lifetime",
+        "value": "15,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "40 × 40 × 100 mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0–35°C"
+      },
+      {
+        "label": "Surge protection",
+        "value": "4 kV"
+      },
+      {
+        "label": "Certification",
+        "value": "BIS"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHLDEUOCMC8R2X8",
+    "gallery": [
+      "/products/feed/indoor/havells-adore-led-2-8w-e14-candle-ww-2.webp"
+    ],
+    "source": "https://havells.com/lighting/adore-led-2-8-w-e14-ww-candle-lamp.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/adore-led-2-8-w-e14-ww-candle-lamp.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-adore-led-2-8w-e14-candle-ww-1.jpg",
+        "havells-adore-led-2-8w-e14-candle-ww-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
+    }
+  },
+  {
+    "id": "havells-adore-led-2-8w-e27-candle-ww",
+    "sub": "lamps-bulbs",
+    "name": "Adore LED 2.8W E27 Candle Lamp Warm White",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "A 2.8W warm-white LED candle lamp with E27 cap and opal diffuser, giving 210 lm. A low-energy replacement for decorative candle bulbs in E27 fittings.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-adore-led-2-8w-e27-candle-ww.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "2.8W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220–240V AC (withstands 140–270V)"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "210 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "75 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "Warm White"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Lamp base",
+        "value": "E27"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "≥0.80"
+      },
+      {
+        "label": "Lifetime",
+        "value": "15,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "103 × 39 × 49 mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0–35°C"
+      },
+      {
+        "label": "Surge protection",
+        "value": "4 kV"
+      },
+      {
+        "label": "Certification",
+        "value": "BIS"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHLDEUHEMC8R2X8",
+    "gallery": [
+      "/products/feed/indoor/havells-adore-led-2-8w-e27-candle-ww-2.webp"
+    ],
+    "source": "https://havells.com/lighting/adore-led-2-8-w-e27-ww-candle-lamp.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/adore-led-2-8-w-e27-ww-candle-lamp.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-adore-led-2-8w-e27-candle-ww-1.jpg",
+        "havells-adore-led-2-8w-e27-candle-ww-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
+    }
+  },
+  {
+    "id": "havells-adore-led-2-8w-e14-ball-ww",
+    "sub": "lamps-bulbs",
+    "name": "Adore LED 2.8W E14 Ball Lamp Warm White",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "A 2.8W warm-white LED mini ball lamp with E14 cap, giving 210 lm through an opal diffuser. Suited to pendants, wall lights and small decorative fittings.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-adore-led-2-8w-e14-ball-ww.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "2.8W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220–240V AC (withstands 140–270V)"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "210 lm"
+      },
+      {
+        "label": "Efficacy",
+        "value": "75 lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "Warm White"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Lamp base",
+        "value": "E14"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "≥0.80"
+      },
+      {
+        "label": "Lifetime",
+        "value": "15,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "45 × 45 × 80 mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0–35°C"
+      },
+      {
+        "label": "Surge protection",
+        "value": "4 kV"
+      },
+      {
+        "label": "Certification",
+        "value": "BIS"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHLDEUOEMC8R2X8",
+    "source": "https://havells.com/lighting/adore-led-2-8-w-e14-ww-ball-lamp.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/adore-led-2-8-w-e14-ww-ball-lamp.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-adore-led-2-8w-e14-ball-ww-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
+    }
+  },
+  {
+    "id": "havells-lumeno-led-downlight-round-5w",
+    "sub": "downlights",
+    "name": "Lumeno LED Downlight Round 5W",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "A 5W round recessed LED downlight with polycarbonate body, 95 mm cut-out and 300 lm output. A low-cost general lighting option for bedrooms, corridors and bathrooms.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-lumeno-led-downlight-round-5w.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "5W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220–240V AC"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "300 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "≥0.90"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "Ø105 × 46 mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "95 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      },
+      {
+        "label": "Surge protection",
+        "value": "3 kV"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHFAAYPBNU1W005",
+    "gallery": [
+      "/products/feed/indoor/havells-lumeno-led-downlight-round-5w-2.webp"
+    ],
+    "source": "https://havells.com/lighting/lumeno-led-downlight-round-v5.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/lumeno-led-downlight-round-v5.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-lumeno-led-downlight-round-5w-1.jpg",
+        "havells-lumeno-led-downlight-round-5w-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
+    }
+  },
+  {
+    "id": "havells-luna-led-jb-downlight-3w",
+    "sub": "downlights",
+    "name": "Luna LED JB Downlight 3W",
+    "brand": "HAVELLS",
+    "category": "Luminaires",
+    "use": "Slim 3W round recessed LED downlight that fits a 55 mm cut-out, giving 240 lm in 3000K. Suited to wardrobes, niches, corridors and accent use.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/havells-luna-led-jb-downlight-3w.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "3W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220–240V AC"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "240 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Dimming",
+        "value": "Non-dimmable"
+      },
+      {
+        "label": "Power factor",
+        "value": "≥0.90"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25,000 h"
+      },
+      {
+        "label": "Size",
+        "value": "Ø82.5 × 26 mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "55 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      },
+      {
+        "label": "Surge protection",
+        "value": "3 kV"
+      }
+    ],
+    "photoNote": "Official HAVELLS product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LHEBAZP5UZ1W003",
+    "gallery": [
+      "/products/feed/indoor/havells-luna-led-jb-downlight-3w-2.webp"
+    ],
+    "source": "https://havells.com/lighting/luna-led-jb-downlight.html",
+    "_meta": {
+      "feed": "lighting-havells",
+      "brand_group": "lighting",
+      "feed_brand": "HAVELLS",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://havells.com/lighting/luna-led-jb-downlight.html"
+      ],
+      "source_note": "havells.com (Havells India Ltd official site) product page specifications table.",
+      "original_images": [
+        "havells-luna-led-jb-downlight-3w-1.jpg",
+        "havells-luna-led-jb-downlight-3w-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:28:28+04:00"
     }
   }
 ]
