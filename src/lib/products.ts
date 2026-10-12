@@ -417,6 +417,7 @@ const barqProducts: Product[] = [
   },
   {
     id: "ww-pixel",
+    image: "/products/generic/ww-pixel.webp",
     name: "Pixel-addressable Linear Bar",
     category: "Wall washers",
     use: "Pixel bar for media façades and sequenced architectural effects.",
@@ -491,6 +492,7 @@ const barqProducts: Product[] = [
   },
   {
     id: "acc-opal-diffuser",
+    image: "/products/generic/acc-opal-diffuser.webp",
     name: "Opal Diffuser Covers",
     category: "Accessories",
     use: "Opal, frosted, clear and lensed (30–60°) covers for architectural profiles.",
@@ -499,6 +501,7 @@ const barqProducts: Product[] = [
   },
   {
     id: "acc-endcaps-brackets",
+    image: "/products/generic/acc-endcaps-brackets.webp",
     name: "End Caps & Mounting Brackets",
     category: "Accessories",
     use: "End caps, clips and brackets matched to AL6063 profile families.",
@@ -539,6 +542,7 @@ const barqProducts: Product[] = [
   },
   {
     id: "elec-smdb",
+    image: "/products/generic/elec-smdb.webp",
     name: "SMDB / Isolators — Electrical Package",
     category: "Electrical package",
     use: "Sub-main distribution boards and isolators coordinated with lighting packages.",
