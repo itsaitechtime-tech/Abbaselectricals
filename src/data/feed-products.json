@@ -11086,5 +11086,4648 @@
       ],
       "ingested_at": "2026-10-12T21:38:34+04:00"
     }
+  },
+  {
+    "id": "grohe-grohtherm-1000-thermostatic-shower-mixer",
+    "sub": "mixers-taps",
+    "name": "Grohtherm 1000 Thermostatic Shower Mixer 1/2\"",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Exposed thermostatic shower mixer with GROHE TurboStat cartridge, CoolTouch safety housing and SafeStop button at 38 °C. Includes FlowControl button, non-return valves and S-unions; professional edition.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-grohtherm-1000-thermostatic-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Grohtherm 1000"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted (exposed)"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE TurboStat wax thermoelement"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Shower bottom outlet 1/2\""
+      },
+      {
+        "label": "Safety",
+        "value": "SafeStop at 38 °C; optional 43 °C limiter included"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "34814003",
+    "source": "https://www.grohe.com/en-AE/product/Grohtherm-1000-Shower-Safety-mixer-Chrome-34814003",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Grohtherm-1000-Shower-Safety-mixer-Chrome-34814003"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-34814003.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-grohtherm-1000-thermostatic-bath-mixer",
+    "sub": "mixers-taps",
+    "name": "Grohtherm 1000 Thermostatic Bath Mixer 1/2\"",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Exposed thermostatic bath mixer with TurboStat cartridge, CoolTouch housing and AquaDimmer bath/shower diverter. SafeStop at 38 °C with an optional 43 °C limiter; professional edition.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-grohtherm-1000-thermostatic-bath-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Grohtherm 1000"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted (exposed)"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE TurboStat wax thermoelement"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Shower bottom outlet 1/2\""
+      },
+      {
+        "label": "Safety",
+        "value": "SafeStop at 38 °C; optional 43 °C limiter included"
+      },
+      {
+        "label": "Diverter",
+        "value": "Bath/shower (AquaDimmer)"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "34816003",
+    "source": "https://www.grohe.com/en-AE/product/Grohtherm-1000-Thermostatic-bath-mixer-1-2-Chrome-34816003",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Grohtherm-1000-Thermostatic-bath-mixer-1-2-Chrome-34816003"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-34816003.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-precision-start-thermostatic-shower-mixer",
+    "sub": "mixers-taps",
+    "name": "Precision Start Thermostatic Shower Mixer",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Entry-level exposed thermostatic shower mixer with GROHE TurboStat cartridge and SafeStop at 38 °C. FlowControl button, built-in non-return valves and dirt strainers.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-precision-start-thermostatic-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Precision Start"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted (exposed)"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE TurboStat wax thermoelement"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Shower bottom outlet 1/2\""
+      },
+      {
+        "label": "Safety",
+        "value": "SafeStop at 38 °C; optional 43 °C limiter included"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "34594000",
+    "source": "https://www.grohe.com/en-AE/product/Precision-Start-Shower-Safety-mixer-Chrome-34594000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Precision-Start-Shower-Safety-mixer-Chrome-34594000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-34594000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-precision-trend-thermostatic-shower-mixer",
+    "sub": "mixers-taps",
+    "name": "Precision Trend Thermostatic Shower Mixer",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Exposed thermostatic shower mixer with CoolTouch housing, Metal Grip handles and TurboStat cartridge. SafeStop at 38 °C and FlowControl button for full flow.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-precision-trend-thermostatic-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Precision Trend"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted (exposed)"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE TurboStat wax thermoelement"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Shower bottom outlet 1/2\""
+      },
+      {
+        "label": "Safety",
+        "value": "SafeStop at 38 °C; optional 43 °C limiter included"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "34229002",
+    "source": "https://www.grohe.com/en-AE/product/Precision-Trend-Shower-Safety-mixer-Chrome-34229002",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Precision-Trend-Shower-Safety-mixer-Chrome-34229002"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-34229002.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-grohtherm-smartcontrol-shower-mixer",
+    "sub": "mixers-taps",
+    "name": "Grohtherm SmartControl Thermostatic Shower Mixer",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Exposed thermostatic shower mixer with intuitive SmartControl push/turn button and integrated EasyReach shelf. CoolTouch, TurboStat cartridge and SafeStop at 38 °C.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-grohtherm-smartcontrol-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Grohtherm SmartControl"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted (exposed)"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE TurboStat wax thermoelement"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Shower bottom outlet 1/2\""
+      },
+      {
+        "label": "Control",
+        "value": "SmartControl push/turn button"
+      },
+      {
+        "label": "Safety",
+        "value": "SafeStop at 38 °C; optional 43 °C limiter included"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "34719000",
+    "source": "https://www.grohe.com/en-AE/product/Grohtherm-SmartControl-Shower-Safety-mixer-Chrome-34719000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Grohtherm-SmartControl-Shower-Safety-mixer-Chrome-34719000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-34719000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-eurocube-e-infrared-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "Eurocube E Infra-Red Electronic Basin Mixer 1/2\"",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Touch-free infra-red basin mixer with mixing device and adjustable temperature limiter, mains-powered via 6 V DC transformer. 5 l/min flow, IP 59K, seven pre-set programs including thermal disinfection.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-eurocube-e-infrared-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Eurocube E"
+      },
+      {
+        "label": "Power",
+        "value": "Plug transformer 100-230 V AC, 50-60 Hz, 6 V DC"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Flow rate",
+        "value": "5 l/min at 3 bar"
+      },
+      {
+        "label": "Operation",
+        "value": "Infra-red sensor"
+      },
+      {
+        "label": "Protection",
+        "value": "IP 59K"
+      },
+      {
+        "label": "Features",
+        "value": "7 pre-set programs incl. auto flush, thermal disinfection, cleaning mode"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "36440000",
+    "source": "https://www.grohe.com/en-AE/product/Eurocube-E-Infra-red-electronic-basin-mixer-1-2-with-mixing-device-and-adjustable-temperature-limiter-L-Chrome-36440000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Eurocube-E-Infra-red-electronic-basin-mixer-1-2-with-mixing-device-and-adjustable-temperature-limiter-L-Chrome-36440000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-36440000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-bauedge-sink-tap",
+    "sub": "mixers-taps",
+    "name": "BauEdge Sink Tap 1/2\" (Cold)",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Single-hole pillar sink tap with metal lever, 90° ceramic headpart and swivel tubular spout. Chrome LongLife finish.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-bauedge-sink-tap.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "BauEdge"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Single hole, deck-mounted"
+      },
+      {
+        "label": "Spout",
+        "value": "Swivel tubular"
+      },
+      {
+        "label": "Headpart",
+        "value": "Ceramic 1/2\", 90°"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "31223000",
+    "source": "https://www.grohe.com/en-AE/product/BauEdge-Sink-tap-1-2-Chrome-31223000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/BauEdge-Sink-tap-1-2-Chrome-31223000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-31223000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-bauloop-sink-tap",
+    "sub": "mixers-taps",
+    "name": "BauLoop Sink Tap 1/2\" (Cold)",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Single-hole sink tap with metal lever, 90° ceramic headpart and swivel tubular spout. Flow of 13 l/min at 3 bar.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-bauloop-sink-tap.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "BauLoop"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Single hole, deck-mounted"
+      },
+      {
+        "label": "Flow rate",
+        "value": "13 l/min at 3 bar"
+      },
+      {
+        "label": "Spout",
+        "value": "Swivel tubular"
+      },
+      {
+        "label": "Headpart",
+        "value": "Ceramic 1/2\", 90°"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "31222000",
+    "source": "https://www.grohe.com/en-AE/product/BauLoop-Sink-tap-1-2-Chrome-31222000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/BauLoop-Sink-tap-1-2-Chrome-31222000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-31222000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-lineare-concealed-bath-shower-mixer",
+    "sub": "mixers-taps",
+    "name": "Lineare Concealed Bath/Shower Mixer 1/2\"",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Concealed single-lever bath/shower mixer supplied with concealed body and final-installation set. SilkMove 46 mm ceramic cartridge and adjustable flow rate limiter.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-lineare-concealed-bath-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Lineare"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Concealed (set incl. concealed body)"
+      },
+      {
+        "label": "Cartridge",
+        "value": "GROHE SilkMove 46 mm ceramic"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "29199000",
+    "source": "https://www.grohe.com/en-AE/product/Lineare-Bath-shower-mixer-1-2-Chrome-29199000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Lineare-Bath-shower-mixer-1-2-Chrome-29199000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-29199000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-eurocube-two-hole-wall-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "Eurocube Two-Hole Wall Basin Mixer S-Size",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Cubic two-hole wall-mounted basin mixer with metal lever and AquaGuide adjustable mousseur. 171 mm projection; for use with rough-in set 23 200.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-eurocube-two-hole-wall-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Eurocube"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, for rough-in set 23 200 (not included)"
+      },
+      {
+        "label": "Projection",
+        "value": "171 mm"
+      },
+      {
+        "label": "Centre distance",
+        "value": "110 mm"
+      },
+      {
+        "label": "Min pressure",
+        "value": "1.0 bar"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "19895000",
+    "source": "https://www.grohe.com/en-AE/product/Eurocube-Two-hole-basin-mixer-S-Size-M-Chrome-19895000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Eurocube-Two-hole-basin-mixer-S-Size-M-Chrome-19895000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-19895000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-tempesta-100-shower-rail-set",
+    "sub": "showers",
+    "name": "Tempesta 100 Shower Rail Set, 3 Sprays",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Shower rail set with 3-spray Tempesta 100 hand shower, 600 mm rail and 1750 mm hose. 9.5 l/min flow limiter, SpeedClean nozzles and ShockProof ring.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-tempesta-100-shower-rail-set.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Tempesta 100"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Rail",
+        "value": "600 mm"
+      },
+      {
+        "label": "Hose",
+        "value": "Relexaflex 1750 mm"
+      },
+      {
+        "label": "Flow limiter",
+        "value": "9.5 l/min"
+      },
+      {
+        "label": "Min pressure",
+        "value": "1.0 bar"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "27644001",
+    "source": "https://www.grohe.com/en-AE/product/Tempesta-100-Shower-rail-set-3-sprays-Chrome-27644001",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Tempesta-100-Shower-rail-set-3-sprays-Chrome-27644001"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-27644001.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-tempesta-250-head-shower",
+    "sub": "showers",
+    "name": "Tempesta 250 Round Head Shower, 1 Spray",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Round 250 mm rain head shower with DreamSpray and SpeedClean nozzles. 8.5 l/min at 3 bar, 1/2\" connection and ±10° ball joint; professional edition.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-tempesta-250-head-shower.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Tempesta 250"
+      },
+      {
+        "label": "Size",
+        "value": "Ø 250 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Flow rate",
+        "value": "8.5 l/min at 3 bar"
+      },
+      {
+        "label": "Connection",
+        "value": "1/2\""
+      },
+      {
+        "label": "Spray",
+        "value": "Rain"
+      },
+      {
+        "label": "Ball joint",
+        "value": "± 10°"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "26662000",
+    "source": "https://www.grohe.com/en-AE/product/Tempesta-250-Head-shower-1-spray-Chrome-26662000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Tempesta-250-Head-shower-1-spray-Chrome-26662000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-26662000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-tempesta-250-cube-head-shower",
+    "sub": "showers",
+    "name": "Tempesta 250 Cube Square Head Shower, 1 Spray",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Square 250 x 250 mm rain head shower with DreamSpray and SpeedClean nozzles. 8 l/min at 3 bar, 1/2\" connection and ±10° ball joint; professional edition.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-tempesta-250-cube-head-shower.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Tempesta 250 Cube"
+      },
+      {
+        "label": "Size",
+        "value": "250 x 250 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Flow rate",
+        "value": "8 l/min at 3 bar"
+      },
+      {
+        "label": "Connection",
+        "value": "1/2\""
+      },
+      {
+        "label": "Spray",
+        "value": "Rain"
+      },
+      {
+        "label": "Ball joint",
+        "value": "± 10°"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "26681000",
+    "source": "https://www.grohe.com/en-AE/product/Tempesta-250-Cube-Head-shower-1-spray-Chrome-26681000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Tempesta-250-Cube-Head-shower-1-spray-Chrome-26681000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-26681000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-tempesta-f-trigger-spray-wall-holder-set",
+    "sub": "showers",
+    "name": "Tempesta-F Trigger Spray 30 Wall Holder Set",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Trigger-control hand spray set (shattaf) with wall holder and 1000 mm Silverflex hose. 8 l/min at 3 bar with TwistStop anti-twist hose.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-tempesta-f-trigger-spray-wall-holder-set.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Tempesta-F Trigger Spray 30"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Flow rate",
+        "value": "8 l/min at 3 bar"
+      },
+      {
+        "label": "Hose",
+        "value": "Silverflex 1000 mm"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "26352000",
+    "source": "https://www.grohe.com/en-AE/product/Tempesta-F-Trigger-Spray-30-Wall-holder-set-1-spray-Chrome-26352000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Tempesta-F-Trigger-Spray-30-Wall-holder-set-1-spray-Chrome-26352000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-26352000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-vitalio-go-100-shower-rail-set",
+    "sub": "showers",
+    "name": "Vitalio Go 100 Shower Rail Set, 1 Spray",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Shower rail set with Vitalio Go 100 hand shower, 620 mm rail and 1750 mm hose. 16 l/min at 3 bar with DreamSpray and SpeedClean.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-vitalio-go-100-shower-rail-set.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Vitalio Go 100"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Flow rate",
+        "value": "16 l/min at 3 bar"
+      },
+      {
+        "label": "Rail",
+        "value": "620 mm"
+      },
+      {
+        "label": "Hose",
+        "value": "VitalioFlex Trend 1750 mm"
+      },
+      {
+        "label": "Min pressure",
+        "value": "1.0 bar"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "26196000",
+    "source": "https://www.grohe.com/en-AE/product/Vitalio-Go-100-Shower-rail-set-1-spray-Chrome-26196000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Vitalio-Go-100-Shower-rail-set-1-spray-Chrome-26196000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-26196000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-vitalio-joy-110-duo-shower-rail-set",
+    "sub": "showers",
+    "name": "Vitalio Joy 110 Duo Shower Rail Set, 2 Sprays",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Two-spray shower rail set with Vitalio Joy 110 Duo hand shower, 600 mm rail and 1750 mm hose. SprayDimmer slider for stepless flow adjustment and adjustable bracket for existing holes.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-vitalio-joy-110-duo-shower-rail-set.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Vitalio Joy 110 Duo"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Flow rate",
+        "value": "16.6 l/min at 3 bar"
+      },
+      {
+        "label": "Rail",
+        "value": "Vitalio Universal 600 mm"
+      },
+      {
+        "label": "Hose",
+        "value": "VitalioFlex Silver 1750 mm"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "27326000",
+    "source": "https://www.grohe.com/en-AE/product/Vitalio-Joy-110-Duo-Shower-rail-set-2-sprays-Chrome-27326000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Vitalio-Joy-110-Duo-Shower-rail-set-2-sprays-Chrome-27326000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-27326000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-rapid-sl-wc-element-042",
+    "sub": "concealed-cisterns",
+    "name": "Rapid SL Element for WC, 1.13 m, 0.42 m Width",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Narrow 0.42 m pre-assembled WC frame with 6 l concealed cistern for dry-wall or on-wall installation. Pneumatic valve supports Dual Flush, Start/Stop or single flush; TÜV approved.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-rapid-sl-wc-element-042.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Rapid SL"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual Flush, Start/Stop or single flush (pneumatic)"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Ø 90 mm with 90/110 mm reducer"
+      },
+      {
+        "label": "Installation height",
+        "value": "1.13 m"
+      },
+      {
+        "label": "Width",
+        "value": "0.42 m"
+      },
+      {
+        "label": "Cistern",
+        "value": "6 l"
+      },
+      {
+        "label": "Frame",
+        "value": "Powder-coated steel, self-supporting"
+      },
+      {
+        "label": "Approval",
+        "value": "TÜV"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38675001",
+    "source": "https://www.grohe.com/en-AE/product/Rapid-SL-Element-for-WC-1-13-m-installation-height-0-42-m-width-No-colour-38675001",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Rapid-SL-Element-for-WC-1-13-m-installation-height-0-42-m-width-No-colour-38675001"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-38675001.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-rapid-sl-slim-wc-element",
+    "sub": "concealed-cisterns",
+    "name": "Rapid SL Slim Element for WC, 88.9 mm Cistern, 1.13 m",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Pre-assembled WC frame with slim 88.9 mm flushing cistern (3-6 l), for on-wall or stud-wall installation. Pneumatic valve with Dual Flush, Start/Stop or single flush.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-rapid-sl-slim-wc-element.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Rapid SL"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual Flush, Start/Stop or single flush (pneumatic)"
+      },
+      {
+        "label": "Installation height",
+        "value": "1.13 m"
+      },
+      {
+        "label": "Cistern",
+        "value": "SLIM 88.9 mm, 3-6 l (factory 6/3 l)"
+      },
+      {
+        "label": "Frame",
+        "value": "Powder-coated steel, self-supporting"
+      },
+      {
+        "label": "Water supply",
+        "value": "From top, 1/2\" with integrated angle valve"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "39687000",
+    "source": "https://www.grohe.com/en-AE/product/Rapid-SL-Slim-Element-for-WC-with-flushing-cistern-88-9-mm-1-13-m-installation-height-No-colour-39687000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Rapid-SL-Slim-Element-for-WC-with-flushing-cistern-88-9-mm-1-13-m-installation-height-No-colour-39687000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-39687000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-rapid-sl-wash-basin-element",
+    "sub": "concealed-cisterns",
+    "name": "Rapid SL Element for Wash Basin, Single-Hole",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Pre-assembled 1.13 m frame for wall-hung wash basins with single-hole mixers, with noise protection. M10 fixing bolts, Ø 50 mm outlet bend and two 1/2\" connections; TÜV approved.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-rapid-sl-wash-basin-element.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Rapid SL"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "HT bend Ø 50 mm"
+      },
+      {
+        "label": "Installation height",
+        "value": "1.13 m"
+      },
+      {
+        "label": "Frame",
+        "value": "Powder-coated steel, self-supporting"
+      },
+      {
+        "label": "Fixing",
+        "value": "M10 basin bolts, variable distance"
+      },
+      {
+        "label": "Connections",
+        "value": "2 x 1/2\" noise-protected"
+      },
+      {
+        "label": "Approval",
+        "value": "TÜV"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38554001",
+    "source": "https://www.grohe.com/en-AE/product/Rapid-SL-Element-for-wash-basin-single-hole-installation-No-colour-38554001",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Rapid-SL-Element-for-wash-basin-single-hole-installation-No-colour-38554001"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-38554001.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-rapid-sl-wc-element-082",
+    "sub": "concealed-cisterns",
+    "name": "Rapid SL Element for WC, 0.82 m Installation Height",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Low-height 0.82 m WC frame with 6-9 l concealed cistern. Front or top actuation; TÜV approved.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-rapid-sl-wc-element-082.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Rapid SL"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual Flush, Start/Stop or single flush (pneumatic)"
+      },
+      {
+        "label": "Installation height",
+        "value": "0.82 m"
+      },
+      {
+        "label": "Cistern",
+        "value": "6-9 l"
+      },
+      {
+        "label": "Frame",
+        "value": "Powder-coated steel, self-supporting"
+      },
+      {
+        "label": "Actuation",
+        "value": "Front or top"
+      },
+      {
+        "label": "Approval",
+        "value": "TÜV"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38526000",
+    "source": "https://www.grohe.com/en-AE/product/Rapid-SL-Element-for-WC-0-82-m-installation-height-No-colour-38526000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Rapid-SL-Element-for-WC-0-82-m-installation-height-No-colour-38526000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-38526000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-arena-cosmopolitan-flush-plate",
+    "sub": "concealed-cisterns",
+    "name": "Arena Cosmopolitan Dual-Flush Plate",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Chrome dual-flush plate (156 x 197 mm, ABS) for Rapid SL and Uniset frames with GD 2 cistern. Dual Flush or Start & Stop actuation; vertical installation.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-arena-cosmopolitan-flush-plate.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Arena Cosmopolitan"
+      },
+      {
+        "label": "Size",
+        "value": "156 x 197 mm"
+      },
+      {
+        "label": "Material",
+        "value": "ABS"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Vertical; Rapid SL / Uniset with GD 2 cistern"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual Flush or Start & Stop; pneumatic valve AV1"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38844000",
+    "source": "https://www.grohe.com/en-AE/product/Arena-Cosmopolitan-Flush-plate-Chrome-38844000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Arena-Cosmopolitan-Flush-plate-Chrome-38844000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-38844000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-nova-cosmopolitan-flush-plate",
+    "sub": "concealed-cisterns",
+    "name": "Nova Cosmopolitan Dual-Flush Plate",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Round-button chrome dual-flush plate (156 x 197 mm, ABS) for Rapid SL and Uniset frames. Mounts vertically or horizontally.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-nova-cosmopolitan-flush-plate.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Nova Cosmopolitan"
+      },
+      {
+        "label": "Size",
+        "value": "156 x 197 mm"
+      },
+      {
+        "label": "Material",
+        "value": "ABS"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Vertical or horizontal; Rapid SL / Uniset with GD 2 cistern"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual Flush or Start & Stop; pneumatic valve AV1"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38765000",
+    "source": "https://www.grohe.com/en-AE/product/Nova-Cosmopolitan-Flush-plate-Chrome-38765000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Nova-Cosmopolitan-Flush-plate-Chrome-38765000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-38765000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-even-flush-plate",
+    "sub": "concealed-cisterns",
+    "name": "Even Dual-Flush Plate",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Square-edged chrome dual-flush plate measuring 156 x 197 mm in ABS. Dual Flush or Start & Stop; vertical or horizontal installation.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-even-flush-plate.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Even"
+      },
+      {
+        "label": "Size",
+        "value": "156 x 197 mm"
+      },
+      {
+        "label": "Material",
+        "value": "ABS"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Vertical or horizontal"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual Flush or Start & Stop; pneumatic valve AV1"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38966000",
+    "source": "https://www.grohe.com/en-AE/product/Even-Flush-plate-Chrome-38966000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Even-Flush-plate-Chrome-38966000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-38966000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-start-flush-plate",
+    "sub": "concealed-cisterns",
+    "name": "Start Dual-Flush Plate",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Entry-level chrome dual-flush plate measuring 156 x 197 mm in ABS. Dual Flush or Start & Stop actuation; vertical installation.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-start-flush-plate.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Start"
+      },
+      {
+        "label": "Size",
+        "value": "156 x 197 mm"
+      },
+      {
+        "label": "Material",
+        "value": "ABS"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Vertical"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual Flush or Start & Stop; pneumatic valve"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "38964000",
+    "source": "https://www.grohe.com/en-AE/product/Start-Flush-plate-Chrome-38964000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Start-Flush-plate-Chrome-38964000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-38964000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-skate-single-flush-plate",
+    "sub": "concealed-cisterns",
+    "name": "Skate Flush Plate (Single Button)",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Single push-button chrome flush plate measuring 156 x 197 mm in ABS. Manual actuation; vertical installation.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-skate-single-flush-plate.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Skate"
+      },
+      {
+        "label": "Size",
+        "value": "156 x 197 mm"
+      },
+      {
+        "label": "Material",
+        "value": "ABS"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome (LongLife)"
+      },
+      {
+        "label": "Installation",
+        "value": "Vertical"
+      },
+      {
+        "label": "Actuation",
+        "value": "Manual push button"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "37547000",
+    "source": "https://www.grohe.com/en-AE/product/Skate-Flush-plate-Chrome-37547000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/Skate-Flush-plate-Chrome-37547000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-37547000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-bauedge-floor-standing-wc",
+    "sub": "wcs",
+    "name": "BauEdge Ceramic Rimless Floor-Standing WC",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Rimless back-to-wall floor-standing WC for use with a concealed cistern, wash-down with horizontal outlet. EN997 class 1; fixation set included.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-bauedge-floor-standing-wc.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "BauEdge Ceramic"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Floor-standing, back to wall, for concealed cistern"
+      },
+      {
+        "label": "Flush",
+        "value": "Rimless wash-down; 6 l or 5 l full / 3 l small (EN997 class 1)"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Horizontal"
+      },
+      {
+        "label": "Seat",
+        "value": "Compatible with 39 813 000"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "39810000",
+    "source": "https://www.grohe.com/en-AE/product/BauEdge-Ceramic-Floor-standing-WC-White-39810000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/BauEdge-Ceramic-Floor-standing-WC-White-39810000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-39810000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-bauedge-wall-hung-wc",
+    "sub": "wcs",
+    "name": "BauEdge Ceramic Rimless Wall-Hung WC",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Rimless wall-hung WC for concealed cisterns, wash-down with horizontal outlet. Works with 4-5 l full and 2-3 l small flush; EN997 class 1.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-bauedge-wall-hung-wc.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "BauEdge Ceramic"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-hung, for concealed cistern"
+      },
+      {
+        "label": "Flush",
+        "value": "Rimless wash-down; 5/4 l full, 3/2 l small (EN997 class 1)"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Horizontal"
+      },
+      {
+        "label": "Seat",
+        "value": "Compatible with 39 813 000"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "39809000",
+    "source": "https://www.grohe.com/en-AE/product/BauEdge-Ceramic-Wall-hung-WC-White-39809000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/BauEdge-Ceramic-Wall-hung-WC-White-39809000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-39809000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "grohe-bauedge-wash-basin-60",
+    "sub": "basins",
+    "name": "BauEdge Ceramic Wash Basin 60",
+    "brand": "GROHE",
+    "category": "Sanitary ware",
+    "use": "Wall-hung 600 x 448 mm ceramic wash basin with one tap hole and overflow. Can be fitted with matching half or full pedestal.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/grohe-bauedge-wash-basin-60.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "BauEdge Ceramic"
+      },
+      {
+        "label": "Size",
+        "value": "600 x 448 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-hung"
+      },
+      {
+        "label": "Tap holes",
+        "value": "1"
+      },
+      {
+        "label": "Overflow",
+        "value": "Yes"
+      },
+      {
+        "label": "Pedestal",
+        "value": "Half 39 426 000 / full 39 425 000 (optional)"
+      }
+    ],
+    "photoNote": "Official GROHE product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "39808000",
+    "source": "https://www.grohe.com/en-AE/product/BauEdge-Ceramic-Wash-basin-60-White-39808000",
+    "_meta": {
+      "feed": "sanitary-grohe-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "GROHE",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.grohe.com/en-AE/product/BauEdge-Ceramic-Wash-basin-60-White-39808000"
+      ],
+      "source_note": null,
+      "original_images": [
+        "grohe-39808000.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:54+04:00"
+    }
+  },
+  {
+    "id": "kohler-citrus-multi-function-hand-shower-12861t-e2",
+    "sub": "showers",
+    "name": "Citrus Multi-Function Hand Shower",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Water-saving multi-function hand shower from the KOHLER Citrus range, meeting LEED water-saving criteria. Designed to perform well even at low water pressure.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-citrus-multi-function-hand-shower-12861t-e2.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Citrus"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Type",
+        "value": "Multi-function hand shower, water-saving"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-12861T-E2-CP",
+    "source": "https://www.kohler.com.sg/productDetails/12861T-E2?skuid=12861T-E2-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/12861T-E2?skuid=12861T-E2-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-12861t-e2.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-shift-round-two-function-hand-shower-9-5-lpm-21335t",
+    "sub": "showers",
+    "name": "Shift Round Two-Function Hand Shower, 9.5 lpm",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Slim round two-function hand shower with full-coverage and targeted massage sprays switched by a thumb button. MasterClean sprayface resists mineral build-up; 9.5 l/min maximum.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-shift-round-two-function-hand-shower-9-5-lpm-21335t.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Shift"
+      },
+      {
+        "label": "Size",
+        "value": "H 250 mm, W 30 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Flow rate",
+        "value": "9.5 l/min max"
+      },
+      {
+        "label": "Sprays",
+        "value": "2 (full coverage, targeted massage)"
+      },
+      {
+        "label": "Sprayface",
+        "value": "MasterClean"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-21335T-CP",
+    "source": "https://www.kohler.com.sg/productDetails/21335T?skuid=21335T-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/21335T?skuid=21335T-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-21335t.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-parallel-wall-mount-basin-mixer-6-8-lpm-22567t-b4",
+    "sub": "mixers-taps",
+    "name": "Parallel Wall-Mount Basin Mixer, 6.8 lpm",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Wall-mount single-handle basin mixer trim from the KOHLER Parallel collection with 215 mm spout reach. 6.8 l/min aerated flow and metal pop-up drain; ideal for vessel basins.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-parallel-wall-mount-basin-mixer-6-8-lpm-22567t-b4.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Parallel"
+      },
+      {
+        "label": "Size",
+        "value": "H 80 mm, W 194 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mount; requires K-28028T valve (sold separately)"
+      },
+      {
+        "label": "Flow rate",
+        "value": "6.8 l/min at 4.14 bar"
+      },
+      {
+        "label": "Spout reach",
+        "value": "215 mm"
+      },
+      {
+        "label": "Drain",
+        "value": "Metal pop-up, 32 mm tailpiece"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-22567T-B4-CP",
+    "source": "https://www.kohler.com.sg/productDetails/22567T-B4?skuid=22567T-B4-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/22567T-B4?skuid=22567T-B4-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-22567t-b4.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-parallel-two-handle-wall-mount-basin-mixer-8-3-lpm-22570t-b4",
+    "sub": "mixers-taps",
+    "name": "Parallel Two-Handle Wall-Mount Basin Mixer, 8.3 lpm",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Two-lever wall-mount basin set from the KOHLER Parallel collection with separate hot and cold control. 219 mm stationary spout, 8.3 l/min aerated flow and metal pop-up drain.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-parallel-two-handle-wall-mount-basin-mixer-8-3-lpm-22570t-b4.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Parallel"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mount; requires K-31141T valve (sold separately)"
+      },
+      {
+        "label": "Flow rate",
+        "value": "8.3 l/min at 3.1 bar"
+      },
+      {
+        "label": "Handles",
+        "value": "Two lever handles"
+      },
+      {
+        "label": "Spout reach",
+        "value": "219 mm"
+      },
+      {
+        "label": "Drain",
+        "value": "Metal pop-up, 32 mm tailpiece"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-22570T-B4-CP",
+    "source": "https://www.kohler.com.sg/productDetails/22570T-B4?skuid=22570T-B4-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/22570T-B4?skuid=22570T-B4-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-22570t-b4.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-parliament-grande-wall-hung-toilet-22753k",
+    "sub": "wcs",
+    "name": "Parliament Grande Wall-Hung Toilet",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Wall-hung European-style toilet in vitreous china with wash-down flushing and quiet-close seat included. Measures 565 x 373 x 387 mm; 211 mm P-trap rough-in.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-parliament-grande-wall-hung-toilet-22753k.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Parliament Grande"
+      },
+      {
+        "label": "Size",
+        "value": "565 x 373 x 387 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Vitreous china"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-hung"
+      },
+      {
+        "label": "Flush",
+        "value": "Wash-down"
+      },
+      {
+        "label": "Rough-in",
+        "value": "211 mm (P-trap)"
+      },
+      {
+        "label": "Seat",
+        "value": "Quiet-close seat included"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-22753K-0",
+    "source": "https://www.kohler.com.sg/productDetails/22753K?skuid=22753K-0",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/22753K?skuid=22753K-0"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-22753k.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-parallel-wall-mount-basin-mixer-165-mm-spout-23485t-b4",
+    "sub": "mixers-taps",
+    "name": "Parallel Wall-Mount Basin Mixer, 165 mm Spout",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Single-lever wall-mount basin mixer trim from KOHLER Parallel with 165 mm spout reach. 8.3 l/min aerated flow; requires K-28028T valve.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-parallel-wall-mount-basin-mixer-165-mm-spout-23485t-b4.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Parallel"
+      },
+      {
+        "label": "Size",
+        "value": "H 136 mm, W 194 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mount trim; requires K-28028T valve"
+      },
+      {
+        "label": "Flow rate",
+        "value": "8.3 l/min at 3.1 bar"
+      },
+      {
+        "label": "Spout reach",
+        "value": "165 mm"
+      },
+      {
+        "label": "Drain",
+        "value": "Metal pop-up, 32 mm tailpiece"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-23485T-B4-CP",
+    "source": "https://www.kohler.com.sg/productDetails/23485T-B4?skuid=23485T-B4-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/23485T-B4?skuid=23485T-B4-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-23485t-b4.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-avid-covered-toilet-paper-holder-24816t",
+    "sub": "bathroom-accessories",
+    "name": "Avid Covered Toilet Paper Holder",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Toilet paper holder from the KOHLER Avid collection with a sleek roll cover that controls release and keeps dust off. Installation hardware and template included.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-avid-covered-toilet-paper-holder-24816t.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Avid"
+      },
+      {
+        "label": "Size",
+        "value": "H 68 mm, W 143 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mount, hardware and template included"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-24816T-CP",
+    "source": "https://www.kohler.com.sg/productDetails/24816T?skuid=24816T-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/24816T?skuid=24816T-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-24816t.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-aleo-s-single-handle-wall-mount-basin-mixer-trim-25105t-b4",
+    "sub": "mixers-taps",
+    "name": "Aleo S Single-Handle Wall-Mount Basin Mixer Trim",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "One-handle wall-mount basin mixer trim from the KOHLER Aleo S range with 165 mm spout. Solid metal construction; requires valve 28028T-NA.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-aleo-s-single-handle-wall-mount-basin-mixer-trim-25105t-b4.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Aleo S"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mount trim; requires valve 28028T-NA"
+      },
+      {
+        "label": "Spout",
+        "value": "165 mm"
+      },
+      {
+        "label": "Construction",
+        "value": "Solid metal"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-25105T-B4-CP",
+    "source": "https://www.kohler.com.sg/productDetails/25105T-B4?skuid=25105T-B4-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/25105T-B4?skuid=25105T-B4-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-25105t-b4.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-stillness-762-mm-slide-bar-with-integrated-supply-2738t",
+    "sub": "showers",
+    "name": "Stillness 762 mm Slide Bar with Integrated Supply",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "762 mm shower slide bar from KOHLER Stillness with water supply plumbed through the bottom bracket. Adjustable handshower angle and mounting brackets.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-stillness-762-mm-slide-bar-with-integrated-supply-2738t.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Stillness"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mount"
+      },
+      {
+        "label": "Length",
+        "value": "762 mm"
+      },
+      {
+        "label": "Supply",
+        "value": "Integrated through bottom bracket"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-2738T-CP",
+    "source": "https://www.kohler.com.sg/productDetails/2738T?skuid=2738T-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/2738T?skuid=2738T-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-2738t.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-citrus-hand-shower-combo-with-slide-bar-27794t",
+    "sub": "showers",
+    "name": "Citrus Hand Shower Combo with Slide Bar",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Hand shower set from KOHLER Citrus with 110 mm five-pattern spray face, slide bar and hose. Integrated silicone spray face for easy cleaning.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-citrus-hand-shower-combo-with-slide-bar-27794t.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Citrus"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Spray face",
+        "value": "110 mm, silicone"
+      },
+      {
+        "label": "Sprays",
+        "value": "5"
+      },
+      {
+        "label": "Set",
+        "value": "Hand shower, slide bar and hose"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-27794T-CP",
+    "source": "https://www.kohler.com.sg/productDetails/27794T?skuid=27794T-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/27794T?skuid=27794T-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-27794t.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-atom-thermostatic-3-way-shower-column-eco-flow-32403t-7e2",
+    "sub": "showers",
+    "name": "Atom Thermostatic 3-Way Shower Column, Eco Flow",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Thermostatic three-way shower column from KOHLER Atom with 8\" Katalyst Air overhead shower and three spray patterns. Includes a bath filler / extra outlet; direct-connection eco-flow version.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-atom-thermostatic-3-way-shower-column-eco-flow-32403t-7e2.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Atom"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Connection",
+        "value": "Direct"
+      },
+      {
+        "label": "Control",
+        "value": "Thermostatic, 3-way"
+      },
+      {
+        "label": "Overhead",
+        "value": "8\" (203 mm) with Katalyst Air"
+      },
+      {
+        "label": "Sprays",
+        "value": "Katalyst Air, Komotion, Massage"
+      },
+      {
+        "label": "Extra",
+        "value": "Bath filler / extra outlet"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-32403T-7E2-CP",
+    "source": "https://www.kohler.com.sg/productDetails/32403T-7E2?skuid=32403T-7E2-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/32403T-7E2?skuid=32403T-7E2-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-32403t-7e2.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-atom-thermostatic-3-way-shower-column-32404t-7e2",
+    "sub": "showers",
+    "name": "Atom Thermostatic 3-Way Shower Column",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Thermostatic three-way shower column from KOHLER Atom with Katalyst Air overhead shower. Three spray patterns: Katalyst Air, Komotion and Massage.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-atom-thermostatic-3-way-shower-column-32404t-7e2.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Atom"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Connection",
+        "value": "Direct"
+      },
+      {
+        "label": "Control",
+        "value": "Thermostatic, 3-way"
+      },
+      {
+        "label": "Overhead",
+        "value": "Katalyst Air"
+      },
+      {
+        "label": "Sprays",
+        "value": "Katalyst Air, Komotion, Massage"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-32404T-7E2-CP",
+    "source": "https://www.kohler.com.sg/productDetails/32404T-7E2?skuid=32404T-7E2-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/32404T-7E2?skuid=32404T-7E2-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-32404t-7e2.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-hydro-tower-110-in-wall-tank-with-frame-32791r-pne",
+    "sub": "concealed-cisterns",
+    "name": "Hydro-Tower 110 In-Wall Tank with Frame",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Concealed in-wall cistern with steel frame and slim 80 mm insulated tank. Pneumatic dual flush (2.6 / 4.0 l) lets the faceplate sit up to 4 m away.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-hydro-tower-110-in-wall-tank-with-frame-32791r-pne.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Hydro-Tower 110"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual 2.6 / 4.0 l, pneumatic"
+      },
+      {
+        "label": "Frame",
+        "value": "Robust steel frame"
+      },
+      {
+        "label": "Tank",
+        "value": "80 mm slim, insulated"
+      },
+      {
+        "label": "Actuator distance",
+        "value": "Up to 4 m from tank"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-32791R-PNE-NA",
+    "source": "https://www.kohler.com.sg/productDetails/32791R-PNE?skuid=32791R-PNE-NA",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/32791R-PNE?skuid=32791R-PNE-NA"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-32791r-pne.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-hydro-tower-110-in-wall-tank-without-frame-32792r-pne",
+    "sub": "concealed-cisterns",
+    "name": "Hydro-Tower 110 In-Wall Tank without Frame",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Slim 80 mm insulated in-wall cistern without frame, for masonry installation. Pneumatic dual flush (2.6 / 4.0 l) with quiet filling.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-hydro-tower-110-in-wall-tank-without-frame-32792r-pne.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Hydro-Tower 110"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual 2.6 / 4.0 l, pneumatic"
+      },
+      {
+        "label": "Tank",
+        "value": "80 mm slim, insulated"
+      },
+      {
+        "label": "Actuator distance",
+        "value": "Up to 4 m from tank"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-32792R-PNE-NA",
+    "source": "https://www.kohler.com.sg/productDetails/32792R-PNE?skuid=32792R-PNE-NA",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/32792R-PNE?skuid=32792R-PNE-NA"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-32792r-pne.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-accliv-single-handle-shower-mixer-set-8-3-lpm-33077t-4",
+    "sub": "mixers-taps",
+    "name": "Accliv Single-Handle Shower Mixer Set, 8.3 lpm",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Exposed single-lever shower mixer from KOHLER Accliv with integrated 35 mm mixing valve. Supplied with Awaken three-spray hand shower, holder and 1524 mm hose.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-accliv-single-handle-shower-mixer-set-8-3-lpm-33077t-4.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Accliv"
+      },
+      {
+        "label": "Size",
+        "value": "H 97 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mount, G 1/2 inlet"
+      },
+      {
+        "label": "Valve",
+        "value": "Integrated 35 mm mixing valve"
+      },
+      {
+        "label": "Set",
+        "value": "Awaken multifunction handshower, holder, 1524 mm hose"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-33077T-4-CP",
+    "source": "https://www.kohler.com.sg/productDetails/33077T-4?skuid=33077T-4-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/33077T-4?skuid=33077T-4-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-33077t-4.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-reach-up-two-piece-elongated-toilet-dual-flush-35250r-sl2",
+    "sub": "wcs",
+    "name": "Reach Up Two-Piece Elongated Toilet, Dual Flush",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Two-piece toilet from KOHLER Reach Up with elongated bowl and skirted trapway for easy cleaning. Wash-down dual flush 2.6 / 4.0 l; slim Quiet-Close seat.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-reach-up-two-piece-elongated-toilet-dual-flush-35250r-sl2.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Reach Up"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Floor-mount, two-bolt"
+      },
+      {
+        "label": "Flush",
+        "value": "Wash-down, dual 2.6 / 4.0 l"
+      },
+      {
+        "label": "Seat",
+        "value": "Slim Quiet-Close seat"
+      },
+      {
+        "label": "Rim height",
+        "value": "395 mm"
+      },
+      {
+        "label": "Trapway",
+        "value": "57 mm fully glazed, skirted"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-35250R-SL2-0",
+    "source": "https://www.kohler.com.sg/productDetails/35250R-SL2?skuid=35250R-SL2-0",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/35250R-SL2?skuid=35250R-SL2-0"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-35250r-sl2.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-reach-up-elongated-toilet-bowl-skirted-35260r",
+    "sub": "wcs",
+    "name": "Reach Up Elongated Toilet Bowl, Skirted",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Elongated skirted toilet bowl from KOHLER Reach Up with wash-down flushing and 57 mm glazed trapway. Pairs with 21010R-NT1 tank and 28773K seat (sold separately).",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-reach-up-elongated-toilet-bowl-skirted-35260r.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Reach Up"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Floor-mount, two-bolt"
+      },
+      {
+        "label": "Flush",
+        "value": "Wash-down"
+      },
+      {
+        "label": "Rim height",
+        "value": "395 mm"
+      },
+      {
+        "label": "Trapway",
+        "value": "57 mm fully glazed, skirted"
+      },
+      {
+        "label": "Pairs with",
+        "value": "21010R-NT1 tank, 28773K seat"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-35260R-0",
+    "source": "https://www.kohler.com.sg/productDetails/35260R?skuid=35260R-0",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/35260R?skuid=35260R-0"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-35260r.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-fluence-thermostatic-bath-shower-column-36420t-9",
+    "sub": "showers",
+    "name": "Fluence Thermostatic Bath & Shower Column",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Three-way thermostatic bath and shower column from KOHLER Fluence with rainhead and three-function hand shower. Exposed valve is fully serviceable from the control panel.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-fluence-thermostatic-bath-shower-column-36420t-9.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Fluence"
+      },
+      {
+        "label": "Size",
+        "value": "H 1240 mm, W 323 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mount"
+      },
+      {
+        "label": "Control",
+        "value": "Exposed thermostatic, 3-way"
+      },
+      {
+        "label": "Set",
+        "value": "Rainhead, 3-function handshower, 1500 mm hose"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-36420T-9-CP",
+    "source": "https://www.kohler.com.sg/productDetails/36420T-9?skuid=36420T-9-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/36420T-9?skuid=36420T-9-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-36420t-9.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-july-24-towel-bar-45396t",
+    "sub": "bathroom-accessories",
+    "name": "July 24\" Towel Bar",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Single 24\" towel bar from the KOHLER July accessory range in polished chrome. Metal construction with no visible fixings.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-july-24-towel-bar-45396t.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "July"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished chrome"
+      },
+      {
+        "label": "Length",
+        "value": "24\" (610 mm)"
+      },
+      {
+        "label": "Construction",
+        "value": "Metal"
+      },
+      {
+        "label": "Fixings",
+        "value": "Concealed"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-45396T-CP",
+    "source": "https://www.kohler.com.sg/productDetails/45396T?skuid=45396T-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/45396T?skuid=45396T-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-45396t.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-july-24-double-towel-bar-45397t",
+    "sub": "bathroom-accessories",
+    "name": "July 24\" Double Towel Bar",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Double 24\" towel bar from the KOHLER July range in polished chrome. Metal construction with no visible fixings.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-july-24-double-towel-bar-45397t.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "July"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished chrome"
+      },
+      {
+        "label": "Length",
+        "value": "24\" (610 mm)"
+      },
+      {
+        "label": "Construction",
+        "value": "Metal"
+      },
+      {
+        "label": "Fixings",
+        "value": "Concealed"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-45397T-CP",
+    "source": "https://www.kohler.com.sg/productDetails/45397T?skuid=45397T-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/45397T?skuid=45397T-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-45397t.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-july-towel-holder-45401t",
+    "sub": "bathroom-accessories",
+    "name": "July Towel Holder",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Towel holder from the KOHLER July accessory range, designed to coordinate with KOHLER faucets and showers. Metal construction; installation hardware included.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-july-towel-holder-45401t.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "July"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Hardware included"
+      },
+      {
+        "label": "Construction",
+        "value": "Metal"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-45401T-CP",
+    "source": "https://www.kohler.com.sg/productDetails/45401T?skuid=45401T-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/45401T?skuid=45401T-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-45401t.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-july-toilet-tissue-holder-45402t",
+    "sub": "bathroom-accessories",
+    "name": "July Toilet Tissue Holder",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Toilet tissue holder from the KOHLER July range with smooth, simple lines. Polished chrome finish tested against acid salt spray for corrosion resistance.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-july-toilet-tissue-holder-45402t.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "July"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished chrome"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-45402T-CP",
+    "source": "https://www.kohler.com.sg/productDetails/45402T?skuid=45402T-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/45402T?skuid=45402T-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-45402t.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-awaken-multi-function-hand-shower-water-saving-72415t-e2",
+    "sub": "showers",
+    "name": "Awaken Multi-Function Hand Shower, Water-Saving",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Geometric 110 mm hand shower from KOHLER Awaken with three spray types. Water-saving version meeting LEED criteria.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-awaken-multi-function-hand-shower-water-saving-72415t-e2.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Awaken"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Spray face",
+        "value": "110 mm"
+      },
+      {
+        "label": "Sprays",
+        "value": "3"
+      },
+      {
+        "label": "Type",
+        "value": "Water-saving, LEED"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-72415T-E2-CP",
+    "source": "https://www.kohler.com.sg/productDetails/72415T-E2?skuid=72415T-E2-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/72415T-E2?skuid=72415T-E2-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-72415t-e2.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-rainjoy-60-cm-slide-bar-72740t",
+    "sub": "showers",
+    "name": "Rainjoy 60 cm Slide Bar",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "60 cm shower slide bar from KOHLER Rainjoy with height-adjustable bracket. Long-lasting polished chrome finish.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-rainjoy-60-cm-slide-bar-72740t.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Rainjoy"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished chrome"
+      },
+      {
+        "label": "Length",
+        "value": "60 cm"
+      },
+      {
+        "label": "Bracket",
+        "value": "Height-adjustable"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-72740T-CP",
+    "source": "https://www.kohler.com.sg/productDetails/72740T?skuid=72740T-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/72740T?skuid=72740T-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-72740t.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-contemporary-round-203-mm-rainhead-11-lpm-73038t-cl",
+    "sub": "showers",
+    "name": "Contemporary Round 203 mm Rainhead, 11 lpm",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Ultra-slim 203 mm round single-function rainhead in metal with Katalyst air-induction for bigger drops. 11 l/min flow.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-contemporary-round-203-mm-rainhead-11-lpm-73038t-cl.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Contemporary"
+      },
+      {
+        "label": "Size",
+        "value": "203 mm round"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Flow rate",
+        "value": "11 l/min"
+      },
+      {
+        "label": "Sprays",
+        "value": "1"
+      },
+      {
+        "label": "Technology",
+        "value": "Katalyst air-induction"
+      },
+      {
+        "label": "Construction",
+        "value": "Metal"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-73038T-CL-CP",
+    "source": "https://www.kohler.com.sg/productDetails/73038T-CL?skuid=73038T-CL-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/73038T-CL?skuid=73038T-CL-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-73038t-cl.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-contemporary-round-254-mm-rainhead-11-lpm-73039t-cl",
+    "sub": "showers",
+    "name": "Contemporary Round 254 mm Rainhead, 11 lpm",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Ultra-slim 254 mm round single-function rainhead in metal with Katalyst air-induction and silicone nozzles. G 1/2 connection; 11 l/min.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-contemporary-round-254-mm-rainhead-11-lpm-73039t-cl.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Contemporary"
+      },
+      {
+        "label": "Size",
+        "value": "254 mm round"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Flow rate",
+        "value": "11 l/min"
+      },
+      {
+        "label": "Connection",
+        "value": "G 1/2"
+      },
+      {
+        "label": "Sprays",
+        "value": "1"
+      },
+      {
+        "label": "Technology",
+        "value": "Katalyst air-induction"
+      },
+      {
+        "label": "Construction",
+        "value": "Metal"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-73039T-CL-CP",
+    "source": "https://www.kohler.com.sg/productDetails/73039T-CL?skuid=73039T-CL-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/73039T-CL?skuid=73039T-CL-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-73039t-cl.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-composed-wall-mount-basin-mixer-216-mm-spout-73067t-b4",
+    "sub": "mixers-taps",
+    "name": "Composed Wall-Mount Basin Mixer, 216 mm Spout",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Wall-mount basin mixer from the KOHLER Composed collection with 216 mm spout reach in brass. Laminar-flow adjustable aerator; click drain included.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-composed-wall-mount-basin-mixer-216-mm-spout-73067t-b4.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Composed"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Spout reach",
+        "value": "216 mm"
+      },
+      {
+        "label": "Aerator",
+        "value": "Directionally adjustable, laminar-flow"
+      },
+      {
+        "label": "Drain",
+        "value": "Click drain included"
+      },
+      {
+        "label": "Construction",
+        "value": "Brass"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-73067T-B4-CP",
+    "source": "https://www.kohler.com.sg/productDetails/73067T-B4?skuid=73067T-B4-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/73067T-B4?skuid=73067T-B4-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-73067t-b4.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "kohler-composed-single-handle-basin-mixer-side-lever-73167t-b4e2",
+    "sub": "mixers-taps",
+    "name": "Composed Single-Handle Basin Mixer, Side Lever",
+    "brand": "KOHLER",
+    "category": "Sanitary ware",
+    "use": "Side-lever basin mixer from the KOHLER Composed collection with ceramic disc valve. 7° adjustable easy-clean aerator; Eco Flow version.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kohler-composed-single-handle-basin-mixer-side-lever-73167t-b4e2.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Composed"
+      },
+      {
+        "label": "Finish",
+        "value": "Polished Chrome"
+      },
+      {
+        "label": "Handle",
+        "value": "Side lever"
+      },
+      {
+        "label": "Aerator",
+        "value": "7° adjustable easy-clean"
+      },
+      {
+        "label": "Valve",
+        "value": "KOHLER ceramic disc"
+      },
+      {
+        "label": "Flow",
+        "value": "Eco Flow"
+      }
+    ],
+    "photoNote": "Official KOHLER product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "K-73167T-B4E2-CP",
+    "source": "https://www.kohler.com.sg/productDetails/73167T-B4E2?skuid=73167T-B4E2-CP",
+    "_meta": {
+      "feed": "sanitary-kohler",
+      "brand_group": "sanitary",
+      "feed_brand": "KOHLER",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.kohler.com.sg/productDetails/73167T-B4E2?skuid=73167T-B4E2-CP"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kohler-73167t-b4e2.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-metro-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "Metro Basin Mixer",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Square-profile single lever basin mixer from the Milano Metro range. Offered in chrome and matt black to suit modern bathrooms.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-metro-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Metro"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100200715",
+    "variants": [
+      {
+        "model": "140100200715",
+        "note": "Chrome"
+      },
+      {
+        "model": "140100200716",
+        "note": "Matt Black"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/milano-metro-basin-mixer-2.webp"
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-metro-basin-mixer-chrome-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-metro-basin-mixer-chrome-made-in-china/",
+        "https://milanoitalysrl.com/product/milano-metro-basin-mixer-matt-black-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100200715.jpg",
+        "milano-140100200716.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-metro-art-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "Metro Art Basin Mixer (Tall)",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Tall single lever basin mixer from the Milano Metro range, sized for counter-top art basins. Available in chrome and matt black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-metro-art-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Metro"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted, for counter-top art basins"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100200717",
+    "variants": [
+      {
+        "model": "140100200717",
+        "note": "Chrome"
+      },
+      {
+        "model": "140100200718",
+        "note": "Matt Black"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/milano-metro-art-basin-mixer-2.webp"
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-metro-art-basin-mixer-chrome-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-metro-art-basin-mixer-chrome-made-in-china/",
+        "https://milanoitalysrl.com/product/milano-metro-art-basin-mixer-matt-black-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100200717.jpg",
+        "milano-140100200718.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-metro-wall-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "Metro Wall-Mounted Basin Mixer",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Wall-mounted basin mixer from the Milano Metro range with a flat rectangular spout. Available in chrome and matt black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-metro-wall-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Metro"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100200719",
+    "variants": [
+      {
+        "model": "140100200719",
+        "note": "Chrome"
+      },
+      {
+        "model": "140100200720",
+        "note": "Matt Black"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/milano-metro-wall-basin-mixer-2.webp"
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-metro-wall-mounted-basin-mixer-chrome-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-metro-wall-mounted-basin-mixer-chrome-made-in-china/",
+        "https://milanoitalysrl.com/product/milano-metro-wall-mounted-basin-mixer-matt-black-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100200719.jpg",
+        "milano-140100200720.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-metro-bath-mixer",
+    "sub": "mixers-taps",
+    "name": "Metro Bath Mixer",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Wall-mounted bath mixer from the Milano Metro range with square styling. Available in chrome and matt black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-metro-bath-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Metro"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100100850",
+    "variants": [
+      {
+        "model": "140100100850",
+        "note": "Chrome"
+      },
+      {
+        "model": "140100100851",
+        "note": "Matt Black"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/milano-metro-bath-mixer-2.webp"
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-metro-bath-mixer-chrome-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-metro-bath-mixer-chrome-made-in-china/",
+        "https://milanoitalysrl.com/product/milano-metro-bath-mixer-matt-black-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100100850.jpg",
+        "milano-140100100851.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-metro-sink-mixer",
+    "sub": "mixers-taps",
+    "name": "Metro Sink Mixer",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Single lever kitchen sink mixer from the Milano Metro range with a tall swivel spout. Chrome finish.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-metro-sink-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Metro"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100300463",
+    "variants": [
+      {
+        "model": "140100300463",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-metro-sink-mixer-chrome-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-metro-sink-mixer-chrome-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100300463.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-turbo-wall-shower-mixer",
+    "sub": "mixers-taps",
+    "name": "Turbo Wall-Mounted Shower Mixer",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Exposed wall-mounted single lever shower mixer from the Milano Turbo range. Available in chrome and matt black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-turbo-wall-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Turbo"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100100839",
+    "variants": [
+      {
+        "model": "140100100839",
+        "note": "Chrome"
+      },
+      {
+        "model": "140100100840",
+        "note": "Matt Black"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/milano-turbo-wall-shower-mixer-2.webp"
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-turbo-wall-mounted-shower-mixer-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-turbo-wall-mounted-shower-mixer-made-in-china/",
+        "https://milanoitalysrl.com/product/milano-turbo-wall-mounted-shower-mixer-matt-blk-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100100839.jpg",
+        "milano-140100100840.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-turbo-plus-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "Turbo Plus Basin Mixer",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Single lever basin mixer from the Milano Turbo Plus range in chrome. Suited to residential and commercial washrooms.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-turbo-plus-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Turbo Plus"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100200730",
+    "variants": [
+      {
+        "model": "140100200730",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-turbo-plus-basin-mixer-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-turbo-plus-basin-mixer-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100200730.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-turbo-plus-sink-mixer",
+    "sub": "mixers-taps",
+    "name": "Turbo Plus Sink Mixer",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Single lever kitchen sink mixer from the Milano Turbo Plus range with a high swivel spout. Chrome finish.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-turbo-plus-sink-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Turbo Plus"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100300466",
+    "variants": [
+      {
+        "model": "140100300466",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-turbo-plus-sink-mixer-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-turbo-plus-sink-mixer-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100300466.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-lemo-wall-shower-mixer",
+    "sub": "mixers-taps",
+    "name": "Lemo Wall-Mounted Shower Mixer",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Exposed wall-mounted single lever shower mixer from the Milano Lemo range. Available in chrome and matt black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-lemo-wall-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Lemo"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100100835",
+    "variants": [
+      {
+        "model": "140100100835",
+        "note": "Chrome"
+      },
+      {
+        "model": "140100100836",
+        "note": "Matt Black"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/milano-lemo-wall-shower-mixer-2.webp"
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-lemo-wall-mounted-shower-mixer-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-lemo-wall-mounted-shower-mixer-made-in-china/",
+        "https://milanoitalysrl.com/product/milano-lemo-wall-mounted-shower-mixer-matt-blk-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100100835.jpg",
+        "milano-140100100836.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-pia-sensor-mixer",
+    "sub": "mixers-taps",
+    "name": "Pia Sensor Mixer (Hot & Cold)",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Touch-free sensor basin mixer from the Milano Pia range for hot and cold water. Chrome finish, suited to public and commercial washrooms.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-pia-sensor-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Pia"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Operation",
+        "value": "Sensor (touch-free)"
+      },
+      {
+        "label": "Supply",
+        "value": "Hot and cold"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100200724",
+    "variants": [
+      {
+        "model": "140100200724",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-pia-sensor-mixer-hot-and-cold-water-chrome-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-pia-sensor-mixer-hot-and-cold-water-chrome-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100200724.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-tina-rain-shower-set",
+    "sub": "showers",
+    "name": "Tina Square Rain Shower Complete Set",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Complete rain shower set from the Milano Tina range with a square overhead shower and hand shower. Available in chrome and matt black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-tina-rain-shower-set.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Tina"
+      },
+      {
+        "label": "Head shape",
+        "value": "Square"
+      },
+      {
+        "label": "Type",
+        "value": "Rain shower column, complete set"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100100745",
+    "variants": [
+      {
+        "model": "140100100745",
+        "note": "Chrome"
+      },
+      {
+        "model": "140100100748",
+        "note": "Matt Black"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/milano-tina-rain-shower-set-2.webp"
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-tina-rain-shower-complete-set-sq-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-tina-rain-shower-complete-set-sq-made-in-china/",
+        "https://milanoitalysrl.com/product/milano-tina-rain-shower-complete-set-sq-mblk-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100100745.jpg",
+        "milano-140100100748.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-sam-rain-shower-set",
+    "sub": "showers",
+    "name": "Sam Round Rain Shower Complete Set",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Complete rain shower set from the Milano Sam range with a round overhead shower and hand shower. Available in chrome and matt black.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-sam-rain-shower-set.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Sam"
+      },
+      {
+        "label": "Head shape",
+        "value": "Round"
+      },
+      {
+        "label": "Type",
+        "value": "Rain shower column, complete set"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100100744",
+    "variants": [
+      {
+        "model": "140100100744",
+        "note": "Chrome"
+      },
+      {
+        "model": "140100100747",
+        "note": "Matt Black"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/milano-sam-rain-shower-set-2.webp"
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-sam-rain-shower-complete-set-rnd-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-sam-rain-shower-complete-set-rnd-made-in-china/",
+        "https://milanoitalysrl.com/product/milano-sam-rain-shower-complete-set-rnd-mblk-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100100744.jpg",
+        "milano-140100100747.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-charming-3-function-shower-column",
+    "sub": "showers",
+    "name": "Charming 3-Function Square Shower Column",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Three-function square rain shower column from the Milano Charming range, supplied as a complete set. Combines overhead and hand shower in one unit.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-charming-3-function-shower-column.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Charming"
+      },
+      {
+        "label": "Head shape",
+        "value": "Square"
+      },
+      {
+        "label": "Functions",
+        "value": "3"
+      },
+      {
+        "label": "Type",
+        "value": "Rain shower column, complete set"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140100100616",
+    "variants": [
+      {
+        "model": "140100100616",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-charming-rain-shower-3-function-sq-column-complete-set-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-charming-rain-shower-3-function-sq-column-complete-set-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140100100616.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-perri-hand-shower",
+    "sub": "showers",
+    "name": "Perri Hand Shower 13075",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Hand shower from Milano, model 13075. Chrome finish for replacement or new shower installations.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-perri-hand-shower.webp",
+    "specRows": [
+      {
+        "label": "Model no",
+        "value": "13075"
+      },
+      {
+        "label": "Type",
+        "value": "Hand shower"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140300100107",
+    "variants": [
+      {
+        "model": "140300100107",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-perri-hand-shower-13075-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-perri-hand-shower-13075-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140300100107.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-beryl-hand-shower",
+    "sub": "showers",
+    "name": "Beryl Hand Shower 21017",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Hand shower from Milano, model Beryl 21017. Chrome finish for replacement or new shower installations.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-beryl-hand-shower.webp",
+    "specRows": [
+      {
+        "label": "Model no",
+        "value": "21017"
+      },
+      {
+        "label": "Type",
+        "value": "Hand shower"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140300100106",
+    "variants": [
+      {
+        "model": "140300100106",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-beryl-hand-shower-21017-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-beryl-hand-shower-21017-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140300100106.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-amber-hand-shower",
+    "sub": "showers",
+    "name": "Amber Hand Shower 21027",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Hand shower from Milano, model Amber 21027. Chrome finish for replacement or new shower installations.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-amber-hand-shower.webp",
+    "specRows": [
+      {
+        "label": "Model no",
+        "value": "21027"
+      },
+      {
+        "label": "Type",
+        "value": "Hand shower"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140300100105",
+    "variants": [
+      {
+        "model": "140300100105",
+        "note": "Chrome"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-amber-hand-shower-21027-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-amber-hand-shower-21027-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140300100105.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-rimless-wc-264a",
+    "sub": "wcs",
+    "name": "Rimless WC 264-A",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Rimless WC from Milano, model 264-A, in white ceramic. S-trap outlet with 250 mm rough-in.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-rimless-wc-264a.webp",
+    "specRows": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Flush",
+        "value": "Rimless"
+      },
+      {
+        "label": "Rough-in",
+        "value": "250 mm"
+      },
+      {
+        "label": "Model no",
+        "value": "264-A"
+      },
+      {
+        "label": "Trap",
+        "value": "S-trap"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500100662",
+    "variants": [
+      {
+        "model": "140500100662",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-wc-model-rimless-264-a-s-trap-white-250mm-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-wc-model-rimless-264-a-s-trap-white-250mm-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500100662.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:55+04:00"
+    }
+  },
+  {
+    "id": "milano-wall-hung-wc-2057",
+    "sub": "wcs",
+    "name": "Wall-Hung WC 2057",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Wall-hung ceramic WC from Milano, model 2057, in white. For use with a concealed cistern frame.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-wall-hung-wc-2057.webp",
+    "specRows": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-hung"
+      },
+      {
+        "label": "Model no",
+        "value": "2057"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500100374",
+    "variants": [
+      {
+        "model": "140500100374",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/wall-hung-wc-model-2057-white-1pcs-set-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/wall-hung-wc-model-2057-white-1pcs-set-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500100374.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-wall-hung-wc-2051",
+    "sub": "wcs",
+    "name": "Wall-Hung WC 2051",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Square-profile wall-hung ceramic WC from Milano, model 2051, in white. For use with a concealed cistern frame.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-wall-hung-wc-2051.webp",
+    "specRows": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-hung"
+      },
+      {
+        "label": "Model no",
+        "value": "2051"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500100373",
+    "variants": [
+      {
+        "model": "140500100373",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-wall-hung-wc-model-2051-white-1pcs-set-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-wall-hung-wc-model-2051-white-1pcs-set-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500100373.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-chris-wc-1058",
+    "sub": "wcs",
+    "name": "Chris WC 1058",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "WC from the Milano Chris range, model 1058, in white ceramic. S-trap outlet; made in India.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-chris-wc-1058.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Chris"
+      },
+      {
+        "label": "Model no",
+        "value": "1058"
+      },
+      {
+        "label": "Trap",
+        "value": "S-trap"
+      },
+      {
+        "label": "Origin",
+        "value": "India"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500100650",
+    "variants": [
+      {
+        "model": "140500100650",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-chris-wc-s-trap-1058-made-in-india/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-chris-wc-s-trap-1058-made-in-india/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500100650.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-verdi-wc",
+    "sub": "wcs",
+    "name": "Verdi WC",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "WC from the Milano Verdi range in white ceramic with square styling. S-trap outlet.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-verdi-wc.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Verdi"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Trap",
+        "value": "S-trap"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500100458",
+    "variants": [
+      {
+        "model": "140500100458",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-verdi-wc-white-s-trap-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-verdi-wc-white-s-trap-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500100458.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-square-under-counter-basin-2101",
+    "sub": "basins",
+    "name": "Square Under-Counter Basin 2101",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Square under-counter ceramic basin from Milano, model 2101, measuring 51 x 38 x 19 cm. Designed for vanity-top installation.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-square-under-counter-basin-2101.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "51 x 38 x 19 cm"
+      },
+      {
+        "label": "Installation",
+        "value": "Under-counter"
+      },
+      {
+        "label": "Model no",
+        "value": "2101"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500201202",
+    "variants": [
+      {
+        "model": "140500201202",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-squre-under-counter-basin-513819cm-2101-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-squre-under-counter-basin-513819cm-2101-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500201202.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-delta-basin-full-pedestal",
+    "sub": "basins",
+    "name": "Delta Wash Basin with Full Pedestal",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Wash basin with full pedestal from the Milano Delta range, model 207. Overall size 500 x 415 x 825 mm.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-delta-basin-full-pedestal.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Delta"
+      },
+      {
+        "label": "Size",
+        "value": "500 x 415 x 825 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "Full pedestal"
+      },
+      {
+        "label": "Model no",
+        "value": "207"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500201310",
+    "variants": [
+      {
+        "model": "140500201310",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-delta-wash-basin-with-full-pedestal-size-500x415x825mm-207-made-in-india/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-delta-wash-basin-with-full-pedestal-size-500x415x825mm-207-made-in-india/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500201310.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-wall-hung-basin-8522",
+    "sub": "basins",
+    "name": "Wall-Hung Basin 8522 (Square)",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Single-mould square wall-hung basin from Milano, model 8522. Measures 505 x 465 x 390 mm in white ceramic.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-wall-hung-basin-8522.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "505 x 465 x 390 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-hung"
+      },
+      {
+        "label": "Model no",
+        "value": "8522"
+      },
+      {
+        "label": "Shape",
+        "value": "Square"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500200811",
+    "variants": [
+      {
+        "model": "140500200811",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-wall-hung-wash-basin-single-mould-8522-505x465x390mm-wht-square-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-wall-hung-wash-basin-single-mould-8522-505x465x390mm-wht-square-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500200811.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-wall-hung-basin-8511",
+    "sub": "basins",
+    "name": "Wall-Hung Basin 8511 (Round)",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Single-mould round wall-hung basin from Milano, model 8511. Measures 565 x 470 x 380 mm in white ceramic.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-wall-hung-basin-8511.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "565 x 470 x 380 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-hung"
+      },
+      {
+        "label": "Model no",
+        "value": "8511"
+      },
+      {
+        "label": "Shape",
+        "value": "Round"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500200812",
+    "variants": [
+      {
+        "model": "140500200812",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-wall-hung-wash-basin-single-mould-8511-565x470x380mm-wht-round-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-wall-hung-wash-basin-single-mould-8511-565x470x380mm-wht-round-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500200812.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-art-basin-418",
+    "sub": "basins",
+    "name": "Ceramic Art Basin 418",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Square counter-top ceramic art basin from Milano, model 418. Measures 400 x 400 x 140 mm.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-art-basin-418.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "400 x 400 x 140 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "Counter-top"
+      },
+      {
+        "label": "Model no",
+        "value": "418"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500200957",
+    "variants": [
+      {
+        "model": "140500200957",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-ceramic-art-basin-418-size-400x400x140mm-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-ceramic-art-basin-418-size-400x400x140mm-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500200957.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-art-basin-8169",
+    "sub": "basins",
+    "name": "Ceramic Art Basin 8169",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Rectangular ceramic art basin from Milano, model 8169. Measures 555 x 410 x 150 mm.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-art-basin-8169.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "555 x 410 x 150 mm"
+      },
+      {
+        "label": "Installation",
+        "value": "Counter-top"
+      },
+      {
+        "label": "Model no",
+        "value": "8169"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500200925",
+    "variants": [
+      {
+        "model": "140500200925",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-ceramic-art-basin-8169-size-555x410x150mm-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-ceramic-art-basin-8169-size-555x410x150mm-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500200925.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-freestanding-basin-302",
+    "sub": "basins",
+    "name": "Free-Standing Wash Basin 302",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Cylindrical free-standing ceramic wash basin from Milano, model 302, in white. A one-piece floor-standing statement basin.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-freestanding-basin-302.webp",
+    "specRows": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Free-standing"
+      },
+      {
+        "label": "Model no",
+        "value": "302"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140500201251",
+    "variants": [
+      {
+        "model": "140500201251",
+        "note": "White"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-ceramic-free-standing-wash-basin-302-white-400x400x850cm-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-ceramic-free-standing-wash-basin-302-white-400x400x850cm-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140500201251.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-concealed-floor-drain-msd-10nc",
+    "sub": "bathroom-accessories",
+    "name": "Concealed Floor Drain MSD-10NC",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Concealed 10 x 10 cm floor drain from Milano in SS304 stainless steel, model MSD-10NC. For showers and wet areas.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-concealed-floor-drain-msd-10nc.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "10 x 10 cm"
+      },
+      {
+        "label": "Material",
+        "value": "SS304"
+      },
+      {
+        "label": "Model no",
+        "value": "MSD-10NC"
+      },
+      {
+        "label": "Type",
+        "value": "Concealed floor drain"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "141400200533",
+    "variants": [
+      {
+        "model": "141400200533",
+        "note": "Stainless steel"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-concealed-floor-drain-msd-10nc-10x10-ss304-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-concealed-floor-drain-msd-10nc-10x10-ss304-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-141400200533.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-shower-long-drain-msd-nc",
+    "sub": "bathroom-accessories",
+    "name": "Shower Long Drain MSD-60NC",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Linear shower drain from Milano, model MSD-60NC, 600 x 70 x 50 mm. Slotted grate for walk-in showers.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-shower-long-drain-msd-nc.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "600 x 70 x 50 mm"
+      },
+      {
+        "label": "Model no",
+        "value": "MSD-60NC"
+      },
+      {
+        "label": "Type",
+        "value": "Linear shower drain"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140400501034",
+    "variants": [
+      {
+        "model": "140400501034",
+        "note": "Stainless steel"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-shower-long-drain-msd-60nc-600x70x50-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-shower-long-drain-msd-60nc-600x70x50-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140400501034.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
+  },
+  {
+    "id": "milano-shower-long-drain-msd-30tc",
+    "sub": "bathroom-accessories",
+    "name": "Shower Long Drain MSD-30TC",
+    "brand": "Milano",
+    "category": "Sanitary ware",
+    "use": "Linear shower drain from Milano, model MSD-30TC, 300 x 70 x 50 mm. Compact length for small shower areas.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/milano-shower-long-drain-msd-30tc.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "300 x 70 x 50 mm"
+      },
+      {
+        "label": "Model no",
+        "value": "MSD-30TC"
+      },
+      {
+        "label": "Type",
+        "value": "Linear shower drain"
+      }
+    ],
+    "photoNote": "Official Milano product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "140400501036",
+    "variants": [
+      {
+        "model": "140400501036",
+        "note": "Stainless steel"
+      }
+    ],
+    "source": "https://milanoitalysrl.com/product/milano-shower-long-drain-msd-30tc-300x70x50-made-in-china/",
+    "_meta": {
+      "feed": "sanitary-milano",
+      "brand_group": "sanitary",
+      "feed_brand": "Milano",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://milanoitalysrl.com/product/milano-shower-long-drain-msd-30tc-300x70x50-made-in-china/"
+      ],
+      "source_note": null,
+      "original_images": [
+        "milano-140400501036.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:48:56+04:00"
+    }
   }
 ]
