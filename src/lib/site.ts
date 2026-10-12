@@ -132,10 +132,46 @@ export const selectedClients = [
 ] as const;
 
 /** Official client logos (see public/images/clients/SOURCES.md). Clients without a logo render as text. */
-export const clientLogos: Partial<Record<(typeof selectedClients)[number], { src: string; width: number; height: number }>> = {
+export const clientLogos: Partial<Record<(typeof selectedClients)[number], { src: string; width: number; height: number; white?: boolean }>> = {
   "Ayat Group": { src: "/images/clients/ayat-group.png", width: 448, height: 120 },
   "HSH Real Estate": { src: "/images/clients/hsh-real-estate.png", width: 252, height: 120 },
+  "Dubai Police": { src: "/images/clients/dubai-police-white.svg", width: 816, height: 282, white: true },
+  "University of Sharjah": { src: "/images/clients/university-of-sharjah-white.svg", width: 140, height: 100, white: true },
+  "Al Teneiji Real Estate": { src: "/images/clients/al-teneiji-real-estate.png", width: 936, height: 215 },
+  "Khansaheb Industries": { src: "/images/clients/khansaheb-industries.svg", width: 212, height: 76 },
+  "Grankraft Industries": { src: "/images/clients/grankraft-industries.png", width: 500, height: 79 },
 };
+
+export type Logo = { src: string; width: number; height: number; white?: boolean };
+
+/** Brand logos (official files, see public/images/SOURCES.md). `white` = white variant shown straight on dark.
+ *  Not used yet: NEXON (identity unconfirmed), Philips & Eaton (permission needed). ESENCO / MOGEN have no official logo. */
+const B = "/images/brands";
+export const brandLogos: Record<string, Logo> = {
+  OSRAM: { src: `${B}/osram-white.png`, width: 976, height: 216, white: true },
+  FSL: { src: `${B}/fsl.png`, width: 1596, height: 700 },
+  Enlight: { src: `${B}/enlight-white.png`, width: 569, height: 162, white: true },
+  Opple: { src: `${B}/opple.png`, width: 194, height: 31 },
+  LumiLife: { src: `${B}/lumilife.png`, width: 1664, height: 1137, white: true },
+  MK: { src: `${B}/mk.png`, width: 2344, height: 609 },
+  Schneider: { src: `${B}/schneider-electric-white.svg`, width: 218, height: 64, white: true },
+  ABB: { src: `${B}/abb.svg`, width: 64, height: 24 },
+  LEDVANCE: { src: `${B}/ledvance.svg`, width: 120, height: 120 },
+  Legrand: { src: `${B}/legrand-white.svg`, width: 104, height: 26, white: true },
+  Panasonic: { src: `${B}/panasonic.svg`, width: 105, height: 46 },
+  HAVELLS: { src: `${B}/havells.svg`, width: 117, height: 20 },
+  KLUDI: { src: `${B}/kludi-white.svg`, width: 124, height: 35, white: true },
+  "RAK Ceramics": { src: `${B}/rak-ceramics.svg`, width: 339, height: 195 },
+  Jaquar: { src: `${B}/jaquar.svg`, width: 160, height: 50 },
+  Milano: { src: `${B}/milano.png`, width: 2398, height: 730 },
+  KOHLER: { src: `${B}/kohler.svg`, width: 115, height: 35 },
+  GROHE: { src: `${B}/grohe.svg`, width: 138, height: 106 },
+};
+
+/** Brand strip order: site lists + FSL/Enlight, with "RAK" merged into "RAK Ceramics". */
+export const stripBrands: string[] = Array.from(
+  new Set(["FSL", "Enlight", ...lightingBrands, ...sanitaryBrands].filter((b) => b !== "RAK"))
+);
 
 export const services = [
   {

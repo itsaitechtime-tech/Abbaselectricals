@@ -3,7 +3,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { WhatsAppIcon } from "@/components/Icons";
 import { Container, PageBanner, SectionTitle } from "@/components/Section";
-import { clientLogos, lightingBrands, qualityAssurance, sanitaryBrands, selectedClients, site, whoWeAre } from "@/lib/site";
+import { qualityAssurance, site, whoWeAre } from "@/lib/site";
+import LogoStrips from "@/components/LogoStrips";
 
 export const metadata: Metadata = {
   title: "About",
@@ -97,42 +98,7 @@ export default function AboutPage() {
         </Container>
       </section>
 
-      <section className="bg-zinc-50 py-16 md:py-24">
-        <Container>
-          <div className="grid gap-12 lg:grid-cols-2">
-            <div>
-              <p className="eyebrow mb-4">Brands We Supply</p>
-              <p className="mb-6 text-sm text-zinc-500">
-                Product lines we specify, supply and install — not claimed partnerships or dealerships.
-              </p>
-              <ul className="flex flex-wrap gap-2">
-                {[...lightingBrands, ...sanitaryBrands].map((b) => (
-                  <li key={b} className="rounded-md border border-zinc-200 bg-white px-3 py-1.5 text-xs font-medium text-zinc-600">
-                    {b}
-                  </li>
-                ))}
-              </ul>
-            </div>
-            <div>
-              <p className="eyebrow mb-4">Organisations We Have Supplied</p>
-              <p className="mb-6 text-sm text-zinc-500">From the company profile — listed for reference, not endorsements.</p>
-              <ul className="grid gap-2 sm:grid-cols-2">
-                {selectedClients.map((c) => {
-                  const logo = clientLogos[c];
-                  return (
-                    <li key={c} className="flex min-h-[3.25rem] items-center gap-3 rounded-md border border-zinc-200 bg-white px-4 py-3 text-sm text-ink">
-                      {logo && (
-                        <Image src={logo.src} alt={`${c} logo`} width={logo.width} height={logo.height} className="h-6 w-auto shrink-0" />
-                      )}
-                      <span>{c}</span>
-                    </li>
-                  );
-                })}
-              </ul>
-            </div>
-          </div>
-        </Container>
-      </section>
+      <LogoStrips />
 
       <section className="bg-white py-16 md:py-20">
         <Container>

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowIcon, WhatsAppIcon } from "@/components/Icons";
+import LogoStrips from "@/components/LogoStrips";
 import { ProductCard } from "@/components/ProductCard";
 import { Container, SectionTitle } from "@/components/Section";
 import { catalog, groupBanner, groupCount, groups, lightingGroups, otherGroups, spaces, subCount, totalProducts } from "@/lib/catalog";
@@ -434,6 +435,8 @@ export default function HomePage() {
       </section>
 
       {/* CTA */}
+      <LogoStrips />
+
       <section className="bg-white py-16 md:py-20">
         <Container>
           <div className="flex flex-col items-start gap-6 border-y border-zinc-200 py-10 md:flex-row md:items-center md:justify-between">
