@@ -469,8 +469,16 @@ const extraImages: Record<string, string[]> = {
  * automatically, and lighting groups come first.
  */
 const ORDER: BrandGroup[] = ["lighting", "electrical", "sanitary"];
+/** Products kept in the data but hidden from the site (no real photo yet). Remove an id to show it again. */
+export const HIDDEN_PRODUCTS = new Set(["ww-fountain-ip68", "led-cob-ip68", "drv-dmx-decoder"]);
+
 export const groups: Group[] = allGroups
-  .map((g) => ({ ...g, subs: g.subs.filter((s) => s.productIds.length > 0) }))
+  .map((g) => ({
+    ...g,
+    subs: g.subs
+      .map((s) => ({ ...s, productIds: s.productIds.filter((id) => !HIDDEN_PRODUCTS.has(id)) }))
+      .filter((s) => s.productIds.length > 0),
+  }))
   .filter((g) => g.subs.length > 0)
   .sort((a, b) => ORDER.indexOf(a.brandGroup) - ORDER.indexOf(b.brandGroup));
 export const lightingGroups = groups.filter((g) => g.brandGroup === "lighting");
@@ -504,9 +512,9 @@ export const catalog: CatalogItem[] = groups.flatMap((group) =>
 );
 
 // Guard: every product must be mapped exactly once.
-if (catalog.length !== products.length) {
+if (catalog.length !== products.filter((p) => !HIDDEN_PRODUCTS.has(p.id)).length) {
   const mapped = new Set(catalog.map((c) => c.id));
-  const missing = products.filter((p) => !mapped.has(p.id)).map((p) => p.id);
+  const missing = products.filter((p) => !mapped.has(p.id) && !HIDDEN_PRODUCTS.has(p.id)).map((p) => p.id);
   throw new Error(`catalog: unmapped products ${missing.join(", ")}`);
 }
 
