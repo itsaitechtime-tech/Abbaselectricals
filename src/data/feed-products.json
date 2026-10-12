@@ -6178,5 +6178,4913 @@
       ],
       "ingested_at": "2026-10-12T21:16:11+04:00"
     }
+  },
+  {
+    "id": "fsl-fscl42-round-led-ceiling-module",
+    "sub": "panels-ceiling",
+    "name": "FSCL42 18W Round LED Ceiling Module",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Round 186 mm LED replacement module for upgrading existing ceiling and decorative fittings to LED. Rated life 25,000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-fscl42-round-led-ceiling-module.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "18W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC180-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1500/1600/1700 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Ø186 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSCL42",
+    "source": "https://www.chinafsl.com/en/product_details/631.html",
+    "_meta": {
+      "feed": "ceiling-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/631.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fscl42-round-led-ceiling-module-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-fscl133a1-led-ceiling-module",
+    "sub": "panels-ceiling",
+    "name": "FSCL133A1 25W LED Ceiling Module",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "25 W LED retrofit module (186 mm) for converting ceiling fittings to LED, available in warm, neutral and cool white. Rated life 25,000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-fscl133a1-led-ceiling-module.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "25W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC220-240V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2200 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Ø186 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSCL133A1",
+    "source": "https://www.chinafsl.com/en/product_details/632.html",
+    "_meta": {
+      "feed": "ceiling-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/632.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fscl133a1-led-ceiling-module-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-fslc172-round-led-ceiling-light",
+    "sub": "panels-ceiling",
+    "name": "FSLC172 13W Round LED Ceiling Light",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Slim 260 mm round LED ceiling light for corridors, bedrooms, stairwells and service areas. Rated life 25,000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-fslc172-round-led-ceiling-light.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "13W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC220-240V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "860/880/900 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Ø260*55 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSLC172 13W",
+    "source": "https://www.chinafsl.com/en/product_details/633.html",
+    "_meta": {
+      "feed": "ceiling-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/633.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fslc172-round-led-ceiling-light-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-fsc150-led-ceiling-light",
+    "sub": "panels-ceiling",
+    "name": "FSC150 14W LED Ceiling Light",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "230 mm LED ceiling light with a 120° beam for corridors, utility rooms, bathrooms and apartment common areas. Rated life 25,000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-fsc150-led-ceiling-light.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "14W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC180-265V / AC90-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "900/920/950 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra ≥80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "120°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Φ230*100 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSC150 14W",
+    "source": "https://www.chinafsl.com/en/product_details/635.html",
+    "_meta": {
+      "feed": "ceiling-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/635.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fsc150-led-ceiling-light-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-xifan-ii-triple-proof-ceiling-light",
+    "sub": "panels-ceiling",
+    "name": "Xifan II Triple-Proof Ceiling Light",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Moisture, dust and insect-resistant LED ceiling light in white PP for bathrooms, kitchens, balconies and hotel back-of-house areas. Five sizes from 12 W to 48 W.",
+    "specs": [
+      "Triple-proof",
+      "Wet areas"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-xifan-ii-triple-proof-ceiling-light.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xifan II"
+      },
+      {
+        "label": "Power",
+        "value": "12W / 18W / 24W / 36W / 48W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "4000K / 5700K (48W: 3000K + 5700K)"
+      },
+      {
+        "label": "Material",
+        "value": "PP + PP"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Ceiling-mounted"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "variants": [
+      {
+        "model": "Xifan II 12W",
+        "power": "12W",
+        "size": "235x54 mm"
+      },
+      {
+        "model": "Xifan II 18W",
+        "power": "18W",
+        "size": "300x58 mm"
+      },
+      {
+        "model": "Xifan II 24W",
+        "power": "24W",
+        "size": "375x63 mm"
+      },
+      {
+        "model": "Xifan II 36W",
+        "power": "36W",
+        "size": "Ø480x60 mm"
+      },
+      {
+        "model": "Xifan II 48W",
+        "power": "48W",
+        "size": "Ø480x60 mm",
+        "note": "Colour temperature: 5700K + 3000K"
+      }
+    ],
+    "applications": [
+      "Balconies",
+      "Bathrooms",
+      "Kitchens",
+      "Hotels"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/323.html",
+    "_meta": {
+      "feed": "ceiling-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/323.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "xifan-ii-triple-proof-ceiling-light-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-xifan-v-600x600-led-panel",
+    "sub": "panels-ceiling",
+    "name": "Xifan V 600×600 LED Panel",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "600 x 600 recessed LED panel with a cold-rolled steel chassis and PS diffuser, rated above 90 lm/W. 42 W and 60 W versions for grid ceilings in offices, malls, warehouses and factories.",
+    "specs": [
+      "600x600",
+      "Grid ceiling",
+      "Recessed"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-xifan-v-600x600-led-panel.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xifan V"
+      },
+      {
+        "label": "Power",
+        "value": "42W / 60W"
+      },
+      {
+        "label": "Efficacy",
+        "value": ">90lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80Ra"
+      },
+      {
+        "label": "Size",
+        "value": "600*600*38mm / 595*595*38mm"
+      },
+      {
+        "label": "Material",
+        "value": "Cold-rolled chassis + iron frame + PS diffuser panel"
+      },
+      {
+        "label": "Mounting",
+        "value": "Snap-in aluminum, recessed"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Warehouses",
+      "Factories",
+      "Offices",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/315.html",
+    "_meta": {
+      "feed": "ceiling-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/315.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "xifan-v-600x600-led-panel-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-beiyu-ii-led-panel-300",
+    "sub": "panels-ceiling",
+    "name": "BeiYu II LED Panel 300×300 / 300×600",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Compact LED panel for aluminium clip-in ceilings in kitchens and bathrooms, in 300 x 300 (16 W) and 300 x 600 (24 W) sizes.",
+    "specs": [
+      "Clip-in ceiling",
+      "300x300 / 300x600"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-beiyu-ii-led-panel-300.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "BeiYu II"
+      },
+      {
+        "label": "Power",
+        "value": "16W / 24W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "≥70lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80Ra"
+      },
+      {
+        "label": "Size",
+        "value": "300*300*37mm / 300*600*37mm"
+      },
+      {
+        "label": "Material",
+        "value": "Plastic Base + Plastic Frame + PS Diffuser Panel"
+      },
+      {
+        "label": "Mounting",
+        "value": "Aluminum Snap-in"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Bathrooms",
+      "Kitchens"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/316.html",
+    "_meta": {
+      "feed": "ceiling-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/316.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "beiyu-ii-led-panel-300-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-xifan-ii-round-recessed-downlight",
+    "sub": "downlights",
+    "name": "Xifan II Round Recessed Slim Downlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Ultra-slim round recessed LED downlight with a one-piece flame-retardant PP body and wide-angle lens. Four sizes from 2.5-3 to 5-6 inch cut-outs suit villas, apartments, offices and retail ceilings.",
+    "specs": [
+      "Round",
+      "Recessed",
+      "Ultra-slim body",
+      "Flicker-free",
+      "Flame-retardant PP"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-xifan-ii-round-recessed-downlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xifan II"
+      },
+      {
+        "label": "Power",
+        "value": "4W / 6W / 9W / 10W / 12W / 18W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "≥75lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80Ra"
+      },
+      {
+        "label": "Size",
+        "value": "Φ100*H29mm / Φ120*H30mm / Φ146*H35mm / Φ189*H37mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "Φ75-85mm / Φ95-105mm / Φ110-135mm / Φ145-165mm"
+      },
+      {
+        "label": "Material",
+        "value": "PP"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      },
+      {
+        "label": "Nominal size",
+        "value": "2.5-3 inches, 3.5-4 inches, 4-5 inches, 5-6 inches"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Offices",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/299.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/299.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "xifan-ii-round-recessed-downlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-crown-ii-round-recessed-downlight",
+    "sub": "downlights",
+    "name": "Crown II Round Recessed Deep Downlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Round recessed downlight with a die-cast aluminium body and high colour rendering (CRI 92 or above). Basic and premium versions in 2.5, 3.5 and 5 inch sizes for residential, office and retail ceilings.",
+    "specs": [
+      "Round",
+      "Recessed",
+      "Die-cast aluminium",
+      "CRI ≥92"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-crown-ii-round-recessed-downlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Crown II"
+      },
+      {
+        "label": "Power",
+        "value": "Basic models: 6W, 10W; Premium models: 9W, 12W, 15W, 24W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "≥75lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥92Ra"
+      },
+      {
+        "label": "Size",
+        "value": "Φ86.5*H52mm / Φ105*H60mm / Φ135*H74mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "Φ75mm / Φ95mm / Φ125mm"
+      },
+      {
+        "label": "Material",
+        "value": "Die-cast Aluminum"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      },
+      {
+        "label": "Versions",
+        "value": "Basic Model: 2.5-inch; Premium Model: 2.5-inch, 3.5-inch, 5-inch"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Offices",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/300.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/300.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "crown-ii-round-recessed-downlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-xifan-surface-mounted-round-downlight",
+    "sub": "downlights",
+    "name": "Xifan Surface-Mounted Round Downlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Surface-mounted cylinder downlight in aluminium for ceilings where recessing is not possible, such as exposed concrete or shallow voids. Five sizes from 3 to 8 inch, 9 W to 24 W, in warm, neutral and cool white.",
+    "specs": [
+      "Round",
+      "Surface-mounted",
+      "Cylinder",
+      "Aluminium body"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-xifan-surface-mounted-round-downlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xifan"
+      },
+      {
+        "label": "Power",
+        "value": "9W / 12W / 15W / 20W / 24W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "95lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "80Ra"
+      },
+      {
+        "label": "Size",
+        "value": "Φ99*95mm / Φ120*105mm / Φ150*125mm / Φ175*135mm / Φ200*145mm"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface-mounted"
+      },
+      {
+        "label": "Nominal size",
+        "value": "3-inch, 4-inch, 5-inch, 6-inch, 8-inch"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Offices",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/302.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/302.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "xifan-surface-mounted-round-downlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-yikang-eye-care-recessed-downlight",
+    "sub": "downlights",
+    "name": "Yikang Eye-Care Recessed Downlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "High colour rendering (Ra95) recessed downlight from the Yikang eye-care range, designed for bedrooms, living rooms, care homes and wellness centres. Available in 2.5 and 3.5 inch sizes at 6 W and 10 W.",
+    "specs": [
+      "Round",
+      "Recessed",
+      "Ra95"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-yikang-eye-care-recessed-downlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Yikang"
+      },
+      {
+        "label": "Power",
+        "value": "6W / 10W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220V"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra95"
+      },
+      {
+        "label": "Size",
+        "value": "2.5-inch, 3.5-inch"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Bedrooms",
+      "Living Rooms",
+      "Health and Wellness Centers",
+      "Nursing Homes"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/303.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/303.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "yikang-eye-care-recessed-downlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-lingfan-round-recessed-spotlight",
+    "sub": "downlights",
+    "name": "Lingfan Round Recessed Spotlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Compact round recessed LED spotlight with a white PP body for accent and general lighting. Cut-outs from 55 mm to 95 mm and 3 W to 9 W outputs suit residential, office, school and retail ceilings.",
+    "specs": [
+      "Round",
+      "Recessed",
+      "Spotlight"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-lingfan-round-recessed-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Lingfan"
+      },
+      {
+        "label": "Power",
+        "value": "3W / 4W / 6W / 9W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "75lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥80Ra"
+      },
+      {
+        "label": "Size",
+        "value": "68*37mm / 86*45mm / Φ105*H58mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "Φ55mm / Φ75mm / Φ95mm"
+      },
+      {
+        "label": "Material",
+        "value": "PP"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Convention centers",
+      "Schools",
+      "Museums",
+      "Offices",
+      "Commercial Supermarkets",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/194.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/194.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "lingfan-round-recessed-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-xifan-ii-hotel-recessed-spotlight",
+    "sub": "downlights",
+    "name": "Xifan II Hotel Recessed Spotlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Die-cast aluminium recessed spotlight with CRI 90 or above, aimed at hotels, museums, offices and malls. Six wattages from 5 W to 20 W in 3000 K or 4000 K, with 55, 75 and 95 mm cut-outs.",
+    "specs": [
+      "Round",
+      "Recessed",
+      "Die-cast aluminium",
+      "CRI ≥90"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-xifan-ii-hotel-recessed-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xifan II"
+      },
+      {
+        "label": "Power",
+        "value": "5W / 7W / 9W / 12W / 15W / 20W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "75lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥90Ra"
+      },
+      {
+        "label": "Size",
+        "value": "Φ65x67mm / Φ85*87mm / Φ110*110mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "Φ55mm / Φ75mm / Φ95mm"
+      },
+      {
+        "label": "Material",
+        "value": "Die-cast aluminum"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Convention centers",
+      "Schools",
+      "Museums",
+      "Offices",
+      "Commercial Supermarkets",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/196.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/196.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "xifan-ii-hotel-recessed-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-lingrou-ii-round-recessed-spotlight",
+    "sub": "downlights",
+    "name": "Lingrou II Round Recessed Spotlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Round recessed spotlight with a die-cast aluminium body, CRI 90 or above and efficacy of 90 lm/W or more. Five wattages from 4 W to 20 W and three cut-outs cover homes, offices, schools, museums and retail.",
+    "specs": [
+      "Round",
+      "Recessed",
+      "Die-cast aluminium",
+      "CRI ≥90"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-lingrou-ii-round-recessed-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Lingrou II"
+      },
+      {
+        "label": "Power",
+        "value": "4W / 6W / 10W / 15W / 20W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "≥90lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥90Ra"
+      },
+      {
+        "label": "Size",
+        "value": "Φ65*50mm / Φ90*70mm / Φ114*88mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "Φ55mm / Φ75mm / Φ95mm"
+      },
+      {
+        "label": "Material",
+        "value": "Die-cast aluminum"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Convention centers",
+      "Schools",
+      "Museums",
+      "Offices",
+      "Commercial Supermarkets",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/197.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/197.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "lingrou-ii-round-recessed-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-crown-deep-anti-glare-spotlight",
+    "sub": "downlights",
+    "name": "Crown Deep Anti-Glare Recessed Spotlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Deep-set anti-glare recessed spotlight in die-cast aluminium with CRI above 92, made for jewellery stores, brand boutiques, museums and premium residences. 5 W to 12 W in 3000 K or 4000 K.",
+    "specs": [
+      "Round",
+      "Recessed",
+      "Deep anti-glare",
+      "CRI >92"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-crown-deep-anti-glare-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Crown"
+      },
+      {
+        "label": "Power",
+        "value": "5W / 7W / 9W / 12W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "≥70lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K"
+      },
+      {
+        "label": "CRI",
+        "value": "＞92Ra"
+      },
+      {
+        "label": "Size",
+        "value": "Φ62×50mm / Φ85×64mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "Φ55mm / Φ75mm"
+      },
+      {
+        "label": "Material",
+        "value": "Die-cast aluminum"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Schools",
+      "Museums",
+      "Offices",
+      "Jewelry Stores",
+      "Brand Stores",
+      "Commercial Supermarkets"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/198.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/198.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "crown-deep-anti-glare-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-xifan-deep-anti-glare-spotlight",
+    "sub": "downlights",
+    "name": "Xifan Deep Anti-Glare Recessed Spotlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Deep anti-glare recessed spotlight with a die-cast aluminium housing and CRI 90 or above for visual comfort in offices, shops and malls. 7 W, 9 W and 24 W outputs with 55 to 95 mm cut-outs.",
+    "specs": [
+      "Round",
+      "Recessed",
+      "Deep anti-glare",
+      "CRI ≥90"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-xifan-deep-anti-glare-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xifan"
+      },
+      {
+        "label": "Power",
+        "value": "7W / 9W / 24W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "65lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥90Ra"
+      },
+      {
+        "label": "Size",
+        "value": "φ66*H70mm / φ85*H75mm / φ112*H118mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "φ55mm / φ75mm / φ95mm"
+      },
+      {
+        "label": "Material",
+        "value": "Die-cast aluminum"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Offices",
+      "Brand Stores",
+      "Commercial Supermarkets",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/567.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/567.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "xifan-deep-anti-glare-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-spirit-square-grille-spotlight",
+    "sub": "downlights",
+    "name": "Spirit Square Grille Spotlight — Single & Twin",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Square recessed grille spotlight available as a single or twin-head unit for offices, retail, exhibition and residential ceilings. Square cut-outs of 90 and 110 mm for single heads and 160 x 90 or 210 x 110 mm for twin heads.",
+    "specs": [
+      "Square",
+      "Recessed grille",
+      "Single / twin head"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-spirit-square-grille-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Spirit"
+      },
+      {
+        "label": "Power",
+        "value": "4/6W / 9W / 2X4/6W / 2X9W"
+      },
+      {
+        "label": "Cut-out",
+        "value": "90*90mm / 110*110mm / 160*90mm / 210*110mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Convention centers",
+      "Schools",
+      "Museums",
+      "Offices",
+      "Commercial Supermarkets",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/33.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/33.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "spirit-square-grille-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-recessed-led-grid-light-multi-head",
+    "sub": "downlights",
+    "name": "Recessed LED Grid Light — Multi-Head",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Rectangular recessed grid spotlight in die-cast aluminium with CRI 90 or above, in dual, triple, five, ten and fifteen-head lengths. Suits trimmed linear accent lines in residences and offices.",
+    "specs": [
+      "Square / linear",
+      "Recessed",
+      "Multi-head",
+      "CRI ≥90"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-recessed-led-grid-light-multi-head.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "4W / 6W / 10W / 20W / 30W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "70lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 3500K / 4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥90Ra"
+      },
+      {
+        "label": "Size",
+        "value": "72*41*H40mm / 101*41*H40mm / 160*41*H40mm / 308*41*H40mm / 455*41*H40mm"
+      },
+      {
+        "label": "Cut-out",
+        "value": "35*68mm / 35*97mm / 35*156mm / 35*304mm / 37*450mm"
+      },
+      {
+        "label": "Material",
+        "value": "Die-cast aluminum"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      },
+      {
+        "label": "Configuration",
+        "value": "Dual-head, triple-head, five-head, ten-head, fifteen-head"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Offices"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/298.html",
+    "_meta": {
+      "feed": "downlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/298.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "recessed-led-grid-light-multi-head-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:31+04:00"
+    }
+  },
+  {
+    "id": "fsl-fsh808a1-led-high-bay",
+    "sub": "floodlights",
+    "name": "FSH808A1 60W LED High Bay",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "60 W LED high bay with a wide 115° reflector-free distribution for workshops, stores and covered car parks. Rated life 25000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fsh808a1-led-high-bay.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "60W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC180-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4200/4800/4800 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra ≥80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "115°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Ø453*163 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSH808A1",
+    "source": "https://www.chinafsl.com/en/product_details/707.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/707.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fsh808a1-led-high-bay-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-fsh804a2-ufo-led-high-bay",
+    "sub": "floodlights",
+    "name": "FSH804A2 100W UFO LED High Bay",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "100 W round UFO-style LED high bay with a 60° beam and 10,000 lm output for warehouses, factories and sports halls. Rated life 30000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fsh804a2-ufo-led-high-bay.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "100W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC90-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "10000/10000/10000/10000 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "60°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "30000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Ф260*177.5 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSH804A2",
+    "source": "https://www.chinafsl.com/en/product_details/708.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/708.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fsh804a2-ufo-led-high-bay-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-fsh805a2-ufo-led-high-bay",
+    "sub": "floodlights",
+    "name": "FSH805A2 100W UFO LED High Bay",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "100 W UFO LED high bay (Ø280 mm) with a 60° beam and 10,000 lm output for logistics, production and storage buildings. Rated life 30000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fsh805a2-ufo-led-high-bay.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "100W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC90-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "10000/10000/10000/10000 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "60°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "30000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Ø280*177.5 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSH805A2",
+    "source": "https://www.chinafsl.com/en/product_details/709.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/709.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fsh805a2-ufo-led-high-bay-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-fsf809a1-led-floodlight",
+    "sub": "floodlights",
+    "name": "FSF809A1 100W LED Floodlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Slim 100 W LED floodlight with a 115° beam for facades, yards, signage and perimeter lighting. Rated life 15000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fsf809a1-led-floodlight.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "100W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC220-240V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "7200/8000/8000 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "115°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "15000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "270*210*33 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSF809A1",
+    "source": "https://www.chinafsl.com/en/product_details/600.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/600.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fsf809a1-led-floodlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-fsf809b1-led-floodlight",
+    "sub": "floodlights",
+    "name": "FSF809B1 50W LED Floodlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Slim 50 W LED floodlight with a 115° beam for building fronts, car parks and general area lighting. Rated life 15000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fsf809b1-led-floodlight.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "50W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC220-240V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "3600/4000/4000 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "115°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "15000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "210*164*33 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSF809B1",
+    "source": "https://www.chinafsl.com/en/product_details/596.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/596.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fsf809b1-led-floodlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-fsf808a2-led-floodlight",
+    "sub": "floodlights",
+    "name": "FSF808A2 100W LED Floodlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "100 W LED floodlight with an asymmetric 30° x 85° beam for facades, billboards and long-throw area lighting. Rated life 25000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fsf808a2-led-floodlight.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "100W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC220-240V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "7200/8000/8000 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "30°*85°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "268*212*74 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSF808A2",
+    "source": "https://www.chinafsl.com/en/product_details/599.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/599.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fsf808a2-led-floodlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-fsf803a2-led-floodlight",
+    "sub": "floodlights",
+    "name": "FSF803A2 100W LED Floodlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "100 W LED floodlight with 8,000 lm output and a 105° beam for yards, sports courts and site lighting. Rated life 25000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fsf803a2-led-floodlight.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "100W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC90-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "8000 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "105°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "330*280*95 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSF803A2",
+    "source": "https://www.chinafsl.com/en/product_details/598.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/598.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fsf803a2-led-floodlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-fsf802a2-led-floodlight",
+    "sub": "floodlights",
+    "name": "FSF802A2 50W LED Floodlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "50 W cool white LED floodlight with a 105° beam for loading bays, yards and building perimeters. Rated life 25000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fsf802a2-led-floodlight.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "50W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC100-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4481 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra ≥80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "105°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "283*238*61 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSF802A2",
+    "source": "https://www.chinafsl.com/en/product_details/597.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/597.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fsf802a2-led-floodlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-ximing-led-high-bay",
+    "sub": "floodlights",
+    "name": "Ximing LED High Bay",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Indoor LED high bay rated 150 lm/W with power factor 0.95, from 70 W to 200 W. Rod or chain suspension for gymnasiums, warehouses and factories.",
+    "specs": [
+      "150 lm/W",
+      "PF 0.95"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-ximing-led-high-bay.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Ximing"
+      },
+      {
+        "label": "Power",
+        "value": "70W / 100W / 120W / 150W / 200W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "150lm/W"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.95"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminum/Sheet Metal + PC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Hanging Rod, Hanging Chain"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Gymnasiums",
+      "Warehouses",
+      "Factories"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/305.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/305.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "ximing-led-high-bay-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-ximing-c-ip65-led-high-bay",
+    "sub": "floodlights",
+    "name": "Ximing C IP65 LED High Bay",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "IP65 LED high bay rated 160 lm/W with power factor 0.95, from 80 W to 200 W. Rod, chain or wall mounting for gyms, warehouses and factories.",
+    "specs": [
+      "IP65",
+      "160 lm/W",
+      "PF 0.95"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-ximing-c-ip65-led-high-bay.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Ximing C"
+      },
+      {
+        "label": "Power",
+        "value": "80W / 100W / 120W / 150W / 180W / 200W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "160lm/W"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.95"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminum + PC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Suspension Rod, Suspension Chain, Wall Mount"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Gymnasiums",
+      "Warehouses",
+      "Factories"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/306.html",
+    "_meta": {
+      "feed": "floodlights-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/306.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "ximing-c-ip65-led-high-bay-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-mr16e-mr16k-led-spot-lamp",
+    "sub": "lamps-bulbs",
+    "name": "MR16 LED Spot Lamp — MR16E / MR16K",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "GU5.3 MR16 LED spot lamps for mains-voltage (AC90-265V) downlight and track fittings. MR16E gives 4.5 W with 38° or 60° beams; MR16K gives 7 W at 38°.",
+    "specs": [
+      "GU5.3",
+      "AC90-265V",
+      "25,000 h"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-mr16e-mr16k-led-spot-lamp.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "4.5W / 7W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC90-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "350-370 lm / 600-650 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "38° / 60° (MR16E), 38° (MR16K)"
+      },
+      {
+        "label": "Lamp base",
+        "value": "GU5.3"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Φ50x52 / Φ50x76 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "MR16E",
+    "variants": [
+      {
+        "model": "MR16E",
+        "power": "4.5W",
+        "lumens": "350/360/370 lm",
+        "size": "Φ50*52 mm",
+        "beam": "38°/60°",
+        "note": "Lamp base: GU5.3"
+      },
+      {
+        "model": "MR16K",
+        "power": "7W",
+        "lumens": "600/630/650 lm",
+        "size": "Φ50*76 mm",
+        "beam": "38°",
+        "note": "Lamp base: GU5.3"
+      }
+    ],
+    "gallery": [
+      "/products/feed/indoor/fsl-mr16e-mr16k-led-spot-lamp-2.webp"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/655.html",
+    "_meta": {
+      "feed": "lamps-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/655.html",
+        "https://www.chinafsl.com/en/product_details/657.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "mr16e-mr16k-led-spot-lamp-1.jpg",
+        "mr16e-mr16k-led-spot-lamp-2.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-r50y-r63y-r80y-led-reflector-lamp",
+    "sub": "lamps-bulbs",
+    "name": "R50Y / R63Y / R80Y LED Reflector Lamp",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "LED reflector lamps with a 120° beam to replace incandescent R50, R63 and R80 lamps in pendants, wall lights and recessed cans. E14 or E27 base, 6 W to 11 W.",
+    "specs": [
+      "E14 / E27",
+      "120° beam"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-r50y-r63y-r80y-led-reflector-lamp.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "6W / 8W / 11W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC230V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "470-840 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "120°"
+      },
+      {
+        "label": "Lamp base",
+        "value": "E14 / E27"
+      },
+      {
+        "label": "Lifetime",
+        "value": "15000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Ø50x86 / Ø63x100 / Ø80x113 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "R50Y",
+    "variants": [
+      {
+        "model": "R50Y",
+        "power": "6W",
+        "lumens": "470/480/490 lm",
+        "size": "Ø50*86 mm",
+        "beam": "120°",
+        "note": "Lamp base: E14"
+      },
+      {
+        "model": "R63Y",
+        "power": "8W",
+        "lumens": "600/610/620 lm",
+        "size": "Ø63*100 mm",
+        "beam": "120°",
+        "note": "Lamp base: E27"
+      },
+      {
+        "model": "R80Y",
+        "power": "11W",
+        "lumens": "806/820/840 lm",
+        "size": "Ø80*113 mm",
+        "beam": "120°",
+        "note": "Lamp base: E27"
+      }
+    ],
+    "gallery": [
+      "/products/feed/indoor/fsl-r50y-r63y-r80y-led-reflector-lamp-2.webp",
+      "/products/feed/indoor/fsl-r50y-r63y-r80y-led-reflector-lamp-3.webp"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/658.html",
+    "_meta": {
+      "feed": "lamps-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/658.html",
+        "https://www.chinafsl.com/en/product_details/659.html",
+        "https://www.chinafsl.com/en/product_details/660.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "r50y-r63y-r80y-led-reflector-lamp-1.jpg",
+        "r50y-r63y-r80y-led-reflector-lamp-2.jpg",
+        "r50y-r63y-r80y-led-reflector-lamp-3.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-par20a-par30a-par38a-led-lamp",
+    "sub": "lamps-bulbs",
+    "name": "PAR20A / PAR30A-S / PAR38A LED PAR Lamp",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "E27 LED PAR lamps with 25°, 40° or 60° beam options for retail accent, display and outdoor-covered fittings. Three sizes from 7 W PAR20 to 18 W PAR38.",
+    "specs": [
+      "E27",
+      "25° / 40° / 60° beams"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-par20a-par30a-par38a-led-lamp.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "7W / 13W / 18W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC180-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "500-1500 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "25°/40°/60°"
+      },
+      {
+        "label": "Lamp base",
+        "value": "E27"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "63x79 / 95x93 / 122x134 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "PAR20A",
+    "variants": [
+      {
+        "model": "PAR20A",
+        "power": "7W",
+        "lumens": "500/525/550 lm",
+        "size": "63*79 mm",
+        "beam": "25°/40°/60°",
+        "note": "Lamp base: E27"
+      },
+      {
+        "model": "PAR30A-S",
+        "power": "13W",
+        "lumens": "1000/1050/1100 lm",
+        "size": "95*93 mm",
+        "beam": "25°/40°/60°",
+        "note": "Lamp base: E27"
+      },
+      {
+        "model": "PAR38A",
+        "power": "18W",
+        "lumens": "1400/1450/1500 lm",
+        "size": "122*134 mm",
+        "beam": "25°/40°/60°",
+        "note": "Lamp base: E27"
+      }
+    ],
+    "gallery": [
+      "/products/feed/indoor/fsl-par20a-par30a-par38a-led-lamp-2.webp",
+      "/products/feed/indoor/fsl-par20a-par30a-par38a-led-lamp-3.webp"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/661.html",
+    "_meta": {
+      "feed": "lamps-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/661.html",
+        "https://www.chinafsl.com/en/product_details/662.html",
+        "https://www.chinafsl.com/en/product_details/663.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "par20a-par30a-par38a-led-lamp-1.jpg",
+        "par20a-par30a-par38a-led-lamp-2.jpg",
+        "par20a-par30a-par38a-led-lamp-3.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-xifan-linear-wall-washer",
+    "sub": "wall-washers",
+    "name": "Xifan Linear Wall Washer",
+    "brand": "FSL",
+    "category": "Wall washers",
+    "use": "24 V DC IP65 linear wall washer in extruded aluminium with tempered glass, in 18 W and 24 W. 30°, 40° and 10° x 60° optics for facades, bridges and landscape features.",
+    "specs": [
+      "IP65",
+      "24V DC",
+      "Facade lighting"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-xifan-linear-wall-washer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xifan"
+      },
+      {
+        "label": "Power",
+        "value": "18W / 24W"
+      },
+      {
+        "label": "Voltage",
+        "value": "DC24V"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "80Ra"
+      },
+      {
+        "label": "Beam angle",
+        "value": "30° / 40° / 10*60°"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminum Extrusion + Tempered Glass"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Scenic Areas",
+      "Bridges"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/342.html",
+    "_meta": {
+      "feed": "outdoor-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/342.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "xifan-linear-wall-washer-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "fsl-xifan-ip65-linear-light",
+    "sub": "outdoor-linear",
+    "name": "Xifan IP65 Linear Light",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "12 W, 24 V DC IP65 linear light with an aluminium profile and tempered glass cover, giving a 120° wide beam for outlining facades, bridges and landscape edges.",
+    "specs": [
+      "IP65",
+      "24V DC",
+      "Outline lighting"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-xifan-ip65-linear-light.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xifan"
+      },
+      {
+        "label": "Power",
+        "value": "12W"
+      },
+      {
+        "label": "Voltage",
+        "value": "DC24V"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K, 4000K, 5700K, Customizable"
+      },
+      {
+        "label": "CRI",
+        "value": "80Ra"
+      },
+      {
+        "label": "Beam angle",
+        "value": "120°"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminum Profile + Tempered Glass"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Scenic Areas",
+      "Bridges"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/343.html",
+    "_meta": {
+      "feed": "outdoor-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/343.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "xifan-ip65-linear-light-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-prime-single-lever-basin-mixer",
+    "sub": "mixers-taps",
+    "name": "Kubix Prime Single Lever Basin Mixer",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Single lever basin mixer from the square-edged Kubix Prime range, supplied with 450 mm braided hoses. Available with or without pop-up waste for hotel, residential and office washrooms.",
+    "specs": [
+      "Single lever",
+      "Braided hoses included"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-prime-single-lever-basin-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix Prime"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted (one hole)"
+      },
+      {
+        "label": "Connection",
+        "value": "450 mm braided hoses"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KUP-CHR-35011BPM",
+    "variants": [
+      {
+        "model": "KUP-CHR-35011BPM",
+        "note": "Without pop-up waste"
+      },
+      {
+        "model": "KUP-CHR-35051BPM",
+        "note": "With pop-up waste"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/jaquar-kubix-prime-single-lever-basin-mixer-2.webp"
+    ],
+    "applications": [
+      "Hotels",
+      "Residential bathrooms",
+      "Offices"
+    ],
+    "source": "https://www.jaquar.com/en/kubix-prime-basin-mixer-chrome?Id=2424",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/kubix-prime-basin-mixer-chrome?Id=2424",
+        "https://www.jaquar.com/en/kubix-prime-mixer-with-pop-up-waste-chrome?Id=2494"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-kup-chr-35011bpm.jpg",
+        "jaquar-kup-chr-35051bpm.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-prime-single-lever-wall-mixer",
+    "sub": "mixers-taps",
+    "name": "Kubix Prime Single Lever Wall Mixer",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Exposed single lever wall mixer from Kubix Prime with provision to connect an exposed shower pipe (SHA-1211N). Supplied with connecting legs and wall flanges for bath and shower areas.",
+    "specs": [
+      "Single lever",
+      "Shower provision"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-prime-single-lever-wall-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix Prime"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted, exposed"
+      },
+      {
+        "label": "Connection",
+        "value": "Connecting legs & wall flanges; provision for exposed shower pipe SHA-1211N"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KUP-CHR-35115PM",
+    "applications": [
+      "Bathrooms",
+      "Hotels"
+    ],
+    "source": "https://www.jaquar.com/en/kubix-prime-wall-mixer-with-overhead-shower-provision-chrome?Id=3334",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/kubix-prime-wall-mixer-with-overhead-shower-provision-chrome?Id=3334"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-kup-chr-35115pm.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-prime-wall-mounted-basin-mixer-kit",
+    "sub": "mixers-taps",
+    "name": "Kubix Prime Wall-Mounted Basin Mixer — Exposed Kit",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Exposed part kit for a concealed, wall-mounted single lever basin mixer: lever, cartridge sleeve, wall flange, nipple and spout. Pairs with the ALD-233N or ALD-235N concealed body for clean vanity walls.",
+    "specs": [
+      "Wall-mounted spout",
+      "Concealed body"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-prime-wall-mounted-basin-mixer-kit.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix Prime"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted (concealed body ALD-233N / ALD-235N, ordered separately)"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KUP-CHR-35233NKPM",
+    "applications": [
+      "Hotels",
+      "Residential bathrooms"
+    ],
+    "source": "https://www.jaquar.com/en/exposed-part-kit-of-single-lever-basin-mixer-wall-mounted-3?Id=5498",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/exposed-part-kit-of-single-lever-basin-mixer-wall-mounted-3?Id=5498"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-kup-chr-35233nkpm.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-prime-sensor-basin-faucet",
+    "sub": "mixers-taps",
+    "name": "Kubix Prime Sensor Basin Faucet",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Battery-operated, touch-free sensor faucet for wash basins in the Kubix Prime design. Suits public washrooms, malls, offices, hospitals and airports where hygiene matters.",
+    "specs": [
+      "Touch-free sensor",
+      "Battery operated"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-prime-sensor-basin-faucet.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix Prime"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Installation",
+        "value": "Deck-mounted"
+      },
+      {
+        "label": "Power supply",
+        "value": "Battery operated"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "SNR-CHR-35019PM",
+    "applications": [
+      "Public washrooms",
+      "Offices",
+      "Hospitals",
+      "Malls"
+    ],
+    "source": "https://www.jaquar.com/en/kubix-prime-sensor-faucet-for-wash-basin?Id=4367",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/kubix-prime-sensor-faucet-for-wash-basin?Id=4367"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-snr-chr-35019pm.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-single-piece-wc-s-trap",
+    "sub": "wcs",
+    "name": "Kubix Single Piece WC — S-Trap 300 mm",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Square-design single piece WC with dual flush cistern fittings and a UF soft-close seat cover. S-trap with 300 mm rough-in for villas, apartments and hotel bathrooms.",
+    "specs": [
+      "Single piece",
+      "Dual flush",
+      "Soft-close seat"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-single-piece-wc-s-trap.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix"
+      },
+      {
+        "label": "Size",
+        "value": "370 x 695 x 795 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual flush"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "S-trap"
+      },
+      {
+        "label": "Rough-in",
+        "value": "300 mm"
+      },
+      {
+        "label": "Seat",
+        "value": "UF soft-close seat cover with hinges"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KUS-WHT-35851S300UF",
+    "applications": [
+      "Villas",
+      "Apartments",
+      "Hotels"
+    ],
+    "source": "https://www.jaquar.com/en/kubix-single-piece-wc?Id=4",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/kubix-single-piece-wc?Id=4"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-kus-wht-35851s300uf.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-rimless-back-to-wall-wc",
+    "sub": "wcs",
+    "name": "Kubix Rimless Back-to-Wall WC — P-Trap 180 mm",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Rimless back-to-wall WC from the Kubix range with a slim UF soft-close seat cover, for use with a concealed cistern. P-trap with 180 mm outlet height; the rimless bowl is easier to keep clean.",
+    "specs": [
+      "Rimless",
+      "Back to wall",
+      "Soft-close seat"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-rimless-back-to-wall-wc.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix"
+      },
+      {
+        "label": "Size",
+        "value": "360 x 500 x 400 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Back to wall, floor-standing"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "P-trap"
+      },
+      {
+        "label": "Rough-in",
+        "value": "180 mm"
+      },
+      {
+        "label": "Seat",
+        "value": "UF soft-close slim seat cover with hinges"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KUS-WHT-35955P180UFSM",
+    "applications": [
+      "Hotels",
+      "Residential bathrooms"
+    ],
+    "source": "https://www.jaquar.com/en/kubix-rimless-back-to-wall-wc?Id=12191",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/kubix-rimless-back-to-wall-wc?Id=12191"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-kus-wht-35955p180ufsm.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:32+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-counter-top-basin-500",
+    "sub": "basins",
+    "name": "Kubix Counter Top Basin 500 mm",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Square-edged counter top wash basin from the Kubix range, 500 x 435 mm, for vanity counters in homes, hotels and offices.",
+    "specs": [
+      "Counter top",
+      "Square design"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-counter-top-basin-500.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix"
+      },
+      {
+        "label": "Size",
+        "value": "500 x 435 x 180 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Counter top"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KUS-WHT-35601",
+    "applications": [
+      "Residential bathrooms",
+      "Hotels"
+    ],
+    "source": "https://www.jaquar.com/en/washbasin-counter-top-kubix?Id=1875",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/washbasin-counter-top-kubix?Id=1875"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-kus-wht-35601.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-counter-top-basin-610",
+    "sub": "basins",
+    "name": "Kubix Counter Top Basin 610 mm",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Larger 610 x 470 mm counter top basin in the Kubix square design, suited to master bathrooms and hotel vanities.",
+    "specs": [
+      "Counter top",
+      "Square design"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-counter-top-basin-610.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix"
+      },
+      {
+        "label": "Size",
+        "value": "610 x 470 x 170 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Counter top"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KUS-WHT-35603",
+    "applications": [
+      "Master bathrooms",
+      "Hotels"
+    ],
+    "source": "https://www.jaquar.com/en/counter-top-basin-7?Id=9698",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/counter-top-basin-7?Id=9698"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-kus-wht-35603.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-wall-hung-integrated-basin",
+    "sub": "basins",
+    "name": "Kubix Wall Hung Integrated Basin",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Wall hung basin with integrated pedestal-style body from the Kubix range, supplied with fixing accessories. A compact, floor-free option for guest washrooms and hotel rooms.",
+    "specs": [
+      "Wall hung",
+      "Integrated body"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-wall-hung-integrated-basin.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix"
+      },
+      {
+        "label": "Size",
+        "value": "490 x 430 x 390 mm"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall hung (fixing accessories included)"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "KUS-WHT-35803",
+    "applications": [
+      "Guest washrooms",
+      "Hotels"
+    ],
+    "source": "https://www.jaquar.com/en/kubix-integrated-washbasin?Id=7311",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/kubix-integrated-washbasin?Id=7311"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-kus-wht-35803.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-overhead-shower-round-single-flow",
+    "sub": "showers",
+    "name": "Round Overhead Shower — Single Flow (100 / 120 mm)",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Round single-flow overhead shower with a stainless steel face plate and chrome-finish ABS body, with Rubit nozzles that wipe clean of limescale. 100 mm and 120 mm diameters.",
+    "specs": [
+      "Round",
+      "Rubit anti-limescale nozzles"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-overhead-shower-round-single-flow.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Stainless steel face plate, ABS body"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Spray",
+        "value": "Single flow"
+      },
+      {
+        "label": "Cleaning",
+        "value": "Rubit cleaning system"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "OHS-CHR-1661",
+    "variants": [
+      {
+        "model": "OHS-CHR-1661",
+        "size": "Ø100 mm"
+      },
+      {
+        "model": "OHS-CHR-1663",
+        "size": "Ø120 mm"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/jaquar-overhead-shower-round-single-flow-2.webp"
+    ],
+    "applications": [
+      "Bathrooms",
+      "Hotels"
+    ],
+    "source": "https://www.jaquar.com/en/overhead-shower-100mm-dia-round-shape?Id=8324",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/overhead-shower-100mm-dia-round-shape?Id=8324",
+        "https://www.jaquar.com/en/overhead-shower-120mm-dia-round-shape-copy?Id=8325"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-ohs-chr-1661.jpg",
+        "jaquar-ohs-chr-1663.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-overhead-shower-square-single-flow",
+    "sub": "showers",
+    "name": "Square Overhead Shower — Single Flow (100 / 120 mm)",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Square single-flow overhead shower with a stainless steel face plate and chrome-finish ABS body, with Rubit easy-clean nozzles. 100 x 100 mm and 120 x 120 mm sizes.",
+    "specs": [
+      "Square",
+      "Rubit anti-limescale nozzles"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-overhead-shower-square-single-flow.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Stainless steel face plate, ABS body"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Spray",
+        "value": "Single flow"
+      },
+      {
+        "label": "Cleaning",
+        "value": "Rubit cleaning system"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "OHS-CHR-1665",
+    "variants": [
+      {
+        "model": "OHS-CHR-1665",
+        "size": "100 x 100 mm"
+      },
+      {
+        "model": "OHS-CHR-1667",
+        "size": "120 x 120 mm"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/jaquar-overhead-shower-square-single-flow-2.webp"
+    ],
+    "applications": [
+      "Bathrooms",
+      "Hotels"
+    ],
+    "source": "https://www.jaquar.com/en/overhead-shower-100x100mm-square-shape-copy?Id=8326",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/overhead-shower-100x100mm-square-shape-copy?Id=8326",
+        "https://www.jaquar.com/en/overhead-shower-120x120mm-square-shape?Id=8327"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-ohs-chr-1665.jpg",
+        "jaquar-ohs-chr-1667.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-square-hand-shower-single-flow",
+    "sub": "showers",
+    "name": "Square Hand Shower — Single Flow 27 mm",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Slim 27 x 27 mm square single-flow hand shower with a chrome-plated ABS body and face plate, with Rubit easy-clean nozzles. Pairs with square-design mixers such as Kubix.",
+    "specs": [
+      "Square",
+      "Single flow"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-square-hand-shower-single-flow.webp",
+    "specRows": [
+      {
+        "label": "Size",
+        "value": "27 x 27 mm"
+      },
+      {
+        "label": "Material",
+        "value": "ABS body and face plate"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome plated"
+      },
+      {
+        "label": "Spray",
+        "value": "Single flow"
+      },
+      {
+        "label": "Cleaning",
+        "value": "Rubit cleaning system"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "HSH-CHR-35537",
+    "applications": [
+      "Bathrooms",
+      "Hotels"
+    ],
+    "source": "https://www.jaquar.com/en/hand-shower-single-flow-27mm-square?Id=992",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/hand-shower-single-flow-27mm-square?Id=992"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-hsh-chr-35537.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-briza-vertical-manual-water-heater",
+    "sub": "water-heaters",
+    "name": "Briza Vertical Electric Water Heater — Manual",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Vertical electric storage water heater with manual control, in 6, 10, 15 and 25 litre capacities. Jaquar positions it for small families; suits apartments, kitchens and en-suite bathrooms.",
+    "specs": [
+      "Storage water heater",
+      "Manual control"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-briza-vertical-manual-water-heater.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Briza"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Vertical, wall-mounted"
+      },
+      {
+        "label": "Control",
+        "value": "Manual"
+      },
+      {
+        "label": "Capacity",
+        "value": "6 / 10 / 15 / 25 L"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "BZA-WHT-V006",
+    "variants": [
+      {
+        "model": "BZA-WHT-V006",
+        "size": "6 L"
+      },
+      {
+        "model": "BZA-WHT-V010",
+        "size": "10 L"
+      },
+      {
+        "model": "BZA-WHT-V015",
+        "size": "15 L"
+      },
+      {
+        "model": "BZA-WHT-V025",
+        "size": "25 L"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/jaquar-briza-vertical-manual-water-heater-2.webp",
+      "/products/feed/sanitary/jaquar-briza-vertical-manual-water-heater-3.webp",
+      "/products/feed/sanitary/jaquar-briza-vertical-manual-water-heater-4.webp"
+    ],
+    "applications": [
+      "Apartments",
+      "Kitchens",
+      "Bathrooms"
+    ],
+    "source": "https://www.jaquar.com/en/briza-vertical-manual-volume-6-ltr?Id=11586",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/briza-vertical-manual-volume-6-ltr?Id=11586",
+        "https://www.jaquar.com/en/briza-vertical-manual-volume-10-ltr?Id=11587",
+        "https://www.jaquar.com/en/briza-vertical-manual-volume-15-ltr?Id=11588",
+        "https://www.jaquar.com/en/briza-vertical-manual-volume-25-ltr?Id=11589"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-bza-wht-v006.jpg",
+        "jaquar-bza-wht-v010.jpg",
+        "jaquar-bza-wht-v015.jpg",
+        "jaquar-bza-wht-v025.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-slim-concealed-cistern",
+    "sub": "concealed-cisterns",
+    "name": "Slim Single Piece Concealed Cistern",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Single piece slim concealed cistern for wall hung WCs, as a body with installation kit or complete with a wall or floor mounting frame and S-type drain connection set. Flush control plate ordered separately.",
+    "specs": [
+      "Slim",
+      "For wall hung WC"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-slim-concealed-cistern.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Slim Concealed Cistern"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Installation",
+        "value": "In-wall; body only, wall frame or floor frame"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "JCS-WHT-2400",
+    "variants": [
+      {
+        "model": "JCS-WHT-2400",
+        "note": "Cistern body with installation kit"
+      },
+      {
+        "model": "JCS-WHT-2400WS",
+        "note": "With wall mounting frame & S-type drain set"
+      },
+      {
+        "model": "JCS-WHT-2400FS",
+        "note": "With floor mounting frame & S-type drain set"
+      }
+    ],
+    "gallery": [
+      "/products/feed/sanitary/jaquar-slim-concealed-cistern-2.webp",
+      "/products/feed/sanitary/jaquar-slim-concealed-cistern-3.webp"
+    ],
+    "applications": [
+      "Hotels",
+      "Villas",
+      "Commercial washrooms"
+    ],
+    "source": "https://www.jaquar.com/en/slim-wall-concealed-toilet-cistern?Id=4113",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/slim-wall-concealed-toilet-cistern?Id=4113",
+        "https://www.jaquar.com/en/slim-concealed-cistern-wall-mount-stand?Id=1299",
+        "https://www.jaquar.com/en/slim-concealed-cistern-floor-mount-stand?Id=1814"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-jcs-wht-2400.jpg",
+        "jaquar-jcs-wht-2400ws.jpg",
+        "jaquar-jcs-wht-2400fs.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-flush-control-plate",
+    "sub": "concealed-cisterns",
+    "name": "Kubix Flush Control Plate",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Chrome dual-button flush control plate in the Kubix design for Jaquar slim concealed cisterns.",
+    "specs": [
+      "Dual flush",
+      "Chrome"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-flush-control-plate.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      },
+      {
+        "label": "Flush",
+        "value": "Dual button"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "JCP-CHR-352415",
+    "applications": [
+      "Hotels",
+      "Residential bathrooms"
+    ],
+    "source": "https://www.jaquar.com/en/concealed-cistern-flush-plate-kubix?Id=6957",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/concealed-cistern-flush-plate-kubix?Id=6957"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-jcp-chr-352415.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-prime-grab-bar-300",
+    "sub": "bathroom-accessories",
+    "name": "Kubix Prime Grab Bar 300 mm",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Stainless steel 300 mm grab bar in the Kubix Prime accessory range, for support beside WCs, showers and baths.",
+    "specs": [
+      "Stainless steel"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-prime-grab-bar-300.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix Prime"
+      },
+      {
+        "label": "Size",
+        "value": "300 mm long"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "AKP-CHR-35701PS",
+    "applications": [
+      "Bathrooms",
+      "Hotels",
+      "Care facilities"
+    ],
+    "source": "https://www.jaquar.com/en/grab-bar-for-toilets-300mm?Id=5757",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/grab-bar-for-toilets-300mm?Id=5757"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-akp-chr-35701ps.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "jaquar-kubix-prime-single-towel-rail-600",
+    "sub": "bathroom-accessories",
+    "name": "Kubix Prime Single Towel Rail 600 mm",
+    "brand": "Jaquar",
+    "category": "Sanitary ware",
+    "use": "Stainless steel 600 mm single towel rail from the Kubix Prime accessory range, matching Kubix Prime mixers and showers.",
+    "specs": [
+      "Stainless steel"
+    ],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/jaquar-kubix-prime-single-towel-rail-600.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Kubix Prime"
+      },
+      {
+        "label": "Size",
+        "value": "600 mm long"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel"
+      },
+      {
+        "label": "Finish",
+        "value": "Chrome"
+      }
+    ],
+    "photoNote": "Official Jaquar product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "AKP-CHR-35711PS",
+    "applications": [
+      "Bathrooms",
+      "Hotels"
+    ],
+    "source": "https://www.jaquar.com/en/accessories-kubix-prime-single-towel-rail-600mm?Id=5769",
+    "_meta": {
+      "feed": "sanitary-jaquar",
+      "brand_group": "sanitary",
+      "feed_brand": "Jaquar",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.jaquar.com/en/accessories-kubix-prime-single-towel-rail-600mm?Id=5769"
+      ],
+      "source_note": "Jaquar official website (jaquar.com), product page: range, code and description.",
+      "original_images": [
+        "jaquar-akp-chr-35711ps.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-souna-basin-mixer-85",
+    "sub": "mixers-taps",
+    "name": "SOUNA Single Lever Basin Mixer 85",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Compact single lever basin mixer from the KLUDI SOUNA range with a PCA ceramic cartridge and 4.5 l/min flow at 3 bar. Quick-mount installation with G3/8 flexible hoses; supplied without pop-up waste.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-souna-basin-mixer-85.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "SOUNA"
+      },
+      {
+        "label": "Installation",
+        "value": "Quick-mount, deck-mounted"
+      },
+      {
+        "label": "Flow rate",
+        "value": "4.5 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "PCA ceramic"
+      },
+      {
+        "label": "Connection",
+        "value": "G3/8 flexible hoses"
+      },
+      {
+        "label": "Aerator",
+        "value": "M18.5 S-pointer"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "462900575",
+    "variants": [
+      {
+        "model": "462900575",
+        "note": "Chrome"
+      },
+      {
+        "model": "462903975",
+        "note": "Matt Black"
+      },
+      {
+        "model": "46290N075",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "46290N575",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/basin-mixer-85-without-pop-up-waste",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/basin-mixer-85-without-pop-up-waste"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-souna-basin-mixer-85.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-souna-basin-mixer-110",
+    "sub": "mixers-taps",
+    "name": "SOUNA Single Lever Basin Mixer 110",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Taller 110 version of the KLUDI SOUNA single lever basin mixer with PCA ceramic cartridge and 4.5 l/min flow at 3 bar. Quick-mount installation with G3/8 hoses; supplied without pop-up waste.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-souna-basin-mixer-110.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "SOUNA"
+      },
+      {
+        "label": "Installation",
+        "value": "Quick-mount, deck-mounted"
+      },
+      {
+        "label": "Flow rate",
+        "value": "4.5 l/min at 3 bar"
+      },
+      {
+        "label": "Cartridge",
+        "value": "PCA ceramic"
+      },
+      {
+        "label": "Connection",
+        "value": "G3/8 flexible hoses"
+      },
+      {
+        "label": "Aerator",
+        "value": "M18.5 S-pointer"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "462820575",
+    "variants": [
+      {
+        "model": "462820575",
+        "note": "Chrome"
+      },
+      {
+        "model": "462823975",
+        "note": "Matt Black"
+      },
+      {
+        "model": "46282N075",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "46282N575",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/basin-mixer-110-without-pop-up-waste",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/basin-mixer-110-without-pop-up-waste"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-souna-basin-mixer-110.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-souna-concealed-bath-shower-mixer",
+    "sub": "mixers-taps",
+    "name": "SOUNA Concealed Bath-Shower Mixer",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Concealed single lever bath-shower mixer from KLUDI SOUNA with a PUSH&SWITCH diverter. Delivers 28 l/min to the tub and 24 l/min to the hand shower at 3 bar, for use with the SLIM.BOXX concealed body.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-souna-concealed-bath-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "SOUNA"
+      },
+      {
+        "label": "Installation",
+        "value": "Concealed (SLIM.BOXX compatible)"
+      },
+      {
+        "label": "Flow rate tub",
+        "value": "28 l/min at 3 bar"
+      },
+      {
+        "label": "Flow rate shower",
+        "value": "24 l/min at 3 bar"
+      },
+      {
+        "label": "Diverter",
+        "value": "PUSH&SWITCH"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "467590575",
+    "variants": [
+      {
+        "model": "467590575",
+        "note": "Chrome"
+      },
+      {
+        "model": "467593975",
+        "note": "Matt Black"
+      },
+      {
+        "model": "46759N075",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "46759N575",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/concealed-bath-shower-mixer",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/concealed-bath-shower-mixer"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-souna-concealed-bath-shower-mixer.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-louva-basin-mixer-100",
+    "sub": "mixers-taps",
+    "name": "LOUVA Single Lever Basin Mixer 100",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Single lever basin mixer from the KLUDI LOUVA range, size 100, DN 15. Flow rate of 5 l/min for water-saving everyday use in residential and commercial washrooms.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-louva-basin-mixer-100.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "LOUVA"
+      },
+      {
+        "label": "Size",
+        "value": "100"
+      },
+      {
+        "label": "Flow rate",
+        "value": "5 l/min"
+      },
+      {
+        "label": "Connection",
+        "value": "DN 15"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "242820575",
+    "variants": [
+      {
+        "model": "242820575",
+        "note": "Chrome"
+      },
+      {
+        "model": "242823975",
+        "note": "Matt Black"
+      },
+      {
+        "model": "242825375",
+        "note": "Matt White"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-louva-single-lever-basin-mixer-100-dn-16",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-louva-single-lever-basin-mixer-100-dn-16"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-louva-basin-mixer-100.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-bozz-basin-mixer-75",
+    "sub": "mixers-taps",
+    "name": "BOZZ Single Lever Basin Mixer 75",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Single lever basin mixer from the KLUDI BOZZ range with a click-clack waste and 5 l/min flow. Offered in seven finishes from chrome to brushed gold and gunmetal.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-bozz-basin-mixer-75.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "BOZZ"
+      },
+      {
+        "label": "Size",
+        "value": "75"
+      },
+      {
+        "label": "Flow rate",
+        "value": "5 l/min"
+      },
+      {
+        "label": "Connection",
+        "value": "DN 15"
+      },
+      {
+        "label": "Waste",
+        "value": "Click-clack"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "382660576",
+    "variants": [
+      {
+        "model": "382660576",
+        "note": "Chrome"
+      },
+      {
+        "model": "382663976",
+        "note": "Matt Black"
+      },
+      {
+        "model": "382665376",
+        "note": "Matt White"
+      },
+      {
+        "model": "38266N076",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "38266N176",
+        "note": "Brushed Bronze"
+      },
+      {
+        "model": "38266N276",
+        "note": "Brushed Gunmetal"
+      },
+      {
+        "model": "38266N576",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-bozz-single-lever-basin-mixer-75-dn-15",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-bozz-single-lever-basin-mixer-75-dn-15"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-bozz-basin-mixer-75.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-bozz-concealed-shower-mixer",
+    "sub": "mixers-taps",
+    "name": "BOZZ Concealed Single Lever Shower Mixer",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Concealed single lever shower mixer from the KLUDI BOZZ range with a 28 l/min flow rate. Round trim plate available in seven finishes to match the BOZZ basin mixers.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-bozz-concealed-shower-mixer.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "BOZZ"
+      },
+      {
+        "label": "Installation",
+        "value": "Concealed"
+      },
+      {
+        "label": "Flow rate",
+        "value": "28 l/min"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "387550576",
+    "variants": [
+      {
+        "model": "387550576",
+        "note": "Chrome"
+      },
+      {
+        "model": "387553976",
+        "note": "Matt Black"
+      },
+      {
+        "model": "387555376",
+        "note": "Matt White"
+      },
+      {
+        "model": "38755N076",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "38755N176",
+        "note": "Brushed Bronze"
+      },
+      {
+        "model": "38755N276",
+        "note": "Brushed Gunmetal"
+      },
+      {
+        "model": "38755N576",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-bozz-concealed-single-lever-shower-mixer-1",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-bozz-concealed-single-lever-shower-mixer-1"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-bozz-concealed-shower-mixer.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-nova-fonte-concealed-shower-thermostat",
+    "sub": "mixers-taps",
+    "name": "NOVA FONTE Puristic Concealed Thermostatic Shower Mixer",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Concealed thermostatic shower mixer from KLUDI NOVA FONTE Puristic with a 40 °C safety stop and integrated check valves. Delivers 28 l/min for comfortable, temperature-stable showering.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-nova-fonte-concealed-shower-thermostat.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "NOVA FONTE Puristic"
+      },
+      {
+        "label": "Installation",
+        "value": "Concealed"
+      },
+      {
+        "label": "Flow rate",
+        "value": "28 l/min"
+      },
+      {
+        "label": "Safety stop",
+        "value": "40 °C"
+      },
+      {
+        "label": "Check valves",
+        "value": "Integrated"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "208850515",
+    "variants": [
+      {
+        "model": "208850515",
+        "note": "Chrome"
+      },
+      {
+        "model": "208853915",
+        "note": "Matt Black"
+      },
+      {
+        "model": "208855315",
+        "note": "Matt White"
+      },
+      {
+        "model": "20885N015",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "20885N115",
+        "note": "Brushed Bronze"
+      },
+      {
+        "model": "20885N215",
+        "note": "Brushed Gunmetal"
+      },
+      {
+        "model": "20885N515",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-nova-fonte-conc-shower-thermostat",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-nova-fonte-conc-shower-thermostat"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-nova-fonte-concealed-shower-thermostat.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-a-qa-overhead-shower-round-300",
+    "sub": "showers",
+    "name": "A-QA Round Overhead Shower 300 mm",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Round 300 mm overhead shower from the KLUDI A-QA range with DN 15 connection. Available in chrome, matt black and brushed metal finishes.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-a-qa-overhead-shower-round-300.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "A-QA"
+      },
+      {
+        "label": "Size",
+        "value": "300 mm"
+      },
+      {
+        "label": "Connection",
+        "value": "DN 15"
+      },
+      {
+        "label": "Shape",
+        "value": "Round"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "6433105-00",
+    "variants": [
+      {
+        "model": "6433105-00",
+        "note": "Chrome"
+      },
+      {
+        "model": "6433139-00",
+        "note": "Matt Black"
+      },
+      {
+        "model": "64331N0-00",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "64331N1-00",
+        "note": "Brushed Bronze"
+      },
+      {
+        "model": "64331N2-00",
+        "note": "Brushed Gunmetal"
+      },
+      {
+        "model": "64331N5-00",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-a-qa-overhead-shower-circle-brass-300-mm",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-a-qa-overhead-shower-circle-brass-300-mm"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-a-qa-overhead-shower-round-300.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-a-qa-overhead-shower-square-300",
+    "sub": "showers",
+    "name": "A-QA Square Overhead Shower 300 x 300 mm",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Square 300 x 300 mm overhead shower from the KLUDI A-QA range with DN 15 connection. Available in chrome, matt black and brushed metal finishes.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-a-qa-overhead-shower-square-300.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "A-QA"
+      },
+      {
+        "label": "Size",
+        "value": "300 x 300 mm"
+      },
+      {
+        "label": "Connection",
+        "value": "DN 15"
+      },
+      {
+        "label": "Shape",
+        "value": "Square"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "6443105-00",
+    "variants": [
+      {
+        "model": "6443105-00",
+        "note": "Chrome"
+      },
+      {
+        "model": "6443139-00",
+        "note": "Matt Black"
+      },
+      {
+        "model": "64431N0-00",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "64431N1-00",
+        "note": "Brushed Bronze"
+      },
+      {
+        "model": "64431N2-00",
+        "note": "Brushed Gunmetal"
+      },
+      {
+        "model": "64431N5-00",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-a-qa-overhead-shower-square-brass-300-x-300-mm",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-a-qa-overhead-shower-square-brass-300-x-300-mm"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-a-qa-overhead-shower-square-300.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-resa-s-back-to-wall-wc",
+    "sub": "wcs",
+    "name": "RESA S Back-to-Wall WC",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Back-to-wall WC from the KLUDI RESA S range in glossy white, 55 cm projection. Features Spiral-Flush technology and a universal outlet.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-resa-s-back-to-wall-wc.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "RESA S"
+      },
+      {
+        "label": "Weight",
+        "value": "approx. 29 kg"
+      },
+      {
+        "label": "Finish",
+        "value": "Glossy white"
+      },
+      {
+        "label": "Projection",
+        "value": "55 cm"
+      },
+      {
+        "label": "Flush",
+        "value": "Spiral-Flush"
+      },
+      {
+        "label": "Outlet / trap",
+        "value": "Universal"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "27WCB0343",
+    "variants": [
+      {
+        "model": "27WCB0343",
+        "note": "Glossy White"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-resa-s-btw-wc-glossy-white",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-resa-s-btw-wc-glossy-white"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-resa-s-back-to-wall-wc.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:33+04:00"
+    }
+  },
+  {
+    "id": "kludi-resa-r-round-washbasin-40",
+    "sub": "basins",
+    "name": "RESA R Round Washbasin 40 x 40",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Round 40 x 40 cm countertop washbasin from KLUDI RESA R, 14 cm high. Offered in six matt marble finishes including Carrara, Nero Marquina and Travertine.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-resa-r-round-washbasin-40.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "RESA R"
+      },
+      {
+        "label": "Size",
+        "value": "40 x 40 cm"
+      },
+      {
+        "label": "Weight",
+        "value": "approx. 10 kg"
+      },
+      {
+        "label": "Installation",
+        "value": "Countertop"
+      },
+      {
+        "label": "Height",
+        "value": "14 cm"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "58CW10S1",
+    "variants": [
+      {
+        "model": "58CW10S1",
+        "note": "Marble Carrara Matt"
+      },
+      {
+        "model": "58CW10S2",
+        "note": "Marble Nero Marquina Matt"
+      },
+      {
+        "model": "58CW10S3",
+        "note": "Marble Calacatta Viola Matt"
+      },
+      {
+        "model": "58CW10S4",
+        "note": "Marble Verde Alpi Matt"
+      },
+      {
+        "model": "58CW10S5",
+        "note": "Marble Pietra Grey Matt"
+      },
+      {
+        "model": "58CW10S6",
+        "note": "Marble Travertine Crosscut Matt"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-resa-r-round-washbasin-40x40-marble-finishes",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-resa-r-round-washbasin-40x40-marble-finishes"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-resa-r-round-washbasin-40.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "kludi-vela-s-towel-holder-600",
+    "sub": "bathroom-accessories",
+    "name": "VELA S Bath Towel Holder 600 mm",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Single bath towel holder from the KLUDI VELA S accessory range, 600 mm long. Available in seven finishes to coordinate with KLUDI mixers.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-vela-s-towel-holder-600.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "VELA S"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted"
+      },
+      {
+        "label": "Length",
+        "value": "600 mm"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "2597905",
+    "variants": [
+      {
+        "model": "2597905",
+        "note": "Chrome"
+      },
+      {
+        "model": "2597939",
+        "note": "Matt Black"
+      },
+      {
+        "model": "2597953",
+        "note": "Matt White"
+      },
+      {
+        "model": "25979N0",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "25979N1",
+        "note": "Brushed Bronze"
+      },
+      {
+        "model": "25979N2",
+        "note": "Brushed Gunmetal"
+      },
+      {
+        "model": "25979N5",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-vela-s-single-towel-rack-l-600mm",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-vela-s-single-towel-rack-l-600mm"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-vela-s-towel-holder-600.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "kludi-vela-s-paper-holder",
+    "sub": "bathroom-accessories",
+    "name": "VELA S Paper Holder",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Wall-mounted toilet paper holder from the KLUDI VELA S accessory range. Available in seven finishes including chrome, matt black and brushed gold.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-vela-s-paper-holder.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "VELA S"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "2598205",
+    "variants": [
+      {
+        "model": "2598205",
+        "note": "Chrome"
+      },
+      {
+        "model": "2598239",
+        "note": "Matt Black"
+      },
+      {
+        "model": "2598253",
+        "note": "Matt White"
+      },
+      {
+        "model": "25982N0",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "25982N1",
+        "note": "Brushed Bronze"
+      },
+      {
+        "model": "25982N2",
+        "note": "Brushed Gunmetal"
+      },
+      {
+        "model": "25982N5",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-vela-s-toilet-paper-holder",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-vela-s-toilet-paper-holder"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-vela-s-paper-holder.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "kludi-vela-c-bath-handle",
+    "sub": "bathroom-accessories",
+    "name": "VELA C Bath Handle",
+    "brand": "KLUDI",
+    "category": "Sanitary ware",
+    "use": "Wall-mounted bath handle (grab rail) from the KLUDI VELA C accessory range. Available in seven finishes including chrome, matt black and brushed nickel.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/sanitary/kludi-vela-c-bath-handle.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "VELA C"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-mounted"
+      }
+    ],
+    "photoNote": "Official KLUDI product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "3198105",
+    "variants": [
+      {
+        "model": "3198105",
+        "note": "Chrome"
+      },
+      {
+        "model": "3198139",
+        "note": "Matt Black"
+      },
+      {
+        "model": "3198153",
+        "note": "Matt White"
+      },
+      {
+        "model": "31981N0",
+        "note": "Brushed Gold"
+      },
+      {
+        "model": "31981N1",
+        "note": "Brushed Bronze"
+      },
+      {
+        "model": "31981N2",
+        "note": "Brushed Gunmetal"
+      },
+      {
+        "model": "31981N5",
+        "note": "Brushed Nickel"
+      }
+    ],
+    "source": "https://onlineshop.kludi.com/products/kludi-vela-c-grab-rail",
+    "_meta": {
+      "feed": "sanitary-kludi-batch3",
+      "brand_group": "sanitary",
+      "feed_brand": "KLUDI",
+      "group": "sanitary",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://onlineshop.kludi.com/products/kludi-vela-c-grab-rail"
+      ],
+      "source_note": null,
+      "original_images": [
+        "kludi-vela-c-bath-handle.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "fsl-fss801a2-led-street-light",
+    "sub": "street-lights",
+    "name": "FSS801A2 30W LED Street Light",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "30 W LED street light with a 60° x 145° road optic for access roads, residential streets, compounds and car parks. Rated life 30,000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fss801a2-led-street-light.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "30W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC90-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "3150 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra 80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "60°*145°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "30000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "270*145*86 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSS801A2",
+    "source": "https://www.chinafsl.com/en/product_details/602.html",
+    "_meta": {
+      "feed": "street-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/602.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fss801a2-led-street-light-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "fsl-fss816a2-led-street-light",
+    "sub": "street-lights",
+    "name": "FSS816A2 80W LED Street Light",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "80 W LED street light with a 60° x 145° road optic and 8,000 lm output for collector roads, industrial estates and parking areas. Rated life 25,000 hours.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/outdoor/fsl-fss816a2-led-street-light.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "80W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC90-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "8000 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra ≥70"
+      },
+      {
+        "label": "Beam angle",
+        "value": "60°*145°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "480*230*47 mm"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FSS816A2",
+    "source": "https://www.chinafsl.com/en/product_details/601.html",
+    "_meta": {
+      "feed": "street-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "outdoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/601.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fss816a2-led-street-light-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "fsl-xifan-v-track-spotlight",
+    "sub": "track-lights",
+    "name": "Xifan V Track Spotlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Cylindrical aluminium track spotlight for two-wire or three-wire tracks, with CRI 90 and outputs from 7 W to 36 W. Fits galleries, boutiques, jewellery stores, offices and homes.",
+    "specs": [
+      "Track mounted",
+      "Adjustable head",
+      "CRI 90"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-xifan-v-track-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Series",
+        "value": "Xifan V"
+      },
+      {
+        "label": "Power",
+        "value": "7W / 12W / 18W / 24W / 30W / 36W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "80lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "90Ra"
+      },
+      {
+        "label": "Size",
+        "value": "Ø50*160mm / Ø60*200mm / Ø74*220mm"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Mounting",
+        "value": "Track (2-wire / 3-wire)"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Schools",
+      "Museums",
+      "Offices",
+      "Jewelry Stores",
+      "Brand Stores",
+      "Commercial Supermarkets",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/297.html",
+    "_meta": {
+      "feed": "track-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/297.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "xifan-v-track-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "fsl-fst110b-track-spotlight",
+    "sub": "track-lights",
+    "name": "FST110B 18W COB Track Spotlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Adjustable 18 W track spotlight in a white housing with 15° or 24° beam options for shop displays, galleries and feature walls. Rated life 25,000 hours.",
+    "specs": [
+      "Track mounted",
+      "Adjustable head"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-fst110b-track-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "18W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC180-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1250/1400/1400 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra ≥80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "15°/24°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "123*70*160 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Track"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FST110B",
+    "source": "https://www.chinafsl.com/en/product_details/668.html",
+    "_meta": {
+      "feed": "track-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/668.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fst110b-track-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "fsl-fst904-track-spotlight",
+    "sub": "track-lights",
+    "name": "FST904 15W Track Spotlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Adjustable 15 W track spotlight in white with 24° or 38° beams and four colour temperatures, for retail, showroom and residential accent lighting. Rated life 25,000 hours.",
+    "specs": [
+      "Track mounted",
+      "Adjustable head"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-fst904-track-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "15W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC90-265V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1150/1175/1200/1250 lm"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra ≥80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "24°/ 38°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "145*58*158 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Track"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FST904",
+    "source": "https://www.chinafsl.com/en/product_details/669.html",
+    "_meta": {
+      "feed": "track-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/669.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fst904-track-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "fsl-fst104a1-track-spotlight",
+    "sub": "track-lights",
+    "name": "FST104A1 12W Compact Track Spotlight",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Compact cylindrical 12 W track spotlight in white with 15° or 24° beams, sized for boutiques, display cabinets and residential tracks. Rated life 25,000 hours.",
+    "specs": [
+      "Track mounted",
+      "Adjustable head"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-fst104a1-track-spotlight.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "12W"
+      },
+      {
+        "label": "Voltage",
+        "value": "AC180-265V"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 4000K / 5000K / 6500K"
+      },
+      {
+        "label": "CRI",
+        "value": "Ra ≥80"
+      },
+      {
+        "label": "Beam angle",
+        "value": "15°/24°"
+      },
+      {
+        "label": "Lifetime",
+        "value": "25000hrs"
+      },
+      {
+        "label": "Size",
+        "value": "Ø70*103 mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Track"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "FST104A1",
+    "source": "https://www.chinafsl.com/en/product_details/670.html",
+    "_meta": {
+      "feed": "track-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/670.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "fst104a1-track-spotlight-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
+  },
+  {
+    "id": "fsl-magnetic-track-light-system",
+    "sub": "track-lights",
+    "name": "Magnetic Track Light Modules",
+    "brand": "FSL",
+    "category": "Luminaires",
+    "use": "Low-profile magnetic track system in aluminium with flood, grille, adjustable grille and adjustable spot modules. 300 mm (9 W) and 600 mm (18 W) lengths with CRI 90 or above for modern residential and retail ceilings.",
+    "specs": [
+      "Magnetic track",
+      "Interchangeable modules",
+      "CRI ≥90"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/fsl-magnetic-track-light-system.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "9W / 18W"
+      },
+      {
+        "label": "Efficacy",
+        "value": "60lm/W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K / 3500K / 4000K / 5700K"
+      },
+      {
+        "label": "CRI",
+        "value": "≥90Ra"
+      },
+      {
+        "label": "Size",
+        "value": "L300*W23*H44mm / L600*W23*H44mm"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Mounting",
+        "value": "Magnetic track"
+      },
+      {
+        "label": "Modules",
+        "value": "Flood Module, Grille Module, Adjustable Grille Module, Adjustable Spotlight Module"
+      }
+    ],
+    "photoNote": "Official FSL product photo, as published by the manufacturer. Datasheets on request.",
+    "applications": [
+      "Residential Buildings",
+      "Offices",
+      "Shopping Malls"
+    ],
+    "source": "https://www.chinafsl.com/en/product_details/568.html",
+    "_meta": {
+      "feed": "track-fsl",
+      "brand_group": "lighting",
+      "feed_brand": "FSL",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.chinafsl.com/en/product_details/568.html"
+      ],
+      "source_note": "Foshan Electrical and Lighting Co., Ltd (FSL) official English website, product detail page.",
+      "original_images": [
+        "magnetic-track-light-system-1.jpg"
+      ],
+      "ingested_at": "2026-10-12T21:38:34+04:00"
+    }
   }
 ]
