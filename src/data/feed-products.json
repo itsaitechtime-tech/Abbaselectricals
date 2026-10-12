@@ -18166,5 +18166,5265 @@
       ],
       "ingested_at": "2026-10-12T21:57:59+04:00"
     }
+  },
+  {
+    "id": "opple-ceiling-light-apollo-g4",
+    "sub": "panels-ceiling",
+    "name": "Apollo G4 LED Ceiling / Wall Light",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A refined wall and ceiling luminaire with a CCT switch and power switch. A version with a built-in motion sensor (MD) is available.",
+    "specs": [
+      "Elegant wall/ceiling luminaire with improved design",
+      "Available with Motion sensor (MD)",
+      "Flexible due to CCT switch and Power switch",
+      "3 different sizes: 250/350/450mm"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-ceiling-light-apollo-g4.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "12–22 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700 - 4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "600–2200 lm"
+      },
+      {
+        "label": "Control",
+        "value": "Triac"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "6"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDApollo-E4 Rd250-6/12W-DIM-827/840",
+    "variants": [
+      {
+        "model": "LEDApollo-E4 Rd250-6/12W-DIM-827/840",
+        "note": "Product code: 520033017400; Title: Ceiling Light Apollo G4 Ø250mm-12W-600/1200lm-2700 - 4000K-Triac"
+      },
+      {
+        "model": "LEDApollo-E4 Rd350-8/16W-DIM-827/840",
+        "note": "Product code: 520033017500; Title: Ceiling Light Apollo G4 Ø350mm-16W-800/1600lm-2700 - 4000K-Triac"
+      },
+      {
+        "model": "LEDApollo-E4 Rd450-11/22W-DIM-827/840",
+        "note": "Product code: 520034068200; Title: Ceiling Light Apollo G4 Ø450mm-22W-1100/2200lm-2700 - 4000K-Triac"
+      },
+      {
+        "model": "LEDApollo-E4 Rd250-6/12W-DIM-827/840-MD",
+        "note": "Product code: 520033017600; Title: Ceiling Light Apollo G4 Ø250mm-12W-600/1200lm-2700 - 4000K-Sensor"
+      },
+      {
+        "model": "LEDApollo-E4 Rd350-8/16W-DIM-827/840-MD",
+        "note": "Product code: 520033017700; Title: Ceiling Light Apollo G4 Ø350mm-16W-800/1600lm-2700 - 4000K-Sensor"
+      },
+      {
+        "model": "LEDApollo-E4 Rd450-11/22W-DIM-827/840-MD",
+        "note": "Product code: 520034068300; Title: Ceiling Light Apollo G4 Ø450mm-22W-1100/2200lm-2700 - 4000K-Sensor"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/wall-and-ceiling-luminaires/ceiling-light-apollo-g4",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/wall-and-ceiling-luminaires/ceiling-light-apollo-g4",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Apollo_E4.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-ceiling-light-apollo-g4.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-slim-panel-ecomax-g4",
+    "sub": "panels-ceiling",
+    "name": "LED Slim Panel EcoMax G4",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A slim LED panel family with efficacy up to 130 lm/W, including office versions (UGR19) and DALI-2 dimmable options.",
+    "specs": [
+      "DALI2 dimmable versions available",
+      "Improved efficacy up to 130lm/W",
+      "Suitable for recessed and suspended applications",
+      "Replacement for conventional 4x18W or 2x36W luminaire",
+      "DALI2 driver compatible with 230V push dimming"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-slim-panel-ecomax-g4.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "32 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K, 4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000–4100 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "16"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDPanelS-E4 Sq595-32W-830-U19",
+    "variants": [
+      {
+        "model": "LEDPanelS-E4 Sq595-32W-830-U19",
+        "note": "Product code: 542003098500; Title: Slim Panel EcoMax G4 595x595mm-32W-4000lm-3000K-UGR19"
+      },
+      {
+        "model": "LEDPanelS-E4 Sq595-32W-840-U19",
+        "note": "Product code: 542003098600; Title: Slim Panel EcoMax G4 595x595mm-32W-4100lm-4000K-UGR19"
+      },
+      {
+        "model": "LEDPanelS-E4 Re295-32W-830-U19",
+        "note": "Product code: 542003098900; Title: Slim Panel EcoMax G4 1195x295mm-32W-4000lm-3000K-UGR19"
+      },
+      {
+        "model": "LEDPanelS-E4 Re295-32W-840-U19",
+        "note": "Product code: 542003099000; Title: Slim Panel EcoMax G4 1195x295mm-32W-4100lm-4000K-UGR19"
+      },
+      {
+        "model": "LEDPanelS-E4 Sq595-32W-830",
+        "note": "Product code: 542003099700; Title: Slim Panel EcoMax G4 595x595mm-32W-4000lm-3000K-UGR22"
+      },
+      {
+        "model": "LEDPanelS-E4 Sq595-32W-840",
+        "note": "Product code: 542003099800; Title: Slim Panel EcoMax G4 595x595mm-32W-4100lm-4000K-UGR22"
+      },
+      {
+        "model": "LEDPanelS-E4 Re295-32W-830",
+        "note": "Product code: 542003100100; Title: Slim Panel EcoMax G4 1195x295mm-32W-4000lm-3000K-UGR22"
+      },
+      {
+        "model": "LEDPanelS-E4 Re295-32W-840",
+        "note": "Product code: 542003100200; Title: Slim Panel EcoMax G4 1195x295mm-32W-4100lm-4000K-UGR22"
+      },
+      {
+        "model": "LEDPanelS-E4 Sq595-32W-DALI-830-U19",
+        "note": "Product code: 542003099100; Title: Slim Panel EcoMax G4 595x595mm-32W-4000lm-3000K-DALI-UGR19"
+      },
+      {
+        "model": "LEDPanelS-E4 Sq595-32W-DALI-840-U19",
+        "note": "Product code: 542003099200; Title: Slim Panel EcoMax G4 595x595mm-32W-4100lm-4000K-DALI-UGR19"
+      },
+      {
+        "model": "LEDPanelS-E4 Re295-32W-DALI-830-U19",
+        "note": "Product code: 542003099500; Title: Slim Panel EcoMax G4 1195x295mm-32W-4000lm-3000K-DALI-UGR19"
+      },
+      {
+        "model": "LEDPanelS-E4 Re295-32W-DALI-840-U19",
+        "note": "Product code: 542003099600; Title: Slim Panel EcoMax G4 1195x295mm-32W-4100lm-4000K-DALI-UGR19"
+      },
+      {
+        "model": "LEDPanelS-E4 Sq595-32W-DALI-830",
+        "note": "Product code: 542003100300; Title: Slim Panel EcoMax G4 595x595mm-32W-4000lm-3000K-DALI-UGR22"
+      },
+      {
+        "model": "LEDPanelS-E4 Sq595-32W-DALI-840",
+        "note": "Product code: 542003100400; Title: Slim Panel EcoMax G4 595x595mm-32W-4100lm-4000K-DALI-UGR22"
+      },
+      {
+        "model": "LEDPanelS-E4 Re295-32W-DALI-830",
+        "note": "Product code: 542003100700; Title: Slim Panel EcoMax G4 1195x295mm-32W-4000lm-3000K-DALI-UGR22"
+      },
+      {
+        "model": "LEDPanelS-E4 Re295-32W-DALI-840",
+        "note": "Product code: 542003100800; Title: Slim Panel EcoMax G4 1195x295mm-32W-4100lm-4000K-DALI-UGR22"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/panels/slim-panel-ecomax-g4",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/panels/slim-panel-ecomax-g4",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_SlimP_E4.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-slim-panel-ecomax-g4.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-slim-panel-basic-g4",
+    "sub": "panels-ceiling",
+    "name": "LED Slim Panel Basic G4",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A cost-effective slim LED panel family, including office versions (UGR < 19), DALI-2 dimmable options and versions with a built-in PIR sensor.",
+    "specs": [
+      "Versions with PIR sensor integrated",
+      "DALI2 dimmable versions available",
+      "Improved efficacy up to 130lm/W",
+      "4 power levels possible (23/ 27/ 31/ 34 W)",
+      "Replacement for conventional 4x18W or 2x36W luminaire",
+      "Suitable for recessed and suspended applications"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-slim-panel-basic-g4.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "34 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3/4000K, 3000K, 4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4420 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "20"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDPanelS-B4 Sq595-23/34W-830",
+    "variants": [
+      {
+        "model": "LEDPanelS-B4 Sq595-23/34W-830",
+        "note": "Product code: 542016014900; Title: Slim Panel Basic G4 Sq595-23|27|31|34W-2990|3510|4030|4420lm-3000K-IP40-UGR22"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-23/34W-840",
+        "note": "Product code: 542016014700; Title: Slim Panel Basic G4 Sq595-23|27|31|34W-2990|3510|4030|4420lm-4000K-IP40-UGR22"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-23/34W-830-U19",
+        "note": "Product code: 542016014200; Title: Slim Panel Basic G4 Sq595-23|27|31|34W-2990|3510|4030|4420lm-3000K-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-23/34W-840-U19",
+        "note": "Product code: 542016015700; Title: Slim Panel Basic G4 Sq595-23|27|31|34W-2990|3510|4030|4420lm-4000K-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Re295-23/34W-830",
+        "note": "Product code: 542016015000; Title: Slim Panel Basic G4 Re295-23|27|31|34W-2990|3510|4030|4420lm-3000K-IP40-UGR22"
+      },
+      {
+        "model": "LEDPanelS-B4 Re295-23/34W-840",
+        "note": "Product code: 542016014500; Title: Slim Panel Basic G4 Re295-23|27|31|34W-2990|3510|4030|4420lm-4000K-IP40-UGR22"
+      },
+      {
+        "model": "LEDPanelS-B4 Re295-23/34W-830-U19",
+        "note": "Product code: 542016014800; Title: Slim Panel Basic G4 Re295-23|27|31|34W-2990|3510|4030|4420lm-3000K-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Re295-23/34W-840-U19",
+        "note": "Product code: 542016014600; Title: Slim Panel Basic G4 Re295-23|27|31|34W-2990|3510|4030|4420lm-4000K-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-23/34W-830/840",
+        "note": "Product code: 542016013800; Title: Slim Panel Basic G4 Sq595-23|27|31|34W-2990|3510|4030|4420lm-3/4000K-IP40-UGR22"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-23/34W-830/840-U19",
+        "note": "Product code: 542016013400; Title: Slim Panel Basic G4 Sq595-23|27|31|34W-2990|3510|4030|4420lm-3/4000K-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-23/34W-830-U19-PIR",
+        "note": "Product code: 542016020500; Title: Slim Panel Basic G4 Sq595-23 - 34W-2990 - 4420lm-3000K-Sensor-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-23/34W-840-U19-PIR",
+        "note": "Product code: 542016016900; Title: Slim Panel Basic G4 Sq595-23 - 34W-2990 - 4420lm-4000K-Sensor-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-34W-DALI-830",
+        "note": "Product code: 542016014400; Title: Slim Panel Basic G4 Sq595-34W-4420lm-3000K-DALI-IP40-UGR22"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-34W-DALI-840",
+        "note": "Product code: 542016015500; Title: Slim Panel Basic G4 Sq595-34W-4420lm-4000K-DALI-IP40-UGR22"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-34W-DALI-830-U19",
+        "note": "Product code: 542016014100; Title: Slim Panel Basic G4 Sq595-34W-4420lm-3000K-DALI-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Sq595-34W-DALI-840-U19",
+        "note": "Product code: 542016015300; Title: Slim Panel Basic G4 Sq595-34W-4420lm-4000K-DALI-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Re295-34W-DALI-830",
+        "note": "Product code: 542016013500; Title: Slim Panel Basic G4 Re295-34W-4420lm-3000K-DALI-IP40-UGR22"
+      },
+      {
+        "model": "LEDPanelS-B4 Re295-34W-DALI-840",
+        "note": "Product code: 542016013200; Title: Slim Panel Basic G4 Re295-34W-4420lm-4000K-DALI-IP40-UGR22"
+      },
+      {
+        "model": "LEDPanelS-B4 Re295-34W-DALI-830-U19",
+        "note": "Product code: 542016013000; Title: Slim Panel Basic G4 Re295-34W-4420lm-3000K-DALI-IP40-UGR19"
+      },
+      {
+        "model": "LEDPanelS-B4 Re295-34W-DALI-840-U19",
+        "note": "Product code: 542016013300; Title: Slim Panel Basic G4 Re295-34W-4420lm-4000K-DALI-IP40-UGR19"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/panels/slim-panel-basic-g4",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/panels/slim-panel-basic-g4",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Slimp_B4.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-slim-panel-basic-g4.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-panel-lugano",
+    "sub": "panels-ceiling",
+    "name": "Lugano Low-Glare LED Panel",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A powerful, low-glare LED panel (UGR < 16) with even light distribution, fitted as standard with a CCT switch and CRI 90.",
+    "specs": [
+      "Powerful and low glare design LED panel",
+      "Standard equipped with CCT-switch and CRI90",
+      "Also available as Tunable White version",
+      "System efficacy of 125 lm/W",
+      "Compatible with Slim Panel surface mounting kit accessory",
+      "DALI2 driver compatible with 230V push dimming"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-panel-lugano.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "32 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700-6500K, 3/4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "3840 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, Bluetooth"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "8"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDLugano-P Sq595-32W-930/940-U16",
+    "variants": [
+      {
+        "model": "LEDLugano-P Sq595-32W-930/940-U16",
+        "note": "Product code: 542003172600; Title: Panel Lugano 595x595mm-32W-3840lm-3/4000K-UGR16"
+      },
+      {
+        "model": "LEDLugano-P Re295-32W-930/940-U16",
+        "note": "Product code: 542003172500; Title: Panel Lugano 1195x295mm-32W-3840lm-3/4000K-UGR16"
+      },
+      {
+        "model": "LEDLugano-P Sq595-32W-DALI-930/940-U16",
+        "note": "Product code: 542003173000; Title: Panel Lugano 595x595mm-32W-3840lm-3/4000K-DALI-UGR16"
+      },
+      {
+        "model": "LEDLugano-P Re295-32W-DALI-930/940-U16",
+        "note": "Product code: 542003172900; Title: Panel Lugano 1195x295mm-32W-3840lm-3/4000K-DALI-UGR16"
+      },
+      {
+        "model": "LEDLugano-P Sq595-32W-DALI-TW-U16",
+        "note": "Product code: 542003173400; Title: Panel Lugano 595x595mm-32W-3840lm-2.7/6.5K-DALI-UGR16"
+      },
+      {
+        "model": "LEDLugano-P Sq595-32W-BLE2-930/940-U16",
+        "note": "Product code: 542003172800; Title: Panel Lugano 595x595mm-32W-3840lm-3/4000K-Bluetooth-UGR16"
+      },
+      {
+        "model": "LEDLugano-P Re295-32W-BLE2-930/940-U16",
+        "note": "Product code: 542003172700; Title: Panel Lugano 1195x295mm-32W-3840lm-3/4000K-Bluetooth-UGR16"
+      },
+      {
+        "model": "LEDLugano-P Sq595-32W-BLE2-TW-U16",
+        "note": "Product code: 542003173200; Title: Panel Lugano 595x595mm-32W-3840lm-2.7/6.5K-Bluetooth-UGR16"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/panels/panel-lugano",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/panels/panel-lugano",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Lugano.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-panel-lugano.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-downlight-slim-ecomax-g2",
+    "sub": "downlights",
+    "name": "LED Slim Downlight EcoMax G2",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A slim downlight with efficacy up to 120 lm/W, a CCT switch and a power switch. Five lumen packages across five cut-outs from 100 to 200 mm.",
+    "specs": [
+      "Upgraded efficacy up to 120 lm/W",
+      "Flexible due to CCT switch and Power switch",
+      "Very flat design, only 34mm height",
+      "IP44 on light-emitting side"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-downlight-slim-ecomax-g2.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "6–18 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3/4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "600–2160 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "5"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDDownlightS-E2 Rd100-6W-830/840-WH",
+    "variants": [
+      {
+        "model": "LEDDownlightS-E2 Rd100-6W-830/840-WH",
+        "note": "Product code: 540001366000; Title: Downlight Slim EcoMax G2 Ø113mm-6W-600lm-3/4000K"
+      },
+      {
+        "model": "LEDDownlightS-E2 Rd125-9W-830/840-WH",
+        "note": "Product code: 540001366100; Title: Downlight Slim EcoMax G2 Ø140mm-9W-945lm-3/4000K"
+      },
+      {
+        "model": "LEDDownlightS-E2 Rd150-12W-830/840-WH",
+        "note": "Product code: 540001366300; Title: Downlight Slim EcoMax G2 Ø165mm-12W-1260lm-3/4000K"
+      },
+      {
+        "model": "LEDDownlightS-E2 Rd175-15W-830/840-WH",
+        "note": "Product code: 540001365500; Title: Downlight Slim EcoMax G2 Ø188mm-15W-1725lm-3/4000K"
+      },
+      {
+        "model": "LEDDownlightS-E2 Rd200-18W-830/840-WH",
+        "note": "Product code: 540001365800; Title: Downlight Slim EcoMax G2 Ø213mm-18W-2160lm-3/4000K"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/downlights/downlight-slim-ecomax-g2",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/downlights/downlight-slim-ecomax-g2",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Down_E2.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-downlight-slim-ecomax-g2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-downlight-compact-ecomax-g2",
+    "sub": "downlights",
+    "name": "LED Compact Downlight EcoMax G2",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A compact, stylish LED downlight in a sturdy all-metal housing, with an integrated driver for quicker installation.",
+    "specs": [
+      "Stylish and compact LED downlight",
+      "Sturdy full metal housing",
+      "Integrated driver for easier installation",
+      "High efficacy up to 140 lm/W",
+      "IP54 on light emitting side, Full IP54 versions available",
+      "Full range: 4 sizes with Multi Power"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-downlight-compact-ecomax-g2.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "16–24 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000|4000K, 4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2240–3360 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "8"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDDownlightCo-E2 Rd100-4/8W-830/840",
+    "variants": [
+      {
+        "model": "LEDDownlightCo-E2 Rd100-4/8W-830/840",
+        "note": "Product code: 540001532900; Title: Downlight Compact EcoMax G2 Ø115mm-4|8W-440|880lm-3000|4000K-IP54/IP20"
+      },
+      {
+        "model": "LEDDownlightCo-E2 Rd125-6/12W-830/840",
+        "note": "Product code: 540001533000; Title: Downlight Compact EcoMax G2 Ø145mm-6|12W-720|1440lm-3000|4000K-IP54/IP20"
+      },
+      {
+        "model": "LEDDownlightCo-E2 Rd150-8/16W-830/840",
+        "note": "Product code: 540001533100; Title: Downlight Compact EcoMax G2 Ø170mm-8|16W-1040|2080lm-3000|4000K-IP54/IP20"
+      },
+      {
+        "model": "LEDDownlightCo-E2 Rd200-10/20W-830/840",
+        "note": "Product code: 540001533200; Title: Downlight Compact EcoMax G2 Ø220mm-10|20W-1350|2700lm-3000|4000K-IP54/IP20"
+      },
+      {
+        "model": "LEDDownlightCo-E2 Rd200-16W-840-IP54",
+        "note": "Product code: 540001533600; Title: Downlight Compact EcoMax G2 Ø220mm-16W-2240lm-4000K-IP54"
+      },
+      {
+        "model": "LEDDownlightCo-E2 Rd200-25W-840-IP54",
+        "note": "Product code: 540001533500; Title: Downlight Compact EcoMax G2 Ø220mm-24W-3360lm-4000K-IP54"
+      },
+      {
+        "model": "LEDDownlightCo-E2 Rd150-8/16W-830/840-PIR",
+        "note": "Product code: 540001533300; Title: Downlight Compact EcoMax G2 Ø170mm-8|16W-880|1760lm-3000|4000K-PIR-IP54/IP20"
+      },
+      {
+        "model": "LEDDownlightCo-E2 Rd200-10/20W-830/840-PIR",
+        "note": "Product code: 540001532800; Title: Downlight Compact EcoMax G2 Ø220mm-10|20W-1200|2400lm-3000|4000K-PIR-IP54/IP20"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/downlights/downlight-compact-ecomax-g2",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/downlights/downlight-compact-ecomax-g2",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_DownComp_E2.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-downlight-compact-ecomax-g2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-downlight-flex-ecomax-g2",
+    "sub": "downlights",
+    "name": "LED Flex Downlight EcoMax G2",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A flexible downlight for surface or recessed mounting that covers a wide range of ceiling holes: Ø65–205 mm for the 18 W (220 mm outer diameter) and Ø120–260 mm for the 25 W (300 mm outer diameter).",
+    "specs": [
+      "Integrated CCT switch for color selection (3000K-4000K)",
+      "Available in round and square versions"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-downlight-flex-ecomax-g2.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "18–25 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3/4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1890–2625 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "4"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDDownlightF-E2 Rd165-9/18W-830/840",
+    "variants": [
+      {
+        "model": "LEDDownlightF-E2 Rd165-9/18W-830/840",
+        "note": "Product code: 540001433700; Title: Downlight Flex EcoMax G2 Ø220mm-18W-1890lm-3/4000K-110°-IP20"
+      },
+      {
+        "model": "LEDDownlightF-E2 Sq270-15/25W-830/840",
+        "note": "Product code: 540001434000; Title: Downlight Flex EcoMax G2 300mm-25W-2625lm-3/4000K-110°-IP20"
+      },
+      {
+        "model": "LEDDownlightF-E2 Sq165-9/18W-830/840",
+        "note": "Product code: 540001433900; Title: Downlight Flex EcoMax G2 220mm-18W-1890lm-3/4000K-110°-IP20"
+      },
+      {
+        "model": "LEDDownlightF-E2 Rd235-15/25W-830/840",
+        "note": "Product code: 540001433800; Title: Downlight Flex EcoMax G2 Ø300mm-25W-2625lm-3/4000K-110°-IP20"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/downlights/downlight-flex-ecomax-g2",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/downlights/downlight-flex-ecomax-g2",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_DLFlex_E2.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-downlight-flex-ecomax-g2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-downlight-ecomax-hg",
+    "sub": "downlights",
+    "name": "LED Downlight EcoMax HG",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A high-quality LED downlight with efficacy up to 120 lm/W and a built-in CCT switch (3000K/4000K). The 10 W and 20 W versions suit offices (UGR < 19).",
+    "specs": [
+      "10 and 20W versions suitable for office lighting (UGR<19)",
+      "Integrated CCT switch for color selection (3000K-4000K)",
+      "Available in cut-out of 150mm and 200mm",
+      "IP54 on light emitting side",
+      "Available in Triac and DALI2 dimming",
+      "DALI2 driver compatible with 230V push dimming"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-downlight-ecomax-hg.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "10–40 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3/4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200–4800 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, Triac"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "8"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDDownlightHG-E Rd150-10W-DIM-830/840",
+    "variants": [
+      {
+        "model": "LEDDownlightHG-E Rd150-10W-DIM-830/840",
+        "note": "Product code: 540001409600; Title: Downlight EcoMax HG Ø173mm-10W-1200lm-3/4000K-Triac-CRI80"
+      },
+      {
+        "model": "LEDDownlightHG-E Rd200-20W-DIM-830/840",
+        "note": "Product code: 540001409700; Title: Downlight EcoMax HG Ø226mm-20W-2400lm-3/4000K-Triac-CRI80"
+      },
+      {
+        "model": "LEDDownlightHG-E Rd200-30W-DIM-830/840",
+        "note": "Product code: 540001409800; Title: Downlight EcoMax HG Ø226mm-30W-3600lm-3/4000K-Triac-CRI80"
+      },
+      {
+        "model": "LEDDownlightHG-E Rd200-40W-DIM-830/840",
+        "note": "Product code: 540001409900; Title: Downlight EcoMax HG Ø226mm-40W-4800lm-3/4000K-Triac-CRI80"
+      },
+      {
+        "model": "LEDDownlightHG-E Rd150-10W-DALI-830/840",
+        "note": "Product code: 540001410000; Title: Downlight EcoMax HG Ø173mm-10W-1200lm-3/4000K-DALI-CRI80"
+      },
+      {
+        "model": "LEDDownlightHG-E Rd200-20W-DALI-830/840",
+        "note": "Product code: 540001410100; Title: Downlight EcoMax HG Ø226mm-20W-2400lm-3/4000K-DALI-CRI80"
+      },
+      {
+        "model": "LEDDownlightHG-E Rd200-30W-DALI-830/840",
+        "note": "Product code: 540001410200; Title: Downlight EcoMax HG Ø226mm-30W-3600lm-3/4000K-DALI-CRI80"
+      },
+      {
+        "model": "LEDDownlightHG-E Rd200-40W-DALI-830/840",
+        "note": "Product code: 540001410300; Title: Downlight EcoMax HG Ø226mm-40W-4800lm-3/4000K-DALI-CRI80"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/downlights/downlight-ecomax-hg",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/downlights/downlight-ecomax-hg",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/529098030800_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-downlight-ecomax-hg.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-spot-ava-g2",
+    "sub": "track-lights",
+    "name": "Ava G2 Tiltable Recessed LED Spot",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A modern recessed LED spot that tilts 25° for accent lighting. IP44 as standard for bathrooms and damp areas, with efficacy up to 77 lm/W and output up to 520 lm.",
+    "specs": [
+      "Beam angle of 30° provides an accent lighting effect"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-spot-ava-g2.webp",
+    "specRows": [
+      {
+        "label": "Colour temperature",
+        "value": "2700K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "385–520 lm"
+      },
+      {
+        "label": "Control",
+        "value": "Triac"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "6"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDSpotRA-Ava-E2 5W-Dim-2700-30D-BA",
+    "variants": [
+      {
+        "model": "LEDSpotRA-Ava-E2 5W-Dim-2700-30D-BA",
+        "note": "Product code: 541003207300; Title: Spot Ava G2 5W-385lm-2700K-30°-Triac-Aluminum"
+      },
+      {
+        "model": "LEDSpotRA-Ava-E2 5W-Dim-2700-30D-WH",
+        "note": "Product code: 541003207100; Title: Spot Ava G2 5W-385lm-2700K-30°-Triac-White"
+      },
+      {
+        "model": "LEDSpotRA-Ava-E2 5W-Dim-2700-30D-BL",
+        "note": "Product code: 541003538200; Title: Spot Ava G2 5W-385lm-2700K-30°-Triac-Black"
+      },
+      {
+        "model": "LEDSpotRA-Ava-E2 7W-Dim-2700-30D-BA",
+        "note": "Product code: 541003207700; Title: Spot Ava G2 7W-520lm-2700K-30°-Triac-Aluminum"
+      },
+      {
+        "model": "LEDSpotRA-Ava-E2 7W-Dim-2700-30D-WH",
+        "note": "Product code: 541003207500; Title: Spot Ava G2 7W-520lm-2700K-30°-Triac-White"
+      },
+      {
+        "model": "LEDSpotRA-Ava-E2 7W-Dim-2700-30D-BL",
+        "note": "Product code: 541003538400; Title: Spot Ava G2 7W-520lm-2700K-30°-Triac-Black"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/spots/spot-ava-g2",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/spots/spot-ava-g2",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Ava2.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-spot-ava-g2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-slim-spot-ecomax",
+    "sub": "track-lights",
+    "name": "LED Slim Spot EcoMax",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A super-slim spot only 31 mm high, with CRI 90 colour rendering and a built-in CCT switch (2700K / 3000K / 4000K).",
+    "specs": [
+      "Stylish, and super slim spot with only 31mm height",
+      "Excellent color rendering with CRI90",
+      "External flicker free driver",
+      "Triac dimming version in 7W",
+      "Universal cut-out of 68mm"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-slim-spot-ecomax.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "6–8 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3/4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "525–735 lm"
+      },
+      {
+        "label": "Control",
+        "value": "Triac"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "6"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDSpotRA-Slim-E 5W-927/930/940-AL",
+    "variants": [
+      {
+        "model": "LEDSpotRA-Slim-E 5W-927/930/940-AL",
+        "note": "Product code: 541003767400; Title: Slim Spot EcoMax Ø85mm-6W-525lm-3/4000K-36°-Aluminum"
+      },
+      {
+        "model": "LEDSpotRA-Slim-E 5W-927/930/940-WH",
+        "note": "Product code: 541003767200; Title: Slim Spot EcoMax Ø85mm-6W-525lm-3/4000K-36°-White"
+      },
+      {
+        "model": "LEDSpotRA-Slim-E 5W-927/930/940-BL",
+        "note": "Product code: 541003767300; Title: Slim Spot EcoMax Ø85mm-6W-525lm-3/4000K-36°-Black"
+      },
+      {
+        "model": "LEDSpotRA-Slim-E 7W-927/930/940-DIM-AL",
+        "note": "Product code: 541003767700; Title: Slim Spot EcoMax Ø85mm-8W-735lm-3/4000K-36°-Triac-Aluminum"
+      },
+      {
+        "model": "LEDSpotRA-Slim-E 7W-927/930/940-DIM-WH",
+        "note": "Product code: 541003767500; Title: Slim Spot EcoMax Ø85mm-8W-735lm-3/4000K-36°-Triac-White"
+      },
+      {
+        "model": "LEDSpotRA-Slim-E 7W-927/930/940-DIM-BL",
+        "note": "Product code: 541003767600; Title: Slim Spot EcoMax Ø85mm-8W-735lm-3/4000K-36°-Triac-Black"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/spots/slim-spot-ecomax",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/spots/slim-spot-ecomax",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Spot_Slim.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-slim-spot-ecomax.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-sensors",
+    "sub": "accessories",
+    "name": "Smart Sensor Range (Relay / DALI-2 / Bluetooth)",
+    "brand": "Opple",
+    "category": "Accessories",
+    "use": "A compact sensor range in relay (230V), DALI-2 broadcast, DALI-2 input and Smart BLE2 versions. Asymmetric corridor versions detect up to Ø 28 m, with sensitivity and daylight threshold set by rotary switches or remote.",
+    "specs": [
+      "Surface mounting accessory available"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/opple-sensors.webp",
+    "specRows": [
+      {
+        "label": "Control",
+        "value": "DALI-2, Bluetooth"
+      },
+      {
+        "label": "Variants listed",
+        "value": "0"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "sensors",
+    "source": "https://www.opple.eu/en/product/indoor/sensors/sensors",
+    "_meta": {
+      "feed": "ceiling-downlights-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "smart-controls",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/sensors/sensors",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Sensors.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-sensors.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-ringo",
+    "sub": "chandeliers",
+    "name": "Ringo SDL Pendant / Ceiling Luminaire",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A luxury decorative family using OPPLE's SDL Natural Light Technology for soft, beautiful ambient light.",
+    "specs": [
+      "Luxury design product family",
+      "Powered by SDL Natural Light Technology",
+      "Enabling beautiful ambient lighting",
+      "Supports advanced Human-Centric Lighting (HCL) solutions",
+      "Adjustable height and angle for tailored positioning"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/decorative/opple-ringo.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "53–75 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "1800 - 12000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "3200–4500 lm"
+      },
+      {
+        "label": "Control",
+        "value": "Bluetooth"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "5"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDRingo SDL-S Sd-Rd600-75W-BLE2-BL",
+    "variants": [
+      {
+        "model": "LEDRingo SDL-S Sd-Rd600-75W-BLE2-BL",
+        "note": "Product code: 521026005900; Title: Ringo Ø600mm-75W-4500lm-1800 - 12000K-60°-Bluetooth-Black-CRI95"
+      },
+      {
+        "model": "LEDRingo SDL-S Sd-Rd400-53W-BLE2-BL",
+        "note": "Product code: 521026006000; Title: Ringo Ø400mm-53W-3200lm-1800 - 12000K-60°-Bluetooth-Black-CRI95"
+      },
+      {
+        "model": "LEDRingo SDL-S Sf-Rd600-75W-BLE2-BL",
+        "note": "Product code: 521026006100; Title: Ringo Ø600mm-75W-4500lm-1800 - 12000K-60°-Bluetooth-Black-CRI95"
+      },
+      {
+        "model": "LEDRingo SDL-S Sf-Rd400-53W-BLE2-BL",
+        "note": "Product code: 521026006200; Title: Ringo Ø400mm-53W-3200lm-1800 - 12000K-60°-Bluetooth-Black-CRI95"
+      },
+      {
+        "model": "LEDRingo SDL-S L1400-59W-BLE2-BL",
+        "note": "Product code: 521026006300; Title: Ringo 1400mm-59W-3500lm-1800 - 12000K-60°-Bluetooth-Black-CRI95"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/suspended-luminaires/ringo",
+    "_meta": {
+      "feed": "decorative-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "decorative",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/suspended-luminaires/ringo",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Ringo.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-ringo.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-suspended-halo",
+    "sub": "chandeliers",
+    "name": "Halo Round Suspended Luminaire",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A slim, stylish round luminaire for suspended or surface mounting, in 400, 600 and 800 mm diameters. Choose a CCT-switch version (3000K/4000K) or Tunable White (2700K–6500K).",
+    "specs": [
+      "Three refined sizes: 400 mm, 600 mm, and 800 mm diameter",
+      "Available as DALI2 and Smart Lighting solution (BLE2)"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/decorative/opple-suspended-halo.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "20–80 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700-6500K, 3000|4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2200–10000 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, Bluetooth"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "24"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDHalo-P Rd400-DALI-20W-830/840-D-U19",
+    "variants": [
+      {
+        "model": "LEDHalo-P Rd400-DALI-20W-830/840-D-U19",
+        "note": "Product code: 520036048000; Title: Suspended Halo Ø400mm-20W-2200lm-3000|4000K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd600-DALI-40W-830/840-D-U19",
+        "note": "Product code: 520036048100; Title: Suspended Halo Ø600mm-40W-5000lm-3000|4000K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd800-DALI-80W-830/840-D-U19",
+        "note": "Product code: 520036048200; Title: Suspended Halo Ø800mm-80W-10000lm-3000|4000K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd400-DALI-20W-830/840-D/I-U19",
+        "note": "Product code: 520036049200; Title: Suspended Halo Ø400mm-20W-2300lm-3000|4000K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd600-DALI-40W-830/840-D/I-U19",
+        "note": "Product code: 520036049300; Title: Suspended Halo Ø600mm-40W-5000lm-3000|4000K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd800-DALI-80W-830/840-D/I-U19",
+        "note": "Product code: 520036049400; Title: Suspended Halo Ø800mm-80W-10000lm-3000|4000K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd400-DALI-20W-TW-D-U19",
+        "note": "Product code: 520036048600; Title: Suspended Halo Ø400mm-20W-2200lm-2700-6500K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd600-DALI-40W-TW-D-U19",
+        "note": "Product code: 520036048700; Title: Suspended Halo Ø600mm-40W-5000lm-2700-6500K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd800-DALI-80W-TW-D-U19",
+        "note": "Product code: 520036048800; Title: Suspended Halo Ø800mm-80W-10000lm-2700-6500K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd400-DALI-20W-TW-D/I-U19",
+        "note": "Product code: 520036049800; Title: Suspended Halo Ø400mm-20W-2300lm-2700-6500K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd600-DALI-40W-TW-D/I-U19",
+        "note": "Product code: 520036049900; Title: Suspended Halo Ø600mm-40W-5000lm-2700-6500K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd800-DALI-80W-TW-D/I-U19",
+        "note": "Product code: 520036050000; Title: Suspended Halo Ø800mm-80W-10000lm-2700-6500K-90°-DALI-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd400-BLE2-20W-830/840-D-U19",
+        "note": "Product code: 520036048300; Title: Suspended Halo Ø400mm-20W-2200lm-3000|4000K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd600-BLE2-40W-830/840-D-U19",
+        "note": "Product code: 520036048400; Title: Suspended Halo Ø600mm-40W-5000lm-3000|4000K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd800-BLE2-80W-830/840-D-U19",
+        "note": "Product code: 520036048500; Title: Suspended Halo Ø800mm-80W-10000lm-3000|4000K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd400-BLE2-20W-830/840-D/I-U19",
+        "note": "Product code: 520036049500; Title: Suspended Halo Ø400mm-20W-2300lm-3000|4000K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd600-BLE2-40W-830/840-D/I-U19",
+        "note": "Product code: 520036049600; Title: Suspended Halo Ø600mm-40W-5000lm-3000|4000K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd800-BLE2-80W-830/840-D/I-U19",
+        "note": "Product code: 520036049700; Title: Suspended Halo Ø800mm-80W-10000lm-3000|4000K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd400-BLE2-20W-TW-D-U19",
+        "note": "Product code: 520036048900; Title: Suspended Halo Ø400mm-20W-2200lm-2700-6500K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd600-BLE2-40W-TW-D-U19",
+        "note": "Product code: 520036049000; Title: Suspended Halo Ø600mm-40W-5000lm-2700-6500K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd800-BLE2-80W-TW-D-U19",
+        "note": "Product code: 520036049100; Title: Suspended Halo Ø800mm-80W-10000lm-2700-6500K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd400-BLE2-20W-TW-D/I-U19",
+        "note": "Product code: 520036050100; Title: Suspended Halo Ø400mm-20W-2300lm-2700-6500K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd600-BLE2-40W-TW-D/I-U19",
+        "note": "Product code: 520036050200; Title: Suspended Halo Ø600mm-40W-5000lm-2700-6500K-90°-Bluetooth-CRI80"
+      },
+      {
+        "model": "LEDHalo-P Rd800-BLE2-80W-TW-D/I-U19",
+        "note": "Product code: 520036050300; Title: Suspended Halo Ø800mm-80W-10000lm-2700-6500K-90°-Bluetooth-CRI80"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/suspended-luminaires/suspended-halo",
+    "_meta": {
+      "feed": "decorative-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "decorative",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/suspended-luminaires/suspended-halo",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Halo.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-suspended-halo.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-lima-g2",
+    "sub": "pendants",
+    "name": "Lima G2 Linear Suspended Luminaire",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "An elegant linear luminaire in a premium aluminium housing, finished in aluminium or black. L, T, X and I connectors build continuous lines or custom layouts, and every version is UGR < 19 for visual comfort.",
+    "specs": [
+      "UGR < 19 in all versions for comfortable visual comfort",
+      "Suspension kit included",
+      "Available as DALI2 and Smart Lighting solution (BLE2)"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-lima-g2.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "20–33 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000|4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2000–4290 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, Bluetooth"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "16"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDLima-P2 L12-28W-DALI-830/840-U19-BL",
+    "variants": [
+      {
+        "model": "LEDLima-P2 L12-28W-DALI-830/840-U19-BL",
+        "note": "Product code: 529000318300; Title: Lima G2 1202mm-28W-3360lm-3000|4000K-90°-DALI-Black-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L12-28W-DALI-830/840-U19-AL",
+        "note": "Product code: 529000318500; Title: Lima G2 1202mm-28W-3640lm-3000|4000K-90°-DALI-Silver-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L15-33W-DALI-830/840-U19-BL",
+        "note": "Product code: 529000318700; Title: Lima G2 1502mm-33W-3960lm-3000|4000K-90°-DALI-Black-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L15-33W-DALI-830/840-U19-AL",
+        "note": "Product code: 529000318900; Title: Lima G2 1502mm-33W-4290lm-3000|4000K-90°-DALI-Silver-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L12-20W-DALI-830/840-D-U19-BL",
+        "note": "Product code: 529000319100; Title: Lima G2 1202mm-20W-2000lm-3000|4000K-90°-DALI-Black-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L12-20W-DALI-830/840-D-U19-AL",
+        "note": "Product code: 529000319300; Title: Lima G2 1202mm-20W-2300lm-3000|4000K-90°-DALI-Silver-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L15-23W-DALI-830/840-D-U19-BL",
+        "note": "Product code: 529000319500; Title: Lima G2 1502mm-23W-2300lm-3000|4000K-90°-DALI-Black-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L15-23W-DALI-830/840-D-U19-AL",
+        "note": "Product code: 529000319700; Title: Lima G2 1502mm-23W-2645lm-3000|4000K-90°-DALI-Silver-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L12-28W-BLE2-830/840-U19-BL",
+        "note": "Product code: 529000318400; Title: Lima G2 1202mm-28W-3360lm-3000|4000K-90°-Bluetooth-Black-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L12-28W-BLE2-830/840-U19-AL",
+        "note": "Product code: 529000318600; Title: Lima G2 1202mm-28W-3640lm-3000|4000K-90°-Bluetooth-Silver-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L15-33W-BLE2-830/840-U19-BL",
+        "note": "Product code: 529000318800; Title: Lima G2 1502mm-33W-3960lm-3000|4000K-90°-Bluetooth-Black-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L15-33W-BLE2-830/840-U19-AL",
+        "note": "Product code: 529000319000; Title: Lima G2 1502mm-33W-4290lm-3000|4000K-90°-Bluetooth-Silver-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L12-20W-BLE2-830/840-D-U19-BL",
+        "note": "Product code: 529000319200; Title: Lima G2 1202mm-20W-2000lm-3000|4000K-90°-Bluetooth-Black-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L12-20W-BLE2-830/840-D-U19-AL",
+        "note": "Product code: 529000319400; Title: Lima G2 1202mm-20W-2300lm-3000|4000K-90°-Bluetooth-Silver-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L15-23W-BLE2-830/840-D-U19-BL",
+        "note": "Product code: 529000319600; Title: Lima G2 1502mm-23W-2300lm-3000|4000K-90°-Bluetooth-Black-UGR19"
+      },
+      {
+        "model": "LEDLima-P2 L15-23W-BLE2-830/840-D-U19-AL",
+        "note": "Product code: 529000319800; Title: Lima G2 1502mm-23W-2645lm-3000|4000K-90°-Bluetooth-Silver-UGR19"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/suspended-luminaires/lima-g2",
+    "_meta": {
+      "feed": "decorative-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/suspended-luminaires/lima-g2",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Lima_P2.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-lima-g2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-suspended-linear-tallinn",
+    "sub": "pendants",
+    "name": "Tallinn Direct/Indirect Linear Pendant",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A modern direct/indirect suspended linear for offices, with very low glare (UGR < 10). Magnetic connections make it easy to mount several fittings together.",
+    "specs": [
+      "Modern direct/indirect suspended LED linear",
+      "Low glare UGR < 10, suitable for office spaces",
+      "Stylish black reflector",
+      "Flexible due to 2700-6500K Tunable White (TW)",
+      "Professional finishing in adonized black or matt white",
+      "Available in DALI and Smart (BLE2)"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-suspended-linear-tallinn.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "45 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700-6500K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4050 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, Bluetooth"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "4"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDTallinn-P L15-45W-DALI-TW-D/I-U10-WH",
+    "variants": [
+      {
+        "model": "LEDTallinn-P L15-45W-DALI-TW-D/I-U10-WH",
+        "note": "Product code: 529000105800; Title: Suspended Linear Tallinn 1500mm-45W-4050lm-2.7/6.5K-120°x50°-White-UGR10"
+      },
+      {
+        "model": "LEDTallinn-P L15-45W-DALI-TW-D/I-U10-BL",
+        "note": "Product code: 529000105900; Title: Suspended Linear Tallinn 1500mm-45W-4050lm-2.7/6.5K-120°x50°-Black-UGR10"
+      },
+      {
+        "model": "LEDTallinn-P L15-45W-BLE2-TW-D/I-U10-WH",
+        "note": "Product code: 529000106000; Title: Suspended Linear Tallinn 1500mm-45W-4050lm-2.7/6.5K-120°x50°-White-UGR10"
+      },
+      {
+        "model": "LEDTallinn-P L15-45W-BLE2-TW-D/I-U10-BL",
+        "note": "Product code: 529000106100; Title: Suspended Linear Tallinn 1500mm-45W-4050lm-2.7/6.5K-120°x50°-Black-UGR10"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/suspended-luminaires/suspended-linear-tallinn",
+    "_meta": {
+      "feed": "decorative-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/suspended-luminaires/suspended-linear-tallinn",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/529098030800_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-suspended-linear-tallinn.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "opple-panel-suspended-riga",
+    "sub": "pendants",
+    "name": "Riga Direct/Indirect Suspended Panel",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A clean, minimal direct/indirect suspended panel for offices, with low glare (UGR 19).",
+    "specs": [
+      "Stylish direct/indirect suspended LED panel",
+      "Clean minimalistic design",
+      "Low Glare UGR19, suitable for office spaces",
+      "Flexible due to 3000/3500/4000K CCT and Power Switch",
+      "DALI2 and Smart Lighting (BLE2) versions available",
+      "DALI2 driver compatible with 230V push dimming"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-panel-suspended-riga.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "34–40 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3/4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "5000 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, Bluetooth"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "2"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDRiga-P Re295-34/40W-DALI-830/840",
+    "variants": [
+      {
+        "model": "LEDRiga-P Re295-34/40W-DALI-830/840",
+        "note": "Product code: 542004095200; Title: Panel Suspended Riga 1200x300mm-34/40W-5000lm-3/4000K-DALI-UGR19"
+      },
+      {
+        "model": "LEDRiga-P Re295-34/40W-BLE2-830/840",
+        "note": "Product code: 542004095300; Title: Panel Suspended Riga 1200x300mm-34/40W-5000lm-3/4000K-Bluetooth-UGR19"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/suspended-luminaires/panel-suspended-riga",
+    "_meta": {
+      "feed": "decorative-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/suspended-luminaires/panel-suspended-riga",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Riga.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-panel-suspended-riga.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:38+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-a60-e27-smart-bulb-1100-8719514288232a",
+    "sub": "lamps-bulbs",
+    "name": "Hue White A60 - E27 smart bulb - 1100",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "A60 - E27 smart bulb - 1100 from the Philips Hue White range, E27 cap, 1100 lm, soft white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-a60-e27-smart-bulb-1100-8719514288232a.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.5"
+      },
+      {
+        "label": "Cap",
+        "value": "E27"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "1,055 lm"
+      },
+      {
+        "label": "Form factor",
+        "value": "A60"
+      },
+      {
+        "label": "Light output",
+        "value": "Soft white light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "1100 lm"
+      },
+      {
+        "label": "Wattage equivalent",
+        "value": "75 W"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514288232A",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-a60-e27-smart-bulb-1100/8719514288232A",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-a60-e27-smart-bulb-1100/8719514288232A"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514288232a.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-a60-b22-smart-bulb-800-8719514329867",
+    "sub": "lamps-bulbs",
+    "name": "Hue White A60 - B22 smart bulb - 800",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "A60 - B22 smart bulb - 800 from the Philips Hue White range, B22 cap, 800 lm, soft white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-a60-b22-smart-bulb-800-8719514329867.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.5"
+      },
+      {
+        "label": "Diameter",
+        "value": "61 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "B22"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "806 lm"
+      },
+      {
+        "label": "Form factor",
+        "value": "A60"
+      },
+      {
+        "label": "Light output",
+        "value": "Soft white light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "800 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514329867",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-a60-b22-smart-bulb-800/8719514329867",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-a60-b22-smart-bulb-800/8719514329867"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514329867.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-ambiance-a60-e27-smart-bulb-1100-8719514291119",
+    "sub": "lamps-bulbs",
+    "name": "Hue White Ambiance A60 - E27 smart bulb - 1100",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "A60 - E27 smart bulb - 1100 from the Philips Hue White Ambiance range, E27 cap, 1055 lm @ 4000K, warm to cool white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-ambiance-a60-e27-smart-bulb-1100-8719514291119.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.5"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "1,055 lm"
+      },
+      {
+        "label": "Diameter",
+        "value": "60 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "E27"
+      },
+      {
+        "label": "Form factor",
+        "value": "A60"
+      },
+      {
+        "label": "Light output",
+        "value": "Warm to cool white light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "1055 lm @ 4000K"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514291119",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-a60-e27-smart-bulb-1100/8719514291119",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-a60-e27-smart-bulb-1100/8719514291119"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514291119.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-and-colour-ambiance-a60-e27-smart-bulb-1100-8719514291171",
+    "sub": "lamps-bulbs",
+    "name": "Hue White and Colour Ambiance A60 - E27 smart bulb - 1100",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "A60 - E27 smart bulb - 1100 from the Philips Hue White and Colour Ambiance range, E27 cap, 1055 lm @ 4000K, white and colour light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-and-colour-ambiance-a60-e27-smart-bulb-1100-8719514291171.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.8"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "1,055 lm"
+      },
+      {
+        "label": "Diameter",
+        "value": "60 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "E27"
+      },
+      {
+        "label": "Form factor",
+        "value": "A60"
+      },
+      {
+        "label": "Light output",
+        "value": "White and colour light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "1055 lm @ 4000K"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White and Colour Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514291171",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-a60-e27-smart-bulb-1100/8719514291171",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-a60-e27-smart-bulb-1100/8719514291171"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514291171.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-a67-b22-smart-bulb-1600-8720169365971",
+    "sub": "lamps-bulbs",
+    "name": "Hue White A67 - B22 smart bulb - 1600",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "A67 - B22 smart bulb - 1600 from the Philips Hue White range, B22 cap, 1,600 lm, soft white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-a67-b22-smart-bulb-1600-8720169365971.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.7"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "1,600 lm"
+      },
+      {
+        "label": "Diameter",
+        "value": "67 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "B22"
+      },
+      {
+        "label": "Form factor",
+        "value": "A21"
+      },
+      {
+        "label": "Light output",
+        "value": "Soft white light"
+      },
+      {
+        "label": "Wattage equivalent",
+        "value": "100 W"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8720169365971",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-a67-b22-smart-bulb-1600/8720169365971",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-a67-b22-smart-bulb-1600/8720169365971"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8720169365971.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-gu10-smart-spotlight-8719514340060",
+    "sub": "lamps-bulbs",
+    "name": "Hue White GU10 - smart spotlight",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "GU10 - smart spotlight from the Philips Hue White range, GU10 cap, 400 lm, soft white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-gu10-smart-spotlight-8719514340060.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.8"
+      },
+      {
+        "label": "Diameter",
+        "value": "50 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "GU10"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "400 lm"
+      },
+      {
+        "label": "Form factor",
+        "value": "GU10"
+      },
+      {
+        "label": "Light output",
+        "value": "Soft white light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "400 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514340060",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-gu10-smart-spotlight/8719514340060",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-gu10-smart-spotlight/8719514340060"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514340060.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-ambiance-gu10-smart-spotlight-8719514339903",
+    "sub": "lamps-bulbs",
+    "name": "Hue White Ambiance GU10 - smart spotlight",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "GU10 - smart spotlight from the Philips Hue White Ambiance range, GU10 cap, 350 lm @ 4000K, warm to cool white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-ambiance-gu10-smart-spotlight-8719514339903.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.5"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "350 lm"
+      },
+      {
+        "label": "Diameter",
+        "value": "50 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "GU10"
+      },
+      {
+        "label": "Form factor",
+        "value": "GU10"
+      },
+      {
+        "label": "Light output",
+        "value": "Warm to cool white light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "350 lm @ 4000K"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514339903",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-gu10-smart-spotlight/8719514339903",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-gu10-smart-spotlight/8719514339903"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514339903.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-and-colour-ambiance-gu10-smart-spotlight-8719514339880",
+    "sub": "lamps-bulbs",
+    "name": "Hue White and Colour Ambiance GU10 - smart spotlight",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "GU10 - smart spotlight from the Philips Hue White and Colour Ambiance range, GU10 cap, 350 lm @ 4000K, white and colour light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-and-colour-ambiance-gu10-smart-spotlight-8719514339880.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.8"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "350 lm"
+      },
+      {
+        "label": "Diameter",
+        "value": "50 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "GU10"
+      },
+      {
+        "label": "Form factor",
+        "value": "GU10"
+      },
+      {
+        "label": "Light output",
+        "value": "White and colour light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "350 lm @ 4000K"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White and Colour Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514339880",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-gu10-smart-spotlight/8719514339880",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-gu10-smart-spotlight/8719514339880"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514339880.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-ambiance-candle-e14-smart-bulb-8719514356658",
+    "sub": "lamps-bulbs",
+    "name": "Hue White Ambiance Candle - E14 smart bulb",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Candle - E14 smart bulb from the Philips Hue White Ambiance range, E14 cap, 470 lm @ 4,000 K, warm to cool white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-ambiance-candle-e14-smart-bulb-8719514356658.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.5"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "470 lm"
+      },
+      {
+        "label": "Diameter",
+        "value": "39 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "E14"
+      },
+      {
+        "label": "Form factor",
+        "value": "B39"
+      },
+      {
+        "label": "Light output",
+        "value": "Warm to cool white light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "470 lm @ 4,000 K"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514356658",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-candle-e14-smart-bulb/8719514356658",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-candle-e14-smart-bulb/8719514356658"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514356658.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-and-colour-ambiance-candle-e14-smart-bulb-8719514356610",
+    "sub": "lamps-bulbs",
+    "name": "Hue White and Colour Ambiance Candle - E14 smart bulb",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Candle - E14 smart bulb from the Philips Hue White and Colour Ambiance range, E14 cap, 470 lm @ 4,000 K, white and colour light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-and-colour-ambiance-candle-e14-smart-bulb-8719514356610.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.5"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "470 lm"
+      },
+      {
+        "label": "Diameter",
+        "value": "39 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "E14"
+      },
+      {
+        "label": "Form factor",
+        "value": "B39"
+      },
+      {
+        "label": "Light output",
+        "value": "White and colour light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "470 lm @ 4,000 K"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White and Colour Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514356610",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-candle-e14-smart-bulb/8719514356610",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-candle-e14-smart-bulb/8719514356610"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514356610.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-a60-e27-smart-bulb-8719514342941",
+    "sub": "lamps-bulbs",
+    "name": "Hue White A60 - E27 smart bulb",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "A60 - E27 smart bulb from the Philips Hue White range, E27 cap, 550 lm, soft white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-a60-e27-smart-bulb-8719514342941.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.6"
+      },
+      {
+        "label": "Diameter",
+        "value": "60 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "E27"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "580 lm"
+      },
+      {
+        "label": "Form factor",
+        "value": "A60"
+      },
+      {
+        "label": "Light output",
+        "value": "Soft white light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "550 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514342941",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-filament-a60-e27-smart-bulb/8719514342941",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-filament-a60-e27-smart-bulb/8719514342941"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514342941.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-st64-edison-e27-smart-bulb-8719514342989",
+    "sub": "lamps-bulbs",
+    "name": "Hue White ST64 Edison - E27 smart bulb",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "ST64 Edison - E27 smart bulb from the Philips Hue White range, E27 cap, 580 lm, soft white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-st64-edison-e27-smart-bulb-8719514342989.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.6"
+      },
+      {
+        "label": "Diameter",
+        "value": "60 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "E27"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "580 lm"
+      },
+      {
+        "label": "Form factor",
+        "value": "ST64"
+      },
+      {
+        "label": "Light output",
+        "value": "Soft white light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "580 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514342989",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-filament-st64-edison-e27-smart-bulb/8719514342989",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-filament-st64-edison-e27-smart-bulb/8719514342989"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514342989.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-ambiance-g93-globe-e27-smart-bulb-8719514301481",
+    "sub": "lamps-bulbs",
+    "name": "Hue White Ambiance G93 globe - E27 smart bulb",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "G93 globe - E27 smart bulb from the Philips Hue White Ambiance range, E27 cap, 550 lm, warm to cool white light. Controllable via Bluetooth or a Hue Bridge (Zigbee) with app and voice control, it suits everyday residential lighting.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-ambiance-g93-globe-e27-smart-bulb-8719514301481.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220V-240V"
+      },
+      {
+        "label": "Power factor",
+        "value": "0.6"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "550 lm"
+      },
+      {
+        "label": "Diameter",
+        "value": "95 mm"
+      },
+      {
+        "label": "Cap",
+        "value": "E27"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "550 lm"
+      },
+      {
+        "label": "Form factor",
+        "value": "G93"
+      },
+      {
+        "label": "Light output",
+        "value": "Warm to cool white light"
+      },
+      {
+        "label": "Lumen output",
+        "value": "550 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514301481",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-filament-g93-globe-e27-smart-bulb/8719514301481",
+    "_meta": {
+      "feed": "lamps-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-filament-g93-globe-e27-smart-bulb/8719514301481"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514301481.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "opple-reflector-gu10-ecomax-g2",
+    "sub": "lamps-bulbs",
+    "name": "LED Reflector Lamp GU10 EcoMax G2",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A direct LED replacement for existing halogen GU10 lamps. Dimmable versions reach up to 604 lm, and Warm Dim versions shift from 3000K down to a warmer 1800K as they are dimmed.",
+    "specs": [
+      "Full retrofit of existing halogen GU10 lamps",
+      "Dimmable versions available up to 604lm",
+      "Available in 3000K and 4000K",
+      "With light silver outer finish",
+      "No UV/IR radiation"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-reflector-gu10-ecomax-g2.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "2.5–5.75 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "1800-3000K, 3000K, 4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "238–575 lm"
+      },
+      {
+        "label": "Control",
+        "value": "Triac"
+      },
+      {
+        "label": "Variants listed",
+        "value": "7"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDGU10-E2 2.5W-DIM-830-36D",
+    "variants": [
+      {
+        "model": "LEDGU10-E2 2.5W-DIM-830-36D",
+        "note": "Product code: 800021001900; Title: Reflector GU10 EcoMax G2 Ø50mm-2,5W-332lm-3000K-36°-Triac"
+      },
+      {
+        "model": "LEDGU10-E2 3.5W-DIM-830-36D",
+        "note": "Product code: 800021002200; Title: Reflector GU10 EcoMax G2 Ø50mm-3,5W-238lm-3000K-36°-Triac"
+      },
+      {
+        "model": "LEDGU10-E2 3.5W-DIM-840-36D",
+        "note": "Product code: 800021002300; Title: Reflector GU10 EcoMax G2 Ø50mm-3,5W-368lm-4000K-36°-Triac"
+      },
+      {
+        "model": "LEDGU10-E2 5.75W-DIM-830-36D",
+        "note": "Product code: 800021002500; Title: Reflector GU10 EcoMax G2 Ø50mm-5,75W-250lm-3000K-36°-Triac"
+      },
+      {
+        "model": "LEDGU10-E2 5.75W-DIM-840-36D",
+        "note": "Product code: 800021002600; Title: Reflector GU10 EcoMax G2 Ø50mm-5,75W-263lm-4000K-36°-Triac"
+      },
+      {
+        "model": "LEDGU10-E2 3.5W-DIM-WarmDim-36D",
+        "note": "Product code: 800021002800; Title: Reflector GU10 EcoMax G2 Ø50mm-3,5W-350lm-1,8/3K-36°-Triac"
+      },
+      {
+        "model": "LEDGU10-E2 5.75W-DIM-WarmDim-36D",
+        "note": "Product code: 800021002900; Title: Reflector GU10 EcoMax G2 Ø50mm-5,75W-575lm-1,8/3K-36°-Triac"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/lamps/reflector-lamps/reflector-gu10-ecomax-g2",
+    "_meta": {
+      "feed": "lamps-tubes-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/lamps/reflector-lamps/reflector-gu10-ecomax-g2",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_GU10_E2.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-reflector-gu10-ecomax-g2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "opple-t8-tube-ecomax",
+    "sub": "tubes-battens",
+    "name": "LED T8 Tube EcoMax",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "Single-ended LED tube with OPPLE's patented driver, fully IEC compliant, at 130 lm/W (about 75% of the T8 Tube Performer G2's output). For retrofitting T8 fittings with electromagnetic (EM) ballasts only.",
+    "specs": [
+      "75% output/efficacy of T8 Tube Performer G2 with 130 lm/W",
+      "No warm-up time, 100% light instantly when switched on",
+      "Full glass body"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-t8-tube-ecomax.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "14–17 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K, 6500K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1800–2200 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "3"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDTubeT8-EMB-E L1200-14W-865",
+    "variants": [
+      {
+        "model": "LEDTubeT8-EMB-E L1200-14W-865",
+        "note": "Product code: 802003021700; Title: T8 Tube EcoMax Ø26mm-14W-1800lm-6500K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-E L1500-17W-830",
+        "note": "Product code: 802003021800; Title: T8 Tube EcoMax Ø26mm-17W-2200lm-3000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-E L1500-17W-865",
+        "note": "Product code: 802003022000; Title: T8 Tube EcoMax Ø26mm-17W-2200lm-6500K"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/lamps/tubes/t8-tube-ecomax",
+    "_meta": {
+      "feed": "lamps-tubes-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/lamps/tubes/t8-tube-ecomax",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_T8_Tube_E.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-t8-tube-ecomax.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "opple-t8-tube-performer-g2",
+    "sub": "tubes-battens",
+    "name": "LED T8 Tube Performer G2",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "Single-ended, fully IEC-compliant LED tube with OPPLE's patented driver and an improved efficacy of 170 lm/W. High-output versions are available.",
+    "specs": [
+      "NEW: High Output versions available",
+      "Improved efficacy of 170 lm/W",
+      "No warm-up time, 100% light instantly when switched on",
+      "Full glass body"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-t8-tube-performer-g2.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "6–22 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K, 4000K, 6500K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1050–3740 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "15"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDTubeT8-EMB-P2 L600-6W-830",
+    "variants": [
+      {
+        "model": "LEDTubeT8-EMB-P2 L600-6W-830",
+        "note": "Product code: 802003020300; Title: T8 Tube Performer G2 Ø26mm-6W-1050lm-3000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L600-6W-840",
+        "note": "Product code: 802003020400; Title: T8 Tube Performer G2 Ø26mm-6W-1050lm-4000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L600-6W-865",
+        "note": "Product code: 802003020500; Title: T8 Tube Performer G2 Ø26mm-6W-1050lm-6500K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1200-12W-830",
+        "note": "Product code: 802003020600; Title: T8 Tube Performer G2 Ø26mm-12W-2100lm-3000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1200-12W-840",
+        "note": "Product code: 802003020700; Title: T8 Tube Performer G2 Ø26mm-12W-2100lm-4000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1200-12W-865",
+        "note": "Product code: 802003020800; Title: T8 Tube Performer G2 Ø26mm-12W-2100lm-6500K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1200 16W-830",
+        "note": "Product code: 802003034700; Title: T8 Tube Performer G2 Ø26mm-16W-2560lm-3000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1200 16W-840",
+        "note": "Product code: 802003034300; Title: T8 Tube Performer G2 Ø26mm-16W-2720lm-4000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1200 16W-865",
+        "note": "Product code: 802003034600; Title: T8 Tube Performer G2 Ø26mm-16W-2720lm-6500K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1500-18W-830",
+        "note": "Product code: 802003020900; Title: T8 Tube Performer G2 Ø26mm-18W-3100lm-3000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1500-18W-840",
+        "note": "Product code: 802003021000; Title: T8 Tube Performer G2 Ø26mm-18W-3100lm-4000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1500-18W-865",
+        "note": "Product code: 802003021100; Title: T8 Tube Performer G2 Ø26mm-18W-3100lm-6500K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1500 22W-830",
+        "note": "Product code: 802003034200; Title: T8 Tube Performer G2 Ø26mm-22W-3520lm-3000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1500 22W-840",
+        "note": "Product code: 802003034500; Title: T8 Tube Performer G2 Ø26mm-22W-3740lm-4000K"
+      },
+      {
+        "model": "LEDTubeT8-EMB-P2 L1500 22W-865",
+        "note": "Product code: 802003034400; Title: T8 Tube Performer G2 Ø26mm-22W-3740lm-6500K"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/lamps/tubes/t8-tube-performer-g2",
+    "_meta": {
+      "feed": "lamps-tubes-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/lamps/tubes/t8-tube-performer-g2",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_T8_Tube_P2.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-t8-tube-performer-g2.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "opple-batten-ecomax",
+    "sub": "tubes-battens",
+    "name": "LED Batten EcoMax",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "An easy-to-mount batten family with efficacy up to 150 lm/W and a built-in CCT switch to choose between 3000K and 4000K.",
+    "specs": [
+      "Comfortable and easy mounting batten family",
+      "High Efficacy up to 150lm/W",
+      "Integrated CCT switch for color selection (3000K-4000K)",
+      "EM1 and DALI are available for the family",
+      "Central or side power connection",
+      "DALI2 driver compatible with 230V push dimming"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-batten-ecomax.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "38–48 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3/4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2850–7200 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "8"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDBatten-E L12-19/38W-830/840",
+    "variants": [
+      {
+        "model": "LEDBatten-E L12-19/38W-830/840",
+        "note": "Product code: 531000019900; Title: Batten EcoMax 1128mm-38W-2850/5700lm-3/4000K"
+      },
+      {
+        "model": "LEDBatten-E L15-24/48W-830/840",
+        "note": "Product code: 531000020000; Title: Batten EcoMax 1410mm-48W-3600/7200lm-3/4000K"
+      },
+      {
+        "model": "LEDBatten-E L12-19/38W-DALI-830/840",
+        "note": "Product code: 531000020300; Title: Batten EcoMax 1128mm-38W-2850/5700lm-3/4000K-DALI"
+      },
+      {
+        "model": "LEDBatten-E L15-24/48W-DALI-830/840",
+        "note": "Product code: 531000020500; Title: Batten EcoMax 1410mm-48W-3600/7200lm-3/4000K-DALI"
+      },
+      {
+        "model": "LEDBatten-E L12-19/38W-830/840-EM1",
+        "note": "Product code: 531000020100; Title: Batten EcoMax 1128mm-38W-2850/5700lm-3/4000K-Emergency 1h"
+      },
+      {
+        "model": "LEDBatten-E L15-24/48W-830/840-EM1",
+        "note": "Product code: 531000020200; Title: Batten EcoMax 1410mm-48W-3600/7200lm-3/4000K-Emergency 1h"
+      },
+      {
+        "model": "LEDBatten-E L12-19/38W-DALI-830/840-EM1",
+        "note": "Product code: 531000020400; Title: Batten EcoMax 1128mm-38W-2850/5700lm-3/4000K-DALI-Emergency 1h"
+      },
+      {
+        "model": "LEDBatten-E L15-24/48W-DALI-830/840-EM1",
+        "note": "Product code: 531000020600; Title: Batten EcoMax 1410mm-48W-3600/7200lm-3/4000K-DALI-Emergency 1h"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/linear-luminaires/batten-ecomax",
+    "_meta": {
+      "feed": "lamps-tubes-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/linear-luminaires/batten-ecomax",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_Bat_IP20.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-batten-ecomax.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "opple-t5-batten-ecomax",
+    "sub": "tubes-battens",
+    "name": "LED T5 Batten EcoMax",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "Linear LED batten giving even, diffused light. Battens can be linked in runs of up to 15 metres.",
+    "specs": [
+      "Linear LED batten",
+      "Uniform, diffused light, creating a pleasant atmosphere",
+      "Battens connect up to 15 meters",
+      "With transparant end caps",
+      "Free to position stainless steel mounting clips"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-t5-batten-ecomax.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "9–18 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K, 4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "900–1950 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "4"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LED E T5 batten 600 9W 3000K CT",
+    "variants": [
+      {
+        "model": "LED E T5 batten 600 9W 3000K CT",
+        "note": "Product code: 140043898; Title: T5 Batten EcoMax 600mm-9W-900lm-3000K"
+      },
+      {
+        "model": "LED E T5 batten 600 9W 4000K CT",
+        "note": "Product code: 140043899; Title: T5 Batten EcoMax 600mm-9W-950lm-4000K"
+      },
+      {
+        "model": "LED E T5 batten 1200 18W 3000K CT",
+        "note": "Product code: 140043900; Title: T5 Batten EcoMax 1200mm-18W-1850lm-3000K"
+      },
+      {
+        "model": "LED E T5 batten 1200 18W 4000K CT",
+        "note": "Product code: 140043901; Title: T5 Batten EcoMax 1200mm-18W-1950lm-4000K"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/linear-luminaires/t5-batten-ecomax",
+    "_meta": {
+      "feed": "lamps-tubes-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/linear-luminaires/t5-batten-ecomax",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_E_T5.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-t5-batten-ecomax.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "opple-t5-batten-s-with-switch",
+    "sub": "tubes-battens",
+    "name": "LED T5 Batten S with Switch",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "Linear LED batten with its own power switch, giving even, diffused light. Offered in 300, 600, 900 and 1200 mm lengths.",
+    "specs": [
+      "Linear LED batten with power switch",
+      "Uniform, diffused light, creating a pleasant atmosphere",
+      "Available in 300, 600, 900 and 1200 mm",
+      "Battens connect up to 15 meters",
+      "Free to position stainless steel mounting clips"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-t5-batten-s-with-switch.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "4.5–13 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "3000K, 4000K"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "450–1400 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "8"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LED E T5 batten 300 4.5W S 3000K BL",
+    "variants": [
+      {
+        "model": "LED E T5 batten 300 4.5W S 3000K BL",
+        "note": "Product code: 140043904; Title: T5 Batten S with switch 300mm-4,5W-450lm-3000K"
+      },
+      {
+        "model": "LED E T5 batten 300 4.5W S 4000K BL",
+        "note": "Product code: 140044077; Title: T5 Batten S with switch 300mm-4,5W-500lm-4000K"
+      },
+      {
+        "model": "LED E T5 batten 600 9W S 3000K BL",
+        "note": "Product code: 140043903; Title: T5 Batten S with switch 600mm-9W-900lm-3000K"
+      },
+      {
+        "model": "LED E T5 batten 600 9W S 4000K BL",
+        "note": "Product code: 140044076; Title: T5 Batten S with switch 600mm-9W-950lm-4000K"
+      },
+      {
+        "model": "LED E T5 batten 900 11W S 3000K BL",
+        "note": "Product code: 140043902; Title: T5 Batten S with switch 900mm-11W-1100lm-3000K"
+      },
+      {
+        "model": "LED E T5 batten 900 11W S 4000K BL",
+        "note": "Product code: 140044075; Title: T5 Batten S with switch 900mm-11W-1200lm-4000K"
+      },
+      {
+        "model": "LED E T5 batten 1200 13W S 3000K BL",
+        "note": "Product code: 140044293; Title: T5 Batten S with switch 1200mm-13W-1300lm-3000K"
+      },
+      {
+        "model": "LED E T5 batten 1200 13W S 4000K BL",
+        "note": "Product code: 140044292; Title: T5 Batten S with switch 1200mm-13W-1400lm-4000K"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/linear-luminaires/t5-batten-s-with-switch",
+    "_meta": {
+      "feed": "lamps-tubes-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/linear-luminaires/t5-batten-s-with-switch",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_E_T5S.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-t5-batten-s-with-switch.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "opple-waterproof-batten",
+    "sub": "tubes-battens",
+    "name": "LED Waterproof Batten IP65",
+    "brand": "Opple",
+    "category": "Luminaires",
+    "use": "A slim, compact and cost-effective IP65 batten for damp areas, supplied with a 1 m cable and IP65 connector.",
+    "specs": [
+      "Cost effective IP65 Waterproof solution",
+      "Slim and compact design",
+      "1m cable with IP65-connector",
+      "Perfect light uniformity"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-waterproof-batten.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "18–50 W"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2000–5500 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "3"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDWaterproof-Batten L06-18W-840",
+    "variants": [
+      {
+        "model": "LEDWaterproof-Batten L06-18W-840",
+        "note": "Product code: 531000022800; Title: Waterproof Batten 598mm-18W-2000lm-4000K-IP65"
+      },
+      {
+        "model": "LEDWaterproof-Batten L12-36W-840",
+        "note": "Product code: 531000022900; Title: Waterproof Batten 1198mm-36W-4000lm-4000K-IP65"
+      },
+      {
+        "model": "LEDWaterproof-Batten L15-50W-840",
+        "note": "Product code: 531000023000; Title: Waterproof Batten 1498mm-50W-5500lm-4000K-IP65"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/waterproof-luminaires/waterproof-batten",
+    "_meta": {
+      "feed": "lamps-tubes-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/waterproof-luminaires/waterproof-batten",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_WP_Bat_E.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-waterproof-batten.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-ambiance-enrave-pendant-4116231p6",
+    "sub": "pendants",
+    "name": "Hue White Ambiance Enrave pendant",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Enrave pendant from the Philips Hue White Ambiance range. The soft upward glow and powerful downward light of the Enrave pendant ceiling light in white makes it ideal for dining areas. Use its warm-to-cool white light for any task, such as helping with homework or setting the mood for dinner.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-ambiance-enrave-pendant-4116231p6.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "33.5 W"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class I – Earthed"
+      },
+      {
+        "label": "Battery",
+        "value": "CR2032"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "4,300 lm"
+      },
+      {
+        "label": "Light colour",
+        "value": "Tunable white light"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "3,300 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "4116231P6",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-enrave-pendant/4116231P6",
+    "_meta": {
+      "feed": "pendants-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-enrave-pendant/4116231P6"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-4116231p6.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-and-colour-ambiance-ensis-pendant-light-8719514343368",
+    "sub": "pendants",
+    "name": "Hue White and Colour Ambiance Ensis pendant light",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Ensis pendant light from the Philips Hue White and Colour Ambiance range. The Ensis pendant's slim design up and down lights make it easy to combine functional and ambient light. Works as a standalone light or as part of your smart lighting system with the Hue Bridge.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-and-colour-ambiance-ensis-pendant-light-8719514343368.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "79 W"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class I – Earthed"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "5,500 lm"
+      },
+      {
+        "label": "Light colour",
+        "value": "Coloured and white light (RGBW)"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "4,750 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White and Colour Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514343368",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-ensis-pendant-light/8719514343368",
+    "_meta": {
+      "feed": "pendants-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-ensis-pendant-light/8719514343368"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514343368.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:40+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-and-colour-ambiance-flourish-pendant-light-8719514343528",
+    "sub": "pendants",
+    "name": "Hue White and Colour Ambiance Flourish pendant light",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Flourish pendant light from the Philips Hue White and Colour Ambiance range. Get powerful light for any occasion with the Flourish pendant, which allows you to set warm-to-cool and coloured light. Works as a standalone light or as part of your smart lighting system with the Hue Bridge.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-and-colour-ambiance-flourish-pendant-light-8719514343528.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "39.5 W"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class I – Earthed"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "2,750 lm"
+      },
+      {
+        "label": "Light colour",
+        "value": "Coloured and white light (RGBW)"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "2,550 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White and Colour Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514343528",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-flourish-pendant-light/8719514343528",
+    "_meta": {
+      "feed": "pendants-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-flourish-pendant-light/8719514343528"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514343528.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-ambiance-explore-pendant-8718696176191",
+    "sub": "pendants",
+    "name": "Hue White Ambiance Explore pendant",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Explore pendant from the Philips Hue White Ambiance range. Connect the Philips Hue White Ambiance Explore suspension light to your Philips Hue system and enjoy natural white light that helps you to wake up, energise, concentrate, read and relax. Designed to direct the light where you need it most.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-ambiance-explore-pendant-8718696176191.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "6W"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class I – Earthed"
+      },
+      {
+        "label": "Battery",
+        "value": "CR2032"
+      },
+      {
+        "label": "Light colour",
+        "value": "Tunable white light"
+      },
+      {
+        "label": "Cap",
+        "value": "E27"
+      },
+      {
+        "label": "Max replacement bulb w",
+        "value": "9.5 W"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "570 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8718696176191",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-explore-pendant/8718696176191",
+    "_meta": {
+      "feed": "pendants-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-explore-pendant/8718696176191"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8718696176191.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-surimu-round-panel-8721103044594",
+    "sub": "panels-ceiling",
+    "name": "Hue Surimu Round Panel",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Surimu Round Panel from the Philips Hue  range. Perfectly even, powerful light. This round LED panel offers millions of shades of white and colour light in a sleek white aluminium frame. Its semi flush-mount design provides depth, and its simplicity makes it a sophisticated choice for any room.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-surimu-round-panel-8721103044594.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "40 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "220–240 V"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class II – Double Insulated"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "2,850 lm"
+      },
+      {
+        "label": "Light colour",
+        "value": "Coloured and white light (RGBW)"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8721103044594",
+    "source": "https://www.philips-hue.com/en-gb/p/ceiling-light-surimu-round-panel/8721103044594",
+    "_meta": {
+      "feed": "pendants-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/ceiling-light-surimu-round-panel/8721103044594"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8721103044594.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-white-ambiance-being-ceiling-light-8719514341111",
+    "sub": "panels-ceiling",
+    "name": "Hue White Ambiance Being ceiling light",
+    "brand": "Philips",
+    "category": "Luminaires",
+    "use": "Being ceiling light from the Philips Hue White Ambiance range. Enjoy a subtle glow with the Philips Hue White Ambiance Being ceiling light in silver.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/philips-hue-white-ambiance-being-ceiling-light-8719514341111.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "22.5W"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class I – Earthed"
+      },
+      {
+        "label": "Battery",
+        "value": "CR2032"
+      },
+      {
+        "label": "Lumens 4000k",
+        "value": "2,500 lm"
+      },
+      {
+        "label": "Light colour",
+        "value": "Tunable white light"
+      },
+      {
+        "label": "Lumens 2700k",
+        "value": "2,350 lm"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      },
+      {
+        "label": "Range",
+        "value": "Hue White Ambiance"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514341111",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-being-ceiling-light/8719514341111",
+    "_meta": {
+      "feed": "pendants-philips-hue",
+      "brand_group": "lighting",
+      "feed_brand": "Philips",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-white-ambiance-being-ceiling-light/8719514341111"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514341111.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-profile-corner-18x18-al",
+    "sub": "linear-profiles",
+    "name": "LED Strip Aluminium Profile Corner-mounted 18x18 mm, Aluminium",
+    "brand": "Opple",
+    "category": "Aluminum profiles",
+    "use": "A 2 m corner-mounted aluminium LED strip profile, 18 × 18 mm. Supplied with a click-on polycarbonate cover, 2 mounting clips, a profile-to-profile connector and an end cap with a cable entry.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-profile-corner-18x18-al.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Aluminium"
+      },
+      {
+        "label": "Mounting",
+        "value": "Corner-mounted"
+      },
+      {
+        "label": "Product code",
+        "value": "806098002600"
+      },
+      {
+        "label": "Cross section",
+        "value": "18 x 18 mm"
+      },
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Contents",
+        "value": "2m 18mm x 18mm aluminium profile for corners, with click on polycarbonate cover, 2 mounting clips, profile-to-profile connector, and end cap with wiring possibility"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip Profile-Corner-18x18-AL",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-corner-18x18-al",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-corner-18x18-al",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/806098002600_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official accessory page and product sheet.",
+      "original_images": [
+        "opple-806098002600.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-profile-rc-10x10-al",
+    "sub": "linear-profiles",
+    "name": "LED Strip Aluminium Profile Recessed 10x10 mm, Aluminium",
+    "brand": "Opple",
+    "category": "Aluminum profiles",
+    "use": "A 2 m recessed aluminium LED strip profile, 10 × 10 mm. Supplied with a click-on polycarbonate cover, 2 mounting clips, a profile-to-profile connector and an end cap with a cable entry.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-profile-rc-10x10-al.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Aluminium"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      },
+      {
+        "label": "Product code",
+        "value": "806098002400"
+      },
+      {
+        "label": "Cross section",
+        "value": "10 x 10 mm"
+      },
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Contents",
+        "value": "2m 10mm x 10mm recessed, aluminium profile, with click on polycarbonate cover, 2 mounting clips, profile-to-profile connector, and end cap with wiring possibility"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip Profile-RC-10x10-AL",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-rc-10x10-al",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-rc-10x10-al",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/806098002400_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official accessory page and product sheet.",
+      "original_images": [
+        "opple-806098002400.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-profile-rc-15x15-al",
+    "sub": "linear-profiles",
+    "name": "LED Strip Aluminium Profile Recessed 15x15 mm, Aluminium",
+    "brand": "Opple",
+    "category": "Aluminum profiles",
+    "use": "A 2 m recessed aluminium LED strip profile, 15 × 15 mm. Supplied with a click-on polycarbonate cover, 2 mounting clips, a profile-to-profile connector and an end cap with a cable entry.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-profile-rc-15x15-al.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Aluminium"
+      },
+      {
+        "label": "Mounting",
+        "value": "Recessed"
+      },
+      {
+        "label": "Product code",
+        "value": "806098002500"
+      },
+      {
+        "label": "Cross section",
+        "value": "15 x 15 mm"
+      },
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Contents",
+        "value": "2m 15mm x 15mm recessed, aluminium profile, with click on polycarbonate cover, 2 mounting clips, profile-to-profile connector, and end cap with wiring possibility"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip Profile-RC-15x15-AL",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-rc-15x15-al",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-rc-15x15-al",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/806098002500_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official accessory page and product sheet.",
+      "original_images": [
+        "opple-806098002500.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-profile-sf-10x10-al",
+    "sub": "linear-profiles",
+    "name": "LED Strip Aluminium Profile Surface-mounted 10x10 mm, Aluminium",
+    "brand": "Opple",
+    "category": "Aluminum profiles",
+    "use": "A 2 m surface-mounted aluminium LED strip profile, 10 × 10 mm. Supplied with a click-on polycarbonate cover, 2 mounting clips, a profile-to-profile connector and an end cap with a cable entry.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-profile-sf-10x10-al.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Aluminium"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface-mounted"
+      },
+      {
+        "label": "Product code",
+        "value": "806098001800"
+      },
+      {
+        "label": "Cross section",
+        "value": "10 x 10 mm"
+      },
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Contents",
+        "value": "2m 10mm x 10mm aluminium profile, with click on polycarbonate cover, 2 mounting clips, profile-to-profile connector, and end cap with wiring possibility"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip Profile-SF-10x10-AL",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-10x10-al",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-10x10-al",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/806098001800_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official accessory page and product sheet.",
+      "original_images": [
+        "opple-806098001800.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-profile-sf-10x10-bl",
+    "sub": "linear-profiles",
+    "name": "LED Strip Aluminium Profile Surface-mounted 10x10 mm, Black",
+    "brand": "Opple",
+    "category": "Aluminum profiles",
+    "use": "A 2 m surface-mounted black aluminium LED strip profile, 10 × 10 mm. Supplied with a click-on polycarbonate cover, 2 mounting clips, a profile-to-profile connector and an end cap with a cable entry.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-profile-sf-10x10-bl.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Black anodised aluminium"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface-mounted"
+      },
+      {
+        "label": "Product code",
+        "value": "806098001900"
+      },
+      {
+        "label": "Cross section",
+        "value": "10 x 10 mm"
+      },
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Contents",
+        "value": "2m 10mm x 10mm black aluminium profile, with click on polycarbonate cover, 2 mounting clips, profile-to-profile connector, and end cap with wiring possibility"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip Profile-SF-10x10-BL",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-10x10-bl",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-10x10-bl",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/806098001900_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official accessory page and product sheet.",
+      "original_images": [
+        "opple-806098001900.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-profile-sf-15x15-al",
+    "sub": "linear-profiles",
+    "name": "LED Strip Aluminium Profile Surface-mounted 15x15 mm, Aluminium",
+    "brand": "Opple",
+    "category": "Aluminum profiles",
+    "use": "A 2 m surface-mounted aluminium LED strip profile, 15 × 15 mm. Supplied with a click-on polycarbonate cover, 2 mounting clips, a profile-to-profile connector and an end cap with a cable entry.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-profile-sf-15x15-al.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Aluminium"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface-mounted"
+      },
+      {
+        "label": "Product code",
+        "value": "806098002000"
+      },
+      {
+        "label": "Cross section",
+        "value": "15 x 15 mm"
+      },
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Contents",
+        "value": "2m 15mm x 15mm aluminium profile, with click on polycarbonate cover, 2 mounting clips, profile-to-profile connector, and end cap with wiring possibility"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip Profile-SF-15x15-AL",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-15x15-al",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-15x15-al",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/806098002000_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official accessory page and product sheet.",
+      "original_images": [
+        "opple-806098002000.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-profile-sf-15x15-bl",
+    "sub": "linear-profiles",
+    "name": "LED Strip Aluminium Profile Surface-mounted 15x15 mm, Black",
+    "brand": "Opple",
+    "category": "Aluminum profiles",
+    "use": "A 2 m surface-mounted black aluminium LED strip profile, 15 × 15 mm. Supplied with a click-on polycarbonate cover, 2 mounting clips, a profile-to-profile connector and an end cap with a cable entry.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-profile-sf-15x15-bl.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Black anodised aluminium"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface-mounted"
+      },
+      {
+        "label": "Product code",
+        "value": "806098002100"
+      },
+      {
+        "label": "Cross section",
+        "value": "15 x 15 mm"
+      },
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Contents",
+        "value": "2m 15mm x 15mm black aluminium profile, with click on polycarbonate cover, 2 mounting clips, profile-to-profile connector, and end cap with wiring possibility"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip Profile-SF-15x15-BL",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-15x15-bl",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-15x15-bl",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/806098002100_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official accessory page and product sheet.",
+      "original_images": [
+        "opple-806098002100.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-profile-sf-17x7-al",
+    "sub": "linear-profiles",
+    "name": "LED Strip Aluminium Profile Surface-mounted 17x7 mm, Aluminium",
+    "brand": "Opple",
+    "category": "Aluminum profiles",
+    "use": "A 2 m surface-mounted aluminium LED strip profile, 17 × 7 mm. Supplied with a click-on polycarbonate cover, 2 mounting clips, a profile-to-profile connector and an end cap with a cable entry.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-profile-sf-17x7-al.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Aluminium"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface-mounted"
+      },
+      {
+        "label": "Product code",
+        "value": "806098002200"
+      },
+      {
+        "label": "Cross section",
+        "value": "17 x 7 mm"
+      },
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Contents",
+        "value": "2m 17mm x 7mm aluminium profile, with click on polycarbonate cover, 2 mounting clips, profile-to-profile connector, and end cap with wiring possibility"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip Profile-SF-17x7-AL",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-17x7-al",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-17x7-al",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/806098002200_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official accessory page and product sheet.",
+      "original_images": [
+        "opple-806098002200.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-profile-sf-17x7-bl",
+    "sub": "linear-profiles",
+    "name": "LED Strip Aluminium Profile Surface-mounted 17x7 mm, Black",
+    "brand": "Opple",
+    "category": "Aluminum profiles",
+    "use": "A 2 m surface-mounted black aluminium LED strip profile, 17 × 7 mm. Supplied with a click-on polycarbonate cover, 2 mounting clips, a profile-to-profile connector and an end cap with a cable entry.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-profile-sf-17x7-bl.webp",
+    "specRows": [
+      {
+        "label": "Material",
+        "value": "Black anodised aluminium"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface-mounted"
+      },
+      {
+        "label": "Product code",
+        "value": "806098002300"
+      },
+      {
+        "label": "Cross section",
+        "value": "17 x 7 mm"
+      },
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Contents",
+        "value": "2m 17mm x 7mm black aluminium profile, with click on polycarbonate cover, 2 mounting clips, profile-to-profile connector, and end cap with wiring possibility"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip Profile-SF-17x7-BL",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-17x7-bl",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-profile-sf-17x7-bl",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/806098002300_ProductSheet_en.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official accessory page and product sheet.",
+      "original_images": [
+        "opple-806098002300.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-rgbw-tw-ble2-controller",
+    "sub": "accessories",
+    "name": "LED Strip RGBW / Tunable White Bluetooth Controller",
+    "brand": "Opple",
+    "category": "Accessories",
+    "use": "A Bluetooth Low Energy Mesh (BLE2) controller for OPPLE 24V IP20 RGBW, tunable-white and dimmable strips. It handles 5-channel strips for wireless dimming, colour changes and scenes.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/opple-led-strip-rgbw-tw-ble2-controller.webp",
+    "specRows": [
+      {
+        "label": "Product code",
+        "value": "822010000700"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth Low Energy Mesh (BLE2)"
+      },
+      {
+        "label": "Compatible",
+        "value": "OPPLE LED Strip RGBW / TW / DIM"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip RGBW/TW/DIM-BLE2-Controller",
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-rgbwtwdim-ble2-controller",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "smart-controls",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/ledstrip-rgbwtwdim-ble2-controller",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/822010000700_ProductSheet_en.pdf"
+      ],
+      "source_note": null,
+      "original_images": [
+        "opple-822010000700.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-driver-24v-onoff",
+    "sub": "drivers-power",
+    "name": "LED Strip Driver 24V, On/Off, IP20",
+    "brand": "Opple",
+    "category": "Drivers & control",
+    "use": "A 24V constant-voltage power supply for OPPLE LED strips (On/off constant-voltage, IP20). Available in 36, 60, 120, 160, 240 W versions to suit the length of the strip run.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/opple-led-strip-driver-24v-onoff.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Output voltage",
+        "value": "24V DC"
+      },
+      {
+        "label": "Control",
+        "value": "On/off constant-voltage"
+      },
+      {
+        "label": "Power options",
+        "value": "36 W / 60 W / 120 W / 160 W / 240 W"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDDriver 24V-36W",
+    "variants": [
+      {
+        "model": "LEDDriver 24V-36W",
+        "note": "Product code: 820009007900"
+      },
+      {
+        "model": "LEDDriver 24V-60W",
+        "note": "Product code: 820009008000"
+      },
+      {
+        "model": "LEDDriver 24V-120W",
+        "note": "Product code: 820009008100"
+      },
+      {
+        "model": "LEDDriver 24V-160W",
+        "note": "Product code: 820009008200"
+      },
+      {
+        "model": "LEDDriver 24V-240W",
+        "note": "Product code: 820009008300"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-36w",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "smart-controls",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-36w",
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-60w",
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-120w",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/820009007900_ProductSheet_en.pdf"
+      ],
+      "source_note": null,
+      "original_images": [
+        "opple-820009007900.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-driver-24v-10vpwm-ip67",
+    "sub": "drivers-power",
+    "name": "LED Strip Driver 24V, 1-10V / PWM, IP67",
+    "brand": "Opple",
+    "category": "Drivers & control",
+    "use": "A 24V constant-voltage power supply for OPPLE LED strips (1-10V, PWM dimming, IP67). Available in 75, 150, 240 W versions to suit the length of the strip run.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/opple-led-strip-driver-24v-10vpwm-ip67.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Output voltage",
+        "value": "24V DC"
+      },
+      {
+        "label": "Control",
+        "value": "1-10V, PWM dimming"
+      },
+      {
+        "label": "Power options",
+        "value": "75 W / 150 W / 240 W"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDDriver 24V-75W-10V/PWM-IP67",
+    "variants": [
+      {
+        "model": "LEDDriver 24V-75W-10V/PWM-IP67",
+        "note": "Product code: 820003003900"
+      },
+      {
+        "model": "LEDDriver 24V-150W-10V/PWM-IP67",
+        "note": "Product code: 820003004000"
+      },
+      {
+        "model": "LEDDriver 24V-240W-10V/PWM-IP67",
+        "note": "Product code: 820003004100"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-75w-10vpwm-ip67",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "smart-controls",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-75w-10vpwm-ip67",
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-150w-10vpwm-ip67",
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-240w-10vpwm-ip67",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/820003003900_ProductSheet_en.pdf"
+      ],
+      "source_note": null,
+      "original_images": [
+        "opple-820003003900.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-driver-24v-dali-ip67",
+    "sub": "drivers-power",
+    "name": "LED Strip Driver 24V, DALI-2, IP67",
+    "brand": "Opple",
+    "category": "Drivers & control",
+    "use": "A 24V constant-voltage power supply for OPPLE LED strips (DALI-2 dimming, IP67). Available in 75, 150, 240 W versions to suit the length of the strip run.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/opple-led-strip-driver-24v-dali-ip67.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Output voltage",
+        "value": "24V DC"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2 dimming"
+      },
+      {
+        "label": "Power options",
+        "value": "75 W / 150 W / 240 W"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDDriver 24V-75W-DALI-IP67",
+    "variants": [
+      {
+        "model": "LEDDriver 24V-75W-DALI-IP67",
+        "note": "Product code: 820002006500"
+      },
+      {
+        "model": "LEDDriver 24V-150W-DALI-IP67",
+        "note": "Product code: 820002006600"
+      },
+      {
+        "model": "LEDDriver 24V-240W-DALI-IP67",
+        "note": "Product code: 820002006700"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-75w-dali-ip67",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "smart-controls",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-75w-dali-ip67",
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-150w-dali-ip67",
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-240w-dali-ip67",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/820002006500_ProductSheet_en.pdf"
+      ],
+      "source_note": null,
+      "original_images": [
+        "opple-820002006500.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-driver-24v-dali10vpwm",
+    "sub": "drivers-power",
+    "name": "LED Strip Driver 24V, DALI-2 / 1-10V / PWM, IP20",
+    "brand": "Opple",
+    "category": "Drivers & control",
+    "use": "A 24V constant-voltage power supply for OPPLE LED strips (DALI-2, 1-10V, PWM dimming, IP20). Available in 40, 75, 150, 240 W versions to suit the length of the strip run.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/opple-led-strip-driver-24v-dali10vpwm.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Output voltage",
+        "value": "24V DC"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, 1-10V, PWM dimming"
+      },
+      {
+        "label": "Power options",
+        "value": "40 W / 75 W / 150 W / 240 W"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDDriver 24V-40W-DALI/10V/PWM",
+    "variants": [
+      {
+        "model": "LEDDriver 24V-40W-DALI/10V/PWM",
+        "note": "Product code: 820002006100"
+      },
+      {
+        "model": "LEDDriver 24V-75W-DALI/10V/PWM",
+        "note": "Product code: 820002006200"
+      },
+      {
+        "model": "LEDDriver 24V-150W-DALI/10V/PWM",
+        "note": "Product code: 820002006300"
+      },
+      {
+        "model": "LEDDriver 24V-240W-DALI/10V/PWM",
+        "note": "Product code: 820002006400"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-40w-dali10vpwm",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "smart-controls",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-40w-dali10vpwm",
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-75w-dali10vpwm",
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-150w-dali10vpwm",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/820002006100_ProductSheet_en.pdf"
+      ],
+      "source_note": null,
+      "original_images": [
+        "opple-820002006100.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-driver-24v-ble2",
+    "sub": "drivers-power",
+    "name": "LED Strip Driver 24V, Bluetooth Tunable White",
+    "brand": "Opple",
+    "category": "Drivers & control",
+    "use": "A 24V constant-voltage power supply for OPPLE LED strips (Bluetooth (BLE2) tunable white, IP20). Available in 80, 200 W versions to suit the length of the strip run.",
+    "specs": [],
+    "tone": "soft",
+    "image": "/products/feed/smart-controls/opple-led-strip-driver-24v-ble2.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Output voltage",
+        "value": "24V DC"
+      },
+      {
+        "label": "Control",
+        "value": "Bluetooth (BLE2) tunable white"
+      },
+      {
+        "label": "Power options",
+        "value": "80 W / 200 W"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDDriver 24V-80W-BLE2-TW",
+    "variants": [
+      {
+        "model": "LEDDriver 24V-80W-BLE2-TW",
+        "note": "Product code: 826001000300"
+      },
+      {
+        "model": "LEDDriver 24V-200W-BLE2-TW",
+        "note": "Product code: 820004013700"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-80w-ble2-tw",
+    "_meta": {
+      "feed": "profiles-drivers-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "smart-controls",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-80w-ble2-tw",
+        "https://www.opple.eu/en/product/indoor/accessories/accessories/leddriver-24v-200w-ble2-tw",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/826001000300_ProductSheet_en.pdf"
+      ],
+      "source_note": null,
+      "original_images": [
+        "opple-826001000300.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:41+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-smart-plug-8719514342323",
+    "sub": "smart-home",
+    "name": "Hue Smart plug",
+    "brand": "Philips",
+    "category": "Electrical package",
+    "use": "Smart plug from the Philips Hue smart lighting system. This small, unassuming accessory allows you to turn any light – even one in which you can’t place a Hue bulb – into a smart light so that you can control it via the Hue app or voice.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/philips-hue-smart-plug-8719514342323.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "220–240 V"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Lifetime",
+        "value": "10000 clicks"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class II – Double Insulated"
+      },
+      {
+        "label": "Frequency band",
+        "value": "2402 - 2483.5 MHz"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514342323",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-smart-plug/8719514342323",
+    "_meta": {
+      "feed": "smart-philips-hue",
+      "brand_group": "electrical",
+      "feed_brand": "Philips",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-smart-plug/8719514342323"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514342323.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-dimmer-switch-latest-model-8719514274617",
+    "sub": "smart-home",
+    "name": "Hue Dimmer Switch (latest model)",
+    "brand": "Philips",
+    "category": "Electrical package",
+    "use": "Dimmer Switch (latest model) from the Philips Hue smart lighting system. Dim or brighten the room, toggle light scenes or get the best light based on the time of day. The Hue dimmer switch attaches to walls or magnetic surfaces, but can also be used as a remote control anywhere in your home.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/philips-hue-dimmer-switch-latest-model-8719514274617.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Lifetime",
+        "value": "50.000 clicks"
+      },
+      {
+        "label": "Battery",
+        "value": "CR2032"
+      },
+      {
+        "label": "Configurable buttons",
+        "value": "2"
+      },
+      {
+        "label": "Frequency band",
+        "value": "2400 - 2483.5 MHz"
+      },
+      {
+        "label": "Max lights",
+        "value": "50 (with Hue Bridge)"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514274617",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-dimmer-switch-latest-model/8719514274617",
+    "_meta": {
+      "feed": "smart-philips-hue",
+      "brand_group": "electrical",
+      "feed_brand": "Philips",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-dimmer-switch-latest-model/8719514274617"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514274617.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-tap-dial-switch-8719514440937",
+    "sub": "smart-home",
+    "name": "Hue Tap dial switch",
+    "brand": "Philips",
+    "category": "Electrical package",
+    "use": "Tap dial switch from the Philips Hue smart lighting system. Control up to three Rooms or a Zone with each individual button of the Tap dial switch, available in black or white. Turn the dial to dim and brighten the lights. Mount it to the wall, place it on a magnetic surface, or use it as a remote control.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/philips-hue-tap-dial-switch-8719514440937.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Lifetime",
+        "value": "50.000 clicks / 12.000 turns"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class III – Safe Extra Low Voltage"
+      },
+      {
+        "label": "Battery",
+        "value": "CR2032"
+      },
+      {
+        "label": "Configurable buttons",
+        "value": "5"
+      },
+      {
+        "label": "Frequency band",
+        "value": "2400 - 2483.5 MHz"
+      },
+      {
+        "label": "Max lights",
+        "value": "50 (with Hue Bridge)"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514440937",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-tap-dial-switch/8719514440937",
+    "_meta": {
+      "feed": "smart-philips-hue",
+      "brand_group": "electrical",
+      "feed_brand": "Philips",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-tap-dial-switch/8719514440937"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514440937.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-smart-button-8719514342668",
+    "sub": "smart-home",
+    "name": "Hue Smart button",
+    "brand": "Philips",
+    "category": "Electrical package",
+    "use": "Smart button from the Philips Hue smart lighting system. This little button makes a big impact. A single click controls your lights, while pressing and holding the button dims or brightens them. Better yet: your lights will turn on to our recommended colour and brightness based on the time of day.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/philips-hue-smart-button-8719514342668.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Lifetime",
+        "value": "50000 clicks"
+      },
+      {
+        "label": "Battery",
+        "value": "CR2032"
+      },
+      {
+        "label": "Diameter",
+        "value": "32 mm"
+      },
+      {
+        "label": "Configurable buttons",
+        "value": "1"
+      },
+      {
+        "label": "Frequency band",
+        "value": "2400 - 2483.5 MHz"
+      },
+      {
+        "label": "Max lights",
+        "value": "50 (with Hue Bridge)"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514342668",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-smart-button/8719514342668",
+    "_meta": {
+      "feed": "smart-philips-hue",
+      "brand_group": "electrical",
+      "feed_brand": "Philips",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-smart-button/8719514342668"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514342668.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-philips-hue-wall-switch-module-8719514318045",
+    "sub": "smart-home",
+    "name": "Hue wall switch module",
+    "brand": "Philips",
+    "category": "Electrical package",
+    "use": "Philips Hue wall switch module from the Philips Hue smart lighting system. Installed behind light switches, the Philips Hue wall switch module lets you use existing switches with your Philips Hue smart lights.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/philips-hue-philips-hue-wall-switch-module-8719514318045.webp",
+    "specRows": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class III – Safe Extra Low Voltage"
+      },
+      {
+        "label": "Battery",
+        "value": "CR2450"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514318045",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-philips-hue-wall-switch-module/8719514318045",
+    "_meta": {
+      "feed": "smart-philips-hue",
+      "brand_group": "electrical",
+      "feed_brand": "Philips",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-philips-hue-wall-switch-module/8719514318045"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514318045.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "philips-hue-bridge-8719514342583",
+    "sub": "smart-home",
+    "name": "Hue Bridge",
+    "brand": "Philips",
+    "category": "Electrical package",
+    "use": "Bridge from the Philips Hue smart lighting system. The Hue Bridge is the heart of your integrated, intuitive smart lighting and security system. With easy installation and guided setup in the Hue app, the Bridge connects your lights, cameras and sensors to work together in harmony.",
+    "specs": [],
+    "tone": "silver",
+    "image": "/products/feed/electrical/philips-hue-bridge-8719514342583.webp",
+    "specRows": [
+      {
+        "label": "Voltage",
+        "value": "100–240 V"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Protection class",
+        "value": "Class II – Double Insulated"
+      },
+      {
+        "label": "Frequency band",
+        "value": "2400-2483.5 MHz"
+      },
+      {
+        "label": "Max lights",
+        "value": "50"
+      },
+      {
+        "label": "Power adapter",
+        "value": "100–240 V AC / 50–60 Hz, Output voltage: 5 V DC 600 mA, Standby power: 0.1 W max"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth, Zigbee"
+      }
+    ],
+    "photoNote": "Official Philips Hue product photo, as published by the manufacturer. Datasheets on request.",
+    "brandLabel": "Philips Hue",
+    "model": "8719514342583",
+    "source": "https://www.philips-hue.com/en-gb/p/hue-bridge/8719514342583",
+    "_meta": {
+      "feed": "smart-philips-hue",
+      "brand_group": "electrical",
+      "feed_brand": "Philips",
+      "group": "electrical",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.philips-hue.com/en-gb/p/hue-bridge/8719514342583"
+      ],
+      "source_note": null,
+      "original_images": [
+        "hue-8719514342583.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-ip20",
+    "sub": "led-strips",
+    "name": "LED Strip 24V IP20",
+    "brand": "Opple",
+    "category": "LED strip lights",
+    "use": "Part of OPPLE's complete LED strip range, from 4.8 to 19.2 W/m with at least 120 LEDs per metre. Works with on/off, DALI, 1-10V and PWM drivers.",
+    "specs": [
+      "Complete LED Strip portfolio",
+      "Wide profile portfolio with different color options",
+      "Complete set of strip connectors for IP20 strip"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-ip20.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "4.8–19.2 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "24V"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700K, 3000K, 4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "528–2304 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, 1-10V, PWM"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "12"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip-E 4.8W-927-600-IP20",
+    "variants": [
+      {
+        "model": "LEDStrip-E 4.8W-927-600-IP20",
+        "note": "Product code: 806001007000; Title: LED Strip - IP20 5000mm-4,8W-528lm-2700K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 4.8W-930-600-IP20",
+        "note": "Product code: 806001007100; Title: LED Strip - IP20 5000mm-4,8W-528lm-3000K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 4.8W-940-600-IP20",
+        "note": "Product code: 806001007200; Title: LED Strip - IP20 5000mm-4,8W-576lm-4000K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 9.6W-927-1200-IP20",
+        "note": "Product code: 806001007600; Title: LED Strip - IP20 5000mm-9,6W-1104lm-2700K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 9.6W-930-1200-IP20",
+        "note": "Product code: 806001007700; Title: LED Strip - IP20 5000mm-9,6W-1104lm-3000K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 9.6W-940-1200-IP20",
+        "note": "Product code: 806001007800; Title: LED Strip - IP20 5000mm-9,6W-1200lm-4000K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 14.4W-927-1800-IP20",
+        "note": "Product code: 806001008200; Title: LED Strip - IP20 5000mm-14,4W-1584lm-2700K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 14.4W-930-1800-IP20",
+        "note": "Product code: 806001008300; Title: LED Strip - IP20 5000mm-14,4W-1584lm-3000K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 14.4W-940-1800-IP20",
+        "note": "Product code: 806001008400; Title: LED Strip - IP20 5000mm-14,4W-1728lm-4000K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 19.2W-927-2300-IP20",
+        "note": "Product code: 806001009000; Title: LED Strip - IP20 5000mm-19,2W-2112lm-2700K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 19.2W-930-2300-IP20",
+        "note": "Product code: 806001009100; Title: LED Strip - IP20 5000mm-19,2W-2112lm-3000K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 19.2W-940-2300-IP20",
+        "note": "Product code: 806001009200; Title: LED Strip - IP20 5000mm-19,2W-2304lm-4000K-DALI2/1-10V/PWM-IP20-CRI90"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/lamps/strips/led-strip-ip20",
+    "voltage": "24V",
+    "_meta": {
+      "feed": "strips-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/lamps/strips/led-strip-ip20",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_StripIP20.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-led-strip-ip20.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-ip20-chip-on-board-cob",
+    "sub": "led-strips",
+    "name": "LED Strip 24V IP20 COB",
+    "brand": "Opple",
+    "category": "LED strip lights",
+    "use": "Chip-on-board LED strip from OPPLE's complete strip range, for continuous, dot-free lines. Works with on/off, DALI, 1-10V and PWM drivers and a wide choice of profiles.",
+    "specs": [
+      "Complete LED Strip portfolio",
+      "Wide profile portfolio with different color options",
+      "Complete set of strip connectors for IP20 strip"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-ip20-chip-on-board-cob.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "12 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "24V"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700K, 3000K, 4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1320 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, 1-10V, PWM"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "3"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip-P 12W-927-1000-COB-IP20",
+    "variants": [
+      {
+        "model": "LEDStrip-P 12W-927-1000-COB-IP20",
+        "note": "Product code: 806002000100; Title: LED Strip - IP20 - COB 5000mm-12W-1320lm-2700K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-P 12W-930-1000-COB-IP20",
+        "note": "Product code: 806002000200; Title: LED Strip - IP20 - COB 5000mm-12W-1320lm-3000K-DALI2/1-10V/PWM-IP20-CRI90"
+      },
+      {
+        "model": "LEDStrip-P 12W-940-1000-COB-IP20",
+        "note": "Product code: 806002000300; Title: LED Strip - IP20 - COB 5000mm-12W-1320lm-4000K-DALI2/1-10V/PWM-IP20-CRI90"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/lamps/strips/led-strip-ip20-chip-on-board-cob",
+    "voltage": "24V",
+    "_meta": {
+      "feed": "strips-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/lamps/strips/led-strip-ip20-chip-on-board-cob",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_StripIP20COB.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-led-strip-ip20-chip-on-board-cob.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-ip20-rgbw",
+    "sub": "led-strips",
+    "name": "LED Strip 24V IP20 RGBW",
+    "brand": "Opple",
+    "category": "LED strip lights",
+    "use": "IP20 RGBW LED strip with CRI above 90, combining colour with a choice of warm 2700K or neutral 4000K white. Runs on standard 24V DC and comes on 5 m reels.",
+    "specs": [
+      "RF controller supports both RGBW and Tunable White dimming"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-ip20-rgbw.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "19.2 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "24V"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700K, 4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1000–1200 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "2"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip-P 19.2W-927-1000-RGBW-IP20",
+    "variants": [
+      {
+        "model": "LEDStrip-P 19.2W-927-1000-RGBW-IP20",
+        "note": "Product code: 806001022800; Title: LED Strip - IP20 - RGBW 5000mm-19,2W-1000lm-2700K-Bluetooth-CRI90"
+      },
+      {
+        "model": "LEDStrip-P 19.2W-940-1200-RGBW-IP20",
+        "note": "Product code: 806001022900; Title: LED Strip - IP20 - RGBW 5000mm-19,2W-1200lm-4000K-Bluetooth-CRI90"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/lamps/strips/led-strip-ip20-rgbw",
+    "voltage": "24V",
+    "_meta": {
+      "feed": "strips-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/lamps/strips/led-strip-ip20-rgbw",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_StripIP20RGBW.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-led-strip-ip20-rgbw.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-ip20-tunable-white",
+    "sub": "led-strips",
+    "name": "LED Strip 24V IP20 Tunable White",
+    "brand": "Opple",
+    "category": "LED strip lights",
+    "use": "Tunable-white LED strip from OPPLE's complete strip range, with several driver options and a wide choice of profiles.",
+    "specs": [
+      "Complete LED Strip portfolio",
+      "Multiple driver options available",
+      "Wide profile portfolio with different color options",
+      "Complete set of strip connectors for IP20 strip"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-ip20-tunable-white.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "12 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "24V"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700-6500K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1440 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "1"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip-P 12W-1000-TW-IP20",
+    "variants": [
+      {
+        "model": "LEDStrip-P 12W-1000-TW-IP20",
+        "note": "Product code: 806001008500; Title: LED Strip - IP20 - Tunable White 5000mm-12W-1440lm-2.7/6.5K-Bluetooth-IP20-CRI90"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/lamps/strips/led-strip-ip20-tunable-white",
+    "voltage": "24V",
+    "_meta": {
+      "feed": "strips-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/lamps/strips/led-strip-ip20-tunable-white",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_StripIP20TW.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-led-strip-ip20-tunable-white.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-ip67",
+    "sub": "led-strips",
+    "name": "LED Strip 24V IP67",
+    "brand": "Opple",
+    "category": "LED strip lights",
+    "use": "IP67 LED strip from OPPLE's complete range, from 4.8 to 14.4 W/m with at least 120 LEDs per metre. Works with on/off, DALI, 1-10V and PWM drivers.",
+    "specs": [
+      "Complete LED Strip portfolio",
+      "Wide profile portfolio with different color options",
+      "Mounting and silicone kit available as accessory"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-ip67.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "4.8–14.4 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "24V"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700K, 3000K, 4000K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "528–1728 lm"
+      },
+      {
+        "label": "Control",
+        "value": "DALI-2, 1-10V, PWM"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "9"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip-E 4.8W-927-600-IP67",
+    "variants": [
+      {
+        "model": "LEDStrip-E 4.8W-927-600-IP67",
+        "note": "Product code: 806001007300; Title: LED Strip - IP67 5000mm-4,8W-528lm-2700K-DALI2/1-10V/PWM-IP67-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 4.8W-930-600-IP67",
+        "note": "Product code: 806001007400; Title: LED Strip - IP67 5000mm-4,8W-528lm-3000K-DALI2/1-10V/PWM-IP67-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 4.8W-940-600-IP67",
+        "note": "Product code: 806001007500; Title: LED Strip - IP67 5000mm-4,8W-576lm-4000K-DALI2/1-10V/PWM-IP67-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 9.6W-927-1200-IP67",
+        "note": "Product code: 806001007900; Title: LED Strip - IP67 5000mm-9,6W-1104lm-2700K-DALI2/1-10V/PWM-IP67-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 9.6W-930-1200-IP67",
+        "note": "Product code: 806001008000; Title: LED Strip - IP67 5000mm-9,6W-1104lm-3000K-DALI2/1-10V/PWM-IP67-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 9.6W-940-1200-IP67",
+        "note": "Product code: 806001008100; Title: LED Strip - IP67 5000mm-9,6W-1200lm-4000K-DALI2/1-10V/PWM-IP67-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 14.4W-927-1800-IP67",
+        "note": "Product code: 806001008700; Title: LED Strip - IP67 5000mm-14,4W-1584lm-2700K-DALI2/1-10V/PWM-IP67-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 14.4W-930-1800-IP67",
+        "note": "Product code: 806001008800; Title: LED Strip - IP67 5000mm-14,4W-1584lm-3000K-DALI2/1-10V/PWM-IP67-CRI90"
+      },
+      {
+        "model": "LEDStrip-E 14.4W-940-1800-IP67",
+        "note": "Product code: 806001008900; Title: LED Strip - IP67 5000mm-14,4W-1728lm-4000K-DALI2/1-10V/PWM-IP67-CRI90"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/lamps/strips/led-strip-ip67",
+    "voltage": "24V",
+    "_meta": {
+      "feed": "strips-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/lamps/strips/led-strip-ip67",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_StripIP67.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-led-strip-ip67.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
+  },
+  {
+    "id": "opple-led-strip-ip67-tunable-white",
+    "sub": "led-strips",
+    "name": "LED Strip 24V IP67 Tunable White",
+    "brand": "Opple",
+    "category": "LED strip lights",
+    "use": "IP67 tunable-white LED strip from OPPLE's complete strip range, with several driver options and a wide choice of profiles.",
+    "specs": [
+      "Complete LED Strip portfolio",
+      "Multiple driver options available",
+      "Wide profile portfolio with different color options",
+      "Mounting and silicone kit available as accessory"
+    ],
+    "tone": "soft",
+    "image": "/products/feed/indoor/opple-led-strip-ip67-tunable-white.webp",
+    "specRows": [
+      {
+        "label": "Power",
+        "value": "12 W"
+      },
+      {
+        "label": "Voltage",
+        "value": "24V"
+      },
+      {
+        "label": "Colour temperature",
+        "value": "2700-6500K"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1440 lm"
+      },
+      {
+        "label": "Flicker",
+        "value": "Flicker-free"
+      },
+      {
+        "label": "Variants listed",
+        "value": "1"
+      }
+    ],
+    "photoNote": "Official Opple product photo, as published by the manufacturer. Datasheets on request.",
+    "model": "LEDStrip-P 12W-1000-TW-IP67",
+    "variants": [
+      {
+        "model": "LEDStrip-P 12W-1000-TW-IP67",
+        "note": "Product code: 806001008600; Title: LED Strip - IP67 - Tunable White 5000mm-12W-1440lm-2.7/6.5K-Bluetooth-IP67-CRI90"
+      }
+    ],
+    "source": "https://www.opple.eu/en/product/lamps/strips/led-strip-ip67-tunable-white",
+    "voltage": "24V",
+    "_meta": {
+      "feed": "strips-opple",
+      "brand_group": "lighting",
+      "feed_brand": "Opple",
+      "group": "indoor",
+      "source_type": "brand_site",
+      "source_urls": [
+        "https://www.opple.eu/en/product/lamps/strips/led-strip-ip67-tunable-white",
+        "https://asset.eezybridge.com/fceeb608-8fa7-479b-8875-01593cbea79c/Familysheet_en_StripIP67TW.pdf"
+      ],
+      "source_note": "OPPLE Lighting Europe official site (opple.eu); variant titles and codes from the product table; family sheet PDF linked where available.",
+      "original_images": [
+        "opple-led-strip-ip67-tunable-white.jpg"
+      ],
+      "ingested_at": "2026-10-12T22:11:43+04:00"
+    }
   }
 ]

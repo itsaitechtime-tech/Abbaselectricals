@@ -81,6 +81,8 @@ BRAND_MAP = {
     "signify dynalite": ("Philips", "Philips Dynalite"),
     "dynalite": ("Philips", "Philips Dynalite"),
     "philips dynalite": ("Philips", "Philips Dynalite"),
+    "philips hue": ("Philips", "Philips Hue"),
+    "hue": ("Philips", "Philips Hue"),
 }
 
 
